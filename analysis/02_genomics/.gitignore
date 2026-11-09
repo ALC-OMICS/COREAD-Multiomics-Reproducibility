@@ -1,0 +1,11 @@
+build/
+build-*/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+.env
+*.log
+downloads/raw_acicam/

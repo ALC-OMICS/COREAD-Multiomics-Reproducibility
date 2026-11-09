@@ -1,0 +1,100 @@
+FORMAT	COREAD_SOURCE_DATA	1
+FIGURE	5
+PANEL	A	Three tumours by four frozen sets; gene-denominator-adjusted set means	mean delta log2(CPM+1)	Absent panel genes excluded from set denominator
+TABLE	source_data/Figure_5/Figure_5A.csv	b91c503deb7de1e6cde892d766fd9dce8b7d952ea40d1614e5a2f6f75786a750	13
+HEADER	Sample	Set	N_evaluable	Tumor_minus_tissue_mean
+DATA	P1CRC	Core47	43	0.5257990696222029
+DATA	P1CRC	Spatial43	40	0.5390981903961196
+DATA	P1CRC	Convergent9	8	0.7092143105385937
+DATA	P1CRC	Extended13	12	0.6785239277789312
+DATA	P2CRC	Core47	43	1.1063060427414748
+DATA	P2CRC	Spatial43	40	1.133757331125093
+DATA	P2CRC	Convergent9	8	1.4856300503667303
+DATA	P2CRC	Extended13	12	1.398814344630006
+DATA	P5CRC	Core47	43	1.0869165724381098
+DATA	P5CRC	Spatial43	40	1.1138577382854469
+DATA	P5CRC	Convergent9	8	1.0168461401863762
+DATA	P5CRC	Extended13	12	1.0874776579971202
+END_TABLE
+END_PANEL
+PANEL	B	Three tumours by four frozen sets; mean spatial autocorrelation	mean Moran I	Absent panel genes excluded from set denominator
+TABLE	source_data/Figure_5/Figure_5B.csv	9bb449dab0ef7ebcaae3a7fd523ae3a0d7843332f382cdcf0715dfa2777b75fd	13
+HEADER	Sample	Set	N_evaluable	Moran_I_mean
+DATA	P1CRC	Core47	43	0.03975817974609572
+DATA	P1CRC	Spatial43	40	0.041147214138020326
+DATA	P1CRC	Convergent9	8	0.06136745806402191
+DATA	P1CRC	Extended13	12	0.05349739237414871
+DATA	P2CRC	Core47	43	0.08342226015799134
+DATA	P2CRC	Spatial43	40	0.08660796626460783
+DATA	P2CRC	Convergent9	8	0.13418096799620352
+DATA	P2CRC	Extended13	12	0.1165667406728615
+DATA	P5CRC	Core47	43	0.08047695734201767
+DATA	P5CRC	Spatial43	40	0.08349641462305461
+DATA	P5CRC	Convergent9	8	0.0879572282648784
+DATA	P5CRC	Extended13	12	0.08446435383339033
+END_TABLE
+END_PANEL
+PANEL	C	Convergent9 tumour-minus-remaining-tissue effects; 27 source rows	delta log2(CPM+1)	3 HMGB1 measurements unavailable; NA is not zero
+TABLE	source_data/Figure_5/Figure_5C.csv	e3d4f1192df64aebbad9a4aaf145d2f585a0cbed4f1eb1578b1e0fbdc48755b5	28
+HEADER	Sample	Gene	External_tumor_minus_tissue	Status
+DATA	P1CRC	MYC	1.7168106052046164	Complete gene-level external metrics
+DATA	P1CRC	BCL2L1	0.9166747692839304	Complete gene-level external metrics
+DATA	P1CRC	SOX9	0.4279296406523604	Complete gene-level external metrics
+DATA	P1CRC	IRS2	0.3486576712267259	Complete gene-level external metrics
+DATA	P1CRC	FASN	0.7356504618651714	Complete gene-level external metrics
+DATA	P1CRC	HMGB1		Not evaluable on source panel; not a zero or negative result
+DATA	P1CRC	YAP1	0.6076632654995653	Complete gene-level external metrics
+DATA	P1CRC	RNF6	0.6944106989456235	Complete gene-level external metrics
+DATA	P1CRC	CTNNB1	0.2259173716307573	Complete gene-level external metrics
+DATA	P2CRC	MYC	4.307242751584679	Complete gene-level external metrics
+DATA	P2CRC	BCL2L1	1.082119465577139	Complete gene-level external metrics
+DATA	P2CRC	SOX9	0.8225696158568434	Complete gene-level external metrics
+DATA	P2CRC	IRS2	0.7314674913433244	Complete gene-level external metrics
+DATA	P2CRC	FASN	2.3674718515858575	Complete gene-level external metrics
+DATA	P2CRC	HMGB1		Not evaluable on source panel; not a zero or negative result
+DATA	P2CRC	YAP1	1.5653661750194556	Complete gene-level external metrics
+DATA	P2CRC	RNF6	0.3909057228876269	Complete gene-level external metrics
+DATA	P2CRC	CTNNB1	0.6178973290789158	Complete gene-level external metrics
+DATA	P5CRC	MYC	2.0373121485999315	Complete gene-level external metrics
+DATA	P5CRC	BCL2L1	1.1594118668406939	Complete gene-level external metrics
+DATA	P5CRC	SOX9	0.8852523471864827	Complete gene-level external metrics
+DATA	P5CRC	IRS2	0.6499852901167571	Complete gene-level external metrics
+DATA	P5CRC	FASN	1.1437419234655548	Complete gene-level external metrics
+DATA	P5CRC	HMGB1		Not evaluable on source panel; not a zero or negative result
+DATA	P5CRC	YAP1	1.292876175499618	Complete gene-level external metrics
+DATA	P5CRC	RNF6	0.4650696721913977	Complete gene-level external metrics
+DATA	P5CRC	CTNNB1	0.5011196975905735	Complete gene-level external metrics
+END_TABLE
+END_PANEL
+PANEL	D	Convergent9 peripheral-minus-interior effects and frozen discovery categories; 27 rows	delta log2(CPM+1)	3 HMGB1 measurements unavailable; NA is not zero
+TABLE	source_data/Figure_5/Figure_5D.csv	3d4564610f30aefdee87105c5be0204692f414aafc10183cfbfd777288400d28	28
+HEADER	Sample	Gene	Discovery_spatial_category	External_periphery_minus_interior	Status
+DATA	P1CRC	MYC	Interface-persistent	-1.8535878538121968	Complete gene-level external metrics
+DATA	P1CRC	BCL2L1	Tumor-interior enriched	-0.7377851354502021	Complete gene-level external metrics
+DATA	P1CRC	SOX9	Tumor-interior enriched	-0.4748001932587822	Complete gene-level external metrics
+DATA	P1CRC	IRS2	Tumor-interior enriched	-0.340320438532754	Complete gene-level external metrics
+DATA	P1CRC	FASN	Tumor-interior enriched	-0.7030481564694637	Complete gene-level external metrics
+DATA	P1CRC	HMGB1	Tumor-interior enriched		Not evaluable on source panel; not a zero or negative result
+DATA	P1CRC	YAP1	Interface-persistent	-0.48850658251725315	Complete gene-level external metrics
+DATA	P1CRC	RNF6	Tumor-interior enriched	-0.6790157513415789	Complete gene-level external metrics
+DATA	P1CRC	CTNNB1	Interface-persistent	-0.1634076994288221	Complete gene-level external metrics
+DATA	P2CRC	MYC	Interface-persistent	-4.999387564857681	Complete gene-level external metrics
+DATA	P2CRC	BCL2L1	Tumor-interior enriched	-0.8840347862608872	Complete gene-level external metrics
+DATA	P2CRC	SOX9	Tumor-interior enriched	-1.048909108750923	Complete gene-level external metrics
+DATA	P2CRC	IRS2	Tumor-interior enriched	-0.9758876696544381	Complete gene-level external metrics
+DATA	P2CRC	FASN	Tumor-interior enriched	-2.691893005890098	Complete gene-level external metrics
+DATA	P2CRC	HMGB1	Tumor-interior enriched		Not evaluable on source panel; not a zero or negative result
+DATA	P2CRC	YAP1	Interface-persistent	-1.5942599038477074	Complete gene-level external metrics
+DATA	P2CRC	RNF6	Tumor-interior enriched	-0.3630098097243903	Complete gene-level external metrics
+DATA	P2CRC	CTNNB1	Interface-persistent	-0.6375972684563938	Complete gene-level external metrics
+DATA	P5CRC	MYC	Interface-persistent	-1.242573219792067	Complete gene-level external metrics
+DATA	P5CRC	BCL2L1	Tumor-interior enriched	-0.6313703042683214	Complete gene-level external metrics
+DATA	P5CRC	SOX9	Tumor-interior enriched	-0.6643969383015534	Complete gene-level external metrics
+DATA	P5CRC	IRS2	Tumor-interior enriched	-0.4449768358427708	Complete gene-level external metrics
+DATA	P5CRC	FASN	Tumor-interior enriched	-0.7685147730427633	Complete gene-level external metrics
+DATA	P5CRC	HMGB1	Tumor-interior enriched		Not evaluable on source panel; not a zero or negative result
+DATA	P5CRC	YAP1	Interface-persistent	-0.7979290935564392	Complete gene-level external metrics
+DATA	P5CRC	RNF6	Tumor-interior enriched	-0.2895838200517866	Complete gene-level external metrics
+DATA	P5CRC	CTNNB1	Interface-persistent	-0.31973209848798295	Complete gene-level external metrics
+END_TABLE
+END_PANEL

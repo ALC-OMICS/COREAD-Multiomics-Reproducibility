@@ -1,0 +1,7 @@
+Shared COREAD measurements unchanged; no candidate rule change.
+250 -> 1165 source models; primary non-COREAD comparator 187 -> 1099 (three explicit noncancer labels excluded).
+Exact source matches now 1620; previous 1619 correspondences included six whitespace normalizations.
+All new gene symbols match exactly, including source-corrected CYP2E1.
+Primary candidates remain 335; organoid candidates 324; cross-system candidates 193; union 466.
+Higher-frequency Fisher/BH results: 14 -> 23. BRAF no longer has q<0.05 in the enlarged primary contrast, but is NOT removed from the dependency catalogue for that reason.
+New higher-frequency results: ASCL2, AXIN2, HES1, ID2, IQGAP1, IRS2, MAP2K5, STX4, STXBP3, TAX1BP1

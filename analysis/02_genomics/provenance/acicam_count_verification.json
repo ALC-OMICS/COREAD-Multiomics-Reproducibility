@@ -1,0 +1,7 @@
+{
+  "genes": 466,
+  "values_verified": 1864,
+  "discrepancies": 0,
+  "source": "Independent refetch and recomputation from public AC-ICAM raw CNA and MAF through Wolfram Language",
+  "transport": "GZIP base64 with CRC integrity validation"
+}

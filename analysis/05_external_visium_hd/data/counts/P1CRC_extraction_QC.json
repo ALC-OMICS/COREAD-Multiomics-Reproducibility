@@ -1,0 +1,19 @@
+{
+  "sample": "P1CRC",
+  "source_h5_sha256": "e65dfe204f001364efa84b73c243c20605ab92aabb39e482afc1b0aadcfb6c02",
+  "source_metadata_gzip_sha256": "6b987961e089ff98330bd433bf2d0183cf599188e3310a2ab9b68bb91df13ebc",
+  "n_features": 18085,
+  "n_bins": 507684,
+  "region_counts": {
+    "Tissue": 348117,
+    "Tumor": 126732,
+    "50 micron": 32835
+  },
+  "zero_library_bins": 1600,
+  "excluded_unannotated_bins": 0,
+  "rook_edges": 1011093,
+  "candidate_universe": 466,
+  "evaluable_candidates": 455,
+  "count_checkpoint_sha256": "5553480985a3795028e09f43f41dce202286f3743d4b1e88f1384e199be89834",
+  "metadata_checkpoint_sha256": "971f446b9df608aa82419c573246eed72b5c8c6a8295e330ee15edd9c4edf859"
+}

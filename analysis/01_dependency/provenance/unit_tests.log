@@ -1,0 +1,11 @@
+test_bh_known_result (test_integrity.AnalysisTests.test_bh_known_result) ... ok
+test_bh_missing_is_preserved (test_integrity.AnalysisTests.test_bh_missing_is_preserved) ... ok
+test_missing_not_zero_effect (test_integrity.AnalysisTests.test_missing_not_zero_effect) ... ok
+test_model_counts (test_integrity.AnalysisTests.test_model_counts) ... ok
+test_model_overlap_not_donor_claim (test_integrity.AnalysisTests.test_model_overlap_not_donor_claim) ... ok
+test_primary_integration (test_integrity.AnalysisTests.test_primary_integration) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.061s
+
+OK

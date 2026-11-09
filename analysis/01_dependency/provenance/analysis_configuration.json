@@ -1,0 +1,44 @@
+{
+  "query_count": 1720,
+  "cell_lines": {
+    "n_models": 1165,
+    "n_coread": 63,
+    "n_primary_comparator": 1099,
+    "exclude_source_disease": "Non-Cancerous",
+    "probability_call_strict_gt": 0.5,
+    "candidate_min_positive_models": 2,
+    "high_probability_strict_gt": 0.9,
+    "main_fisher_sidedness": "two-sided",
+    "bh_family_all_evaluable": 1620,
+    "lineage_min_n": 5,
+    "balanced_bootstrap_draws": 10000,
+    "balanced_bootstrap_seed": 20261003,
+    "source_release": "NOT_PROVIDED"
+  },
+  "organoids": {
+    "n_primary_3DO": 16,
+    "n_expanded": 18,
+    "gene_effect_call_strict_lt": -0.5,
+    "candidate_min_positive_models": 2,
+    "eb_call_strict_gt": 0.5,
+    "eb_reconstruction": "archived expit coefficients; not a refit",
+    "comparator_excluded_model_ids": [
+      "ACH-003377",
+      "ACH-003383",
+      "ACH-003722"
+    ],
+    "welch_primary_n": [
+      16,
+      76
+    ],
+    "bh_family": 1636,
+    "release": "NextGen Model Manuscript 2026"
+  },
+  "integration": {
+    "both_evaluable": 1613,
+    "union": 466,
+    "shared": 193,
+    "correlation_bootstrap_draws": 2000,
+    "correlation_bootstrap_seed": 20261004
+  }
+}

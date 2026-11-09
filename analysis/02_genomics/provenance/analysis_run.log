@@ -1,0 +1,283 @@
+{
+  "frozen_genes": 466,
+  "cohort_patients": {
+    "COAD_GDC": 461,
+    "READ_GDC": 170,
+    "COREAD_GDC": 631,
+    "CPTAC2": 110,
+    "PANCAN": 594
+  },
+  "profile_counts": {
+    "COAD_GDC": {
+      "DNA_driver_CNA": 421,
+      "Driver_mutation": 427,
+      "Amplification": 454,
+      "Deep_deletion": 454,
+      "CNA_any": 454,
+      "Any_exported_mutation": 427,
+      "DNA_broad": 421,
+      "RNA_high": 458,
+      "RNA_low": 458,
+      "Protein_high": 0,
+      "Protein_low": 0,
+      "DNA_strict_explicit": 421,
+      "Driver_explicit": 427,
+      "Splice_driver_code": 427
+    },
+    "READ_GDC": {
+      "DNA_driver_CNA": 151,
+      "Driver_mutation": 154,
+      "Amplification": 167,
+      "Deep_deletion": 167,
+      "CNA_any": 167,
+      "Any_exported_mutation": 154,
+      "DNA_broad": 151,
+      "RNA_high": 166,
+      "RNA_low": 166,
+      "Protein_high": 0,
+      "Protein_low": 0,
+      "DNA_strict_explicit": 151,
+      "Driver_explicit": 154,
+      "Splice_driver_code": 154
+    },
+    "COREAD_GDC": {
+      "DNA_driver_CNA": 572,
+      "Driver_mutation": 581,
+      "Amplification": 621,
+      "Deep_deletion": 621,
+      "CNA_any": 621,
+      "Any_exported_mutation": 581,
+      "DNA_broad": 572,
+      "RNA_high": 624,
+      "RNA_low": 624,
+      "Protein_high": 0,
+      "Protein_low": 0,
+      "DNA_strict_explicit": 572,
+      "Driver_explicit": 581,
+      "Splice_driver_code": 581
+    },
+    "CPTAC2": {
+      "DNA_driver_CNA": 105,
+      "Driver_mutation": 106,
+      "Amplification": 105,
+      "Deep_deletion": 105,
+      "CNA_any": 105,
+      "Any_exported_mutation": 106,
+      "DNA_broad": 105,
+      "RNA_high": 106,
+      "RNA_low": 106,
+      "Protein_high": 0,
+      "Protein_low": 0,
+      "DNA_strict_explicit": 105,
+      "Driver_explicit": 106,
+      "Splice_driver_code": 106
+    },
+    "PANCAN": {
+      "DNA_driver_CNA": 532,
+      "Driver_mutation": 534,
+      "Amplification": 592,
+      "Deep_deletion": 592,
+      "CNA_any": 592,
+      "Any_exported_mutation": 534,
+      "DNA_broad": 532,
+      "RNA_high": 0,
+      "RNA_low": 0,
+      "Protein_high": 0,
+      "Protein_low": 0,
+      "DNA_strict_explicit": 532,
+      "Driver_explicit": 534,
+      "Splice_driver_code": 534
+    },
+    "AC_ICAM": {
+      "DNA_driver_CNA": 0,
+      "Driver_mutation": 0,
+      "Amplification": 281,
+      "Deep_deletion": 281,
+      "CNA_any": 281,
+      "Any_exported_mutation": 281,
+      "DNA_broad": 281,
+      "RNA_high": 348,
+      "RNA_low": 348,
+      "Protein_high": 0,
+      "Protein_low": 0
+    }
+  },
+  "AC_ICAM_exact_CNA_genes": 456,
+  "AC_ICAM_exact_RNA_genes": 451,
+  "primary_joint_DNA_patients": 572,
+  "primary_joint_DNA_strata": [
+    421,
+    151
+  ],
+  "bootstrap_replicates": 2000,
+  "permutation_replicates": 10000,
+  "tests_evaluated": 46,
+  "permutation_family_sizes": {
+    "EXTERNAL_COREAD_CONCORDANCE": 18,
+    "COLON_ONLY_EXTERNAL_SENSITIVITY": 18,
+    "TCGA_REPRESENTATION_ROBUSTNESS": 10
+  },
+  "gene_heterogeneity_family_sizes": {
+    "AC_ICAM_vs_COREAD": 2280,
+    "AC_ICAM_vs_COAD": 2280,
+    "CPTAC2_vs_COREAD": 3262,
+    "CPTAC2_vs_COAD": 3262,
+    "PANCAN_vs_COREAD": 3262
+  },
+  "primary_top30": [
+    "APC",
+    "KRAS",
+    "HNF4A",
+    "GNAS",
+    "PTPN1",
+    "CEBPB",
+    "BCL2L1",
+    "E2F1",
+    "SRC",
+    "RNF6",
+    "SLC7A1",
+    "IRS2",
+    "C1QTNF9",
+    "FOXO1",
+    "HMGB1",
+    "HSPH1",
+    "TNFSF11",
+    "FOXA2",
+    "BRAF",
+    "SMAD4",
+    "MYC",
+    "SOX9",
+    "EXT1",
+    "ST3GAL1",
+    "ARID1A",
+    "EFR3A",
+    "PRKDC",
+    "ATM",
+    "DDRGK1",
+    "PTK2"
+  ],
+  "top10_details": [
+    {
+      "Gene": "APC",
+      "DNA_driver_CNA_altered": 417,
+      "DNA_driver_CNA_n_profiled": 572,
+      "DNA_driver_CNA_frequency": 0.7290209790209791,
+      "Driver_mutation_frequency": 0.7280550774526678,
+      "Amplification_frequency": 0.001610305958132045,
+      "Deep_deletion_frequency": 0.00322061191626409
+    },
+    {
+      "Gene": "KRAS",
+      "DNA_driver_CNA_altered": 244,
+      "DNA_driver_CNA_n_profiled": 572,
+      "DNA_driver_CNA_frequency": 0.42657342657342656,
+      "Driver_mutation_frequency": 0.41824440619621345,
+      "Amplification_frequency": 0.017713365539452495,
+      "Deep_deletion_frequency": 0.0
+    },
+    {
+      "Gene": "HNF4A",
+      "DNA_driver_CNA_altered": 154,
+      "DNA_driver_CNA_n_profiled": 572,
+      "DNA_driver_CNA_frequency": 0.2692307692307692,
+      "Driver_mutation_frequency": 0.0,
+      "Amplification_frequency": 0.2689210950080515,
+      "Deep_deletion_frequency": 0.0
+    },
+    {
+      "Gene": "GNAS",
+      "DNA_driver_CNA_altered": 148,
+      "DNA_driver_CNA_n_profiled": 572,
+      "DNA_driver_CNA_frequency": 0.25874125874125875,
+      "Driver_mutation_frequency": 0.01549053356282272,
+      "Amplification_frequency": 0.23993558776167473,
+      "Deep_deletion_frequency": 0.0
+    },
+    {
+      "Gene": "PTPN1",
+      "DNA_driver_CNA_altered": 146,
+      "DNA_driver_CNA_n_profiled": 572,
+      "DNA_driver_CNA_frequency": 0.25524475524475526,
+      "Driver_mutation_frequency": 0.0051635111876075735,
+      "Amplification_frequency": 0.2463768115942029,
+      "Deep_deletion_frequency": 0.0
+    },
+    {
+      "Gene": "CEBPB",
+      "DNA_driver_CNA_altered": 143,
+      "DNA_driver_CNA_n_profiled": 572,
+      "DNA_driver_CNA_frequency": 0.25,
+      "Driver_mutation_frequency": 0.0,
+      "Amplification_frequency": 0.24798711755233493,
+      "Deep_deletion_frequency": 0.0
+    },
+    {
+      "Gene": "BCL2L1",
+      "DNA_driver_CNA_altered": 138,
+      "DNA_driver_CNA_n_profiled": 572,
+      "DNA_driver_CNA_frequency": 0.24125874125874125,
+      "Driver_mutation_frequency": 0.0,
+      "Amplification_frequency": 0.24154589371980675,
+      "Deep_deletion_frequency": 0.0
+    },
+    {
+      "Gene": "E2F1",
+      "DNA_driver_CNA_altered": 136,
+      "DNA_driver_CNA_n_profiled": 572,
+      "DNA_driver_CNA_frequency": 0.23776223776223776,
+      "Driver_mutation_frequency": 0.0,
+      "Amplification_frequency": 0.23671497584541062,
+      "Deep_deletion_frequency": 0.0
+    },
+    {
+      "Gene": "SRC",
+      "DNA_driver_CNA_altered": 133,
+      "DNA_driver_CNA_n_profiled": 572,
+      "DNA_driver_CNA_frequency": 0.23251748251748253,
+      "Driver_mutation_frequency": 0.0,
+      "Amplification_frequency": 0.23349436392914655,
+      "Deep_deletion_frequency": 0.0
+    },
+    {
+      "Gene": "RNF6",
+      "DNA_driver_CNA_altered": 93,
+      "DNA_driver_CNA_n_profiled": 572,
+      "DNA_driver_CNA_frequency": 0.16258741258741258,
+      "Driver_mutation_frequency": 0.0,
+      "Amplification_frequency": 0.1610305958132045,
+      "Deep_deletion_frequency": 0.0
+    }
+  ],
+  "limits": [
+    "Local export denominators are profile based, not gene-callability verified.",
+    "Primary TCGA exports aggregate patients including 3 patients with two samples.",
+    "AC-ICAM driver annotation missing: no driver-specific external rate or composite.",
+    "RNA references/thresholds not harmonized; source-specific calls descriptive only.",
+    "Protein coverage unavailable; no formal protein alteration frequencies.",
+    "PanCancer is paired TCGA robustness, not independent validation.",
+    "Permutation tests describe global correspondence; per-gene Fisher P tests heterogeneity, not proof of validation."
+  ]
+}
+
+EXTERNAL CORE RESULTS
+T01 AC_ICAM DNA_driver_CNA 0 nan nan nan
+T02 AC_ICAM Driver_mutation 0 nan nan nan
+T03 AC_ICAM Amplification 456 0.3846805598820107 9.999000099990002e-05 0.00017998200179982003
+T05 AC_ICAM Deep_deletion 456 0.12508192157212414 0.0036996300369963003 0.004756667190423815
+T07 AC_ICAM CNA_any 456 0.3592946574945487 9.999000099990002e-05 0.00017998200179982003
+T09 AC_ICAM Any_exported_mutation 456 0.7551336680886538 9.999000099990002e-05 0.00017998200179982003
+T10 AC_ICAM DNA_broad 456 0.694223167608649 9.999000099990002e-05 0.00017998200179982003
+T21 CPTAC2 DNA_driver_CNA 466 0.17136185347617913 0.00029997000299970003 0.00044995500449955
+T22 CPTAC2 Driver_mutation 466 0.8236036125834963 9.999000099990002e-05 0.00017998200179982003
+T23 CPTAC2 Amplification 466 0.4245988486984174 9.999000099990002e-05 0.00017998200179982003
+T25 CPTAC2 Deep_deletion 466 0.3112761402339963 9.999000099990002e-05 0.00017998200179982003
+T27 CPTAC2 CNA_any 466 0.08666189482965884 0.033096690330966905 0.03723377662233777
+T29 CPTAC2 Any_exported_mutation 466 0.6198612822638021 9.999000099990002e-05 0.00017998200179982003
+T30 CPTAC2 DNA_broad 466 0.42625690824968815 9.999000099990002e-05 0.00017998200179982003
+T41 PANCAN DNA_driver_CNA 466 0.5005940565307109 9.999000099990002e-05 0.00014284285857128572
+T42 PANCAN Driver_mutation 466 0.9845416877380283 9.999000099990002e-05 0.00014284285857128572
+T43 PANCAN Amplification 466 0.6097322981237739 9.999000099990002e-05 0.00014284285857128572
+T45 PANCAN Deep_deletion 466 0.3686830100459032 9.999000099990002e-05 0.00014284285857128572
+T47 PANCAN CNA_any 466 0.3400372858443747 9.999000099990002e-05 0.00014284285857128572
+T49 PANCAN Any_exported_mutation 466 0.9712112441910007 9.999000099990002e-05 0.00014284285857128572
+T50 PANCAN DNA_broad 466 0.8581502147040614 9.999000099990002e-05 0.00014284285857128572

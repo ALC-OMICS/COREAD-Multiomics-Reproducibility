@@ -1,0 +1,177 @@
+[
+  {
+    "file": "PATIENT_DATA_oncoprint-COLON-TCGA-GDC.xlsx",
+    "sha256": "cce7a11f7c01602e21162294d9a95c2a6934d4dca8eaae64b9fab4606772e299",
+    "patients": 461,
+    "gene_rows": 1720,
+    "candidate_tracks": {
+      "CNA": 466,
+      "MUTATIONS": 466,
+      "MRNA": 466,
+      "PROTEIN": 466,
+      "STRUCTURAL_VARIANT": 466
+    },
+    "profile_yes": {
+      "MUTATIONS": 427,
+      "CNA": 454,
+      "MRNA": 458
+    },
+    "multiple_samples": {
+      "TCGA-NH-A8F7": 2,
+      "TCGA-G4-6317": 2
+    },
+    "candidate_event_labels": {
+      "homdel_rec": 21,
+      "Amplification": 2290,
+      "amp_rec": 470,
+      "Deep Deletion": 103,
+      "Truncating mutation (putative driver)": 662,
+      "splice_rec": 37,
+      "Missense Mutation (putative passenger)": 3019,
+      "Missense Mutation (putative driver)": 357,
+      "Truncating mutation (putative passenger)": 707,
+      "Inframe Mutation (putative passenger)": 53,
+      "Inframe Mutation (putative driver)": 7,
+      "splice": 111,
+      "mRNA High": 7967,
+      "mRNA Low": 680
+    }
+  },
+  {
+    "file": "PATIENT_DATA_oncoprint-RECTAL-TCGA-GDC.xlsx",
+    "sha256": "6be3a4a6cbbc17b83e58af63c0ce30e398cfd0c1642e3ca9d0a51308c7ff7cdc",
+    "patients": 170,
+    "gene_rows": 1720,
+    "candidate_tracks": {
+      "CNA": 466,
+      "MUTATIONS": 466,
+      "MRNA": 466,
+      "PROTEIN": 466,
+      "STRUCTURAL_VARIANT": 466
+    },
+    "profile_yes": {
+      "MUTATIONS": 154,
+      "CNA": 167,
+      "MRNA": 166
+    },
+    "multiple_samples": {
+      "TCGA-G5-6572": 2
+    },
+    "candidate_event_labels": {
+      "homdel_rec": 7,
+      "amp_rec": 229,
+      "Amplification": 995,
+      "Deep Deletion": 7,
+      "Truncating mutation (putative driver)": 200,
+      "Missense Mutation (putative driver)": 99,
+      "Inframe Mutation (putative driver)": 3,
+      "Truncating mutation (putative passenger)": 126,
+      "Missense Mutation (putative passenger)": 608,
+      "splice": 21,
+      "Inframe Mutation (putative passenger)": 2,
+      "splice_rec": 3,
+      "mRNA High": 2949,
+      "mRNA Low": 222
+    }
+  },
+  {
+    "file": "PATIENT_DATA_oncoprint-CPTAC2.xlsx",
+    "sha256": "c6fadac3ada0ba46e16fe7a40ded2b4f282ebf4c8369eab3713e40dd15113dd7",
+    "patients": 110,
+    "gene_rows": 1720,
+    "candidate_tracks": {
+      "CNA": 466,
+      "MUTATIONS": 466,
+      "MRNA": 466,
+      "PROTEIN": 466,
+      "STRUCTURAL_VARIANT": 466
+    },
+    "profile_yes": {
+      "MUTATIONS": 106,
+      "CNA": 105,
+      "MRNA": 106
+    },
+    "multiple_samples": {},
+    "candidate_event_labels": {
+      "homdel_rec": 100,
+      "amp_rec": 36,
+      "Deep Deletion": 772,
+      "Amplification": 215,
+      "Truncating mutation (putative driver)": 186,
+      "Missense Mutation (putative passenger)": 991,
+      "Missense Mutation (putative driver)": 75,
+      "Truncating mutation (putative passenger)": 252,
+      "Inframe Mutation (putative passenger)": 13,
+      "splice": 11,
+      "Inframe Mutation (putative driver)": 1,
+      "splice_rec": 3,
+      "mRNA Low": 1173,
+      "mRNA High": 895
+    }
+  },
+  {
+    "file": "PATIENT_DATA_oncoprint-PANCANCER-PARTE 1-.xlsx",
+    "sha256": "fdc562660a8198cdb97fc67af132fbefb6cdf77bd1ad0b875e009478eeb9f7a7",
+    "patients": 594,
+    "gene_rows": 1331,
+    "candidate_tracks": {
+      "CNA": 378,
+      "MUTATIONS": 378,
+      "MRNA": 378,
+      "PROTEIN": 378,
+      "STRUCTURAL_VARIANT": 378
+    },
+    "profile_yes": {
+      "MUTATIONS": 534,
+      "CNA": 592,
+      "PROTEIN": 464
+    },
+    "multiple_samples": {},
+    "candidate_event_labels": {
+      "homdel_rec": 116,
+      "amp_rec": 196,
+      "Deep Deletion": 510,
+      "Amplification": 942,
+      "Truncating mutation (putative driver)": 701,
+      "splice_rec": 42,
+      "Missense Mutation (putative passenger)": 2819,
+      "Missense Mutation (putative driver)": 418,
+      "Inframe Mutation (putative driver)": 8,
+      "Truncating mutation (putative passenger)": 543,
+      "Inframe Mutation (putative passenger)": 47,
+      "splice": 122,
+      "Protein High": 316,
+      "Protein Low": 393
+    }
+  },
+  {
+    "file": "PATIENT_DATA_oncoprint-PANCANCER-PARTE -2.xlsx",
+    "sha256": "33aa5178d7f4ce68571d8e13d3b5d22303716afe933bf3efafbd600e4d3cd604",
+    "patients": 524,
+    "gene_rows": 390,
+    "candidate_tracks": {
+      "CNA": 88,
+      "MUTATIONS": 88,
+      "MRNA": 88,
+      "PROTEIN": 88,
+      "STRUCTURAL_VARIANT": 88
+    },
+    "profile_yes": {},
+    "multiple_samples": {},
+    "candidate_event_labels": {
+      "Amplification": 112,
+      "Deep Deletion": 71,
+      "amp_rec": 22,
+      "homdel_rec": 9,
+      "Truncating mutation (putative passenger)": 149,
+      "Missense Mutation (putative passenger)": 818,
+      "splice": 35,
+      "Inframe Mutation (putative passenger)": 13,
+      "Truncating mutation (putative driver)": 65,
+      "Missense Mutation (putative driver)": 9,
+      "splice_rec": 3,
+      "mRNA High": 2031,
+      "mRNA Low": 2553
+    }
+  }
+]

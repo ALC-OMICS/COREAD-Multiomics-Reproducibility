@@ -1,0 +1,13 @@
+{
+  "scope": "Patient alteration analysis of the frozen 466-gene set",
+  "original_archive_entries_recovered": 94,
+  "xlsx_workbooks_unchanged": 3,
+  "current_data_linked_svg_figures": 11,
+  "unit_tests_passed": 9,
+  "full_offline_numerical_regression": "PASS; 6 complete CSVs and 9 NPZ files matched reference",
+  "permutation_draws_verified": 460000,
+  "bootstrap_replicates_verified": 2000,
+  "source_scope": "Five categorical patient exports; archived AC-ICAM source-derived summaries and top-30 calls. No fresh AC-ICAM download or raw-read processing performed.",
+  "publication_status": "No remote GitHub repository created; data rights and final authorship require owner review.",
+  "excluded": "AI-generated quantitative chart recreations, font files, caches and private credentials."
+}

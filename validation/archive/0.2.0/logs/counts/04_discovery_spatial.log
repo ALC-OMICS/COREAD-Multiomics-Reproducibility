@@ -1,0 +1,160 @@
+mkdir -p failed for path /root/.config/matplotlib: [Errno 30] Read-only file system: '/root/.config'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-_1_pn4ox because there was an issue with the default path (/root/.config/matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+DONE
+{
+  "h5_sha256": "5c839f4e78b4f334e0c19dd3aef173c332b147b8418e854a0ffb6600e05da79a",
+  "n_spots": 20654,
+  "n_genes_matrix": 36588,
+  "n_candidates": 466,
+  "n_core47": 47,
+  "n_tierA65": 65,
+  "patients": [
+    "A120838",
+    "A121573",
+    "A416371",
+    "A551763",
+    "A595688",
+    "A798015",
+    "A938797"
+  ],
+  "n_patients": 7,
+  "n_sections": 14,
+  "pathology_counts": {
+    "stroma": 8319,
+    "tumor": 4022,
+    "mixed_tumor_stroma": 3713,
+    "nonneoplastic_epithelium": 3072,
+    "exclude": 1247,
+    "immune_aggregate": 281
+  },
+  "tumor_patients": [
+    "A120838",
+    "A121573",
+    "A416371",
+    "A551763",
+    "A595688",
+    "A938797"
+  ],
+  "n_tumor_patients": 6,
+  "n_cell2location_factors": 40,
+  "cell2location_pca_components_90pct": 16,
+  "cell2location_pca_variance_explained": 0.9087258484245517,
+  "matched_permutations": 10000,
+  "seed": 20261008,
+  "representative_sample": "Count_SN124_A551763_Rep2"
+}
+
+PERM
+                          metric  observed_core47_mean  null_mean  null_sd  null_p2.5  null_p97.5  empirical_P_greater  exceedances
+         Interface_median_effect             -0.065687  -0.081942 0.022812  -0.127589   -0.037436             0.239176         2391
+Adjusted_interface_median_effect             -0.024184  -0.028833 0.019889  -0.067084    0.009440             0.411459         4114
+                  Moran_median_I              0.107689   0.093954 0.005255   0.084302    0.104782             0.007699           76
+
+CORE CATS
+Spatial_category
+Tumor-interior enriched             31
+Interface-persistent                13
+Interface-composition-associated     3
+Name: count, dtype: int64
+
+TOP CORE
+   Gene  Interface_median_effect  Adjusted_interface_median_effect  TumorStroma_median_effect  Moran_median_I                 Spatial_category
+    MYC                 0.194781                          0.274211                   2.071771        0.168512             Interface-persistent
+   ATIC                 0.149428                          0.189747                   1.915719        0.127989             Interface-persistent
+ CELSR2                 0.100079                          0.134799                   0.317661        0.018919             Interface-persistent
+   RAC3                 0.093317                          0.110079                   0.220919        0.023547             Interface-persistent
+  C1QBP                 0.081460                          0.179372                   1.776086        0.132104             Interface-persistent
+ CTNNB1                 0.081329                          0.047737                   0.611501        0.127401             Interface-persistent
+SMARCD1                 0.075715                         -0.034039                   1.027399        0.046367 Interface-composition-associated
+   TECR                 0.070820                          0.097799                   1.124447        0.084270             Interface-persistent
+   FADD                 0.049359                          0.038776                   0.762468        0.056097             Interface-persistent
+  EPRS1                 0.038529                          0.096903                   1.470545        0.075897             Interface-persistent
+   DHPS                 0.036695                          0.117368                   1.362718        0.066565             Interface-persistent
+   YAP1                 0.031333                          0.200624                   1.236857        0.089401             Interface-persistent
+   BRD7                 0.015119                          0.062313                   1.808906        0.067754             Interface-persistent
+ PTPN11                 0.013423                         -0.029494                   1.463939        0.091559 Interface-composition-associated
+  DDX56                 0.012813                          0.139435                   1.776666        0.134937             Interface-persistent
+{
+  "module": "04_discovery_spatial",
+  "mode": "compact_counts",
+  "passed": true,
+  "reference_comparison": {
+    "passed": true,
+    "checked_columns": 159,
+    "rows": 466,
+    "failures": []
+  },
+  "source_h5_sha256": "5c839f4e78b4f334e0c19dd3aef173c332b147b8418e854a0ffb6600e05da79a",
+  "n_spots": 20654,
+  "composition_factors": 40,
+  "PCA_components": 16,
+  "PCA_variance_explained": 0.9087258484245517,
+  "fresh_null_draws": 10000,
+  "fresh_null_order": "sorted; intentionally different from unrecoverable historical Python-set order",
+  "scope": "Source counts, full-library normalization, pathology graph, regional effects, composition refit, Moran, hierarchy and exploratory coexpression modules",
+  "limits": [
+    "Source cell2location factors and source pathology annotations are reused; cell2location and original sequencing alignment are not refitted.",
+    "Historical matched-null vectors remain separate; this route generates new canonical-order draws."
+  ]
+}
+mkdir -p failed for path /root/.config/matplotlib: [Errno 30] Read-only file system: '/root/.config'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-mqq3ojnt because there was an issue with the default path (/root/.config/matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+{
+  "module": "04_discovery_spatial",
+  "mode": "counts",
+  "passed": true,
+  "counts": {
+    "Core47": 47,
+    "Spatial43": 43,
+    "Convergent9": 9,
+    "Extended13": 13
+  },
+  "reference_comparison": {
+    "passed": true,
+    "checked_columns": 159,
+    "rows": 466,
+    "failures": []
+  },
+  "matched_null_replay_comparison": {
+    "passed": true,
+    "checked_columns": 7,
+    "rows": 3,
+    "failures": []
+  },
+  "numerical_checks": {
+    "hierarchy_counts": true,
+    "Moran_finite_hypotheses_441": true,
+    "unique_genes_466": true,
+    "C9_members": true,
+    "Core47_Moran_positive_significant_44": true,
+    "sets_nested": true
+  },
+  "execution_scope": "Source counts through regional measurements, composition refit, Moran, hierarchy and plots",
+  "source_reconstruction": {
+    "module": "04_discovery_spatial",
+    "mode": "compact_counts",
+    "passed": true,
+    "reference_comparison": {
+      "passed": true,
+      "checked_columns": 159,
+      "rows": 466,
+      "failures": []
+    },
+    "source_h5_sha256": "5c839f4e78b4f334e0c19dd3aef173c332b147b8418e854a0ffb6600e05da79a",
+    "n_spots": 20654,
+    "composition_factors": 40,
+    "PCA_components": 16,
+    "PCA_variance_explained": 0.9087258484245517,
+    "fresh_null_draws": 10000,
+    "fresh_null_order": "sorted; intentionally different from unrecoverable historical Python-set order",
+    "scope": "Source counts, full-library normalization, pathology graph, regional effects, composition refit, Moran, hierarchy and exploratory coexpression modules",
+    "limits": [
+      "Source cell2location factors and source pathology annotations are reused; cell2location and original sequencing alignment are not refitted.",
+      "Historical matched-null vectors remain separate; this route generates new canonical-order draws."
+    ]
+  },
+  "limits": [
+    "Source pathology and cell2location factors are reused; source deconvolution and original sequencing alignment are not refitted.",
+    "Reported discovery matched-null statistics replay archived vectors; exact historical new-draw sampling cannot be reconstructed because Python set iteration order was not saved."
+  ]
+}

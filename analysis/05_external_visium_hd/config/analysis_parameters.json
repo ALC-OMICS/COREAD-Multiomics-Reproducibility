@@ -1,0 +1,48 @@
+{
+  "samples": [
+    "P1CRC",
+    "P2CRC",
+    "P5CRC"
+  ],
+  "spatial_bin_micrometres": 8,
+  "normalization": "log2(1 + raw candidate count / complete-feature library size * 1e6)",
+  "complete_source_feature_count": 18085,
+  "zero_library_bins": "retained with zero expression",
+  "tumour_regions": [
+    "Tumor",
+    "50 micron"
+  ],
+  "reference_region": "Tissue",
+  "boundary_contrast": [
+    "50 micron",
+    "Tumor"
+  ],
+  "graph": "binary four-neighbour square grid; no row standardization",
+  "patient_test_unit": "tumour; n=3",
+  "patient_one_sided_alternatives": {
+    "Tumor_minus_tissue_mean": "greater",
+    "Periphery_minus_interior_mean": "less",
+    "Moran_I_mean": "greater"
+  },
+  "patient_test_BH_family": 12,
+  "concordance_BH_family": 8,
+  "matched_null_samples": [
+    "P2CRC",
+    "P5CRC"
+  ],
+  "pooling_weights": [
+    0.5,
+    0.5
+  ],
+  "matched_null_draws_per_set": 10000,
+  "seeds": {
+    "Core47": 20261011,
+    "Spatial43": 20261012,
+    "Convergent9": 20261013,
+    "Extended13": 20261014
+  },
+  "matching": "5x5 expression/detection quintiles; qcut duplicates=drop; target excluded; without replacement within draw",
+  "fallback": "up to 50 nearest remaining genes in expression/detection space standardized with sample SD",
+  "reference_rtol": 1e-08,
+  "reference_atol": 1e-10
+}

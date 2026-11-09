@@ -1,0 +1,5 @@
+figure,panel,source_files,description,units,missingness
+Figure 5,A,source_data/Figure_5/Figure_5A.csv,Three tumours by four frozen sets; gene-denominator-adjusted set means,mean delta log2(CPM+1),Absent panel genes excluded from set denominator
+Figure 5,B,source_data/Figure_5/Figure_5B.csv,Three tumours by four frozen sets; mean spatial autocorrelation,mean Moran I,Absent panel genes excluded from set denominator
+Figure 5,C,source_data/Figure_5/Figure_5C.csv,Convergent9 tumour-minus-remaining-tissue effects; 27 source rows,delta log2(CPM+1),3 HMGB1 measurements unavailable; NA is not zero
+Figure 5,D,source_data/Figure_5/Figure_5D.csv,Convergent9 peripheral-minus-interior effects and frozen discovery categories; 27 rows,delta log2(CPM+1),3 HMGB1 measurements unavailable; NA is not zero

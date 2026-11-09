@@ -1,0 +1,21 @@
+Record_type,Record,Source_field,URL
+Strategy,Nivolumab + ipilimumab,Source 1,https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-nivolumab-ipilimumab-unresectable-or-metastatic-msi-h-or-dmmr-colorectal-cancer
+Strategy,Nivolumab + ipilimumab,Source 2,https://pubmed.ncbi.nlm.nih.gov/39602630/
+Strategy,Encorafenib + cetuximab + fluorouracil-based chemotherapy,Source 1,https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-traditional-approval-encorafenib-metastatic-colorectal-cancer-braf-v600e-mutation
+Strategy,Sotorasib + panitumumab,Source 1,https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-sotorasib-panitumumab-kras-g12c-mutated-colorectal-cancer
+Strategy,Metronidazole-based Fusobacterium reduction,Source 1,https://clinicaltrials.gov/study/NCT05748145
+Strategy,Metronidazole-based Fusobacterium reduction,Source 2,https://pubmed.ncbi.nlm.nih.gov/29170280/
+Strategy,SX-682 + PD-1-directed immunotherapy,Source 1,https://clinicaltrials.gov/study/NCT04599140
+Strategy,SX-682 + PD-1-directed immunotherapy,Source 2,https://clinicaltrials.gov/study/NCT06149481
+Strategy,DT2216,Source 1,https://pubmed.ncbi.nlm.nih.gov/41225624/
+Strategy,DT2216,Source 2,https://pubmed.ncbi.nlm.nih.gov/35260176/
+Strategy,Denifanstat / TVB-2640,Source 1,https://clinicaltrials.gov/study/NCT02980029
+Strategy,Denifanstat / TVB-2640,Source 2,https://pubmed.ncbi.nlm.nih.gov/41661672/
+Strategy,E7386,Source 1,https://clinicaltrials.gov/study/NCT03833700
+Strategy,E7386,Source 2,https://pubmed.ncbi.nlm.nih.gov/41385966/
+Strategy,OMO-103 / Omomyc,Source 1,https://pubmed.ncbi.nlm.nih.gov/38321218/
+Strategy,OMO-103 / Omomyc,Source 2,https://clinicaltrials.gov/study/NCT04808362
+Strategy,Fusobacterium-targeted precision antimicrobial / nanomedicine,Source 1,https://pubmed.ncbi.nlm.nih.gov/37722134/
+Limiting evidence,Navarixin + pembrolizumab,Source,https://pubmed.ncbi.nlm.nih.gov/38324085/
+Limiting evidence,SHP2 + ERK inhibition,Source,https://pubmed.ncbi.nlm.nih.gov/42114409/
+Limiting evidence,OMO-103 programme status,Source,https://clinicaltrials.gov/study/NCT04808362

@@ -1,0 +1,55 @@
+{
+  "passed": true,
+  "suites": [
+    {
+      "suite": "analysis/01_dependency/tests",
+      "passed": true,
+      "returncode": 0,
+      "seconds": 0.679,
+      "output": "test_bh_known_result (test_integrity.AnalysisTests.test_bh_known_result) ... ok\ntest_bh_missing_is_preserved (test_integrity.AnalysisTests.test_bh_missing_is_preserved) ... ok\ntest_missing_not_zero_effect (test_integrity.AnalysisTests.test_missing_not_zero_effect) ... ok\ntest_model_counts (test_integrity.AnalysisTests.test_model_counts) ... ok\ntest_model_overlap_not_donor_claim (test_integrity.AnalysisTests.test_model_overlap_not_donor_claim) ... ok\ntest_primary_integration (test_integrity.AnalysisTests.test_primary_integration) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.240s\n\nOK\n"
+    },
+    {
+      "suite": "analysis/02_genomics/tests",
+      "passed": true,
+      "returncode": 0,
+      "seconds": 1.053,
+      "output": "test_BH_families (test_archived_analysis.ArchivedAnalysisTests.test_BH_families) ... ok\ntest_bootstrap_ranks (test_archived_analysis.ArchivedAnalysisTests.test_bootstrap_ranks) ... ok\ntest_compact_source_values (test_archived_analysis.ArchivedAnalysisTests.test_compact_source_values) ... ok\ntest_empirical_probabilities_and_null_summaries (test_archived_analysis.ArchivedAnalysisTests.test_empirical_probabilities_and_null_summaries) ... ok\ntest_frozen_top30_and_ACICAM_patient_extract (test_archived_analysis.ArchivedAnalysisTests.test_frozen_top30_and_ACICAM_patient_extract) ... ok\ntest_frozen_universe_and_cohorts (test_archived_analysis.ArchivedAnalysisTests.test_frozen_universe_and_cohorts) ... ok\ntest_modality_frequencies_and_missingness (test_archived_analysis.ArchivedAnalysisTests.test_modality_frequencies_and_missingness) ... ok\ntest_no_editorial_graphics_shipped (test_archived_analysis.ArchivedAnalysisTests.test_no_editorial_graphics_shipped) ... ok\ntest_primary_unique_patient_union (test_archived_analysis.ArchivedAnalysisTests.test_primary_unique_patient_union) ... ok\n\n----------------------------------------------------------------------\nRan 9 tests in 0.226s\n\nOK\n"
+    },
+    {
+      "suite": "analysis/03_single_cell/tests",
+      "passed": true,
+      "returncode": 0,
+      "seconds": 0.062,
+      "output": "test_core (test_release.ReleaseTests.test_core) ... ok\ntest_frozen_universe (test_release.ReleaseTests.test_frozen_universe) ... ok\ntest_gene_matching (test_release.ReleaseTests.test_gene_matching) ... ok\ntest_mmr_counts (test_release.ReleaseTests.test_mmr_counts) ... ok\ntest_primary_counts (test_release.ReleaseTests.test_primary_counts) ... ok\ntest_tiers (test_release.ReleaseTests.test_tiers) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.010s\n\nOK\n"
+    },
+    {
+      "suite": "analysis/04_discovery_spatial/tests",
+      "passed": true,
+      "returncode": 0,
+      "seconds": 1.661,
+      "output": "test_current_hierarchy_is_nested_and_c9_members_are_explicit (test_scientific_invariants.ScientificInvariants.test_current_hierarchy_is_nested_and_c9_members_are_explicit) ... ok\ntest_moran_gene_join_is_invariant_to_input_row_order (test_scientific_invariants.ScientificInvariants.test_moran_gene_join_is_invariant_to_input_row_order) ... ok\ntest_serial_sections_are_averaged_before_patient_testing (test_scientific_invariants.ScientificInvariants.test_serial_sections_are_averaged_before_patient_testing) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.571s\n\nOK\n"
+    },
+    {
+      "suite": "analysis/05_external_visium_hd/tests",
+      "passed": true,
+      "returncode": 0,
+      "seconds": 0.527,
+      "output": "test_binary_rook_moran_matches_checkerboard_closed_form (test_scientific_invariants.ScientificInvariants.test_binary_rook_moran_matches_checkerboard_closed_form) ... ok\ntest_missing_hmgb1_remains_missing_and_tumour_is_test_unit (test_scientific_invariants.ScientificInvariants.test_missing_hmgb1_remains_missing_and_tumour_is_test_unit) ... ok\ntest_normalization_uses_external_complete_library_not_selected_counts (test_scientific_invariants.ScientificInvariants.test_normalization_uses_external_complete_library_not_selected_counts) ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.006s\n\nOK\n"
+    },
+    {
+      "suite": "analysis/06_crc16_niches/tests",
+      "passed": true,
+      "returncode": 0,
+      "seconds": 0.6,
+      "output": "test_changed_niche_sizes_rejected (test_frozen_assignments.FrozenAssignmentTests.test_changed_niche_sizes_rejected) ... ok\ntest_coordinate_disagreement_rejected (test_frozen_assignments.FrozenAssignmentTests.test_coordinate_disagreement_rejected) ... ok\ntest_exact_source_map (test_frozen_assignments.FrozenAssignmentTests.test_exact_source_map) ... ok\ntest_missing_and_duplicate_barcodes_rejected (test_frozen_assignments.FrozenAssignmentTests.test_missing_and_duplicate_barcodes_rejected) ... ok\ntest_source_reordering_preserves_barcode_labels (test_frozen_assignments.FrozenAssignmentTests.test_source_reordering_preserves_barcode_labels) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.043s\n\nOK\n"
+    },
+    {
+      "suite": "tests",
+      "passed": true,
+      "returncode": 0,
+      "seconds": 0.579,
+      "output": "test_current_repository_integrity (test_repository.ScopeTests.test_current_repository_integrity) ... ok\ntest_editorial_files_rejected (test_repository.ScopeTests.test_editorial_files_rejected) ... ok\ntest_missing_inputs_not_blessed_by_refresh (test_repository.ScopeTests.test_missing_inputs_not_blessed_by_refresh) ... ok\ntest_numeric_sources_allowed (test_repository.ScopeTests.test_numeric_sources_allowed) ... ok\ntest_path_traversal_rejected (test_repository.ScopeTests.test_path_traversal_rejected) ... ok\n\n----------------------------------------------------------------------\nRan 5 tests in 0.520s\n\nOK\n"
+    }
+  ],
+  "python": "3.12.16 (main, Oct 26 2026, 02:48:44) [GCC 15.2.0]"
+}

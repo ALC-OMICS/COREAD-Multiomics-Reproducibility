@@ -1,0 +1,16 @@
+[
+  {
+    "filename": "DeconvolutionResults_ST_CRC_BelgianCohort.zip",
+    "source_url": "https://zenodo.org/records/7760264/files/DeconvolutionResults_ST_CRC_BelgianCohort.zip?download=1",
+    "md5": "8a9604e51eff9f46a2d8fa4f56264980",
+    "sha256": "93dde36bcc2841d92400d18a7edcccff0696f5f58cf099f71cf4505330cd17bf",
+    "bytes": 600426627
+  },
+  {
+    "filename": "Pathology_SpotAnnotations.zip",
+    "source_url": "https://zenodo.org/records/7760264/files/Pathology_SpotAnnotations.zip?download=1",
+    "md5": "92882eb0db7c2cacc5077cb5fc9578fd",
+    "sha256": "2468ad1208468277eaa7693cbaf92735e76d52207e87d534e0ac8fe77fcacb47",
+    "bytes": 702660
+  }
+]

@@ -1,0 +1,90 @@
+mkdir -p failed for path /root/.config/matplotlib: [Errno 30] Read-only file system: '/root/.config'
+Matplotlib created a temporary cache directory at /tmp/matplotlib-2pcvji16 because there was an issue with the default path (/root/.config/matplotlib); it is highly recommended to set the MPLCONFIGDIR environment variable to a writable directory, in particular to speed up the import of Matplotlib and to better support multiprocessing.
+{
+  "module": "05_external_visium_hd",
+  "mode": "processed",
+  "passed": true,
+  "reference_comparisons": {
+    "set_level": {
+      "passed": true,
+      "checked_columns": 11,
+      "rows": 12,
+      "failures": []
+    },
+    "Convergent9_three_tumours": {
+      "passed": true,
+      "checked_columns": 9,
+      "rows": 27,
+      "failures": []
+    },
+    "Convergent9_cross_sample_summary": {
+      "passed": true,
+      "checked_columns": 15,
+      "rows": 9,
+      "failures": []
+    },
+    "territory_concordance": {
+      "passed": true,
+      "checked_columns": 4,
+      "rows": 6,
+      "failures": []
+    },
+    "patient_level_tests": {
+      "passed": true,
+      "checked_columns": 10,
+      "rows": 12,
+      "failures": []
+    },
+    "Moran_P2_P5_466": {
+      "passed": true,
+      "checked_columns": 18,
+      "rows": 466,
+      "failures": []
+    },
+    "Moran_matched_permutations_P2_P5": {
+      "passed": true,
+      "checked_columns": 10,
+      "rows": 4,
+      "failures": []
+    },
+    "Moran_concordance": {
+      "passed": true,
+      "checked_columns": 4,
+      "rows": 8,
+      "failures": []
+    },
+    "sample_QC": {
+      "passed": true,
+      "checked_columns": 9,
+      "rows": 3,
+      "failures": []
+    },
+    "source_vs_legacy_P2CRC": {
+      "passed": true,
+      "checked_columns": 3,
+      "rows": 466,
+      "failures": []
+    },
+    "source_vs_legacy_P5CRC": {
+      "passed": true,
+      "checked_columns": 3,
+      "rows": 466,
+      "failures": []
+    }
+  },
+  "numerical_checks": {
+    "total_bins_1595565": true,
+    "P1_corrected_1011093_edges": true,
+    "455_evaluable_each_tumour": true,
+    "C9_24_evaluable_positive_tumour": true,
+    "C9_24_positive_Moran": true,
+    "C9_24_negative_boundary": true,
+    "HMGB1_three_unavailable": true,
+    "12_patient_tests_BH_0125": true
+  },
+  "count_checkpoint_scope": "1,595,565 source bins; 18,085-feature library denominators; 466 candidate count columns",
+  "matched_nulls": "40,000 newly recomputed draws; P2/P5 only; fixed seeds 20261011\u201320261014",
+  "limits": [
+    "No original sequencing alignment or source tissue/periphery annotation was rerun. Spatial bins are not biological replicates."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "scope": "Patient alteration profiling of 466 frozen dependency candidates; not a reanalysis of DepMap",
+  "primary_studies": [
+    "coad_tcga_gdc",
+    "read_tcga_gdc"
+  ],
+  "external_studies": [
+    "coad_silu_2022",
+    "coad_cptac_2019"
+  ],
+  "nonindependent_robustness_study": "coadread_tcga_pan_can_atlas_2018",
+  "frozen_gene_count": 466,
+  "display_top_genes": 30,
+  "bootstrap_replicates": 2000,
+  "permutation_replicates": 10000,
+  "base_seed": 20261005,
+  "permutation_seed_stride": 1009,
+  "notes": "Manifest documents the archived design. Scientific parameters remain fixed in analyze_patients.py; this JSON is not a parameter override."
+}

@@ -1,0 +1,325 @@
+{
+  "format": "COREAD figure-level TSV container, version 1",
+  "figures": [
+    {
+      "figure": 1,
+      "file": "SourceData_Figure_1.tsv",
+      "sha256": "7b80ea7be38ab7d13d8cdf223fe339d4bc85f37a229067959b236a3a1d9e2290",
+      "tables": [
+        {
+          "path": "source_data/figure_1/Figure1A_membership.csv",
+          "sha256": "4ec272b37a8dc8751ca800551ff3f3aea06113575833b615308de8c47660b2c5",
+          "rows": 5881
+        },
+        {
+          "path": "source_data/figure_1/Figure1A_exact_intersections.csv",
+          "sha256": "d8b1809a4ccefc812efb4da54802dd82568933b74f68d8166fc4e8beee429e35",
+          "rows": 32
+        },
+        {
+          "path": "source_data/figure_1/Figure1B_source.csv",
+          "sha256": "373110179820bf2629b2214dc332a968d77052ff74457b28d36d152dbbc575a0",
+          "rows": 1621
+        },
+        {
+          "path": "source_data/figure_1/Figure1C_source.csv",
+          "sha256": "2d87ef19644f0872300343c7d7077f966c19536471a54de48cd8411f6b9503f7",
+          "rows": 1637
+        },
+        {
+          "path": "source_data/figure_1/Figure1D_exact_90_profiles.csv",
+          "sha256": "06a17f37130b441c62c2c1013b5ce1b10114689782f4dab7d03645e9d485d60e",
+          "rows": 91
+        },
+        {
+          "path": "source_data/figure_1/Figure1D_exact_90_annotations.csv",
+          "sha256": "770f5f963b5458363e2dfe79f9d1449ca3b6338f78e21e995f8de1d2c2e85432",
+          "rows": 91
+        },
+        {
+          "path": "source_data/figure_1/Figure1E_displayed_1613.csv",
+          "sha256": "564c88f4a3b498721fcda0836f265ea2102aa9e57c201bf4d947c81ba255df77",
+          "rows": 1614
+        },
+        {
+          "path": "source_data/figure_1/Figure1E_all_1720.csv",
+          "sha256": "ee8545399971ce316cdbddf3e0074ff6d27496945143cbd191e04c8bfccba676",
+          "rows": 1721
+        }
+      ],
+      "total_table_rows": 12688,
+      "round_trip_verified": true
+    },
+    {
+      "figure": 2,
+      "file": "SourceData_Figure_2.tsv",
+      "sha256": "020da63dec0b0ae3ebab23871d78546b729f5ea897a505a4e947bb605bb81286",
+      "tables": [
+        {
+          "path": "source_data/figure_2/Figure2A_source.csv",
+          "sha256": "f682fbc5d140b56714db5983c7f412422f7a772e3675011f8e79d7f7c77edae2",
+          "rows": 31
+        },
+        {
+          "path": "source_data/figure_2/Figure2B_source.csv",
+          "sha256": "a8435c72754e008400df5cb8b7438686bf47a4e33b072fa0159c50d996514527",
+          "rows": 31
+        },
+        {
+          "path": "source_data/figure_2/Figure2C_source.csv",
+          "sha256": "53d24035da28ad498056241b9fc08a8054446c2556622b32f322cdd295d3f739",
+          "rows": 31
+        },
+        {
+          "path": "source_data/figure_2/Figure2D_source.csv",
+          "sha256": "b9a21dce775564a1a303ba8bdb6abbbfc59e023653510b78651b618c9b901764",
+          "rows": 16
+        }
+      ],
+      "total_table_rows": 109,
+      "round_trip_verified": true
+    },
+    {
+      "figure": 3,
+      "file": "SourceData_Figure_3.tsv",
+      "sha256": "b4588f0d69051b169bfbf81cc1cd4ab6566794d7664fa9a83d710b774e76a8de",
+      "tables": [
+        {
+          "path": "source_data/figure_3/Figure3A_mean_patient_CPM.csv",
+          "sha256": "c04097fe8769359c0d31d398e1d1107356fabff7ba82e173c302059cbc567ba5",
+          "rows": 48
+        },
+        {
+          "path": "source_data/figure_3/Figure3A_log2_mean_CPM.csv",
+          "sha256": "6e32734a310b23a27edd4ccd9c2594b4b5a82bd20f36997c9957b8d10509a235",
+          "rows": 48
+        },
+        {
+          "path": "source_data/figure_3/Figure3A_display_zscores.csv",
+          "sha256": "536ac00b271cceece3b3cc3d224b64c131fe06d47ab76690fee5e451b3c47720",
+          "rows": 48
+        },
+        {
+          "path": "source_data/figure_3/Figure3A_lineage_patient_counts.csv",
+          "sha256": "4d7cd06fcf8230f1821b0ef2a3abf31cf0506b343d85896b4e128a0d8a67d315",
+          "rows": 8
+        },
+        {
+          "path": "source_data/figure_3/Figure3B_source.csv",
+          "sha256": "21e31b1a95f09736f867af4bc127103cf1764a4735b28ce21ee4046757548309",
+          "rows": 467
+        },
+        {
+          "path": "source_data/figure_3/Figure3C_source.csv",
+          "sha256": "5c8bc4e3ddeca6cc73da3a8294bd8936534084dc385c233151018b03ca61af9f",
+          "rows": 5
+        },
+        {
+          "path": "source_data/figure_3/Figure3D_source.csv",
+          "sha256": "d4ecb0cedbac9aa2c3dd62a09f74a9e7aa18aa53a512a3597e2dc409dc6288fc",
+          "rows": 467
+        }
+      ],
+      "total_table_rows": 1091,
+      "round_trip_verified": true
+    },
+    {
+      "figure": 4,
+      "file": "SourceData_Figure_4.tsv",
+      "sha256": "aee69aca4ba66756da3eaac800affe0b2d29db698deafbdb5e1e9937bddfb863",
+      "tables": [
+        {
+          "path": "source_data/Figure_4/Figure_4A.csv",
+          "sha256": "6cc77c465f1b3c48f4aadcb5cc14e3bec2a60a82d31bbbbe3dd915fb08af3b37",
+          "rows": 467
+        },
+        {
+          "path": "source_data/Figure_4/Figure_4B.csv",
+          "sha256": "a1690c1a06e97bb8c5c7ffde7364cc67272f3a2d377883ff61ea96a8cdc3b4b1",
+          "rows": 48
+        },
+        {
+          "path": "source_data/Figure_4/Figure_4C.csv",
+          "sha256": "62b8248cc6cf76db93420e03130a7e9657179e43009e18c57e6b8d21b519f56d",
+          "rows": 25
+        },
+        {
+          "path": "source_data/Figure_4/Figure_4D.csv",
+          "sha256": "dfeaf953161380e3d2099c6da2c716950b7bd2897a038a5e29fc8e5bd885de1c",
+          "rows": 26
+        }
+      ],
+      "total_table_rows": 566,
+      "round_trip_verified": true
+    },
+    {
+      "figure": 5,
+      "file": "SourceData_Figure_5.tsv",
+      "sha256": "a4770697c2af47015d1a2adb50c95589e985375e69248ef572a024aad55ee2f1",
+      "tables": [
+        {
+          "path": "source_data/Figure_5/Figure_5A.csv",
+          "sha256": "b91c503deb7de1e6cde892d766fd9dce8b7d952ea40d1614e5a2f6f75786a750",
+          "rows": 13
+        },
+        {
+          "path": "source_data/Figure_5/Figure_5B.csv",
+          "sha256": "9bb449dab0ef7ebcaae3a7fd523ae3a0d7843332f382cdcf0715dfa2777b75fd",
+          "rows": 13
+        },
+        {
+          "path": "source_data/Figure_5/Figure_5C.csv",
+          "sha256": "e3d4f1192df64aebbad9a4aaf145d2f585a0cbed4f1eb1578b1e0fbdc48755b5",
+          "rows": 28
+        },
+        {
+          "path": "source_data/Figure_5/Figure_5D.csv",
+          "sha256": "3d4564610f30aefdee87105c5be0204692f414aafc10183cfbfd777288400d28",
+          "rows": 28
+        }
+      ],
+      "total_table_rows": 82,
+      "round_trip_verified": true
+    },
+    {
+      "figure": 6,
+      "file": "SourceData_Figure_6.tsv",
+      "sha256": "193edf78234f92fb093c5f0a629e8ff90bdb17e4a4317251c57b449fd2d492a0",
+      "tables": [
+        {
+          "path": "source_data/Figure_6/Figure6A_spatial_niches.csv",
+          "sha256": "861a5bfb425c60dbc5071fb20547d919915a69753eceb4970f6793115563f344",
+          "rows": 3107
+        },
+        {
+          "path": "source_data/Figure_6/Figure6B_gene_expression.csv",
+          "sha256": "67d1afe6f7c01fbfc7dc8f8c8e81b9e2a02da385389464975a9695165259a632",
+          "rows": 560
+        },
+        {
+          "path": "source_data/Figure_6/Figure6B_axis_annotations.csv",
+          "sha256": "0c4c41d6cb3a8fca86b9c8638870a24cdbf1e44fc3bc3c64da6bda41111021cf",
+          "rows": 44
+        },
+        {
+          "path": "source_data/Figure_6/Figure6C_bacterial_occupancy_burden.csv",
+          "sha256": "9e0df56b9f4ea6eafe912aefc614973d135ad987b008f2bd9550809cb50523c2",
+          "rows": 14
+        },
+        {
+          "path": "source_data/Figure_6/Figure6D_taxon_niche_screen.csv",
+          "sha256": "3659a7bcc41ee0cab52b4b4d7bbfb1e8827327a1be88988751e8f6b804fb7a01",
+          "rows": 261
+        },
+        {
+          "path": "source_data/Figure_6/Figure6E_immune_context.csv",
+          "sha256": "aff2dc7cfe1dc53d6d108f2db0e915f96bb382dec83295df94b4acab51f31ab8",
+          "rows": 29
+        },
+        {
+          "path": "source_data/Figure_6/Figure6F_cellular_attribution.csv",
+          "sha256": "eab647bcfe0d0e35e313552996fda9e8f15940d980904caa2a41a82ba716dbe3",
+          "rows": 57
+        },
+        {
+          "path": "source_data/Figure_6/GSE178341_Top_patient_scores_current.csv",
+          "sha256": "6cc67d3bca6f7a55966208c06587e768694c9ed7724b46d7c8ea1456fa911c2d",
+          "rows": 2993
+        },
+        {
+          "path": "source_data/Figure_6/GSE178341_lineage_contrasts.csv",
+          "sha256": "e3ca6dbd7dfb253d8c2f7449661c8a091250677ba1eb254d42cff2eca61fa69a",
+          "rows": 7
+        },
+        {
+          "path": "source_data/Figure_6/GSE178341_lineage_patient_differences.csv",
+          "sha256": "909a17259885b5c1de9707679cf320c7ed5b45d53cb54e1fc73a87a568657e31",
+          "rows": 373
+        }
+      ],
+      "total_table_rows": 7445,
+      "round_trip_verified": true
+    },
+    {
+      "figure": 7,
+      "file": "SourceData_Figure_7.tsv",
+      "sha256": "f72f083a075fd86541d0f167e4ed6c027d55fe3aa87d204e83009c9ee74ccb45",
+      "tables": [
+        {
+          "path": "source_data/Figure_7/Figure7A_niche_module_edges.csv",
+          "sha256": "5975fc0faf6c2679feac2626c8706b4bf8323e76f173ef5efb9d8de76702c88b",
+          "rows": 14
+        },
+        {
+          "path": "source_data/Figure_7/Figure7_niche_states.csv",
+          "sha256": "5595116299a1cd0178f20c1abe46010d49eb74cb22a3c179f0517c5169a0c2c0",
+          "rows": 5
+        },
+        {
+          "path": "source_data/Figure_7/Figure7_niche_quantitative_anchors.csv",
+          "sha256": "14cc19c9b6c2a251ea685406a1569a7930562c6d8680ba1fe676e62178c0a520",
+          "rows": 13
+        },
+        {
+          "path": "source_data/Figure_7/Figure7B_strategy_evidence.csv",
+          "sha256": "c415b8e8b62fcf8aaa13e0116f1bda4cb61977d9a2554fe3ff22b7bbe7570548",
+          "rows": 11
+        },
+        {
+          "path": "source_data/Figure_7/Figure7B_strategy_plot_data.csv",
+          "sha256": "ed74f2ca15dd9a2f1e758b7fb22df9769c52e88a1873ab7a82041f1dc9216ef9",
+          "rows": 11
+        },
+        {
+          "path": "source_data/Figure_7/Figure7B_evidence_class_counts.csv",
+          "sha256": "69885daf35809720b80809613d8897d892a14d68661f0e8fe720b5bb7c5b9883",
+          "rows": 6
+        },
+        {
+          "path": "source_data/Figure_7/Figure7_evidence_hierarchy.csv",
+          "sha256": "7b41d8d6165db59f1f61d61dabdf8527f1ebd5b328ae91037558aa88ed8c36cd",
+          "rows": 6
+        },
+        {
+          "path": "source_data/Figure_7/Figure7_reference_links.csv",
+          "sha256": "139a50575905ae1be86f44e89b0d233d5b6e145ad1100bf309698832ef8320a3",
+          "rows": 21
+        },
+        {
+          "path": "source_data/Figure_7/Figure7C_spatial_coverage.csv",
+          "sha256": "287c602e9ac9ad0c1d23d4bba6132566039c08fb5d280ffc7efe9be21241ae17",
+          "rows": 9
+        },
+        {
+          "path": "source_data/Figure_7/Figure7C_coverage_long.csv",
+          "sha256": "79be356cb867f27b17af9a04135442dae0abf1b4e2d52a8d5b7917c77073ca5a",
+          "rows": 33
+        },
+        {
+          "path": "source_data/Figure_7/Figure7C_coverage_counts.csv",
+          "sha256": "93156c844df17012aa74aabd96a56d6f485c43bfb4efbf677836c3082bbd217c",
+          "rows": 4
+        },
+        {
+          "path": "source_data/Figure_7/Figure7D_biomarker_modules.csv",
+          "sha256": "adbd7c8b7e977501a85d43371042ff88c4b2ad50d401fa18ec1331dac246ca86",
+          "rows": 8
+        },
+        {
+          "path": "source_data/Figure_7/Figure7_interpretive_boundaries.csv",
+          "sha256": "8f711f7b478ddd8b958ab15cfc29aeb73b0f442c12c151d5692fc7f229d521d3",
+          "rows": 6
+        },
+        {
+          "path": "source_data/Figure_7/Figure7_limiting_evidence.csv",
+          "sha256": "79f7b549ef4dfe6c39614c185970e28db4fd04a74b8723941066b1c7d45556fd",
+          "rows": 4
+        }
+      ],
+      "total_table_rows": 151,
+      "round_trip_verified": true
+    }
+  ],
+  "panels": 31,
+  "passed": true
+}

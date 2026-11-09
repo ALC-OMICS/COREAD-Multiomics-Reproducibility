@@ -1,0 +1,15 @@
+OK  parse_exports.py (1.112 s)
+OK  analyze_patients.py (11.101 s)
+OK  pivot_external_table.py (0.189 s)
+OK  make_patient_figures.py (3.491 s)
+OK  make_compact_profiles.py (1.564 s)
+OK  make_permutation_panels.py (0.516 s)
+OK  verify_deliverables.py (1.56 s)
+PASS: clean rerun agrees with reference for 15 numerical files
+Finished. Reproduced outputs: /workspace/scratch/45a7ec1865d3/work/rebuild_20261031/central_runs/full/02_genomics/numerical
+{
+  "passed": true,
+  "module": "02_genomics",
+  "seconds": 20.891480445861816,
+  "numerical_files_checked": 15
+}

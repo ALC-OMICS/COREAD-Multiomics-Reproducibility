@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-31",
+  "combined_0_1_0_archive_available": false,
+  "release": "0.2.0",
+  "sources": [
+    {
+      "file": "COREAD_GitHub_Repositorio_Completo.zip",
+      "bytes": 35168109,
+      "sha256": "d0153d3aff1f717c60f607b82e4f78191d76218e6d040cc296de791621eb84ab",
+      "role": "Recovered original module archive; extracted contents bundled, archive not duplicated"
+    },
+    {
+      "file": "COREAD_SingleCell_GitHub_Repositorio_Completo.zip",
+      "bytes": 7947345,
+      "sha256": "7989578e92384f63993e5eae50001ed67d6ff45c84cbc1eb30a79e90898257aa",
+      "role": "Recovered original module archive; extracted contents bundled, archive not duplicated"
+    },
+    {
+      "file": "COREAD_Spatial_Valdeolivas_GitHub.zip",
+      "bytes": 2383701,
+      "sha256": "b2dfe14c03e0937c451ed29f596ef1dbcdcb2a3b907b8955a243258d11bed305",
+      "role": "Recovered original module archive; extracted contents bundled, archive not duplicated"
+    },
+    {
+      "file": "CRC16_spatial_microbiome_GitHub.zip",
+      "bytes": 1097335,
+      "sha256": "5645f6b036cb33afa27579f7c9cb4777f3f7e2a8a97cae5e4d14945e1fff29f2",
+      "role": "Recovered original module archive; extracted contents bundled, archive not duplicated"
+    },
+    {
+      "file": "coread-external-visiumhd-validation-github.zip",
+      "bytes": 2362946,
+      "sha256": "deec7e99546d9b2f634aaad34873315861841d94627e063bc259904a1ed8cd04",
+      "role": "Recovered original module archive; extracted contents bundled, archive not duplicated"
+    },
+    {
+      "file": "MANUSCRIPT_current.docx",
+      "bytes": 53547,
+      "sha256": "298d84f16c8f47b5ad99f52cbcb4c3cda8db7a2be299144e02e0a867fb09269e",
+      "role": "Author-provided current source export"
+    },
+    {
+      "file": "Supplementary_Table_current.xlsx",
+      "bytes": 10069409,
+      "sha256": "85cc8aab3133385c953b2b30bf6e85e5ffe8b731a3c1007c67c694de3185cffe",
+      "role": "Author-provided current source export"
+    }
+  ]
+}

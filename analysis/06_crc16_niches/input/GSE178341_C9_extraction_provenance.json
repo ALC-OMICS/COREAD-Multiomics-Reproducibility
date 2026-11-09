@@ -1,0 +1,21 @@
+{
+  "source_sha256": "f435bb2651ff5297d0c24a99daf58850ed67ae1ed6c5ef05fad48fa3f0186670",
+  "source_cells": 370115,
+  "source_features": 43113,
+  "source_full_UMI": 4754318647,
+  "genes": [
+    "BCL2L1",
+    "CTNNB1",
+    "FASN",
+    "HMGB1",
+    "IRS2",
+    "MYC",
+    "RNF6",
+    "SOX9",
+    "YAP1"
+  ],
+  "extraction_script": "analysis/03_single_cell/code/prepare_pseudobulk.py",
+  "counts_normalized": false,
+  "all_feature_library_sizes": true,
+  "source_annotations_preserved": true
+}

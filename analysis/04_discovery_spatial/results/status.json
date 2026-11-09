@@ -1,0 +1,37 @@
+{
+  "module": "04_discovery_spatial",
+  "mode": "processed",
+  "passed": true,
+  "counts": {
+    "Core47": 47,
+    "Spatial43": 43,
+    "Convergent9": 9,
+    "Extended13": 13
+  },
+  "reference_comparison": {
+    "passed": true,
+    "checked_columns": 159,
+    "rows": 466,
+    "failures": []
+  },
+  "matched_null_replay_comparison": {
+    "passed": true,
+    "checked_columns": 7,
+    "rows": 3,
+    "failures": []
+  },
+  "numerical_checks": {
+    "hierarchy_counts": true,
+    "Moran_finite_hypotheses_441": true,
+    "unique_genes_466": true,
+    "C9_members": true,
+    "Core47_Moran_positive_significant_44": true,
+    "sets_nested": true
+  },
+  "execution_scope": "Patient/section checkpoints to keyed inference, hierarchy and plots",
+  "source_reconstruction": null,
+  "limits": [
+    "Composition-adjusted interface summaries and spatial coexpression modules are retained source checkpoints; use counts/raw mode to refit them.",
+    "Reported discovery matched-null statistics replay archived vectors; exact historical new-draw sampling cannot be reconstructed because Python set iteration order was not saved."
+  ]
+}

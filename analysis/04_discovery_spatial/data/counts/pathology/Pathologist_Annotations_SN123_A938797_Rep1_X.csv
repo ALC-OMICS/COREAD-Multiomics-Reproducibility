@@ -1,0 +1,2129 @@
+Barcode,Pathologist_KH
+AAACAAGTATCTCCCA-1,stroma_desmoplastic_IC low
+AAACATTTCCCGGATT-1,stroma_desmoplastic_IC med to high
+AAACCGGGTAGGTACC-1,stroma_fibroblastic_IC high
+AAACCGTTCGTCCAGG-1,stroma_fibroblastic_IC high
+AAACCTAAGCAGCCGG-1,tumor
+AAACCTCATGAAGTTG-1,tumor&stroma_IC med to high
+AAACGAGACGGTTGAT-1,tumor&stroma_IC med to high
+AAACGGGCGTACGGGT-1,stroma_fibroblastic_IC med
+AAACGGTTGCGAACTG-1,stroma_fibroblastic_IC high
+AAACTCGGTTCGCAAT-1,stroma_fibroblastic_IC high
+AAACTGCTGGCTCCAA-1,stroma_fibroblastic_IC high
+AAAGACTGGGCGCTTT-1,exclude
+AAAGGCTACGGACCAT-1,stroma_fibroblastic_IC high
+AAAGGCTCTCGCGCCG-1,stroma_fibroblastic_IC high
+AAAGGGATGTAGCAAG-1,stroma_fibroblastic_IC med
+AAAGTAGCATTGCTCA-1,exclude
+AAAGTGTGATTTATCT-1,stroma_desmoplastic_IC med to high
+AAAGTTGACTCCCGTA-1,stroma_desmoplastic_IC med to high
+AAATACCTATAAGCAT-1,stroma_fibroblastic_IC high
+AAATAGCTTAGACTTT-1,stroma_desmoplastic_IC low
+AAATAGGGTGCTATTG-1,stroma_fibroblastic_IC high
+AAATCCGATACACGCC-1,tumor&stroma_IC med to high
+AAATCGTGTACCACAA-1,stroma_fibroblastic_IC med
+AAATCTAGCCCTGCTA-1,stroma_desmoplastic_IC low
+AAATGGTCAATGTGCC-1,stroma_fibroblastic_IC med
+AAATTAACGGGTAGCT-1,stroma_fibroblastic_IC high
+AAATTACCTATCGATG-1,tumor&stroma_IC med to high
+AAATTGATAGTCCTTT-1,tumor&stroma_IC med to high
+AAATTTGCGGGTGTGG-1,stroma_fibroblastic_IC med
+AACAACTGGTAGTTGC-1,tumor&stroma_IC med to high
+AACACACGCTCGCCGC-1,stroma_desmoplastic_IC med to high
+AACAGGTAGTATGGAT-1,stroma_desmoplastic_IC med to high
+AACATATCAACTGGTG-1,stroma_fibroblastic_IC high
+AACCAAGACTTCTCTG-1,tumor
+AACCCAGAGACGGAGA-1,exclude
+AACCCTACTGTCAATA-1,stroma_desmoplastic_IC low
+AACCGAGCTTGGTCAT-1,tumor&stroma_IC med to high
+AACCGCTAAGGGATGC-1,stroma_desmoplastic_IC low
+AACCTCGCTTTAGCCC-1,stroma_fibroblastic_IC high
+AACCTTTAAATACGGT-1,stroma_fibroblastic_IC high
+AACGATAATGCCGTAG-1,tumor&stroma_IC med to high
+AACGATAGAAGGGCCG-1,epithelium&submucosa
+AACGATATGTCAACTG-1,stroma_fibroblastic_IC med
+AACGCATGATCTGGGT-1,stroma_fibroblastic_IC high
+AACGCGACCTTGGGCG-1,exclude
+AACGCGGTCTCCAGCC-1,stroma_fibroblastic_IC med
+AACGCTGTTGCTGAAA-1,stroma_desmoplastic_IC low
+AACGGACGTACGTATA-1,stroma_desmoplastic_IC low
+AACGGCCATCTCCGGT-1,stroma_fibroblastic_IC high
+AACGTACTGTGGGTAC-1,stroma_fibroblastic_IC high
+AACGTCAGACTAGTGG-1,non neo epithelium
+AACGTGCGAAAGTCTC-1,stroma_fibroblastic_IC high
+AACTAGGCTTGGGTGT-1,tumor&stroma_IC med to high
+AACTCAAGTTAATTGC-1,stroma_fibroblastic_IC med
+AACTCCAGAGCGTGTT-1,stroma_fibroblastic_IC high
+AACTCTCAATAGAGCG-1,stroma_fibroblastic_IC high
+AACTCTCAGTGTGCTC-1,stroma_fibroblastic_IC high
+AACTGGGTCCCGACGT-1,stroma_fibroblastic_IC med
+AAGACCCAACTGAACA-1,stroma_fibroblastic_IC high
+AAGACTGCAAGCTACT-1,stroma_fibroblastic_IC high
+AAGAGCTCTTTATCGG-1,tumor
+AAGAGGATGTACGCGA-1,tumor
+AAGAGGCATGGATCGC-1,stroma_fibroblastic_IC high
+AAGAGGCCCTTTGGAA-1,exclude
+AAGATTGGCGGAACGT-1,stroma_fibroblastic_IC high
+AAGCACCCTGCGTATC-1,tumor
+AAGCATACTCTCCTGA-1,stroma_fibroblastic_IC high
+AAGCCGAAGCGGTTTA-1,stroma_desmoplastic_IC low
+AAGCGCAGGGCTTTGA-1,stroma_fibroblastic_IC high
+AAGCTAGATCGAGTAA-1,stroma_fibroblastic_IC high
+AAGCTCGTGCCAAGTC-1,tumor
+AAGCTCTTTCATGGTG-1,stroma_fibroblastic_IC high
+AAGGAGCGGTTGGTGC-1,tumor&stroma_IC med to high
+AAGGATCGATCGCTTG-1,stroma_desmoplastic_IC low
+AAGGATGAGGGACCTC-1,stroma_fibroblastic_IC high
+AAGGCGCGTAAAGCTT-1,epithelium&submucosa
+AAGGCTGTGCTCATCG-1,tumor
+AAGGGACAGATTCTGT-1,tumor&stroma_IC med to high
+AAGGTATCCTAATATA-1,stroma_fibroblastic_IC med
+AAGGTGATAAACCAGC-1,stroma_desmoplastic_IC low
+AAGTAGAAGACCGGGT-1,epithelium&submucosa
+AAGTAGTGACGCGAGG-1,epithelium&submucosa
+AAGTCAATTGTCGTCA-1,stroma_desmoplastic_IC low
+AAGTGACGACCGAATT-1,tumor&stroma_IC med to high
+AAGTGCCTTGACTGTA-1,stroma_desmoplastic_IC low
+AAGTGCGTTAGAATCT-1,exclude
+AAGTGTTTGGAGACGG-1,stroma_fibroblastic_IC high
+AAGTTCACTCCAAGCT-1,stroma_fibroblastic_IC high
+AAGTTCAGTCTGCGTA-1,exclude
+AAGTTCGGCCAACAGG-1,stroma_fibroblastic_IC med
+AAGTTTATGGGCCCAA-1,stroma_fibroblastic_IC high
+AATAACAACGCTCGGC-1,tumor
+AATAACACTAGAACAA-1,stroma_fibroblastic_IC high
+AATAGAACAGAGTGGC-1,stroma_fibroblastic_IC high
+AATAGAATCTGTTTCA-1,stroma_desmoplastic_IC med to high
+AATAGTCCGTCCCGAC-1,tumor
+AATATCGAATCAATGC-1,stroma_desmoplastic_IC low
+AATATCGAGGGTTCTC-1,stroma_fibroblastic_IC med
+AATATTGGAGTATTGA-1,tumor&stroma_IC med to high
+AATCATGTAAAGACTC-1,stroma_desmoplastic_IC med to high
+AATCCAAGGGCCTGAG-1,exclude
+AATCGCCTCAGCGCCA-1,stroma_fibroblastic_IC med
+AATCGTGAGCCGAGCA-1,stroma_fibroblastic_IC med
+AATCTGCGTTGGGACG-1,stroma_fibroblastic_IC med
+AATGACAGCAATGTCT-1,stroma_fibroblastic_IC high
+AATGACGTAGGATGTC-1,stroma_fibroblastic_IC high
+AATGACTGTCAGCCGG-1,muscularis_IC med to high
+AATGATGATACGCTAT-1,tumor&stroma_IC med to high
+AATGATGCGACTCCTG-1,stroma_fibroblastic_IC med
+AATGCAACCGGGTACC-1,stroma_fibroblastic_IC high
+AATGCACCAAGCAATG-1,exclude
+AATGGTCCACCGTTCA-1,epithelium&submucosa
+AATGGTTCTCACAAGC-1,non neo epithelium
+AATTAAAGGTCGGCGT-1,stroma_fibroblastic_IC high
+AATTAACGGATTTCCA-1,tumor
+AATTAGCGCTGCAGCG-1,stroma_fibroblastic_IC high
+AATTCATAAGGGATCT-1,stroma_fibroblastic_IC high
+AATTCCAAGCATGTAC-1,stroma_fibroblastic_IC high
+AATTCGATTCGAGGAT-1,stroma_fibroblastic_IC high
+AATTCTAGAGTTAGGC-1,stroma_fibroblastic_IC med
+AATTGAACGCTCTGGT-1,tumor&stroma_IC med to high
+AATTGCAGCAATCGAC-1,exclude
+ACAAAGCATGACCTAG-1,stroma_desmoplastic_IC med to high
+ACAAATCGCACCGAAT-1,stroma_fibroblastic_IC high
+ACAAATGGTAGTGTTT-1,stroma_fibroblastic_IC high
+ACAACAGCATGAGCTA-1,tumor
+ACAACGGTCCCTGCGA-1,non neo epithelium
+ACAAGGAAATCCGCCC-1,stroma_fibroblastic_IC high
+ACAAGGACAAGAGGTT-1,epithelium&submucosa
+ACAAGGATGCTTTAGG-1,stroma_fibroblastic_IC high
+ACAAGGGCAGGCTCTG-1,stroma_fibroblastic_IC med
+ACAATAGTCGTACGTT-1,exclude
+ACAATCCATTTAAACC-1,tumor
+ACAATTGTGTCTCTTT-1,stroma_desmoplastic_IC low
+ACAATTTGAGCAGTGG-1,tumor&stroma_IC med to high
+ACACAAAGACGGGTGG-1,stroma_fibroblastic_IC high
+ACACACCAGGACCAGT-1,stroma_desmoplastic_IC med to high
+ACACATTTCCGTAGAC-1,exclude
+ACACCCAGCATGCAGC-1,stroma_fibroblastic_IC med
+ACACCCGAGAAATCCG-1,IC aggregate submucosa
+ACACCTTAAGTAGGGC-1,muscularis_IC med to high
+ACACCTTACTACTTGC-1,stroma_desmoplastic_IC med to high
+ACACGAGACTCCTTCT-1,tumor
+ACACGGGAACTTAGGG-1,stroma_fibroblastic_IC high
+ACACTGATCAAGGTGT-1,stroma_fibroblastic_IC high
+ACAGCGACATTCTCAT-1,stroma_desmoplastic_IC low
+ACAGGCACGGATCCTT-1,exclude
+ACAGGCTTGCCCGACT-1,stroma_desmoplastic_IC med to high
+ACAGGTGGAGGTGAGG-1,stroma_fibroblastic_IC high
+ACATAATAAGGCGGTG-1,exclude
+ACATCCCGGCCATACG-1,stroma_fibroblastic_IC high
+ACATCCTGGTAACTGT-1,stroma_desmoplastic_IC low
+ACATCGATCGTTTACC-1,stroma_fibroblastic_IC high
+ACATCGGTCAGCCGCG-1,stroma_fibroblastic_IC high
+ACATCGTATGCAATGG-1,stroma_fibroblastic_IC high
+ACATGGCGCCAAAGTA-1,stroma_desmoplastic_IC med to high
+ACATTAGTTTATATCC-1,stroma_fibroblastic_IC med
+ACCAACCGCACTCCAC-1,stroma_fibroblastic_IC high
+ACCAACGCTTATTTAT-1,stroma_fibroblastic_IC high
+ACCAAGAACGCGTGTC-1,non neo epithelium
+ACCAATATGCAAGTTA-1,tumor&stroma_IC med to high
+ACCACAAGTTTCTATC-1,stroma_fibroblastic_IC high
+ACCACCAATGTAACAA-1,stroma_desmoplastic_IC low
+ACCACGTGCAGCTATA-1,stroma_fibroblastic_IC high
+ACCAGTGCGGGAGACG-1,stroma_desmoplastic_IC med to high
+ACCATATCCGCAATAA-1,stroma_fibroblastic_IC med
+ACCATCGTATATGGTA-1,stroma_fibroblastic_IC high
+ACCCAACGCCCGTGGC-1,stroma_fibroblastic_IC high
+ACCCATCTTGAGGGTA-1,tumor
+ACCCATTTGTCCCTCT-1,stroma_desmoplastic_IC low
+ACCCGGAAACTCCCAG-1,stroma_fibroblastic_IC high
+ACCCGGATGACGCATC-1,stroma_desmoplastic_IC low
+ACCCGGTTACACTTCC-1,stroma_fibroblastic_IC high
+ACCCGTGTCATCAGTA-1,tumor&stroma_IC med to high
+ACCCTATGCCATATCG-1,exclude
+ACCCTCCCTTGCTATT-1,stroma_fibroblastic_IC high
+ACCGACACATCTCCCA-1,tumor
+ACCGACTGAGTCCCAC-1,stroma_fibroblastic_IC high
+ACCGAGTCTCCTTATT-1,stroma_fibroblastic_IC high
+ACCGATGGTAGCATCG-1,stroma_fibroblastic_IC high
+ACCGCAATAACTGCCT-1,stroma_fibroblastic_IC high
+ACCGCGGTGGAAGTCG-1,stroma_desmoplastic_IC low
+ACCGGGCCTTTGTTGA-1,stroma_desmoplastic_IC low
+ACCTAAGTACCTTTCA-1,stroma_fibroblastic_IC high
+ACCTACTATAAATCTA-1,stroma_fibroblastic_IC high
+ACCTCCGCCCTCGCTG-1,stroma_desmoplastic_IC low
+ACGAAATGGGCGGCAC-1,epithelium&submucosa
+ACGAGTACGGATGCCC-1,stroma_fibroblastic_IC high
+ACGATACATAGAACTA-1,stroma_fibroblastic_IC high
+ACGATCATACATAGAG-1,stroma_fibroblastic_IC med
+ACGATCATCTTGTAAA-1,stroma_desmoplastic_IC low
+ACGATGCATATGTTAT-1,stroma_fibroblastic_IC med
+ACGCATACGTTTACTA-1,stroma_desmoplastic_IC low
+ACGCATTCGTGAGTAC-1,stroma_fibroblastic_IC high
+ACGCCGCTAGACGACC-1,stroma_fibroblastic_IC high
+ACGCGAAGTCAGACGA-1,tumor
+ACGCGCTACACAGGGT-1,stroma_fibroblastic_IC high
+ACGCGGGCCAAGGACA-1,stroma_fibroblastic_IC high
+ACGCTAGTGATACACT-1,stroma_fibroblastic_IC med
+ACGGACTCTCAAAGCG-1,tumor&stroma_IC med to high
+ACGGATGGTGCGGATA-1,stroma_fibroblastic_IC high
+ACGGCACTTGCTTGGG-1,stroma_fibroblastic_IC high
+ACGGCCAACATGGACT-1,tumor
+ACGGCGACGATGGGAA-1,stroma_fibroblastic_IC high
+ACGGGAGTGTCGGCCC-1,exclude
+ACGTAGATTGCTGATG-1,tumor&stroma_IC med to high
+ACGTAGGAGAGTCGCT-1,tumor&stroma_IC med to high
+ACGTATTACTCCGATC-1,stroma_desmoplastic_IC low
+ACGTTAATGTCGAAGA-1,stroma_fibroblastic_IC med
+ACGTTAGATTTGCCCG-1,tumor&stroma_IC med to high
+ACTACCAGCTCTCTGG-1,submucosa
+ACTACGCGTTAGAATT-1,stroma_fibroblastic_IC high
+ACTAGTTGCGATCGTC-1,stroma_desmoplastic_IC low
+ACTATCCAGGGCATGG-1,stroma_desmoplastic_IC low
+ACTCAAGTGCAAGGCT-1,stroma_fibroblastic_IC high
+ACTCAATAAAGGCACG-1,tumor&stroma_IC med to high
+ACTCCCGAATTCGTTT-1,stroma_desmoplastic_IC med to high
+ACTCCCTAATGCTAAA-1,tumor
+ACTCCCTAGAATAGTA-1,stroma_fibroblastic_IC high
+ACTCCGGCCGACCACT-1,stroma_fibroblastic_IC high
+ACTCGTCAGTAATCCC-1,stroma_fibroblastic_IC high
+ACTCTCTGACTTAGGT-1,stroma_fibroblastic_IC high
+ACTCTTGTATAGTAAC-1,stroma_fibroblastic_IC high
+ACTGAAACGCCGTTAG-1,stroma_desmoplastic_IC med to high
+ACTGAATGGCGAAAGT-1,stroma_fibroblastic_IC med
+ACTGTACGATACACAT-1,stroma_fibroblastic_IC high
+ACTGTAGCACTTTGGA-1,epithelium&submucosa
+ACTGTCCAGGATTATA-1,stroma_fibroblastic_IC high
+ACTGTCTTCTTTAGAA-1,tumor&stroma_IC med to high
+ACTTACGCATCCACGC-1,stroma_fibroblastic_IC high
+ACTTATACTTACCCGG-1,stroma_fibroblastic_IC high
+ACTTATTAGGATCGGT-1,stroma_fibroblastic_IC high
+ACTTATTTATGTGCCA-1,stroma_desmoplastic_IC med to high
+ACTTCAGGCTGATCCC-1,stroma_fibroblastic_IC high
+ACTTCCATGCGGGACA-1,stroma_fibroblastic_IC high
+ACTTCGCCATACGCAC-1,stroma_fibroblastic_IC med
+ACTTGACTCCCTCTTT-1,stroma_fibroblastic_IC high
+ACTTGGGACCCGGTGG-1,tumor&stroma_IC med to high
+ACTTGTGGATGGAACG-1,stroma_desmoplastic_IC med to high
+ACTTTACCCTCATGAA-1,stroma_desmoplastic_IC med to high
+ACTTTCCTATAGCTTC-1,stroma_fibroblastic_IC high
+AGAACGTGGTACATTC-1,stroma_fibroblastic_IC med
+AGAAGAGCGCCGTTCC-1,tumor&stroma_IC med to high
+AGAAGGTTGCCGAATT-1,tumor&stroma_IC med to high
+AGAAGGTTGTAGGTCG-1,tumor&stroma_IC med to high
+AGAAGTGATTCGTGAT-1,exclude
+AGAATTATGGATTCGA-1,stroma_fibroblastic_IC high
+AGACCATGGGATACAA-1,submucosa
+AGACCCACCGCTGATC-1,stroma_fibroblastic_IC med
+AGACCCGCCCTCCTCG-1,stroma_fibroblastic_IC med
+AGACCGCTCCGCGGTT-1,stroma_desmoplastic_IC low
+AGACGAAGTGCCGGTC-1,stroma_desmoplastic_IC low
+AGACGACGATGCCGCT-1,stroma_fibroblastic_IC high
+AGACTAGCCTTCCAGA-1,tumor
+AGAGAACCGTCTAGGA-1,stroma_fibroblastic_IC high
+AGAGATCTCTAAAGCG-1,exclude
+AGAGCAGTTATGAGAC-1,epithelium&submucosa
+AGAGCCGCCGAGATTT-1,exclude
+AGAGCGTACAAGCTCG-1,exclude
+AGAGGCTTCGGAAACC-1,stroma_desmoplastic_IC low
+AGAGTAAACTTCACTA-1,stroma_desmoplastic_IC low
+AGATAACTTCAGGGCC-1,tumor
+AGATACCGGTGTTCAC-1,stroma_fibroblastic_IC high
+AGATACGACTTCATAT-1,epithelium&submucosa
+AGATACTCAAGATCGA-1,tumor&stroma_IC med to high
+AGATATAATACGACTA-1,tumor&stroma_IC med to high
+AGATCGTGCATAAGAT-1,stroma_fibroblastic_IC high
+AGATCTCAGGTGTGAT-1,stroma_fibroblastic_IC med
+AGATGATGGAGTCTGG-1,stroma_desmoplastic_IC low
+AGATTATAGGACGTTT-1,stroma_fibroblastic_IC high
+AGCAAAGGCCGCTAGT-1,tumor&stroma_IC med to high
+AGCAACATATCTTATT-1,stroma_desmoplastic_IC med to high
+AGCACCAGTACTCACG-1,stroma_fibroblastic_IC med
+AGCACTACCTCACCAG-1,stroma_fibroblastic_IC high
+AGCAGAAGGAGAAAGA-1,stroma_fibroblastic_IC high
+AGCAGCCAGATGAATA-1,stroma_fibroblastic_IC high
+AGCATATCAATATGCT-1,stroma_desmoplastic_IC low
+AGCATCGTCGATAATT-1,stroma_fibroblastic_IC med
+AGCCAAGCTTTGTGTC-1,stroma_fibroblastic_IC high
+AGCCACAGGTTACCCG-1,stroma_fibroblastic_IC high
+AGCCACTCCCGTGCTT-1,stroma_fibroblastic_IC med
+AGCCATATAGTATGTG-1,stroma_fibroblastic_IC high
+AGCCCATACATGTAAG-1,stroma_fibroblastic_IC high
+AGCCCGCAACAAGCAG-1,stroma_fibroblastic_IC high
+AGCGACAGGAACGGTC-1,stroma_fibroblastic_IC high
+AGCGACCAACGATATT-1,stroma_fibroblastic_IC med
+AGCGCATAATGAATCG-1,tumor&stroma_IC med to high
+AGCGCGGGTGCCAATG-1,tumor&stroma_IC med to high
+AGCGGACACTTCGTAG-1,stroma_fibroblastic_IC high
+AGCGGGTCTGACACTC-1,stroma_fibroblastic_IC high
+AGCGTGGTATTCTACT-1,stroma_fibroblastic_IC high
+AGCTAAGTACGCAGGC-1,stroma_fibroblastic_IC high
+AGCTAGAAGCAGAAGT-1,stroma_fibroblastic_IC high
+AGCTCCATATATGTTC-1,exclude
+AGCTCCTTCGCACATC-1,stroma_fibroblastic_IC high
+AGCTCTAGACGTTCCA-1,stroma_fibroblastic_IC high
+AGCTCTTCCCAGTGCA-1,exclude
+AGCTCTTCGTAACCTT-1,stroma_desmoplastic_IC low
+AGCTCTTTACTCAGTT-1,stroma_fibroblastic_IC med
+AGCTGAAGTAAACCAA-1,stroma_fibroblastic_IC high
+AGCTGTAACCTCAATC-1,stroma_fibroblastic_IC high
+AGCTTGATCTTAACTT-1,tumor&stroma_IC med to high
+AGGAAGCTGTCCGCCG-1,tumor&stroma_IC med to high
+AGGACAGTCGAATCCC-1,stroma_fibroblastic_IC high
+AGGACATCGCACGTCG-1,epithelium&submucosa
+AGGACGACCCATTAGA-1,tumor&stroma_IC med to high
+AGGACGCTCGATGTTG-1,exclude
+AGGAGGCCTTCGCGCG-1,stroma_desmoplastic_IC low
+AGGATAAAGTCGGGAT-1,tumor&stroma_IC med to high
+AGGATATAGGGATTTA-1,stroma_desmoplastic_IC low
+AGGCAGATGCGTAAAC-1,stroma_fibroblastic_IC high
+AGGCAGGGAGCGTACT-1,exclude
+AGGCATTGTCGTAGGG-1,stroma_desmoplastic_IC low
+AGGCCACCCGTTATGA-1,epithelium&submucosa
+AGGCCCATTGTACAGG-1,epithelium&submucosa
+AGGCCCTAGAACGCCA-1,stroma_fibroblastic_IC high
+AGGCCTGAGAATCTCG-1,stroma_fibroblastic_IC high
+AGGCTATGGTTAGCTT-1,epithelium&submucosa
+AGGCTTCCCGAAGAAG-1,stroma_fibroblastic_IC med
+AGGGACCGGCTGCGTT-1,exclude
+AGGGACTCTACGCGAC-1,stroma_fibroblastic_IC high
+AGGGCGTGATCGGCTA-1,epithelium&submucosa
+AGGGCTGCAGTTACAG-1,stroma_fibroblastic_IC high
+AGGGTCGATGCGAACT-1,stroma_desmoplastic_IC low
+AGGGTGCTCTCGAGGG-1,stroma_fibroblastic_IC high
+AGGGTTCCCTTTGGTT-1,stroma_fibroblastic_IC high
+AGGGTTTAGTTCGGGA-1,stroma_fibroblastic_IC high
+AGGTAACCTCCTATTC-1,exclude
+AGGTAGGTACAAAGCT-1,tumor
+AGGTATAATTGATAGT-1,stroma_desmoplastic_IC low
+AGGTCGCGGAGTTACT-1,stroma_fibroblastic_IC high
+AGGTGGTGACCTTCGC-1,stroma_fibroblastic_IC high
+AGGTGTATCGCCATGA-1,exclude
+AGGTTGAGGCACGCTT-1,stroma_fibroblastic_IC high
+AGGTTTCACACACCTT-1,stroma_fibroblastic_IC med
+AGTACAGAAGCTTATA-1,stroma_fibroblastic_IC high
+AGTACATCATTTATCA-1,exclude
+AGTACGGGCACCTGGC-1,stroma_fibroblastic_IC med
+AGTACTCTTATGCCCA-1,stroma_fibroblastic_IC high
+AGTAGAAGGCGCCTCA-1,stroma_fibroblastic_IC high
+AGTAGGTAACATACAT-1,exclude
+AGTATAATACTAGGCA-1,epithelium&submucosa
+AGTATTTGGCACGACC-1,stroma_fibroblastic_IC high
+AGTCAACACCACCATC-1,stroma_fibroblastic_IC high
+AGTCAAGATGACACTT-1,stroma_desmoplastic_IC med to high
+AGTCACTAGCTCTCGA-1,stroma_desmoplastic_IC low
+AGTCCATTGGCTGATG-1,stroma_desmoplastic_IC low
+AGTCGACGGTCTCAAG-1,stroma_fibroblastic_IC high
+AGTCGGCCCAAACGAC-1,submucosa
+AGTCGTATAAAGCAGA-1,tumor
+AGTCGTCGACCACCAA-1,stroma_fibroblastic_IC med
+AGTCGTGGGCATTACG-1,stroma_fibroblastic_IC high
+AGTCTCACAAGACTAC-1,stroma_fibroblastic_IC high
+AGTCTTCTCCTCAAAT-1,stroma_fibroblastic_IC med
+AGTCTTTAAAGTGTCC-1,stroma_fibroblastic_IC high
+AGTGAACAAACTTCTC-1,stroma_desmoplastic_IC low
+AGTGACCTACTTTACG-1,stroma_fibroblastic_IC high
+AGTGAGACTTCCAGTA-1,stroma_fibroblastic_IC high
+AGTGAGCCTCGCCGCC-1,stroma_fibroblastic_IC high
+AGTGATAACCTGCGCG-1,stroma_fibroblastic_IC high
+AGTGATATGAGTAGTT-1,stroma_fibroblastic_IC high
+AGTGATTCAAGCAGGA-1,stroma_fibroblastic_IC med
+AGTGCACGCTTAAGAA-1,stroma_desmoplastic_IC low
+AGTGCGTAGCTCGTAA-1,stroma_fibroblastic_IC high
+AGTGCTAAACACAGCA-1,stroma_fibroblastic_IC high
+AGTGCTTGCACGAATA-1,stroma_fibroblastic_IC high
+AGTGGCGGCAATTTGA-1,stroma_fibroblastic_IC high
+AGTGGCGTCTGAAGGT-1,stroma_fibroblastic_IC high
+AGTTAAACACTTGCGA-1,stroma_fibroblastic_IC high
+AGTTAAGTCAACCGCT-1,exclude
+AGTTCCTACAGAATTA-1,tumor&stroma_IC med to high
+AGTTCCTATTTATGTT-1,tumor&stroma_IC med to high
+AGTTGACGGTCCTTGC-1,stroma_fibroblastic_IC high
+AGTTTGCACCTGCCTC-1,stroma_fibroblastic_IC med
+AGTTTGGCACGGGTTG-1,stroma_desmoplastic_IC low
+AGTTTGGCCAGACCTA-1,stroma_fibroblastic_IC high
+ATAAACGGACCCGTAA-1,stroma_fibroblastic_IC med
+ATAAACGTTGCACCAC-1,exclude
+ATAAAGGCTCGGTCGT-1,stroma_fibroblastic_IC med
+ATAAATATTAGCAGCT-1,tumor&stroma_IC med to high
+ATAACGCCGGAGGGTC-1,tumor&stroma_IC med to high
+ATAACGGAGTCCAACG-1,stroma_fibroblastic_IC med
+ATAAGGTGGAGAACAT-1,stroma_fibroblastic_IC high
+ATAAGTAGGATTCAGA-1,stroma_fibroblastic_IC high
+ATAAGTAGGGCGACTC-1,stroma_desmoplastic_IC low
+ATAAGTTACCGCGACG-1,tumor
+ATAATAGCTGTTGAAT-1,stroma_fibroblastic_IC med
+ATAATAGTGTAGGGAC-1,epithelium&submucosa
+ATAATCTTGGAGAACC-1,tumor&stroma_IC med to high
+ATAATTAGCTAAGTAG-1,tumor&stroma_IC med to high
+ATACAGGCCCTCCAAT-1,tumor
+ATACCACGGGCAACTT-1,submucosa
+ATACCTAACCAAGAAA-1,stroma_fibroblastic_IC high
+ATACGCCGGCGAAACC-1,stroma_fibroblastic_IC med
+ATACGGGTTTCGATTG-1,stroma_fibroblastic_IC med
+ATACGTACTTAGCCAC-1,stroma_fibroblastic_IC high
+ATACGTCCACTCCTGT-1,stroma_desmoplastic_IC low
+ATACGTTATGCACGGA-1,tumor&stroma_IC med to high
+ATACTACCCGTACCAC-1,stroma_desmoplastic_IC low
+ATACTAGCATGACCCT-1,exclude
+ATACTGCCTTACACCG-1,stroma_fibroblastic_IC high
+ATAGACAACGGGACCT-1,stroma_fibroblastic_IC med
+ATAGACGAAGAGAAAG-1,tumor&stroma_IC med to high
+ATAGAGTACTGGGACA-1,stroma_fibroblastic_IC high
+ATAGAGTTATCAACTT-1,stroma_fibroblastic_IC med
+ATAGCAACTAGGGAAG-1,stroma_desmoplastic_IC med to high
+ATAGGCGGCTATAGAA-1,stroma_fibroblastic_IC high
+ATAGGCTAGCTTCGCA-1,stroma_fibroblastic_IC med
+ATAGGGATATCCTTGA-1,stroma_fibroblastic_IC med
+ATAGGTTGGGCAGATG-1,stroma_fibroblastic_IC high
+ATAGTGAAGCGTTCTC-1,stroma_fibroblastic_IC high
+ATAGTTCCACCCACTC-1,stroma_desmoplastic_IC low
+ATATAAAGCGCTCGTG-1,tumor&stroma_IC med to high
+ATATAAATGTAGCTGC-1,stroma_fibroblastic_IC high
+ATATAACACGGGCGCA-1,stroma_fibroblastic_IC high
+ATATCAACCTACAGAG-1,stroma_desmoplastic_IC low
+ATATCGGTAGGGAGAT-1,stroma_desmoplastic_IC med to high
+ATATCGTTCCTCGAAC-1,stroma_desmoplastic_IC med to high
+ATATCTCCCTCGTTAA-1,exclude
+ATATCTTAGGGCCTTC-1,stroma_fibroblastic_IC high
+ATATGTCTCCCTAGCC-1,stroma_fibroblastic_IC high
+ATATTCAGTTAAACCT-1,stroma_fibroblastic_IC high
+ATATTCCACATAGTGA-1,stroma_fibroblastic_IC high
+ATATTGCTGTCAAAGT-1,non neo epithelium
+ATATTTAACCCTCAAG-1,stroma_fibroblastic_IC high
+ATCAAACACTGTTCCA-1,stroma_desmoplastic_IC low
+ATCAAACGAAGGTTTG-1,stroma_fibroblastic_IC high
+ATCAAGATCCCAGGAC-1,stroma_fibroblastic_IC high
+ATCAATCTGGGCTGCA-1,stroma_fibroblastic_IC high
+ATCACATTAGAATATC-1,stroma_fibroblastic_IC high
+ATCACGTGCTAATTAA-1,stroma_fibroblastic_IC high
+ATCACTTCATCCTCGC-1,tumor&stroma_IC med to high
+ATCAGACGGCACGCCG-1,stroma_fibroblastic_IC high
+ATCAGCCTCATGCTGC-1,stroma_fibroblastic_IC high
+ATCAGTAGGCAGGGAT-1,stroma_fibroblastic_IC high
+ATCATCCAATATTTGT-1,stroma_fibroblastic_IC med
+ATCCAACGCAGTCATA-1,epithelium&submucosa
+ATCCAATGGAGGGTCC-1,stroma_fibroblastic_IC high
+ATCCACATCGACAGAA-1,tumor&stroma_IC med to high
+ATCCAGAGCAACAACC-1,stroma_fibroblastic_IC med
+ATCCAGGATTCGTGAA-1,stroma_fibroblastic_IC high
+ATCCCATTTCCGTGGG-1,stroma_fibroblastic_IC high
+ATCCTACCTAAGCTCT-1,tumor&stroma_IC med to high
+ATCCTGAATCGCTGCG-1,tumor&stroma_IC med to high
+ATCCTGCGTGGAATGG-1,stroma_fibroblastic_IC high
+ATCGACCCAATACAGA-1,tumor&stroma_IC med to high
+ATCGACTCTTTCCGTT-1,tumor&stroma_IC med to high
+ATCGCACGCCGGGAGA-1,stroma_fibroblastic_IC high
+ATCGCCAGTCAACATT-1,stroma_desmoplastic_IC low
+ATCGGAGACAGACGGC-1,stroma_fibroblastic_IC high
+ATCGGCAAGCAGTCCA-1,stroma_fibroblastic_IC high
+ATCGTTAGCTAGCGGA-1,stroma_desmoplastic_IC low
+ATCTAATATCCTACGG-1,stroma_fibroblastic_IC high
+ATCTACCATCTGCTCC-1,stroma_fibroblastic_IC high
+ATCTAGCTTGTGAGGG-1,stroma_fibroblastic_IC high
+ATCTCCCACGGAATAT-1,exclude
+ATCTGCACCTCTGCGA-1,stroma_fibroblastic_IC med
+ATCTGCTGTTATCGCC-1,stroma_fibroblastic_IC high
+ATCTGGGCTGTTCTTG-1,stroma_fibroblastic_IC high
+ATCTGGTTAAGACTGT-1,stroma_fibroblastic_IC med
+ATCTGTAATTGTACCC-1,exclude
+ATCTTGACCTGCAACG-1,tumor&stroma_IC med to high
+ATCTTGACTTGTCCAA-1,stroma_desmoplastic_IC low
+ATGAAGCCAAGGAGCC-1,muscularis_IC med to high
+ATGACGCCGGCTCTAA-1,exclude
+ATGACGCGTTCTATCC-1,stroma_fibroblastic_IC high
+ATGACTATGCGACATT-1,stroma_desmoplastic_IC med to high
+ATGAGGAGTGTTAATC-1,epithelium&submucosa
+ATGATCGGGAATAGAC-1,epithelium&submucosa
+ATGATGCAATGGTACA-1,stroma_fibroblastic_IC high
+ATGCACTACCGCATTG-1,tumor
+ATGCATGATCCAGGAT-1,stroma_fibroblastic_IC med
+ATGCCATTTGCGACCA-1,stroma_desmoplastic_IC med to high
+ATGCCGGTCTTGCATA-1,tumor
+ATGCCGGTTGATGGGA-1,exclude
+ATGCGACAGTCCCATT-1,tumor
+ATGCGAGTCCCACCAC-1,stroma_desmoplastic_IC low
+ATGCTCTGGCGCGGTA-1,stroma_fibroblastic_IC high
+ATGGAGCAGGCCGTGA-1,stroma_fibroblastic_IC high
+ATGGATCCGGCGTCCG-1,exclude
+ATGGATTGACCAAACG-1,stroma_fibroblastic_IC high
+ATGGGCCTCGGCCTCT-1,stroma_desmoplastic_IC low
+ATGGTATTGGGAACCG-1,exclude
+ATGGTCGCGTGGTTTC-1,stroma_fibroblastic_IC high
+ATGTACGATGACGTCG-1,stroma_fibroblastic_IC high
+ATGTAGCGCGCGTAGG-1,stroma_fibroblastic_IC high
+ATGTGCATCCGACGCA-1,exclude
+ATGTGGACATCTTGAT-1,stroma_fibroblastic_IC high
+ATGTTCGTCGACCCAC-1,exclude
+ATGTTGATTAGAGACT-1,stroma_fibroblastic_IC high
+ATTAAACATGCGGACC-1,stroma_fibroblastic_IC med
+ATTAATACTACGCGGG-1,tumor&stroma_IC med to high
+ATTAATGAACCAGTCG-1,stroma_fibroblastic_IC med
+ATTACATGTCAGTCTT-1,stroma_desmoplastic_IC low
+ATTACGCGCTGGCAGG-1,tumor&stroma_IC med to high
+ATTACTAGCCTCTTGC-1,non neo epithelium
+ATTACTTACTGGGCAT-1,stroma_fibroblastic_IC med
+ATTAGATTCCTCAGCA-1,stroma_fibroblastic_IC high
+ATTAGATTGATAGCGG-1,non neo epithelium
+ATTAGGCGATGCTTTC-1,stroma_fibroblastic_IC high
+ATTATCGGAATGTACG-1,stroma_fibroblastic_IC high
+ATTATGCCATAGGGAG-1,exclude
+ATTCAACCATTTAAGG-1,stroma_desmoplastic_IC low
+ATTCACTGATGTTGGA-1,tumor&stroma_IC med to high
+ATTCAGGACCTATTTC-1,exclude
+ATTCATATACTGTCCA-1,stroma_fibroblastic_IC med
+ATTCATCGTTGAGGCA-1,stroma_fibroblastic_IC high
+ATTCCTCCGCCAGTGC-1,epithelium&submucosa
+ATTCGACGCCGGGCCT-1,tumor
+ATTCGTGCTATCTCTT-1,stroma_desmoplastic_IC med to high
+ATTGAAGATCTTAGTG-1,tumor&stroma_IC med to high
+ATTGATGAGTCCTAAC-1,stroma_fibroblastic_IC high
+ATTGCCTTTATGTTTG-1,tumor&stroma_IC med to high
+ATTGCGATCAGTAACT-1,stroma_desmoplastic_IC low
+ATTGCTGCTCCTCCAT-1,stroma_fibroblastic_IC high
+ATTGGATTACAGCGTA-1,stroma_desmoplastic_IC med to high
+ATTGTACAACTCGGCT-1,stroma_desmoplastic_IC low
+ATTTAACTCGTATTAC-1,exclude
+ATTTACAGTTTACTGG-1,stroma_fibroblastic_IC high
+ATTTCCGGGTTCTGCG-1,exclude
+ATTTGCGCGAGTAGCT-1,stroma_fibroblastic_IC high
+ATTTGTCTTGGGAGCT-1,stroma_fibroblastic_IC high
+ATTTGTTCCAGGGCTC-1,stroma_fibroblastic_IC med
+CAAACCCTCCGGCGGG-1,stroma_fibroblastic_IC high
+CAAACGAGTATCGCAG-1,stroma_fibroblastic_IC med
+CAAACGGTCGCACTTT-1,stroma_fibroblastic_IC high
+CAAACTCGCGACGCCG-1,stroma_desmoplastic_IC low
+CAAAGATTATTGGGCC-1,exclude
+CAAATCTCTCACAAGG-1,stroma_fibroblastic_IC high
+CAAATGTCCTTCCGTG-1,tumor
+CAACCTACCGAGCAGT-1,stroma_desmoplastic_IC med to high
+CAACGACCCGTTTACA-1,epithelium&submucosa
+CAACGGTTCTTGATAC-1,epithelium&submucosa
+CAACTCCTTGATCCCG-1,epithelium&submucosa
+CAACTGCTCATCCGAT-1,tumor
+CAAGAGGGCGGAGTAC-1,stroma_fibroblastic_IC high
+CAAGATATTATAACGT-1,stroma_desmoplastic_IC low
+CAAGCAACGTCGGAGT-1,stroma_fibroblastic_IC med
+CAAGCGGCACATAATT-1,stroma_fibroblastic_IC high
+CAAGGATCGCATGTTC-1,stroma_fibroblastic_IC med
+CAAGGTCCTATAGGCT-1,stroma_desmoplastic_IC low
+CAAGTAAGTGATAGAC-1,exclude
+CAAGTGTGGTTGCAAA-1,stroma_desmoplastic_IC med to high
+CAATAAACCTTGGCCC-1,stroma_fibroblastic_IC med
+CAATATTCTTGACCTA-1,stroma_fibroblastic_IC high
+CAATGACCCTTAATTT-1,exclude
+CAATGCGAGAAGTATC-1,stroma_fibroblastic_IC high
+CAATGGATCTCTACCA-1,stroma_fibroblastic_IC high
+CAATTAAGGGTGATGA-1,stroma_fibroblastic_IC high
+CAATTTCGTATAAGGG-1,stroma_fibroblastic_IC high
+CACAATGAGCTGCTAT-1,tumor&stroma_IC med to high
+CACACACGCTAACGAG-1,stroma_desmoplastic_IC med to high
+CACACGCGCTGTCTTA-1,stroma_fibroblastic_IC med
+CACAGCACCCACGGCA-1,stroma_fibroblastic_IC med
+CACAGGGCCATATAGT-1,stroma_desmoplastic_IC low
+CACAGGGCCGTTGTCA-1,tumor&stroma_IC med to high
+CACAGTCCCGCTTCGC-1,exclude
+CACATATTAGCAGGAT-1,stroma_fibroblastic_IC high
+CACATCTCACCGACGA-1,stroma_fibroblastic_IC med
+CACATGATTCAGCAAC-1,stroma_fibroblastic_IC high
+CACATTCTTTCGATGG-1,exclude
+CACATTTCTTGTCAGA-1,stroma_desmoplastic_IC low
+CACCCAAATCTTATGT-1,stroma_desmoplastic_IC low
+CACCCACACGTCACCC-1,non neo epithelium
+CACCCACGAGGCAATT-1,exclude
+CACCCGGTTTGTGACT-1,stroma_fibroblastic_IC high
+CACCCTAACAAGATCT-1,tumor&stroma_IC med to high
+CACCGCCAGAAGGTTT-1,stroma_fibroblastic_IC high
+CACCGTATCCCATCCG-1,stroma_desmoplastic_IC med to high
+CACCGTTAGGGATCAC-1,stroma_fibroblastic_IC high
+CACCGTTGCGCGATAT-1,IC aggragate_stroma or muscularis
+CACCTAATCAGTTTAC-1,stroma_fibroblastic_IC med
+CACCTCGATGGTGGAC-1,exclude
+CACCTTGCGAAACTCG-1,stroma_fibroblastic_IC high
+CACCTTGGCGCCTTTG-1,stroma_desmoplastic_IC low
+CACGAAAGTTAGTCCC-1,epithelium&submucosa
+CACGCACAGCGCAGCT-1,stroma_fibroblastic_IC med
+CACGCAGCGAGGCTTT-1,tumor&stroma_IC med to high
+CACGCGGAACTGTTGC-1,stroma_desmoplastic_IC low
+CACGTCGGCAACCTCT-1,stroma_fibroblastic_IC high
+CACGTTCGTGCTCTAG-1,stroma_fibroblastic_IC med
+CACGTTTCGTACACAC-1,stroma_desmoplastic_IC med to high
+CACTAAAGTTGCCTAT-1,tumor&stroma_IC med to high
+CACTACGGGAGCTGCC-1,exclude
+CACTCAAGAGCTATGG-1,stroma_fibroblastic_IC med
+CACTCGAGCTGAACAA-1,stroma_fibroblastic_IC high
+CACTCTTCTGCTAGCC-1,stroma_desmoplastic_IC low
+CACTGTCCAAGTGAGA-1,epithelium&submucosa
+CACTTAATCAGACGGA-1,stroma_fibroblastic_IC med
+CACTTCGCCACAGGCT-1,epithelium&submucosa
+CAGAACTTAGCCCTCT-1,stroma_fibroblastic_IC high
+CAGAATAACACACGGA-1,exclude
+CAGACACCGATCGCTG-1,tumor&stroma_IC med to high
+CAGACCTGTAAGTGTT-1,tumor&stroma_IC med to high
+CAGACGAACCTGATAC-1,stroma_fibroblastic_IC high
+CAGAGACGGTCACCCA-1,tumor
+CAGAGCATGAGCTTGC-1,stroma_fibroblastic_IC med
+CAGAGGCGATGCATGA-1,stroma_fibroblastic_IC high
+CAGATACTAACATAGT-1,stroma_fibroblastic_IC high
+CAGCAGCCCGTTCCTT-1,tumor&stroma_IC med to high
+CAGCAGTCCAGACTAT-1,stroma_desmoplastic_IC low
+CAGCAGTCTGTGCTGC-1,tumor
+CAGCCTCCTGCAGAGG-1,stroma_fibroblastic_IC high
+CAGCGATTCCCTTCAA-1,stroma_fibroblastic_IC high
+CAGCTCACTGAGACAT-1,stroma_fibroblastic_IC high
+CAGCTCGACAAGTTAA-1,stroma_fibroblastic_IC high
+CAGCTCGTGCTTGTGT-1,epithelium&submucosa
+CAGCTTAGTAGGTAGC-1,epithelium&submucosa
+CAGGATATATCGTTGT-1,stroma_fibroblastic_IC med
+CAGGCAGTCTTACCAG-1,tumor
+CAGGCCGTTTGGGTGT-1,stroma_fibroblastic_IC high
+CAGGCGCCATGCTAGG-1,stroma_fibroblastic_IC high
+CAGTAACTATTTATTG-1,stroma_fibroblastic_IC high
+CAGTAATCCCTCCCAG-1,exclude
+CAGTACATTCTCTAAA-1,stroma_fibroblastic_IC med
+CAGTAGCCCACGCGGT-1,stroma_fibroblastic_IC high
+CAGTCGAGGATGCAAT-1,stroma_fibroblastic_IC med
+CAGTCTGTATACTGGG-1,stroma_fibroblastic_IC med
+CAGTGAATAAATGACT-1,stroma_fibroblastic_IC med
+CAGTGTCCGCAGAATG-1,exclude
+CAGTGTCGGCTGGCCC-1,stroma_desmoplastic_IC med to high
+CAGTTCAAATTGACAC-1,stroma_fibroblastic_IC high
+CATAACGGACAGTCGT-1,stroma_fibroblastic_IC high
+CATAAGAAGCTTGGCT-1,tumor&stroma_IC med to high
+CATACACGGTTCCCAC-1,stroma_fibroblastic_IC high
+CATACCCGTACCCAGT-1,tumor
+CATACGGCGTCTGGGC-1,stroma_fibroblastic_IC high
+CATACTATGTAATTGT-1,stroma_fibroblastic_IC med
+CATACTTCTTTCTCCG-1,exclude
+CATAGAGGAGATACTA-1,stroma_fibroblastic_IC high
+CATAGCGTTGCCCACC-1,stroma_fibroblastic_IC high
+CATAGTAGCATAGTAG-1,epithelium&submucosa
+CATAGTCAAATACATA-1,stroma_fibroblastic_IC high
+CATAGTCCACAAGAAC-1,stroma_fibroblastic_IC high
+CATATACTACTGATAA-1,exclude
+CATATAGGTACAGTCA-1,stroma_fibroblastic_IC high
+CATATGTCAGGCTACG-1,exclude
+CATCATTACCCTGAGG-1,stroma_desmoplastic_IC med to high
+CATCCTCTCAAAGATC-1,stroma_desmoplastic_IC low
+CATCGCCCGCGGCCAA-1,submucosa
+CATCGGACGGGTTAAT-1,stroma_fibroblastic_IC high
+CATCTATCCCGTGTCT-1,exclude
+CATCTTACACCACCTC-1,stroma_desmoplastic_IC med to high
+CATGACTTCGCTGAAT-1,stroma_desmoplastic_IC med to high
+CATGAGATGCACTCTC-1,stroma_fibroblastic_IC high
+CATGATGCACAATTCT-1,stroma_fibroblastic_IC med
+CATGATGGAAGTTAGC-1,stroma_desmoplastic_IC low
+CATGCCAACTCGCAAA-1,exclude
+CATGCGACCAGTTTAA-1,stroma_fibroblastic_IC high
+CATGGATTGTCTTCCG-1,stroma_desmoplastic_IC med to high
+CATGGCAGGAAGATCG-1,exclude
+CATGGGTATGCCTTAT-1,stroma_fibroblastic_IC high
+CATGGGTCGGGTGTGG-1,stroma_fibroblastic_IC high
+CATGGTAAGTAGCGTT-1,stroma_fibroblastic_IC high
+CATGGTCTAGATACCG-1,stroma_fibroblastic_IC med
+CATGTAAGAGACATTT-1,stroma_desmoplastic_IC med to high
+CATGTCTCATTTATGG-1,stroma_fibroblastic_IC high
+CATTATGCTTGTTGTG-1,stroma_fibroblastic_IC high
+CATTTAGCGGACCATG-1,stroma_fibroblastic_IC high
+CATTTGAGTGGTACGT-1,stroma_fibroblastic_IC high
+CCAAACAGAACCCTCG-1,muscularis_IC med to high
+CCAACGATGCACTGAT-1,epithelium&submucosa
+CCAAGAAAGTGGGCGA-1,tumor&stroma_IC med to high
+CCAAGCGTAACTCGTA-1,tumor
+CCAAGGAACAGAGAGG-1,exclude
+CCAATAGTGCCGTCGA-1,stroma_fibroblastic_IC med
+CCAATGTCACAGCAAG-1,tumor&stroma_IC med to high
+CCAATTACGGGTCGAG-1,stroma_fibroblastic_IC high
+CCAATTGAATGTTAAT-1,epithelium&submucosa
+CCACAATGTACGTCTT-1,stroma_fibroblastic_IC high
+CCACACTGAGATATTA-1,tumor&stroma_IC med to high
+CCACAGTACCCATCCT-1,stroma_desmoplastic_IC med to high
+CCACCAACTTTACTGT-1,stroma_fibroblastic_IC high
+CCACCCAAGGAAAGTG-1,stroma_fibroblastic_IC med
+CCACGAATTTAACCTC-1,stroma_desmoplastic_IC low
+CCACGGAGCCATAAGA-1,IC aggragate_stroma or muscularis
+CCACGGTGCCCGGTAG-1,stroma_desmoplastic_IC low
+CCACTCAGATCCGCAA-1,stroma_fibroblastic_IC high
+CCACTGGTGGCTGGTT-1,tumor&stroma_IC med to high
+CCACTGTTTGGATTAA-1,exclude
+CCAGAAAGCAACTCAT-1,stroma_fibroblastic_IC high
+CCAGATAGTTGAGTGA-1,stroma_fibroblastic_IC high
+CCAGCCTGGACCAATA-1,stroma_fibroblastic_IC high
+CCAGCTCGAACGCATT-1,tumor
+CCAGCTGATGGTACTT-1,tumor&stroma_IC med to high
+CCAGCTTCCGCCCGCA-1,epithelium&submucosa
+CCAGGGACGTGGCCTC-1,stroma_fibroblastic_IC high
+CCAGTAGTCTGATCCA-1,stroma_fibroblastic_IC high
+CCAGTCTAGACGGCGC-1,stroma_fibroblastic_IC high
+CCAGTCTTGTCATAGA-1,tumor&stroma_IC med to high
+CCATACCTTTACTTGT-1,stroma_fibroblastic_IC high
+CCATATGGAAACTATA-1,stroma_desmoplastic_IC low
+CCATCCATACCAAGTC-1,exclude
+CCATCGCAGTTAAACT-1,stroma_fibroblastic_IC med
+CCATCTCACCAGTGAA-1,stroma_desmoplastic_IC low
+CCATGCCCTAGATTTC-1,stroma_desmoplastic_IC low
+CCATGCCTGTTTAGTA-1,tumor
+CCATGCTCTGCAGGAA-1,IC aggregate submucosa
+CCATGGCCCTTGTACC-1,epithelium&submucosa
+CCATTAGCGATAATCC-1,tumor
+CCATTCCCTGCCCACA-1,stroma_fibroblastic_IC med
+CCATTTCTACCTATTA-1,stroma_fibroblastic_IC high
+CCCAAACATGCTGCTC-1,stroma_fibroblastic_IC high
+CCCAACATACGTCGCG-1,stroma_fibroblastic_IC high
+CCCAAGTCATTACACT-1,exclude
+CCCAATTTCACAACTT-1,tumor
+CCCAGAGGAGGGCGTA-1,stroma_fibroblastic_IC high
+CCCAGTTAAGGCGCCG-1,stroma_fibroblastic_IC high
+CCCGACCATAGTCCGC-1,stroma_fibroblastic_IC med
+CCCGAGTTTCTCCGTA-1,stroma_desmoplastic_IC low
+CCCGCAGCGCGAACTA-1,stroma_fibroblastic_IC high
+CCCGCCATGCTCCCGT-1,IC aggregate submucosa
+CCCGGGTCGTTCAGGG-1,stroma_fibroblastic_IC high
+CCCGTAAGTCTAGGCC-1,tumor&stroma_IC med to high
+CCCGTCAGCGTCTGAC-1,stroma_fibroblastic_IC med
+CCCGTTTCGCAGATGT-1,stroma_desmoplastic_IC med to high
+CCCTACTTGAACAATG-1,tumor&stroma_IC med to high
+CCCTCATTCTGGAATT-1,non neo epithelium
+CCCTCCTCGCTCGTAT-1,stroma_desmoplastic_IC low
+CCCTGAAATGAGTTGA-1,stroma_fibroblastic_IC high
+CCCTGCCCAATCCGCT-1,exclude
+CCCTGCGCTACGCATA-1,epithelium&submucosa
+CCCTTTGACAGGTCTT-1,tumor
+CCGAACCTTCCCGGCC-1,stroma_fibroblastic_IC high
+CCGACAAAGGGAGTGC-1,epithelium&submucosa
+CCGAGAAGTCGCATAA-1,stroma_desmoplastic_IC low
+CCGATCTCAACCTTAT-1,stroma_desmoplastic_IC low
+CCGATTCGAGGGACCC-1,tumor&stroma_IC med to high
+CCGCACAAAGACCAAC-1,stroma_fibroblastic_IC high
+CCGCATGTGGTACGAT-1,stroma_fibroblastic_IC high
+CCGCGGAATGCGTCAC-1,stroma_fibroblastic_IC high
+CCGCGGGTACGAAGAA-1,epithelium&submucosa
+CCGCGTAGGTAAGGGC-1,epithelium&submucosa
+CCGCTATCAGCACCAG-1,stroma_fibroblastic_IC med
+CCGCTCCAGGGCGATC-1,stroma_fibroblastic_IC high
+CCGCTCTTCCGAACTA-1,stroma_desmoplastic_IC med to high
+CCGCTTACCTCACTCT-1,stroma_fibroblastic_IC high
+CCGGAATGGTTTCAGT-1,epithelium&submucosa
+CCGGAGCGTACTTTCT-1,tumor
+CCGGCGCATATTGGAT-1,exclude
+CCGGGACCCGCAGAGA-1,submucosa
+CCGGGCGGTCTCGTCA-1,exclude
+CCGGGCTGCTCCATAC-1,stroma_fibroblastic_IC high
+CCGGGTTCGAGGTTAC-1,tumor
+CCGGTTTGTAATTGTG-1,stroma_fibroblastic_IC high
+CCGTAAGTTGGTCCCA-1,tumor
+CCGTAGGAAATCCCTG-1,stroma_desmoplastic_IC med to high
+CCGTAGGGTTGTTTAC-1,stroma_desmoplastic_IC med to high
+CCGTATCTCGTCGTAG-1,stroma_fibroblastic_IC high
+CCGTGGAACGATCCAA-1,stroma_fibroblastic_IC high
+CCGTGTTAAATTCCAT-1,stroma_fibroblastic_IC high
+CCGTTACGTTAGAACA-1,exclude
+CCGTTCCGAATCTCGG-1,tumor&stroma_IC med to high
+CCTAAATTAACGGTTC-1,stroma_fibroblastic_IC med
+CCTAACCCAAACAAGT-1,stroma_desmoplastic_IC med to high
+CCTAACTAAGGCTCTA-1,stroma_fibroblastic_IC high
+CCTACATTCACAGACG-1,stroma_fibroblastic_IC high
+CCTACGGCTCAGTCGA-1,non neo epithelium
+CCTACTGCTTACACTT-1,tumor&stroma_IC med to high
+CCTAGGCGTAGCGATC-1,stroma_fibroblastic_IC high
+CCTATAATGAGTGCCC-1,stroma_fibroblastic_IC high
+CCTATACCGTCCTGTC-1,stroma_fibroblastic_IC high
+CCTATATTTGTCCTGG-1,exclude
+CCTATCTATATCGGAA-1,exclude
+CCTATGGGTTACCGTC-1,stroma_fibroblastic_IC high
+CCTATGGTCAAAGCTG-1,stroma_fibroblastic_IC high
+CCTCACCAATCTTGAC-1,epithelium&submucosa
+CCTCACCTGAGGGAGC-1,stroma_fibroblastic_IC med
+CCTCACCTTAGCATCG-1,stroma_fibroblastic_IC high
+CCTCCTGTTGTGTCGT-1,stroma_desmoplastic_IC med to high
+CCTCGCGCGATATAGG-1,stroma_fibroblastic_IC high
+CCTCGCGCTGTGCGAT-1,tumor
+CCTCGGACCGGGATAG-1,stroma_fibroblastic_IC high
+CCTCTAATCTGCCAAG-1,stroma_fibroblastic_IC high
+CCTCTATCGATTAGCA-1,exclude
+CCTCTGTACTATTCTA-1,tumor&stroma_IC med to high
+CCTGAACGATATATTC-1,stroma_fibroblastic_IC med
+CCTGAATATTTACATA-1,stroma_fibroblastic_IC high
+CCTGACCACCGATGGT-1,stroma_fibroblastic_IC med
+CCTGCTATTTGAGAAG-1,stroma_fibroblastic_IC high
+CCTGGCTAGACCCGCC-1,tumor&stroma_IC med to high
+CCTGGTCGAATGTGGG-1,stroma_fibroblastic_IC high
+CCTGTAAGACATGATA-1,tumor&stroma_IC med to high
+CCTGTACTCACGCCCA-1,tumor&stroma_IC med to high
+CCTGTCACCCGGGCTC-1,stroma_fibroblastic_IC high
+CCTGTCGCCCGTAAAT-1,stroma_fibroblastic_IC high
+CCTGTTTGAAGACACG-1,stroma_desmoplastic_IC med to high
+CCTTCGTATAGAATCC-1,stroma_fibroblastic_IC high
+CCTTCTTGATCCAGTG-1,exclude
+CCTTGACCACTTTATT-1,stroma_desmoplastic_IC low
+CCTTTAAGGGAGCACT-1,stroma_fibroblastic_IC high
+CCTTTCAATGAAGAAA-1,stroma_fibroblastic_IC high
+CGAAACGCAATTCATG-1,stroma_fibroblastic_IC high
+CGAACAGTATGGGCGT-1,stroma_desmoplastic_IC low
+CGAACCCGCATGCGTC-1,stroma_fibroblastic_IC high
+CGAAGCTATAAATTCA-1,exclude
+CGAATGACGCATAATG-1,stroma_fibroblastic_IC high
+CGACAATTTGATCTAA-1,stroma_desmoplastic_IC med to high
+CGACACGCTCCGACAG-1,stroma_desmoplastic_IC low
+CGACAGTTCGCGTTAT-1,stroma_fibroblastic_IC med
+CGACTCAGGATGTTAT-1,stroma_fibroblastic_IC high
+CGACTTTGTATAGCCT-1,stroma_desmoplastic_IC low
+CGAGACCCTAGAGTGT-1,stroma_fibroblastic_IC med
+CGAGAGATGTGAACCT-1,tumor
+CGAGAGCTTTCACTAC-1,stroma_fibroblastic_IC high
+CGAGAGGGTAGCCGCG-1,stroma_desmoplastic_IC low
+CGAGGCTAAATATGGC-1,tumor&stroma_IC med to high
+CGAGGGACTGCGGTCG-1,stroma_fibroblastic_IC med
+CGAGGGTATCCAGGTG-1,stroma_fibroblastic_IC high
+CGAGTACTAAAGAGGA-1,stroma_fibroblastic_IC high
+CGAGTGAAGGTACCAG-1,tumor&stroma_IC med to high
+CGAGTTCTGTCCCACC-1,stroma_fibroblastic_IC high
+CGAGTTTATCGGACTG-1,stroma_fibroblastic_IC high
+CGATACCTCGCGGACA-1,stroma_fibroblastic_IC high
+CGATAGTCGTACTGCA-1,stroma_fibroblastic_IC med
+CGATCCACCATTGTTG-1,exclude
+CGATCCGACCCAGTGC-1,tumor&stroma_IC med to high
+CGATCTGTTGGAGGAC-1,exclude
+CGATGGACCCTACGCC-1,stroma_fibroblastic_IC high
+CGATTAAATATCTCCT-1,stroma_fibroblastic_IC high
+CGATTCGCCTGGCTGC-1,stroma_fibroblastic_IC high
+CGCAAACACGAGTTAC-1,non neo epithelium
+CGCAATTACTTTCGGT-1,epithelium&submucosa
+CGCAATTAGGGTAATA-1,tumor
+CGCACATGTCCACTAC-1,tumor&stroma_IC med to high
+CGCACGTGCGCTATCA-1,stroma_desmoplastic_IC low
+CGCAGGCGATCCAAAC-1,stroma_desmoplastic_IC med to high
+CGCATGCCGAATGCGT-1,stroma_fibroblastic_IC high
+CGCATGGTGCGATGCT-1,stroma_fibroblastic_IC high
+CGCATTAGCTAATAGG-1,stroma_fibroblastic_IC med
+CGCCAAGAAGCCGAGT-1,exclude
+CGCCATCCGATTATGA-1,stroma_fibroblastic_IC med
+CGCCCAGCACGCCTAG-1,stroma_fibroblastic_IC high
+CGCCCAGCGTTTCACG-1,stroma_fibroblastic_IC med
+CGCCCGCTTCCGTACA-1,exclude
+CGCCGCCCATGCCTGT-1,stroma_fibroblastic_IC high
+CGCCGTTCAGCATAGT-1,stroma_desmoplastic_IC low
+CGCCTCCCTCCTCTAT-1,stroma_fibroblastic_IC high
+CGCCTGGCCTACGTAA-1,tumor&stroma_IC med to high
+CGCGAAGTGGCATACT-1,stroma_fibroblastic_IC high
+CGCGACCGCGACAGAT-1,stroma_fibroblastic_IC high
+CGCGCATGTTTGATTG-1,tumor&stroma_IC med to high
+CGCGCCCGACTTAATA-1,stroma_fibroblastic_IC med
+CGCGGCTCAACTTGAA-1,stroma_desmoplastic_IC med to high
+CGCGGGAATTAGGCAG-1,stroma_fibroblastic_IC med
+CGCGGTCACAAACCAA-1,exclude
+CGCGTTCATGAAATAC-1,stroma_fibroblastic_IC high
+CGCTACGGGACATTTA-1,tumor&stroma_IC med to high
+CGCTAGAGACCGCTGC-1,stroma_desmoplastic_IC med to high
+CGCTATACCGCCCACT-1,exclude
+CGCTATTCAATGTATG-1,epithelium&submucosa
+CGCTATTCTTAGGCTC-1,stroma_fibroblastic_IC high
+CGCTCGACATAATGAT-1,epithelium&submucosa
+CGCTCTCCGTAGATTA-1,tumor&stroma_IC med to high
+CGCTGGTGACTACCCT-1,stroma_desmoplastic_IC med to high
+CGCTGTGACGCCGCAC-1,stroma_fibroblastic_IC high
+CGCTGTGTGGATGTTG-1,exclude
+CGCTTATTCCCGGTCG-1,stroma_fibroblastic_IC high
+CGCTTCCACTGAAATC-1,IC aggregate submucosa
+CGCTTTCATACCGGTG-1,exclude
+CGCTTTCTTGCATTCG-1,stroma_fibroblastic_IC high
+CGGAAAGAATCAAACG-1,stroma_fibroblastic_IC high
+CGGAACGTAAACATAG-1,stroma_fibroblastic_IC high
+CGGACCTTTACGTCCC-1,stroma_fibroblastic_IC high
+CGGAGCAATTTAATCG-1,tumor&stroma_IC med to high
+CGGAGCATGGCGATCC-1,stroma_fibroblastic_IC high
+CGGATCCTCAAGGACT-1,stroma_fibroblastic_IC high
+CGGCAAACATCGTGCG-1,stroma_fibroblastic_IC high
+CGGCAATAAGATCGCC-1,stroma_desmoplastic_IC low
+CGGCAGGGTCGGGTTG-1,stroma_fibroblastic_IC high
+CGGCCACGCACAAAGT-1,stroma_fibroblastic_IC high
+CGGCCCAGGTATATCC-1,stroma_desmoplastic_IC low
+CGGCGCCATCAATCCC-1,stroma_desmoplastic_IC med to high
+CGGCTCTAAAGCTGCA-1,stroma_desmoplastic_IC med to high
+CGGGAATATAGTATAC-1,stroma_desmoplastic_IC med to high
+CGGGAATTTATGTAAA-1,tumor&stroma_IC med to high
+CGGGAGCTTCAGTGTA-1,stroma_desmoplastic_IC med to high
+CGGGATCAATGTAAGA-1,exclude
+CGGGCAGCTAAACCGC-1,stroma_fibroblastic_IC high
+CGGGCCTTCTTTGTAA-1,stroma_fibroblastic_IC high
+CGGGCGATGGATCACG-1,stroma_fibroblastic_IC high
+CGGGTGTACCCATTTA-1,tumor&stroma_IC med to high
+CGGTACTAGAATCAAA-1,tumor&stroma_IC med to high
+CGGTAGAGGTGCAGGT-1,stroma_fibroblastic_IC high
+CGGTCAAGTGGGAACC-1,stroma_fibroblastic_IC med
+CGGTCTATCAACCCGT-1,exclude
+CGGTGAAGACTAAAGT-1,epithelium&submucosa
+CGGTGCAGATAGAACG-1,stroma_fibroblastic_IC high
+CGGTGCGCGTTGGTCC-1,stroma_fibroblastic_IC high
+CGGTGTACTTGATCCC-1,non neo epithelium
+CGGTTATCCAACAGTG-1,tumor&stroma_IC med to high
+CGGTTCAAGTAGGTGT-1,stroma_fibroblastic_IC med
+CGGTTGACCTGGCATA-1,tumor
+CGTACCTGATAGGCCT-1,tumor&stroma_IC med to high
+CGTAGAGAGTAATTAT-1,stroma_fibroblastic_IC med
+CGTATTAAGAGATCTA-1,stroma_fibroblastic_IC high
+CGTCACGTCCATTGGT-1,tumor&stroma_IC med to high
+CGTCGCATGTGAGCCA-1,tumor&stroma_IC med to high
+CGTCGGATAGTGTTGA-1,stroma_fibroblastic_IC high
+CGTCGTCCTTCGCGAA-1,tumor&stroma_IC med to high
+CGTGAAGTTAATTCAC-1,stroma_fibroblastic_IC high
+CGTGACCAGTCCTCTG-1,stroma_fibroblastic_IC high
+CGTGCAGACTGGGACA-1,stroma_fibroblastic_IC med
+CGTGCATTGTCGACGC-1,tumor
+CGTGCCCTCCCGAAGA-1,stroma_fibroblastic_IC med
+CGTGGCCGAATATCTA-1,stroma_desmoplastic_IC med to high
+CGTGTCCCATTCGCGA-1,stroma_fibroblastic_IC high
+CGTTAAACTAGTTAGG-1,stroma_desmoplastic_IC low
+CGTTAATGTCCCGACG-1,stroma_fibroblastic_IC high
+CGTTCAGACCCGCGAA-1,stroma_fibroblastic_IC high
+CGTTGAATACCGCGCT-1,stroma_fibroblastic_IC med
+CGTTGAGCGACCGTCG-1,stroma_fibroblastic_IC high
+CGTTGTCGGCAATTGA-1,tumor
+CGTTGTTTCAATTCCC-1,stroma_fibroblastic_IC med
+CGTTTCACTTCGGGCG-1,exclude
+CGTTTCGCTCATTACA-1,stroma_fibroblastic_IC med
+CGTTTGTGTAGAGGGT-1,stroma_fibroblastic_IC high
+CTAAAGGGAAATAGGA-1,stroma_fibroblastic_IC med
+CTAAATCCTATTCCGG-1,stroma_fibroblastic_IC med
+CTAACCGCGCGCCCGT-1,tumor
+CTAACGAAACTTGCTG-1,stroma_fibroblastic_IC med
+CTAACTGATAATCGCC-1,stroma_desmoplastic_IC low
+CTAACTGGTCCGGTTC-1,stroma_fibroblastic_IC high
+CTAAGGGAATGATTGG-1,stroma_fibroblastic_IC high
+CTAATTCGCACGCGCT-1,epithelium&submucosa
+CTAATTCTCAGATATT-1,stroma_fibroblastic_IC high
+CTAATTTCAACAACAC-1,exclude
+CTACACTCGCAGATGG-1,stroma_desmoplastic_IC low
+CTACCCTAAGGTCATA-1,stroma_fibroblastic_IC high
+CTACGACTAGCTATAA-1,tumor&stroma_IC med to high
+CTACGCACGGAGTACC-1,stroma_fibroblastic_IC high
+CTACTATCTTTCAGAG-1,stroma_fibroblastic_IC med
+CTACTCTAGGCCCGGC-1,epithelium&submucosa
+CTACTGCCACCTGACC-1,stroma_fibroblastic_IC high
+CTAGATGTGAGTGTAA-1,stroma_desmoplastic_IC low
+CTAGATTTACGACGGC-1,stroma_fibroblastic_IC med
+CTAGCATAGTATAATG-1,stroma_fibroblastic_IC high
+CTAGCCGATGTTATGA-1,stroma_fibroblastic_IC high
+CTAGGCGCCCTATCAG-1,stroma_desmoplastic_IC low
+CTAGGTCTGAAGGAAT-1,stroma_desmoplastic_IC low
+CTAGGTTCGGACGTGA-1,stroma_fibroblastic_IC med
+CTAGTAGAAAGGGATT-1,stroma_fibroblastic_IC med
+CTAGTCACGTCTTAAG-1,stroma_fibroblastic_IC high
+CTAGTGAAGGACAGGA-1,tumor&stroma_IC med to high
+CTAGTTACAACCCGGT-1,stroma_fibroblastic_IC high
+CTAGTTGGGCCCGGTA-1,stroma_fibroblastic_IC med
+CTATAAGAGCCAATCG-1,stroma_fibroblastic_IC high
+CTATCGACGAAATACA-1,stroma_desmoplastic_IC low
+CTATCGGGTCTCAACA-1,tumor&stroma_IC med to high
+CTATGCCCGAATGCAA-1,stroma_fibroblastic_IC high
+CTATGGGAAGCGGAAT-1,stroma_desmoplastic_IC med to high
+CTATGTCACTAGCCCA-1,stroma_fibroblastic_IC high
+CTATTCATGTGTCCCA-1,tumor&stroma_IC med to high
+CTATTTGCTTGGAGGA-1,stroma_fibroblastic_IC high
+CTATTTGGTTACGGAT-1,tumor&stroma_IC med to high
+CTCAACTAACCCGGAT-1,stroma_fibroblastic_IC high
+CTCACATTTACTAAAT-1,stroma_fibroblastic_IC high
+CTCACTGTGATACTTA-1,tumor&stroma_IC med to high
+CTCACTTGGCTGGTAA-1,tumor&stroma_IC med to high
+CTCAGAGCTAATGTCG-1,exclude
+CTCAGTCACGACAAAT-1,stroma_fibroblastic_IC high
+CTCATGGTAATTTGCG-1,exclude
+CTCATTGCTCTAACAA-1,stroma_fibroblastic_IC high
+CTCATTTGATGGGCGG-1,tumor
+CTCCGCCCACATGAGG-1,stroma_fibroblastic_IC high
+CTCGAGGTCGAACAGT-1,stroma_fibroblastic_IC high
+CTCGATATTTGCGAGC-1,stroma_fibroblastic_IC med
+CTCGCACCTATATAGT-1,stroma_fibroblastic_IC med
+CTCGCCGAATGTAGGG-1,tumor
+CTCGGTACCACTGCTC-1,stroma_fibroblastic_IC high
+CTCGGTCCGTAGCCTG-1,epithelium&submucosa
+CTCGTCTGTGCCTTCG-1,stroma_fibroblastic_IC high
+CTCGTTTCTAATGTTT-1,stroma_fibroblastic_IC med
+CTCTACATCCTGCGTG-1,tumor&stroma_IC med to high
+CTCTAGCCCTCGGAAA-1,stroma_fibroblastic_IC med
+CTCTATTTGGCTGCAG-1,stroma_fibroblastic_IC high
+CTCTCACAATCGATGA-1,tumor
+CTCTGGACGCCTGGTG-1,tumor&stroma_IC med to high
+CTCTTCTATTGACTGG-1,stroma_desmoplastic_IC med to high
+CTCTTGTCCCGCTTGG-1,tumor
+CTGAAAGAGATCCGAC-1,stroma_fibroblastic_IC med
+CTGAATCCGAGACCTC-1,stroma_fibroblastic_IC med
+CTGAATTTATTGCCAG-1,exclude
+CTGACTGCGCAGCTCG-1,tumor&stroma_IC med to high
+CTGCAAGCACGTTCCG-1,exclude
+CTGCACAACTACATAT-1,tumor&stroma_IC med to high
+CTGCACCTGGAACCGC-1,submucosa
+CTGCACTCCAGTACAG-1,stroma_fibroblastic_IC high
+CTGCAGAGAATCAGAG-1,stroma_desmoplastic_IC med to high
+CTGCCAAGGTTGGAAG-1,stroma_fibroblastic_IC med
+CTGCCATGCATCACAT-1,stroma_fibroblastic_IC high
+CTGCGACCTCGCCGAA-1,stroma_fibroblastic_IC high
+CTGCGATTTCGAGATT-1,stroma_fibroblastic_IC high
+CTGCGGGTGAAATGTT-1,epithelium&submucosa
+CTGCTGAGGCCACGAA-1,stroma_fibroblastic_IC high
+CTGCTTGGCGATAGCT-1,stroma_fibroblastic_IC high
+CTGGAAATGGATGCTT-1,stroma_fibroblastic_IC high
+CTGGAAGACACGGTGG-1,stroma_desmoplastic_IC med to high
+CTGGATTTACACTTGA-1,tumor
+CTGGCATCCGAATGAG-1,exclude
+CTGGCGCACAGGTCTG-1,stroma_fibroblastic_IC high
+CTGGCTGATTCATCCT-1,stroma_desmoplastic_IC med to high
+CTGGCTGGTTGTCAGT-1,tumor
+CTGGGATAAATAATGG-1,stroma_fibroblastic_IC high
+CTGGGCCTGCTATATC-1,stroma_fibroblastic_IC high
+CTGGGTAGGCAGTTAA-1,stroma_fibroblastic_IC high
+CTGGTAACACATAGAA-1,stroma_fibroblastic_IC high
+CTGGTAACGAGCTCTT-1,stroma_fibroblastic_IC med
+CTGGTTTCGAGCAAGA-1,stroma_desmoplastic_IC med to high
+CTGTACTTCTTAGCAT-1,stroma_fibroblastic_IC high
+CTGTAGCCATCTCACT-1,stroma_fibroblastic_IC high
+CTGTATGGTGTAGAAA-1,epithelium&submucosa
+CTGTCAAATGGCTCGG-1,stroma_fibroblastic_IC med
+CTGTGCAGGGTAGGTC-1,stroma_fibroblastic_IC high
+CTGTGGTCGGGAGATA-1,stroma_desmoplastic_IC med to high
+CTGTTACCCAATCTAG-1,tumor
+CTGTTCACTGCCTGTG-1,exclude
+CTGTTCATCTCACGGG-1,non neo epithelium
+CTTACACGGTATTCCA-1,stroma_fibroblastic_IC high
+CTTACACTGGGAAATA-1,epithelium&submucosa
+CTTAGCCTTCCACATG-1,stroma_fibroblastic_IC high
+CTTAGTAGGCCTACAG-1,stroma_fibroblastic_IC high
+CTTAGTGTAGTAGCAT-1,stroma_fibroblastic_IC high
+CTTCAACTCCACTTGG-1,stroma_fibroblastic_IC high
+CTTCATAGCTCAAGAA-1,non neo epithelium
+CTTCATTGTCAGTGGA-1,stroma_fibroblastic_IC med
+CTTCCGCTCCGTGAAG-1,stroma_fibroblastic_IC high
+CTTCGATTGCGCAAGC-1,stroma_fibroblastic_IC high
+CTTCGGCCAATTGTTT-1,stroma_desmoplastic_IC low
+CTTCGTAGATAGGTGA-1,stroma_fibroblastic_IC high
+CTTCTATGTTGAAGTA-1,IC aggragate_stroma or muscularis
+CTTCTATTAATGCTAG-1,stroma_fibroblastic_IC high
+CTTGAGTTAGGGTAAT-1,stroma_fibroblastic_IC high
+CTTGCAACCGCCTCCT-1,stroma_fibroblastic_IC high
+CTTGCCCAGGCTCTAC-1,tumor&stroma_IC med to high
+CTTGGCCAAGCTGGGA-1,stroma_fibroblastic_IC high
+CTTGTACTTGTTGACT-1,muscularis_IC med to high
+CTTGTCAACATTCGAG-1,stroma_fibroblastic_IC high
+CTTGTGCTCACCGATT-1,stroma_fibroblastic_IC high
+CTTGTTGCTGAGTCAA-1,stroma_fibroblastic_IC high
+CTTTAACTTTCAAAGG-1,stroma_fibroblastic_IC med
+CTTTAATATTGGTCGA-1,stroma_fibroblastic_IC high
+CTTTACCGAATAGTAG-1,stroma_fibroblastic_IC high
+CTTTAGGAACACTGTT-1,stroma_fibroblastic_IC high
+CTTTAGTGCTATTATT-1,tumor&stroma_IC med to high
+CTTTCTGTGCGGGCTT-1,tumor
+CTTTGCATCGCTCTTG-1,stroma_desmoplastic_IC med to high
+CTTTGGCGCTTTATAC-1,epithelium&submucosa
+CTTTGGCTTTAGTAAA-1,stroma_fibroblastic_IC high
+GAAACAGATGACCACC-1,stroma_fibroblastic_IC high
+GAAACCGAATTACCTT-1,tumor&stroma_IC med to high
+GAAACCTATACAAATG-1,tumor
+GAAAGAACAGCGTTAT-1,stroma_desmoplastic_IC low
+GAAAGCAGTGCACTTT-1,stroma_fibroblastic_IC high
+GAAAGCCCTTTGGACC-1,epithelium&submucosa
+GAAAGTGACTAACTGC-1,epithelium&submucosa
+GAAATATCACCATCAG-1,non neo epithelium
+GAAATGGCGGTGTTAG-1,stroma_fibroblastic_IC high
+GAAATTAGCACGGATA-1,exclude
+GAAATTCACATCGCTG-1,exclude
+GAAATTGTCTCTATAA-1,stroma_fibroblastic_IC high
+GAACAACTGGGATGAA-1,stroma_fibroblastic_IC med
+GAACACACATCAACCA-1,muscularis_IC med to high
+GAACAGATTACTAAAT-1,tumor&stroma_IC med to high
+GAACCCTCTGTGTTCT-1,tumor
+GAACCTTTAACGATCC-1,stroma_fibroblastic_IC high
+GAACGTCTCATGGTCG-1,stroma_fibroblastic_IC high
+GAACTGTGGAGAGACA-1,stroma_fibroblastic_IC high
+GAAGAACGGTGCAGGT-1,exclude
+GAAGCCACTGATTATG-1,stroma_fibroblastic_IC high
+GAAGCCTGCACATTCC-1,tumor
+GAAGCGTGAGGAATTT-1,stroma_fibroblastic_IC high
+GAAGCTTGCTGACCGC-1,epithelium&submucosa
+GAAGGAGTCGAGTGCG-1,stroma_fibroblastic_IC high
+GAAGTCAGTTGCACTA-1,stroma_fibroblastic_IC high
+GAAGTCTCCCTAGCGA-1,stroma_fibroblastic_IC high
+GAAGTGATTTATCGTG-1,stroma_fibroblastic_IC med
+GAAGTTTCCACTCAAT-1,stroma_fibroblastic_IC med
+GAATAGACGCGACCCA-1,stroma_desmoplastic_IC med to high
+GAATCGACATGGTCAC-1,tumor&stroma_IC med to high
+GAATCTGAACATTCTC-1,stroma_fibroblastic_IC high
+GAATGCGAATCGGTTC-1,tumor
+GAATGTGGTCCGGATT-1,tumor&stroma_IC med to high
+GAATGTTGGGTAATCT-1,tumor&stroma_IC med to high
+GAATTATAGTGAAAGG-1,tumor&stroma_IC med to high
+GAATTCACCCGGGTGT-1,stroma_fibroblastic_IC med
+GAATTTCTCGCTGCAG-1,submucosa
+GACAAACATATGCAGG-1,stroma_desmoplastic_IC low
+GACAACGACCATTGAA-1,stroma_fibroblastic_IC med
+GACAACGCAGCTTACG-1,exclude
+GACACAAGGGAAGAAA-1,tumor
+GACACTGAGTTCAGTG-1,tumor
+GACACTGGAACCCGAT-1,stroma_desmoplastic_IC low
+GACAGCCAGACCTGAC-1,stroma_fibroblastic_IC high
+GACAGGCACACACTAT-1,tumor&stroma_IC med to high
+GACATCCGTCGAACTG-1,stroma_fibroblastic_IC high
+GACATCGATTTATAAC-1,stroma_fibroblastic_IC high
+GACCAAACGTTGACTG-1,exclude
+GACCACACTTCCCTTT-1,stroma_fibroblastic_IC high
+GACCAGAGCCCTGTAG-1,tumor&stroma_IC med to high
+GACCGACTGAAGCGTC-1,non neo epithelium
+GACCGCGTCTGACGTG-1,stroma_desmoplastic_IC low
+GACCGTGCTGACGGTG-1,stroma_fibroblastic_IC high
+GACCTTCCACGTCTAC-1,stroma_fibroblastic_IC high
+GACGACGATCCGCGTT-1,tumor&stroma_IC med to high
+GACGAGGCTAATAAAC-1,stroma_desmoplastic_IC low
+GACGCCGTAAAGGCTA-1,tumor&stroma_IC med to high
+GACGCTTGCTTCTAAA-1,tumor&stroma_IC med to high
+GACGGGTTGGCCCGTA-1,exclude
+GACGGTCAATAGAAGC-1,tumor&stroma_IC med to high
+GACGTGTAGGGATTAT-1,submucosa
+GACTAAGATCATGCAC-1,stroma_fibroblastic_IC med
+GACTAAGTAGGCTCAC-1,tumor&stroma_IC med to high
+GACTAGGCCGTTAGGT-1,tumor&stroma_IC med to high
+GACTCACCCACGTGAG-1,stroma_desmoplastic_IC low
+GACTCGCGGGAATGAC-1,stroma_fibroblastic_IC high
+GACTGCAAATCGAGCT-1,stroma_fibroblastic_IC med
+GACTGCACCAGCCCAG-1,stroma_fibroblastic_IC med
+GAGACTGATGGGTAGA-1,stroma_fibroblastic_IC high
+GAGACTTCGCGACCGA-1,tumor
+GAGAGGGCGCGAGGTT-1,stroma_fibroblastic_IC high
+GAGAGGTGCATTCTGG-1,stroma_fibroblastic_IC high
+GAGATCTGCTTGGCAT-1,tumor
+GAGATCTGTCACTCCG-1,tumor
+GAGATCTTCCATGACA-1,stroma_fibroblastic_IC med
+GAGATGGCTTTAATCA-1,stroma_fibroblastic_IC high
+GAGATGGGAGTCGACA-1,tumor
+GAGCACCTGTGTCCAG-1,stroma_fibroblastic_IC high
+GAGCCAGCTACCTGTG-1,stroma_desmoplastic_IC med to high
+GAGCGCAAATACTCCG-1,stroma_desmoplastic_IC low
+GAGCGCGCACGAGTAG-1,stroma_desmoplastic_IC low
+GAGCTAAGGGCATATC-1,tumor&stroma_IC med to high
+GAGCTCTCGGACCTAA-1,epithelium&submucosa
+GAGGAATGGAGAGGTT-1,non neo epithelium
+GAGGCTATCAAAGTCG-1,epithelium&submucosa
+GAGGGCGCAGCTCTGC-1,stroma_fibroblastic_IC high
+GAGGTACGCGTGTCCC-1,stroma_fibroblastic_IC high
+GAGTACGGGTATACAA-1,epithelium&submucosa
+GAGTAGATACTAGTTG-1,stroma_fibroblastic_IC high
+GAGTATGCCCGCCTTG-1,stroma_fibroblastic_IC med
+GAGTATGCGCGTGCAT-1,tumor
+GAGTCAGACCAGAATC-1,stroma_fibroblastic_IC high
+GAGTCCGCTTACCGGA-1,stroma_fibroblastic_IC med
+GAGTGTCAACCAGAAA-1,stroma_fibroblastic_IC med
+GAGTGTGCGGTACCCA-1,stroma_fibroblastic_IC high
+GATAAATCGGTGGATG-1,submucosa
+GATAACTCGCACTGTG-1,stroma_fibroblastic_IC high
+GATACGATGGGAGTCA-1,tumor&stroma_IC med to high
+GATAGGTAACGTTGAC-1,tumor
+GATATGAGACACTAAC-1,stroma_fibroblastic_IC high
+GATATGCGGTAGCCAA-1,stroma_fibroblastic_IC high
+GATATTGAGATTGGCG-1,stroma_fibroblastic_IC high
+GATATTTCCTACATGG-1,exclude
+GATCATTCCAAACATT-1,stroma_fibroblastic_IC high
+GATCCCTTTATACTGC-1,stroma_fibroblastic_IC med
+GATCCGGGAATTAACA-1,stroma_fibroblastic_IC med
+GATCCTAAATCGGGAC-1,stroma_fibroblastic_IC med
+GATCCTCGACACTGGC-1,stroma_fibroblastic_IC high
+GATCGACACTATCTGA-1,stroma_fibroblastic_IC high
+GATCGCGGGCTCTCCA-1,stroma_fibroblastic_IC high
+GATCGCTACCCGATTT-1,stroma_desmoplastic_IC low
+GATCGGTGGCCATAAC-1,stroma_fibroblastic_IC high
+GATCGTGACTGATATC-1,stroma_fibroblastic_IC med
+GATCTGCTATCTAAGG-1,stroma_fibroblastic_IC high
+GATCTTGGAGGGCATA-1,stroma_fibroblastic_IC high
+GATGAGGAACCTTCGG-1,tumor
+GATGCGTCCTGCATTC-1,stroma_fibroblastic_IC med
+GATGCTACAAGCGCCT-1,epithelium&submucosa
+GATGCTACCTTCGATG-1,stroma_fibroblastic_IC high
+GATGCTGTATTTCATC-1,stroma_fibroblastic_IC med
+GATGTTCAATCCACGA-1,stroma_fibroblastic_IC high
+GATTAACCGAAAGCCC-1,stroma_desmoplastic_IC med to high
+GATTACTGAATTTGGG-1,stroma_fibroblastic_IC high
+GATTCCCTTGTCGCAG-1,stroma_fibroblastic_IC med
+GATTCGACGGTTCACG-1,stroma_fibroblastic_IC med
+GATTGGGAAAGGTTGT-1,tumor&stroma_IC med to high
+GCAAACCCTACATTAT-1,tumor&stroma_IC med to high
+GCAAACCTTGGCCATA-1,tumor
+GCAAATATTACGCTTT-1,stroma_fibroblastic_IC med
+GCAACAGCAGTATGCG-1,stroma_desmoplastic_IC med to high
+GCAACCACGGCCGCGT-1,stroma_fibroblastic_IC high
+GCAAGAATTCCTTGGC-1,stroma_fibroblastic_IC high
+GCAAGTGCACAGAGAA-1,IC aggregate submucosa
+GCACACACTGGTAGCC-1,stroma_desmoplastic_IC med to high
+GCACACAGCTATTACC-1,stroma_fibroblastic_IC high
+GCACGCCGATTCCCGC-1,tumor&stroma_IC med to high
+GCACGCCTACTTAGAT-1,exclude
+GCACTAGTCGCGCTAT-1,exclude
+GCACTGCCTACCTTTA-1,stroma_fibroblastic_IC high
+GCAGACCCAGCACGTA-1,stroma_desmoplastic_IC med to high
+GCAGATCCATAAGACT-1,stroma_fibroblastic_IC high
+GCAGATTAGGGATATC-1,stroma_fibroblastic_IC high
+GCAGCACACAGCCCAG-1,stroma_fibroblastic_IC high
+GCAGCTGTCAACGCAT-1,stroma_fibroblastic_IC high
+GCAGGTAGAGTATGGT-1,exclude
+GCAGTGTGGCTATAGG-1,stroma_fibroblastic_IC high
+GCATAGAGCACTCAGG-1,stroma_fibroblastic_IC high
+GCATCCCTAACTTTGA-1,epithelium&submucosa
+GCATCGGCCGTGTAGG-1,stroma_desmoplastic_IC low
+GCATGAGGGACGCGGC-1,stroma_fibroblastic_IC high
+GCATGCTAATAACGAT-1,stroma_fibroblastic_IC high
+GCATTGTAATTCATAT-1,tumor&stroma_IC med to high
+GCCAACCATTTCCGGA-1,exclude
+GCCAATAGGGCATCTC-1,stroma_fibroblastic_IC high
+GCCACAATTTAAGGAC-1,stroma_fibroblastic_IC high
+GCCACTCAGAGCGCGA-1,stroma_desmoplastic_IC med to high
+GCCAGGAGTAACCGAT-1,stroma_fibroblastic_IC high
+GCCATATTGCACACAG-1,stroma_fibroblastic_IC high
+GCCATCGAGCTGCGTG-1,stroma_fibroblastic_IC high
+GCCATCGATGCTGCAT-1,exclude
+GCCCAGTTGGTATGCC-1,epithelium&submucosa
+GCCCGACTTCTTCCCG-1,exclude
+GCCCGATCTGTGGTCG-1,tumor
+GCCCGCGCGTAAACGG-1,stroma_fibroblastic_IC med
+GCCCGCGCGTTTGACA-1,IC aggregate submucosa
+GCCCGTAATACCTTCT-1,stroma_fibroblastic_IC med
+GCCCTGAGGATGGGCT-1,tumor&stroma_IC med to high
+GCCGAAATTCCTACGT-1,stroma_fibroblastic_IC med
+GCCGATTGGCCAAGCT-1,stroma_fibroblastic_IC med
+GCCGCATTAGTCCGGC-1,exclude
+GCCGCTTGTGAGAAAC-1,tumor&stroma_IC med to high
+GCCGGGTTAGGGTCGC-1,stroma_fibroblastic_IC high
+GCCTACGTTCTGTGCA-1,stroma_fibroblastic_IC high
+GCCTAGCGATCTGACC-1,IC aggregate submucosa
+GCCTATAGTGTCAGGG-1,stroma_fibroblastic_IC med
+GCCTATTCCGATATAG-1,epithelium&submucosa
+GCCTCATCTGGAAATA-1,stroma_desmoplastic_IC med to high
+GCCTCCGACAATTCAC-1,stroma_desmoplastic_IC low
+GCCTCTATACATAGCA-1,stroma_fibroblastic_IC high
+GCCTGTCCCGGTGCAT-1,exclude
+GCCTTCAGCCCTACCG-1,submucosa
+GCGAAACGATCGGGAG-1,stroma_desmoplastic_IC low
+GCGAAACTTAACTGGA-1,tumor&stroma_IC med to high
+GCGAAGAATCTGACGG-1,tumor&stroma_IC med to high
+GCGAAGCCATACCCGT-1,tumor
+GCGACATGTAAACATC-1,stroma_desmoplastic_IC low
+GCGACGATAGTTGTAC-1,stroma_fibroblastic_IC med
+GCGACGGTAGTCTCCT-1,exclude
+GCGAGAGTTGCGTCCA-1,stroma_desmoplastic_IC low
+GCGAGCGCATGCTCCC-1,exclude
+GCGAGGCCCGAGCAGA-1,stroma_fibroblastic_IC med
+GCGAGTTCTGCAAAGA-1,stroma_fibroblastic_IC high
+GCGATTGTTAACGTTA-1,stroma_fibroblastic_IC med
+GCGCAAGAGCGCGCTG-1,stroma_desmoplastic_IC low
+GCGCATCCAGTCAGCA-1,stroma_fibroblastic_IC med
+GCGCCGTTCCACGATA-1,stroma_fibroblastic_IC high
+GCGCCTCCCACTCCGA-1,stroma_desmoplastic_IC med to high
+GCGCGGTCTAGTAACT-1,stroma_fibroblastic_IC high
+GCGCGTCATTGGTACA-1,stroma_fibroblastic_IC high
+GCGCTAATTGAATAGA-1,tumor
+GCGCTATGCCGAGGCA-1,tumor&stroma_IC med to high
+GCGCTGATCCAGACTC-1,exclude
+GCGCTGCTTTGCATTT-1,stroma_fibroblastic_IC med
+GCGCTTAAATAATTGG-1,stroma_fibroblastic_IC high
+GCGGACCGCGTTGTGG-1,stroma_fibroblastic_IC high
+GCGGAGAAACTTCGCA-1,tumor&stroma_IC med to high
+GCGGAGAGGGAGAACG-1,stroma_fibroblastic_IC med
+GCGGCTCTGACGTACC-1,tumor&stroma_IC med to high
+GCGGCTTTAGCAAGTT-1,stroma_fibroblastic_IC med
+GCGGGAACCAGGCCCT-1,epithelium&submucosa
+GCGGGCGAGCCTTACC-1,stroma_fibroblastic_IC high
+GCGGTCCCTAGACGCA-1,exclude
+GCGGTCTTGCTTTCAC-1,exclude
+GCGGTGAACTGCGCTC-1,stroma_fibroblastic_IC high
+GCGGTTCCCTATCATG-1,stroma_fibroblastic_IC high
+GCGTAAATGGCCATAA-1,stroma_desmoplastic_IC med to high
+GCGTCGCCAGGGTGAT-1,stroma_fibroblastic_IC high
+GCGTCTCTGCATTGGG-1,tumor&stroma_IC med to high
+GCGTGGTACTGGGTTA-1,tumor&stroma_IC med to high
+GCGTTCGGAGACCGGG-1,stroma_fibroblastic_IC high
+GCTAACTGAAGTCTGA-1,stroma_fibroblastic_IC high
+GCTAAGTAGTTTCTCT-1,tumor&stroma_IC med to high
+GCTAATACCGAATGCC-1,muscularis_IC med to high
+GCTACAATCGAGGATA-1,exclude
+GCTACGACTTATTGGG-1,stroma_fibroblastic_IC high
+GCTACTATAGTAGAGT-1,stroma_desmoplastic_IC low
+GCTAGACCGTCTACTG-1,stroma_desmoplastic_IC low
+GCTAGAGTAGAGATGT-1,stroma_desmoplastic_IC med to high
+GCTAGCTTGAATAGCT-1,stroma_fibroblastic_IC high
+GCTAGGCACCACGGAG-1,stroma_fibroblastic_IC high
+GCTAGTAGAGCTTGTA-1,stroma_fibroblastic_IC high
+GCTAGTTTCATTGAGG-1,epithelium&submucosa
+GCTATACGTCTCGGAC-1,stroma_desmoplastic_IC med to high
+GCTATCATACTCATGG-1,stroma_fibroblastic_IC high
+GCTCAATCCGTTTATT-1,stroma_fibroblastic_IC high
+GCTCAATGTAATACCG-1,stroma_fibroblastic_IC high
+GCTCCATGCAAAGCAA-1,stroma_fibroblastic_IC high
+GCTCCCAGTCGGTCCA-1,stroma_desmoplastic_IC low
+GCTCGCTCATGTCCAA-1,stroma_desmoplastic_IC low
+GCTCGGAATTTAAAGC-1,stroma_fibroblastic_IC high
+GCTCTAAACCCTGACG-1,exclude
+GCTCTATGTTACGTGC-1,submucosa
+GCTCTCGGGTACCGAA-1,stroma_fibroblastic_IC high
+GCTCTTTCCGCTAGTG-1,exclude
+GCTGAGGCGTGAGTAT-1,stroma_fibroblastic_IC high
+GCTGCACGGTTTCTTA-1,stroma_fibroblastic_IC med
+GCTGCTAAGTAGTCGA-1,stroma_fibroblastic_IC high
+GCTGCTACTGCGTAGC-1,tumor&stroma_IC med to high
+GCTGCTCTCCGGACAC-1,tumor&stroma_IC med to high
+GCTGGCGGCGCATGCT-1,tumor&stroma_IC med to high
+GCTGTATTACTGGCCC-1,stroma_fibroblastic_IC high
+GCTGTTGCTACCGAAC-1,stroma_desmoplastic_IC med to high
+GCTTAATGTAACTAAC-1,stroma_fibroblastic_IC high
+GCTTATGAAGCAGGAA-1,stroma_fibroblastic_IC high
+GCTTCCGTCCCTAGAC-1,stroma_fibroblastic_IC med
+GCTTGATGATAATCAG-1,epithelium&submucosa
+GCTTGGATCGATTAGG-1,stroma_fibroblastic_IC high
+GCTTTCAGAGGAGGTG-1,stroma_fibroblastic_IC med
+GGAAACCTTGTTGAAT-1,exclude
+GGAAACTAAATGGGCC-1,stroma_desmoplastic_IC med to high
+GGAAAGGGAATTGAGC-1,exclude
+GGAAAGTGCCCATGCC-1,stroma_fibroblastic_IC high
+GGAACCGTGTAAATTG-1,stroma_fibroblastic_IC high
+GGAACTTTGGCGATTA-1,exclude
+GGAATGCGCTAGCGTG-1,stroma_fibroblastic_IC high
+GGACACAAGTTTACAC-1,stroma_desmoplastic_IC med to high
+GGACCAACAGGATAAC-1,stroma_fibroblastic_IC high
+GGACTCTTTGACTAAG-1,tumor&stroma_IC med to high
+GGAGAAGTCATTGGCA-1,IC aggregate submucosa
+GGAGACGACACCTTTG-1,tumor&stroma_IC med to high
+GGAGCAACATTTCAAG-1,stroma_desmoplastic_IC low
+GGAGCACCAAGAACTA-1,stroma_fibroblastic_IC med
+GGAGCGAGGCCTACTT-1,stroma_fibroblastic_IC high
+GGAGGGCTTGGTTGGC-1,tumor&stroma_IC med to high
+GGAGTGCCGCCCTGGA-1,exclude
+GGATCCGGAATATACT-1,tumor&stroma_IC med to high
+GGATGAAGATCGCTGA-1,stroma_desmoplastic_IC low
+GGATGACGCGAGTTTA-1,stroma_fibroblastic_IC med
+GGATGCTGGCGTTCCT-1,exclude
+GGATGTCCTTACCGCA-1,stroma_fibroblastic_IC high
+GGATTAATCATGGACC-1,stroma_fibroblastic_IC high
+GGATTCAGTACGGTGG-1,non neo epithelium
+GGATTCCGCTATACCC-1,exclude
+GGATTGCTGTGACTCC-1,stroma_fibroblastic_IC high
+GGATTTCACTTCTATA-1,stroma_fibroblastic_IC high
+GGCAAAGGCGCCAATA-1,stroma_fibroblastic_IC high
+GGCAAATTACTTTACT-1,stroma_fibroblastic_IC high
+GGCAAGCCCATAGTGG-1,stroma_fibroblastic_IC high
+GGCAAGGCGAAATAGC-1,stroma_fibroblastic_IC high
+GGCAATAGTCAATGAG-1,tumor&stroma_IC med to high
+GGCACTCCACTGGGCA-1,stroma_fibroblastic_IC med
+GGCAGCAAACCTATGC-1,stroma_desmoplastic_IC med to high
+GGCATACAGGTAGCGG-1,epithelium&submucosa
+GGCATATCGGTTCTGC-1,exclude
+GGCCCAGCTGGTTTGC-1,stroma_fibroblastic_IC high
+GGCCCTCACCCACTTA-1,tumor
+GGCCGGCGTCTGCTAT-1,tumor
+GGCCTGCTCTGATGTT-1,stroma_fibroblastic_IC high
+GGCGAAATCTAACTTG-1,stroma_fibroblastic_IC high
+GGCGCAGGACATCTTC-1,tumor
+GGCGCATGAATTGATG-1,stroma_fibroblastic_IC high
+GGCGCGGAGATCTTTC-1,stroma_fibroblastic_IC high
+GGCGCGTTCGAGTTTA-1,stroma_fibroblastic_IC med
+GGCGCTTCATTCCCTG-1,stroma_fibroblastic_IC high
+GGCGGAGTAATATTAG-1,stroma_fibroblastic_IC high
+GGCGGTAGGATCATTG-1,tumor&stroma_IC med to high
+GGCGTAGGGAAAGCTG-1,tumor&stroma_IC med to high
+GGCTAAAGGGCGGGTC-1,stroma_fibroblastic_IC high
+GGCTATTAAGTTGTAT-1,tumor&stroma_IC med to high
+GGCTCGCGTTGAGGTA-1,stroma_fibroblastic_IC high
+GGCTCGTGCCACCAGC-1,epithelium&submucosa
+GGCTCTGCTCCAACGC-1,stroma_fibroblastic_IC med
+GGCTGAAATAGCAAAG-1,tumor&stroma_IC med to high
+GGCTTTCAATAAGGGT-1,stroma_fibroblastic_IC high
+GGGAACGGGAGGTTAG-1,tumor&stroma_IC med to high
+GGGAAGACGGTCTGTC-1,stroma_fibroblastic_IC high
+GGGAAGGGCTTTCTCA-1,stroma_fibroblastic_IC high
+GGGAATGAGCCCTCAC-1,exclude
+GGGACCCGTATATCTT-1,stroma_fibroblastic_IC high
+GGGACTGCATAGATAG-1,stroma_fibroblastic_IC high
+GGGAGAACTCACAGTA-1,stroma_fibroblastic_IC med
+GGGAGCGACCGTAGTG-1,stroma_fibroblastic_IC med
+GGGAGGATGCCCGAAA-1,stroma_fibroblastic_IC high
+GGGAGTTAATGAGGCG-1,tumor
+GGGATGGTCGTAACCG-1,stroma_fibroblastic_IC high
+GGGATTTACCGCACCT-1,stroma_fibroblastic_IC high
+GGGCAGAGCAATCGTT-1,tumor
+GGGCAGTCAACGCCAA-1,stroma_fibroblastic_IC high
+GGGCATGCATGTCGAG-1,exclude
+GGGCCCGTCTTAAACA-1,tumor&stroma_IC med to high
+GGGCCGGCCGAAGTAC-1,stroma_fibroblastic_IC high
+GGGCGATATGTGTGAA-1,stroma_fibroblastic_IC high
+GGGCGGCAAATGAATT-1,stroma_fibroblastic_IC med
+GGGCGGGTTCCCTACG-1,stroma_fibroblastic_IC high
+GGGCGTACATTTATAT-1,stroma_fibroblastic_IC med
+GGGCGTCACCACGTAA-1,stroma_fibroblastic_IC high
+GGGCGTGGTTTCCCAG-1,stroma_fibroblastic_IC high
+GGGCTATGATCGATGG-1,stroma_fibroblastic_IC high
+GGGCTCATCGAACCCA-1,stroma_fibroblastic_IC high
+GGGCTGCCTAGGGCGA-1,tumor
+GGGCTGGTTAGTCGCG-1,stroma_fibroblastic_IC high
+GGGTACTTCATGAACT-1,tumor
+GGGTCACCGTGACGGT-1,stroma_fibroblastic_IC med
+GGGTCAGGAGCTAGAT-1,stroma_fibroblastic_IC high
+GGGTGACACCTTAACT-1,stroma_fibroblastic_IC high
+GGGTTAACATTTGAGT-1,stroma_fibroblastic_IC high
+GGGTTTAGGATAGGAT-1,stroma_desmoplastic_IC low
+GGTACAAACATGCTAT-1,tumor&stroma_IC med to high
+GGTACATCTGGGACGA-1,exclude
+GGTACCATTAAGACGG-1,stroma_fibroblastic_IC high
+GGTAGAAGACCGCCTG-1,stroma_fibroblastic_IC high
+GGTAGACCGTTGGGCG-1,tumor
+GGTAGTGCTCGCACCA-1,tumor
+GGTATTGCCGAGTTTA-1,stroma_fibroblastic_IC high
+GGTCAAGACTACTTCG-1,stroma_desmoplastic_IC low
+GGTCAGTGGGTCCCAC-1,stroma_fibroblastic_IC med
+GGTCGGATAAACGGCG-1,stroma_fibroblastic_IC high
+GGTCGGCCAGGAGCTT-1,stroma_fibroblastic_IC high
+GGTCGGTCGTCCACAG-1,stroma_fibroblastic_IC high
+GGTCTCCGTCCAGGTT-1,stroma_desmoplastic_IC med to high
+GGTCTCTGAATGGACT-1,stroma_fibroblastic_IC high
+GGTCTGAGAATCTGGA-1,stroma_fibroblastic_IC high
+GGTCTTGAGCGCTCTT-1,tumor&stroma_IC med to high
+GGTGAAGTACAGGGAT-1,stroma_fibroblastic_IC high
+GGTGAGATGCAGATAA-1,submucosa
+GGTGATAAGGAGCAGT-1,stroma_fibroblastic_IC med
+GGTGCGGATAAGTGGC-1,epithelium&submucosa
+GGTGCTGGTACACATT-1,stroma_fibroblastic_IC high
+GGTGGACTGCTCTGGC-1,stroma_fibroblastic_IC high
+GGTTACCACCCTCGGG-1,stroma_fibroblastic_IC high
+GGTTAGCTATATGTCT-1,stroma_desmoplastic_IC med to high
+GGTTAGGCTTGGAGAA-1,epithelium&submucosa
+GGTTCTACTCGTCTGA-1,stroma_desmoplastic_IC low
+GGTTTACAATCTCAAT-1,stroma_fibroblastic_IC med
+GGTTTAGCCTTTCTTG-1,stroma_desmoplastic_IC med to high
+GGTTTCAATCGGTCAG-1,stroma_fibroblastic_IC med
+GGTTTGTGACCTGAGG-1,exclude
+GTAACATCTAAGATAA-1,exclude
+GTAAGCGGGCAGTCAG-1,tumor
+GTAAGTAACAGTCTGG-1,stroma_fibroblastic_IC high
+GTAAGTAGGGTATACC-1,non neo epithelium
+GTAATAAAGGGCTCCC-1,stroma_fibroblastic_IC high
+GTAATCTGATTCTTCG-1,stroma_fibroblastic_IC med
+GTACACTTACCTGAAG-1,stroma_fibroblastic_IC high
+GTACAGAGGCAAGGGT-1,stroma_fibroblastic_IC med
+GTACGAGATTGCGACA-1,exclude
+GTACGCTTCATTGCAC-1,stroma_fibroblastic_IC high
+GTACGTTTGCCCGTCA-1,stroma_fibroblastic_IC high
+GTACTAAGATTTGGAG-1,stroma_fibroblastic_IC high
+GTACTCCCTTATCGCT-1,tumor
+GTACTCCTGGGTATGC-1,stroma_fibroblastic_IC med
+GTACTGGAGTTAGACC-1,
+GTACTTGGGCACTTCT-1,epithelium&submucosa
+GTAGACACGCCTGACT-1,tumor
+GTAGACGTCGTTACAT-1,exclude
+GTAGAGGGAGACAAGT-1,stroma_fibroblastic_IC high
+GTAGCCAAACATGGGA-1,stroma_fibroblastic_IC high
+GTAGCGGCTATACACT-1,stroma_fibroblastic_IC high
+GTAGCTTCCTCTTGTT-1,stroma_fibroblastic_IC high
+GTAGTCGCGGGAATCA-1,tumor&stroma_IC med to high
+GTAGTCTACGATATTG-1,stroma_fibroblastic_IC high
+GTATCAAACGTTAGCT-1,stroma_desmoplastic_IC med to high
+GTATCAAGGTACTTCC-1,stroma_fibroblastic_IC high
+GTATCAGCTTGGGTTC-1,epithelium&submucosa
+GTATCCTTTGGTAACC-1,stroma_fibroblastic_IC high
+GTATCTTTCATAACCA-1,stroma_fibroblastic_IC high
+GTATGTGGGTCTAGTT-1,stroma_fibroblastic_IC high
+GTATTCTGAGAAACGA-1,stroma_fibroblastic_IC high
+GTCAAGCGGACTCGGG-1,stroma_fibroblastic_IC high
+GTCACTCTCCAAATCT-1,epithelium&submucosa
+GTCATGCACCTCCGTT-1,stroma_fibroblastic_IC med
+GTCATGCGCGAGGGCT-1,stroma_desmoplastic_IC med to high
+GTCATGGACATGACTA-1,stroma_fibroblastic_IC high
+GTCATTAGAGCGAACG-1,stroma_fibroblastic_IC high
+GTCATTGCATTGACCC-1,epithelium&submucosa
+GTCCATTACTGCTACG-1,stroma_desmoplastic_IC low
+GTCCCAACGTAAAGTA-1,tumor
+GTCCCGCGACGTTATG-1,stroma_fibroblastic_IC high
+GTCCGGACCTGAAATT-1,stroma_desmoplastic_IC med to high
+GTCCGGCTGAATTGCG-1,tumor&stroma_IC med to high
+GTCCGGGTTCACATTA-1,stroma_fibroblastic_IC high
+GTCCTACGAATAGTCT-1,stroma_desmoplastic_IC low
+GTCGCCGTTGTGTGTT-1,stroma_fibroblastic_IC high
+GTCGCGTAACCCGTTG-1,stroma_fibroblastic_IC high
+GTCGGGAAGCAGAAAC-1,tumor
+GTCGTACCATCTCGGG-1,stroma_fibroblastic_IC med
+GTCGTATTGGCGTACA-1,stroma_fibroblastic_IC high
+GTCGTTATTCGCTTAT-1,stroma_fibroblastic_IC high
+GTCTAGTGAGCCGCTT-1,stroma_fibroblastic_IC med
+GTCTATCTGAGTTTCT-1,stroma_fibroblastic_IC high
+GTCTATTGGTTCCGGT-1,stroma_desmoplastic_IC med to high
+GTCTCAAGGCCCGGCT-1,tumor
+GTCTCCGCCTCAATAC-1,stroma_fibroblastic_IC high
+GTCTCGATCTGCTTTC-1,stroma_fibroblastic_IC high
+GTCTGGGCGGTCGAGA-1,stroma_fibroblastic_IC high
+GTCTTGTAGCTATTCA-1,stroma_desmoplastic_IC low
+GTGAAACGGCGCCACC-1,stroma_fibroblastic_IC high
+GTGAACTCCCATTCGA-1,IC aggragate_stroma or muscularis
+GTGAAGATTTCAAGTG-1,stroma_fibroblastic_IC med
+GTGAAGCCGTATAGTC-1,exclude
+GTGACAGCTTCCCACT-1,stroma_fibroblastic_IC med
+GTGACCGCACACTACG-1,stroma_fibroblastic_IC high
+GTGACGCAGGTTTCAT-1,stroma_fibroblastic_IC high
+GTGACTTCAGTAGTGC-1,tumor&stroma_IC med to high
+GTGAGCGTGCTGCACT-1,epithelium&submucosa
+GTGAGGACACTTAAGG-1,stroma_fibroblastic_IC high
+GTGAGTGGTACAACGC-1,stroma_fibroblastic_IC med
+GTGATCACTAACGCCT-1,stroma_desmoplastic_IC med to high
+GTGATCATAGATCTGC-1,stroma_fibroblastic_IC med
+GTGATCCTTGTCATGA-1,stroma_fibroblastic_IC high
+GTGATTCGCCGCTCAA-1,stroma_fibroblastic_IC high
+GTGCACCAGCTTCAAC-1,exclude
+GTGCCATCACACGGTG-1,stroma_fibroblastic_IC high
+GTGCCCGTTCGGATTC-1,stroma_fibroblastic_IC high
+GTGCCGCTTCAAAGGT-1,tumor&stroma_IC med to high
+GTGCCTGAGACCAAAC-1,stroma_fibroblastic_IC med
+GTGCGAAATCGAACAC-1,stroma_fibroblastic_IC high
+GTGCGACAGGGAGTGT-1,stroma_desmoplastic_IC med to high
+GTGCGTGTATATGAGC-1,stroma_fibroblastic_IC high
+GTGCTCAAGTACTGTC-1,tumor&stroma_IC med to high
+GTGGACCAACCCGATT-1,IC aggragate_stroma or muscularis
+GTGGACGCATTTGTCC-1,stroma_fibroblastic_IC high
+GTGGACGTGCTGAGAC-1,epithelium&submucosa
+GTGGAGTCGGCGGTTG-1,exclude
+GTGGCGGTCCCAGCGT-1,tumor&stroma_IC med to high
+GTGGCTGTTTCTGTTC-1,exclude
+GTGGGCTTAGACACAC-1,stroma_fibroblastic_IC high
+GTGGTATAGTCTGCCG-1,exclude
+GTGGTGGCCAAGTGAA-1,stroma_fibroblastic_IC med
+GTGGTTACTTCTTTCG-1,IC aggragate_stroma or muscularis
+GTGGTTTCCGCCTTTC-1,stroma_fibroblastic_IC high
+GTGTACCTTGGCTACG-1,stroma_fibroblastic_IC med
+GTGTATATCAGCGGGC-1,stroma_fibroblastic_IC high
+GTGTCGTATAGCGTTC-1,stroma_fibroblastic_IC high
+GTGTGAATAACTTAGG-1,stroma_fibroblastic_IC med
+GTGTTACTATGCGTCC-1,stroma_fibroblastic_IC med
+GTTAAAGTAGGACTGG-1,stroma_fibroblastic_IC high
+GTTAACATCACTTAAA-1,stroma_fibroblastic_IC high
+GTTAACTATGTTGTCA-1,stroma_desmoplastic_IC med to high
+GTTAAGGGTGCGATGT-1,tumor
+GTTACAATTGGTGACG-1,tumor
+GTTACCTACAACTTGC-1,stroma_fibroblastic_IC high
+GTTACTTTGGGCCTAG-1,stroma_fibroblastic_IC high
+GTTAGCCCATGACATC-1,stroma_fibroblastic_IC high
+GTTATAATACGGTGAA-1,stroma_desmoplastic_IC low
+GTTATATTATCTCCCT-1,tumor&stroma_IC med to high
+GTTCAGTCGCCAAATG-1,stroma_fibroblastic_IC high
+GTTCATCGTTTGGCTG-1,stroma_desmoplastic_IC med to high
+GTTCCAGTCTGACCAT-1,exclude
+GTTCGCCATAAGTGCC-1,stroma_fibroblastic_IC high
+GTTCGCTGAGACGTCT-1,stroma_desmoplastic_IC low
+GTTCGGATCGGGAACA-1,stroma_desmoplastic_IC low
+GTTCGGGCGTACCATT-1,stroma_desmoplastic_IC low
+GTTCGTCTAAAGAACT-1,stroma_desmoplastic_IC med to high
+GTTCTTCCCTCGATGT-1,epithelium&submucosa
+GTTGAACCGGTTCCAT-1,stroma_fibroblastic_IC high
+GTTGAGTCCCGCCGGT-1,stroma_fibroblastic_IC high
+GTTGCACGGAGTTTCG-1,muscularis_IC med to high
+GTTGGATTGAGAACAC-1,stroma_fibroblastic_IC med
+GTTGGATTTGCGTTGG-1,tumor&stroma_IC med to high
+GTTGGTCATGCTATCC-1,tumor&stroma_IC med to high
+GTTGTAGATTTATGAG-1,stroma_fibroblastic_IC high
+GTTGTCGTGTTAGTTG-1,epithelium&submucosa
+GTTTACGTTCCATCTG-1,stroma_fibroblastic_IC med
+GTTTCAAACGAGTTGT-1,exclude
+GTTTCATATCGTCGCT-1,tumor
+GTTTCCTGGAGGGTGA-1,stroma_fibroblastic_IC high
+GTTTCTAGAGGCGCGG-1,stroma_fibroblastic_IC high
+GTTTCTGCAGTCTCCC-1,stroma_fibroblastic_IC high
+GTTTGACCAAATCCTA-1,stroma_fibroblastic_IC high
+GTTTGGCCCAAGTTAT-1,stroma_fibroblastic_IC high
+GTTTGGGCTTGTGAGC-1,stroma_fibroblastic_IC high
+GTTTGGGTTTCGCCCG-1,stroma_fibroblastic_IC high
+GTTTGGTAGGGTCAAC-1,tumor&stroma_IC med to high
+TAAACCCAGGAGGGCA-1,stroma_fibroblastic_IC high
+TAAAGCGTTAGGAGAA-1,stroma_fibroblastic_IC high
+TAAATGAATCCGTTTC-1,submucosa
+TAACAAAGGGAGAAGC-1,epithelium&submucosa
+TAACAATATTTGTTGC-1,epithelium&submucosa
+TAACATACAATGTGGG-1,stroma_fibroblastic_IC high
+TAACCTACCGTCCGAG-1,stroma_fibroblastic_IC high
+TAACCTAGGGAGTCCA-1,stroma_desmoplastic_IC low
+TAACGCTTTGAGAGCG-1,submucosa
+TAACTATCGAAGGTCC-1,epithelium&submucosa
+TAACTATTACGCCAAA-1,stroma_fibroblastic_IC high
+TAACTCATCCGCGCGG-1,stroma_fibroblastic_IC high
+TAAGCAGGCGACACGC-1,epithelium&submucosa
+TAAGGAACTTGTGGGA-1,epithelium&submucosa
+TAAGGCAACATAAGAT-1,stroma_fibroblastic_IC med
+TAAGGCATAACATCAA-1,stroma_fibroblastic_IC high
+TAAGGCCCGTCACCCT-1,stroma_fibroblastic_IC high
+TAAGGCTGAATCCCTC-1,stroma_desmoplastic_IC med to high
+TAAGGGCCTGTCCGAT-1,stroma_desmoplastic_IC med to high
+TAAGTAACATCTTGAC-1,stroma_fibroblastic_IC high
+TAAGTCGCCGAGTATC-1,stroma_fibroblastic_IC high
+TAAGTTGCGACGTAGG-1,stroma_desmoplastic_IC low
+TAATACTAGAACAGAC-1,stroma_fibroblastic_IC high
+TAATAGAACAGAGTTA-1,stroma_fibroblastic_IC high
+TAATAGTGACGACCAG-1,stroma_fibroblastic_IC med
+TAATATTGAAATTCGC-1,non neo epithelium
+TAATCGATCCGTACGT-1,tumor&stroma_IC med to high
+TAATTACGTCAGTAGA-1,stroma_desmoplastic_IC med to high
+TAATTAGGACATCCGT-1,stroma_desmoplastic_IC low
+TACAACGCACAACTCA-1,stroma_fibroblastic_IC high
+TACAAGGGCTTCTTTA-1,stroma_fibroblastic_IC high
+TACACAGCCGTGGTGC-1,stroma_fibroblastic_IC high
+TACAGAAACGGTGGGC-1,stroma_fibroblastic_IC med
+TACATAGGCATACACC-1,stroma_fibroblastic_IC med
+TACATTTCTAACGTGC-1,stroma_fibroblastic_IC med
+TACCAAATAGCCCAGA-1,stroma_fibroblastic_IC high
+TACCAATAAAGTACCA-1,stroma_fibroblastic_IC high
+TACCAGAAGTAGGTTC-1,stroma_fibroblastic_IC med
+TACCGAATAATTGTAA-1,stroma_fibroblastic_IC high
+TACCGCGGACTTGCAG-1,stroma_fibroblastic_IC high
+TACCGGCTCACTGCCC-1,stroma_fibroblastic_IC high
+TACCGGTCGTTTCCAT-1,stroma_fibroblastic_IC high
+TACCGTAGGTTAACTA-1,tumor&stroma_IC med to high
+TACCGTGCCTCGGACC-1,stroma_fibroblastic_IC high
+TACCTACTCCCAGTAT-1,stroma_fibroblastic_IC high
+TACCTCACGCTTGTAC-1,exclude
+TACCTCAGTTGTCTGT-1,exclude
+TACCTTAAGATTTCCC-1,stroma_fibroblastic_IC high
+TACGAACACGACTTCA-1,stroma_fibroblastic_IC high
+TACGACGCTTGCTGCG-1,stroma_fibroblastic_IC high
+TACGACTGCCTCTTAG-1,tumor&stroma_IC med to high
+TACGAGAACTTCACGT-1,tumor
+TACGCAGTTCTTTCCT-1,tumor&stroma_IC med to high
+TACGCCATATTCTAAT-1,stroma_fibroblastic_IC high
+TACGCCTCCATTCCGA-1,tumor&stroma_IC med to high
+TACGCTATAGAAACCT-1,stroma_desmoplastic_IC low
+TACGGAAGCCAAACCA-1,tumor&stroma_IC med to high
+TACGGGATGCTAGCAG-1,stroma_fibroblastic_IC high
+TACGTAAAGCGGAGTG-1,exclude
+TACGTGCACTATGCTG-1,epithelium&submucosa
+TACGTGGGCCCAGGGC-1,stroma_fibroblastic_IC high
+TACGTTTACCGGCAAT-1,tumor&stroma_IC med to high
+TACTACGTGCAATGCG-1,tumor&stroma_IC med to high
+TACTATGGTTCCTCAG-1,stroma_fibroblastic_IC high
+TACTCGGCACGCCGGG-1,exclude
+TACTCTCCGAACAAAT-1,stroma_fibroblastic_IC high
+TACTCTTACTTTACTG-1,exclude
+TACTCTTTCGTCTTCA-1,exclude
+TACTGAACAGATTTAG-1,stroma_fibroblastic_IC high
+TACTGCAATCAATTAC-1,stroma_fibroblastic_IC high
+TACTGGACAGCTCGGC-1,epithelium&submucosa
+TACTTGTTAGTAGTCC-1,stroma_fibroblastic_IC med
+TACTTTACTGAGCCGG-1,stroma_fibroblastic_IC med
+TAGAAAGGTGGCGCTA-1,stroma_fibroblastic_IC high
+TAGAATAGCCGATGAA-1,stroma_desmoplastic_IC med to high
+TAGACGAAACGCCAAT-1,stroma_fibroblastic_IC med
+TAGACGCCCGTACCGG-1,stroma_fibroblastic_IC med
+TAGACTACCTAGCGTT-1,stroma_desmoplastic_IC low
+TAGAGATCATGCAACT-1,stroma_fibroblastic_IC high
+TAGAGGGAGTTTATCT-1,exclude
+TAGAGGTTCTACTTGT-1,stroma_desmoplastic_IC med to high
+TAGAGTCTAAGCGAAC-1,stroma_fibroblastic_IC high
+TAGATATGGACTGGAA-1,stroma_fibroblastic_IC med
+TAGATGGTTCCTTACT-1,stroma_desmoplastic_IC low
+TAGATTCCTGGTTATT-1,non neo epithelium
+TAGCAACCTGTCACAA-1,exclude
+TAGCCATTTCAAAGTC-1,stroma_fibroblastic_IC high
+TAGCCGGCGGTCAGCG-1,stroma_fibroblastic_IC med
+TAGCGTCCCTCGATTG-1,stroma_desmoplastic_IC med to high
+TAGCGTCCGGTGTGGT-1,stroma_fibroblastic_IC high
+TAGCGTTGGGTCTTAC-1,stroma_fibroblastic_IC high
+TAGCTAAGTCCGGGAG-1,stroma_fibroblastic_IC high
+TAGCTAGAAGGCATGA-1,stroma_fibroblastic_IC med
+TAGCTCGCCTGATAAC-1,tumor&stroma_IC med to high
+TAGGCATGTTACGCCA-1,stroma_fibroblastic_IC high
+TAGGCTAAAGTGGCAC-1,exclude
+TAGGGAGCTTGGGATG-1,stroma_fibroblastic_IC high
+TAGGGTGTTTCAAGAG-1,exclude
+TAGGTCGCCGGAACTG-1,tumor&stroma_IC med to high
+TAGGTGACGATAACCT-1,tumor&stroma_IC med to high
+TAGGTGAGCCCTACTC-1,epithelium&submucosa
+TAGGTGCTCGCCTAGC-1,stroma_fibroblastic_IC high
+TAGGTGTTCCACAGAT-1,stroma_fibroblastic_IC high
+TAGGTTCGAGTTCGTC-1,stroma_fibroblastic_IC high
+TAGGTTCTGCTGAGAA-1,stroma_fibroblastic_IC high
+TAGTCCGCAGAGAATG-1,stroma_fibroblastic_IC high
+TAGTCGATCACGGGTT-1,stroma_desmoplastic_IC med to high
+TAGTCTAACAACGAGA-1,stroma_fibroblastic_IC high
+TAGTCTGTGACGTTGC-1,stroma_fibroblastic_IC high
+TAGTGCCCTCCAGAGT-1,stroma_fibroblastic_IC high
+TATAAATCCACAAGCT-1,IC aggregate submucosa
+TATAAGTGAGGATAGC-1,epithelium&submucosa
+TATACACAGACGCCTT-1,stroma_fibroblastic_IC med
+TATACACGCAAAGTAT-1,non neo epithelium
+TATACGCGTCATCACT-1,stroma_fibroblastic_IC high
+TATAGATGGTCGCAGT-1,stroma_desmoplastic_IC med to high
+TATAGGGTACTCATGA-1,tumor&stroma_IC med to high
+TATATCCCTGGGAGGA-1,stroma_fibroblastic_IC high
+TATCACCCAACCGACC-1,stroma_fibroblastic_IC med
+TATCCAATTGGTTATC-1,stroma_fibroblastic_IC high
+TATCCATATCATGCGA-1,epithelium&submucosa
+TATCCGCACCGTCGGG-1,tumor&stroma_IC med to high
+TATCCTATCAACTGGT-1,stroma_fibroblastic_IC high
+TATCCTGCATGGGAAT-1,exclude
+TATCGATCTATGCATA-1,stroma_fibroblastic_IC high
+TATCGATGATTAAACG-1,muscularis_IC med to high
+TATCTACAGAGGTAAT-1,non neo epithelium
+TATCTACCACAGCGGG-1,stroma_fibroblastic_IC high
+TATGAAGACAGGTGCG-1,non neo epithelium
+TATGATCTTCTCTTTA-1,stroma_fibroblastic_IC high
+TATGCTCCCTACTTAC-1,stroma_fibroblastic_IC high
+TATGGATGTGCTACGC-1,stroma_fibroblastic_IC high
+TATGGGACCGAGCAGG-1,stroma_fibroblastic_IC high
+TATGGGTACGTATCGT-1,stroma_fibroblastic_IC med
+TATGGTCTGAGTAACA-1,stroma_fibroblastic_IC med
+TATGGTTAGTGGGAGA-1,stroma_desmoplastic_IC low
+TATGTCAAGACCGACT-1,stroma_fibroblastic_IC high
+TATGTCTCATTGTGCC-1,tumor&stroma_IC med to high
+TATTAACCTGACCGCG-1,stroma_fibroblastic_IC high
+TATTACCATCCTGCTT-1,stroma_desmoplastic_IC low
+TATTCAATTCTAATCC-1,tumor
+TATTCCACTCAGCTCG-1,tumor
+TATTCCGAGCTGTTAT-1,stroma_fibroblastic_IC high
+TATTCCTCCGCCCACT-1,stroma_fibroblastic_IC med
+TATTCGTGCCAGAATA-1,stroma_fibroblastic_IC high
+TATTTGTTACCCTTTA-1,muscularis_IC med to high
+TCAAACAACCGCGTCG-1,stroma_fibroblastic_IC med
+TCAAACTTAGATTGTT-1,tumor&stroma_IC med to high
+TCAAATTGTTGTGCCG-1,tumor
+TCAAATTTGAGACTCA-1,tumor&stroma_IC med to high
+TCAACAAAGATAATTC-1,stroma_fibroblastic_IC high
+TCAACATAGCGCCCTA-1,exclude
+TCAACCATGTTCGGGC-1,stroma_fibroblastic_IC high
+TCAACGAGGAGACAAA-1,stroma_fibroblastic_IC high
+TCAACGCAGGAAATAA-1,stroma_fibroblastic_IC high
+TCAACGCGACCGGCAG-1,tumor&stroma_IC med to high
+TCAACTAACGTATAAC-1,epithelium&submucosa
+TCAACTGCAGAGTCAG-1,stroma_desmoplastic_IC low
+TCAAGAAATACTAGCT-1,stroma_desmoplastic_IC low
+TCAAGGTTACTACACC-1,stroma_desmoplastic_IC med to high
+TCAATACGCCGTCATG-1,stroma_fibroblastic_IC high
+TCACAAACCGAGGTAC-1,stroma_desmoplastic_IC med to high
+TCACAGCAAACTCGAA-1,stroma_fibroblastic_IC high
+TCACAGGAGAATAAGA-1,stroma_fibroblastic_IC high
+TCACAGGGAATCGCAA-1,stroma_fibroblastic_IC med
+TCACAGGTTATTGGGC-1,stroma_fibroblastic_IC high
+TCACCCTCTTAAGATT-1,stroma_fibroblastic_IC med
+TCACCGCTCGGCACTC-1,stroma_fibroblastic_IC med
+TCACGATGTCCGTGGA-1,stroma_fibroblastic_IC high
+TCACGCATTGTAGATC-1,stroma_fibroblastic_IC med
+TCACGGTCATCGCACA-1,muscularis_IC med to high
+TCACGTGCCCGATTCA-1,stroma_fibroblastic_IC high
+TCAGAACCTCCACAGG-1,stroma_fibroblastic_IC high
+TCAGACGCTATAGAAG-1,stroma_fibroblastic_IC high
+TCAGCAAATGCATCTC-1,tumor
+TCAGGGTGTAACGTAA-1,exclude
+TCAGGTTCTTTGAGAA-1,stroma_fibroblastic_IC high
+TCAGTACTGACCCGCG-1,non neo epithelium
+TCAGTAGGGACTATAA-1,stroma_fibroblastic_IC high
+TCATATGAGCTTTGTT-1,stroma_fibroblastic_IC high
+TCATCACTCGAGCTCG-1,non neo epithelium
+TCATCCTCAGCTGCTT-1,stroma_fibroblastic_IC high
+TCATCGACGACCGTCG-1,stroma_fibroblastic_IC high
+TCATGCAGGTTCTCAT-1,exclude
+TCATTTAAGTCTCCGA-1,stroma_fibroblastic_IC high
+TCATTTAGAAGTGTGA-1,stroma_desmoplastic_IC low
+TCCAACTCAGCTATCT-1,stroma_fibroblastic_IC high
+TCCAACTTTAAATTCT-1,tumor&stroma_IC med to high
+TCCAAGCCTAGACACA-1,tumor&stroma_IC med to high
+TCCAATAAAGGCTACC-1,exclude
+TCCACAATGGTTTACG-1,epithelium&submucosa
+TCCACATCGTATATTG-1,stroma_fibroblastic_IC high
+TCCACCTCTAGCCTTT-1,stroma_fibroblastic_IC high
+TCCACTTTATCTAGGT-1,stroma_fibroblastic_IC high
+TCCAGAGCACCGGTTC-1,stroma_fibroblastic_IC med
+TCCAGGCAGGACGATC-1,stroma_fibroblastic_IC high
+TCCAGGCGAGTACGGT-1,stroma_fibroblastic_IC high
+TCCAGGGTATATACGA-1,tumor&stroma_IC med to high
+TCCCAAAGACGAAGGA-1,stroma_fibroblastic_IC high
+TCCCACTCTCTTCCGG-1,stroma_desmoplastic_IC med to high
+TCCCAGCTTTAGTCTG-1,stroma_fibroblastic_IC high
+TCCCAGGCTTAGCTAA-1,tumor
+TCCCGCGTACTCCTGG-1,stroma_fibroblastic_IC high
+TCCCGTCAGTCCCGCA-1,stroma_fibroblastic_IC high
+TCCCGTGTGCAATTTG-1,stroma_fibroblastic_IC high
+TCCCTGGCTCGCTGGA-1,epithelium&submucosa
+TCCCTTAGATTACTCG-1,exclude
+TCCGAACTTGGCTTAC-1,epithelium&submucosa
+TCCGATGACTGAGCTC-1,stroma_fibroblastic_IC high
+TCCGATGGTGCGACAT-1,stroma_fibroblastic_IC high
+TCCGCCTGTCTACAAG-1,tumor
+TCCGCGGCAGCATCTG-1,tumor&stroma_IC med to high
+TCCGCGGCCCAATGAA-1,stroma_desmoplastic_IC med to high
+TCCGCTGTCATCCCGG-1,stroma_fibroblastic_IC med
+TCCGCTTATCCCATTA-1,stroma_fibroblastic_IC med
+TCCGGCCTAGCGTACA-1,tumor&stroma_IC med to high
+TCCGGTTCGTCCGGTC-1,stroma_fibroblastic_IC med
+TCCGTTAAGCTAATAT-1,stroma_desmoplastic_IC med to high
+TCCGTTTAGCCTTGAA-1,stroma_fibroblastic_IC high
+TCCTAAAGATTCAGAC-1,stroma_fibroblastic_IC med
+TCCTAAATTGGGAAGC-1,tumor
+TCCTACATCCACGGCC-1,tumor&stroma_IC med to high
+TCCTAGCAAAGAAGCT-1,stroma_fibroblastic_IC high
+TCCTCGGGCTGGGCTT-1,stroma_fibroblastic_IC med
+TCCTCTACGAGATGGC-1,epithelium&submucosa
+TCCTCTCCAGTTGTCC-1,epithelium&submucosa
+TCCTGCGTTGATACTC-1,tumor&stroma_IC med to high
+TCCTTACGACGGTCCG-1,stroma_desmoplastic_IC low
+TCCTTGTCCTTTAATT-1,stroma_fibroblastic_IC high
+TCCTTTAAATCCGCTT-1,stroma_desmoplastic_IC med to high
+TCCTTTCTTACGCTTA-1,stroma_fibroblastic_IC med
+TCGAAATTTAGGACCA-1,tumor
+TCGAAGAACCGAGCAC-1,stroma_desmoplastic_IC med to high
+TCGAGACCAACACCGT-1,stroma_fibroblastic_IC high
+TCGCAAAGATGCATTT-1,stroma_fibroblastic_IC high
+TCGCACCAGGAGGCAG-1,stroma_fibroblastic_IC high
+TCGCCGAAGTTGCGTC-1,stroma_fibroblastic_IC high
+TCGCCGACATATTCGC-1,stroma_fibroblastic_IC med
+TCGCGTAGCAGTGTCC-1,stroma_desmoplastic_IC low
+TCGCTAAACCGCTATC-1,exclude
+TCGCTACTGGCTTTGA-1,stroma_fibroblastic_IC high
+TCGCTCGATATATTCC-1,stroma_fibroblastic_IC high
+TCGCTGCCAATGCTGT-1,tumor&stroma_IC med to high
+TCGCTGGGCGGATTGT-1,stroma_fibroblastic_IC med
+TCGCTGTGCGTAAATC-1,epithelium&submucosa
+TCGCTTTAAACGTTTG-1,stroma_fibroblastic_IC high
+TCGGACGCCCAGCCCA-1,tumor&stroma_IC med to high
+TCGGAGAGTATCGGGA-1,exclude
+TCGGAGTACATGAGTA-1,exclude
+TCGGCGAACCCAAACC-1,stroma_desmoplastic_IC low
+TCGGCTTGTATCGACG-1,stroma_desmoplastic_IC low
+TCGGGAACGTGCCTAG-1,stroma_desmoplastic_IC low
+TCGGGAGACAGCGTAC-1,stroma_fibroblastic_IC med
+TCGGGCCGTCGTGGTA-1,tumor&stroma_IC med to high
+TCGTAAGACGACATTG-1,stroma_fibroblastic_IC med
+TCGTACCGACGTCAAG-1,stroma_fibroblastic_IC high
+TCGTATTACCCATTGC-1,tumor
+TCGTCCGCTGGCGTCT-1,IC aggregate submucosa
+TCGTCTTAGGCGTTAA-1,stroma_fibroblastic_IC high
+TCGTGTACTATGGATG-1,stroma_fibroblastic_IC high
+TCGTGTCACGCTGACA-1,stroma_fibroblastic_IC high
+TCGTGTTCGACCACAA-1,stroma_desmoplastic_IC low
+TCGTTAGGAGTCCCTA-1,stroma_fibroblastic_IC med
+TCGTTGCTATCCGGTC-1,stroma_fibroblastic_IC high
+TCTACCCAATAGAGAG-1,stroma_desmoplastic_IC low
+TCTACCGTCCACAAGC-1,stroma_fibroblastic_IC high
+TCTAGCAATCTCCGCC-1,IC aggragate_stroma or muscularis
+TCTAGCATCTTCGATG-1,IC aggregate submucosa
+TCTAGCATGCCCAGAA-1,stroma_fibroblastic_IC high
+TCTAGGTGGCGACGCT-1,stroma_fibroblastic_IC med
+TCTAGTGATATCGTGG-1,stroma_desmoplastic_IC med to high
+TCTAGTTATCAGAAGA-1,stroma_fibroblastic_IC high
+TCTATCATGCAGTTAC-1,IC aggregate submucosa
+TCTATCGGTCGCAACA-1,stroma_fibroblastic_IC med
+TCTATTACGCTGGCGA-1,exclude
+TCTCAAATCAATCGGG-1,exclude
+TCTCATGAGATAGGGT-1,stroma_desmoplastic_IC med to high
+TCTCCAACGTAGGTTA-1,stroma_fibroblastic_IC med
+TCTCCACAAGTTGAAT-1,stroma_fibroblastic_IC high
+TCTCCCTGGGCAGCGT-1,stroma_fibroblastic_IC high
+TCTCTAATAGCTGGTA-1,exclude
+TCTGAACCGGTCGGCT-1,epithelium&submucosa
+TCTGAACTCGTACCCG-1,stroma_desmoplastic_IC med to high
+TCTGAAGCACGTGGTC-1,stroma_fibroblastic_IC high
+TCTGAATTCCGTACAA-1,stroma_fibroblastic_IC med
+TCTGATGTATTCTGTC-1,stroma_fibroblastic_IC high
+TCTGCATACCTTGCTT-1,stroma_desmoplastic_IC med to high
+TCTGCCAGAAACTGCA-1,stroma_fibroblastic_IC high
+TCTGGGAACCTTTGAA-1,stroma_desmoplastic_IC low
+TCTGGGTAGCGCTCAT-1,stroma_fibroblastic_IC high
+TCTGTGCCATCATAGT-1,stroma_fibroblastic_IC high
+TCTGTTACCCAGCATA-1,stroma_fibroblastic_IC high
+TCTTACAGAGGTACCG-1,epithelium&submucosa
+TCTTACCGGAACTCGT-1,stroma_fibroblastic_IC high
+TCTTACGGCATCCGAC-1,epithelium&submucosa
+TCTTACTTATGCCTCT-1,stroma_desmoplastic_IC low
+TCTTAGAGCTCCAATT-1,stroma_desmoplastic_IC low
+TCTTAGAGTGAACTCT-1,stroma_desmoplastic_IC low
+TCTTCCCATGGGCACA-1,stroma_fibroblastic_IC high
+TCTTCGAATAGACGTT-1,stroma_fibroblastic_IC high
+TCTTCGATACCAATAA-1,tumor&stroma_IC med to high
+TCTTCTATAACCCGCC-1,stroma_desmoplastic_IC med to high
+TCTTGATGCGTAGCGA-1,tumor&stroma_IC med to high
+TCTTGCTCCCGATACT-1,tumor&stroma_IC med to high
+TCTTGGTAACACCAAA-1,stroma_fibroblastic_IC med
+TCTTTAAGACTATGAA-1,stroma_fibroblastic_IC high
+TGAAAGGACCTGACTC-1,tumor&stroma_IC med to high
+TGAATACCGACGCGTA-1,tumor&stroma_IC med to high
+TGAATGTCAGCCGGCC-1,stroma_desmoplastic_IC med to high
+TGACATCGAGCGGACC-1,stroma_desmoplastic_IC med to high
+TGACATGTAACGTGAC-1,stroma_fibroblastic_IC high
+TGACCAAATCTTAAAC-1,stroma_fibroblastic_IC high
+TGACCCACGTTAGACA-1,stroma_fibroblastic_IC med
+TGACGAATATTTCCCT-1,exclude
+TGACGATGCACTAGAA-1,stroma_fibroblastic_IC high
+TGACTATAATCCTTTC-1,stroma_fibroblastic_IC high
+TGAGAATGCTTTACCG-1,exclude
+TGAGAGATTTACCACG-1,stroma_fibroblastic_IC high
+TGAGCCATACAGTCTC-1,stroma_fibroblastic_IC high
+TGAGCGGAAAGTGTTC-1,stroma_fibroblastic_IC high
+TGAGCTTTAATGACGC-1,exclude
+TGAGGAGTGCCAGCTT-1,tumor
+TGAGTAAATTAGCGTA-1,stroma_fibroblastic_IC high
+TGAGTGCCTCTTAAAT-1,stroma_fibroblastic_IC high
+TGAGTGGTCCGTGACG-1,stroma_fibroblastic_IC high
+TGAGTTAAAGACATTC-1,stroma_desmoplastic_IC med to high
+TGATACATTTAGCCGT-1,stroma_fibroblastic_IC high
+TGATCAGGGAACTGCT-1,stroma_fibroblastic_IC high
+TGATCGGTTTGACCCT-1,stroma_fibroblastic_IC high
+TGATCTCCGGCGCCAG-1,stroma_fibroblastic_IC high
+TGATGTCAATTAAGTG-1,stroma_desmoplastic_IC med to high
+TGATTCGTCTATCACT-1,tumor&stroma_IC med to high
+TGATTCTGTCGCCGGT-1,stroma_fibroblastic_IC med
+TGATTTATTAGCTGTG-1,tumor
+TGATTTCCTCCTGACG-1,epithelium&submucosa
+TGCAAAGTTCGTCTGT-1,stroma_fibroblastic_IC high
+TGCAACCCATCTGCGG-1,stroma_fibroblastic_IC high
+TGCAACTACTGGTTGA-1,stroma_fibroblastic_IC med
+TGCAAGAATGACGTAA-1,stroma_fibroblastic_IC med
+TGCAATCTAACACGGT-1,stroma_fibroblastic_IC high
+TGCAGAACTATATCGT-1,stroma_fibroblastic_IC high
+TGCAGAGTACCGAGCA-1,stroma_fibroblastic_IC med
+TGCAGGATCGGCAAAG-1,stroma_fibroblastic_IC high
+TGCAGTTTCCTCCCAT-1,stroma_fibroblastic_IC high
+TGCATATGTCTGTCAC-1,stroma_fibroblastic_IC high
+TGCATGTGGTAATCTA-1,tumor&stroma_IC med to high
+TGCCAATGGGTACTCT-1,tumor&stroma_IC med to high
+TGCCACCTGGCGAAAC-1,stroma_fibroblastic_IC med
+TGCCAGTACGTGGAGA-1,stroma_fibroblastic_IC high
+TGCCATTACTAAAGAA-1,exclude
+TGCCCGATAGTTAGAA-1,stroma_fibroblastic_IC high
+TGCCCGTACCGTTAAA-1,stroma_fibroblastic_IC high
+TGCCGTGGATCGTCCT-1,stroma_fibroblastic_IC high
+TGCCTAATTGAAGATT-1,stroma_desmoplastic_IC low
+TGCCTGATCAAACGAT-1,stroma_fibroblastic_IC med
+TGCCTTGGCCAGGCAA-1,stroma_fibroblastic_IC high
+TGCGACACCCTAGTGC-1,stroma_fibroblastic_IC high
+TGCGAGAATATTACCC-1,stroma_fibroblastic_IC med
+TGCGCAAAGCATTTGG-1,stroma_fibroblastic_IC med
+TGCGCGATTAACGGAG-1,tumor&stroma_IC med to high
+TGCGGACTTGACTCCG-1,tumor
+TGCGGAGTAAAGGTGC-1,tumor&stroma_IC med to high
+TGCGTAAGAACCTGAT-1,tumor&stroma_IC med to high
+TGCGTTTGTTGACACT-1,stroma_fibroblastic_IC med
+TGCTAAGTGTCTATTT-1,stroma_desmoplastic_IC low
+TGCTCCACAGTTCTTA-1,stroma_desmoplastic_IC med to high
+TGCTCGGCGAAACCCA-1,tumor
+TGCTCGGTGGGTCACC-1,stroma_fibroblastic_IC high
+TGCTCTTGAGAGTTTG-1,stroma_fibroblastic_IC med
+TGCTGGTTGGACAATT-1,IC aggregate submucosa
+TGCTGTTGAAGAACTC-1,stroma_fibroblastic_IC high
+TGCTTCCCAAGCAGTA-1,stroma_fibroblastic_IC high
+TGGAACCACTGACACA-1,stroma_fibroblastic_IC high
+TGGAAGAAGGGAACGT-1,tumor&stroma_IC med to high
+TGGAAGACGAACACCA-1,exclude
+TGGAAGGATAAAGATG-1,stroma_fibroblastic_IC med
+TGGAATATCCTTGACC-1,exclude
+TGGACCAATCTAAGAT-1,tumor&stroma_IC med to high
+TGGACTGTTCGCTCAA-1,stroma_fibroblastic_IC high
+TGGAGTGATGCGATGA-1,stroma_fibroblastic_IC high
+TGGCAAACTAAATTAC-1,stroma_fibroblastic_IC high
+TGGCAACTCGCGCGCC-1,stroma_fibroblastic_IC high
+TGGCAAGCACAAGTCG-1,stroma_fibroblastic_IC high
+TGGCAATGGGACGGCG-1,stroma_desmoplastic_IC low
+TGGCAGATTACGATCA-1,stroma_fibroblastic_IC med
+TGGCAGCAGTAATAGT-1,stroma_fibroblastic_IC high
+TGGCCAAACTGAAGTA-1,stroma_fibroblastic_IC med
+TGGCCGTATATTGACC-1,epithelium&submucosa
+TGGCGACTGCTCCAAA-1,stroma_fibroblastic_IC high
+TGGCGATCAAGTTATG-1,stroma_fibroblastic_IC med
+TGGCTACACTCTACCT-1,stroma_desmoplastic_IC med to high
+TGGCTATGTGACATAC-1,stroma_fibroblastic_IC high
+TGGCTTTGGGTAGACA-1,epithelium&submucosa
+TGGGAAATGCCTTTCC-1,exclude
+TGGGCAATAGTTGGGT-1,stroma_desmoplastic_IC med to high
+TGGGCCACAAGAGCGC-1,exclude
+TGGGCCCATACTAATT-1,stroma_desmoplastic_IC med to high
+TGGGCGATACAATAAG-1,stroma_fibroblastic_IC high
+TGGGTGCACAAGCCAT-1,stroma_fibroblastic_IC high
+TGGTAGAATATATGGG-1,stroma_desmoplastic_IC med to high
+TGGTCCCACGCTACGG-1,tumor
+TGGTCTGTTGGGCGTA-1,tumor
+TGGTTCAACGGGTAAT-1,tumor
+TGGTTCGTAGCAAAGG-1,exclude
+TGTACCTACACGAGGG-1,stroma_fibroblastic_IC high
+TGTACGAACAAATCCG-1,stroma_fibroblastic_IC med
+TGTAGCCAATTCCGTT-1,stroma_fibroblastic_IC high
+TGTAGGAGAAATTTCC-1,stroma_fibroblastic_IC high
+TGTAGTGATCTATAAT-1,tumor
+TGTATAACAGATCCTG-1,stroma_fibroblastic_IC high
+TGTATGGCGCAGACAG-1,stroma_desmoplastic_IC low
+TGTCCGTGGCGCCTTT-1,epithelium&submucosa
+TGTCCTAAGTCACCGC-1,epithelium&submucosa
+TGTGACTACGCCAGTC-1,stroma_fibroblastic_IC med
+TGTGAGACTAGCCCAA-1,stroma_fibroblastic_IC high
+TGTGCCGGTGCCGGAA-1,stroma_desmoplastic_IC med to high
+TGTGCTTTACGTAAGA-1,exclude
+TGTGGCAAAGCGTATG-1,tumor&stroma_IC med to high
+TGTGGCGGGCTTCTGG-1,stroma_fibroblastic_IC high
+TGTGTCGCGAGTTGCA-1,submucosa
+TGTGTTCGTATCCAAG-1,epithelium&submucosa
+TGTTATTGTATGTGGC-1,stroma_fibroblastic_IC high
+TGTTCCGCTTCCATGA-1,stroma_fibroblastic_IC high
+TGTTCGTATTGCGGTG-1,stroma_fibroblastic_IC med
+TGTTCTTCCATTGACT-1,tumor
+TGTTGTCAAGAAGTCT-1,stroma_fibroblastic_IC med
+TGTTTCGGTACTTCTC-1,exclude
+TTAAACTCGAATTCAT-1,stroma_fibroblastic_IC high
+TTAACCAACCCTCCCT-1,exclude
+TTAACTTCAGGTAGGA-1,stroma_fibroblastic_IC high
+TTAAGATAGGATTGAC-1,stroma_desmoplastic_IC low
+TTAAGCGCCTGACCCA-1,stroma_fibroblastic_IC high
+TTAAGTATTGTTATCC-1,stroma_fibroblastic_IC high
+TTAATGTAGACCAGGT-1,stroma_fibroblastic_IC high
+TTAATTGCTTTGGGTG-1,tumor
+TTACAACTACGCATCC-1,stroma_fibroblastic_IC high
+TTACAGACCTAAATGA-1,stroma_fibroblastic_IC high
+TTACATCGTGGCCTGG-1,epithelium&submucosa
+TTACATGCCACAACTA-1,stroma_desmoplastic_IC low
+TTACCATTGATTACCC-1,epithelium&submucosa
+TTACCCATTGCCGGGT-1,exclude
+TTACCCTAGGGATTGG-1,stroma_fibroblastic_IC high
+TTACGGATGGTTCGAG-1,stroma_fibroblastic_IC med
+TTACTAAAGGACTTTA-1,tumor&stroma_IC med to high
+TTACTATCGGCTTCTC-1,exclude
+TTACTCCGGCCGGGAA-1,tumor
+TTACTCTGGTACGTAC-1,stroma_fibroblastic_IC high
+TTACTGGGATATTTCA-1,tumor&stroma_IC med to high
+TTAGAAGAACATGACT-1,tumor&stroma_IC med to high
+TTAGACGAGTCACCTC-1,tumor
+TTAGAGTTTAGAAGGA-1,stroma_fibroblastic_IC high
+TTAGCTAATACGATCT-1,stroma_fibroblastic_IC high
+TTAGCTGATTTGCCGT-1,stroma_fibroblastic_IC high
+TTAGTAAACCTGCTCT-1,stroma_fibroblastic_IC high
+TTAGTAGGGCGGCGGG-1,epithelium&submucosa
+TTAGTTATTCGTGGCA-1,stroma_desmoplastic_IC med to high
+TTATAGGTAATTGTCT-1,tumor
+TTATATACGCTGTCAC-1,stroma_fibroblastic_IC high
+TTATATTTGGCAATCC-1,stroma_fibroblastic_IC med
+TTATCCGGGATCTATA-1,stroma_desmoplastic_IC med to high
+TTATCTGTATCATAAC-1,exclude
+TTATGAATGAAAGGGA-1,stroma_fibroblastic_IC high
+TTATGACAAACTGGAT-1,non neo epithelium
+TTATGATCTTAACGAA-1,stroma_fibroblastic_IC high
+TTATTAGAGCGTGTTC-1,stroma_fibroblastic_IC high
+TTCAAAGTCTCTAGCC-1,tumor
+TTCAACGACCCGACCG-1,epithelium&submucosa
+TTCAATACTCTGAATC-1,tumor&stroma_IC med to high
+TTCACGAAAGGATCAC-1,stroma_fibroblastic_IC high
+TTCACTCGAGCACCTA-1,stroma_fibroblastic_IC high
+TTCAGCCCTGGTCCAC-1,stroma_fibroblastic_IC high
+TTCAGCTGGCGTGCCC-1,stroma_desmoplastic_IC med to high
+TTCATGGCGCAACAGG-1,exclude
+TTCCAATCAGAGCTAG-1,stroma_fibroblastic_IC high
+TTCCAATCTGGCTATC-1,stroma_fibroblastic_IC med
+TTCCACACAGATTTGA-1,stroma_fibroblastic_IC high
+TTCCAGACGAGATTTA-1,stroma_desmoplastic_IC med to high
+TTCCGCAGAGAAATAT-1,stroma_fibroblastic_IC med
+TTCCGCGTGAGGCGAT-1,stroma_fibroblastic_IC high
+TTCCGGCCTTGAGGCT-1,stroma_fibroblastic_IC high
+TTCCGGTTACCCACTT-1,stroma_fibroblastic_IC high
+TTCCTCGAGGGTGTCT-1,muscularis_IC med to high
+TTCCTCGGACTAACCA-1,stroma_desmoplastic_IC med to high
+TTCCTCTGCCCGAATA-1,exclude
+TTCGACAGAGCCCGTG-1,stroma_fibroblastic_IC high
+TTCGACGGGAAGGGCG-1,muscularis_IC med to high
+TTCGCACTCGCGTGCT-1,muscularis_IC med to high
+TTCGCACTGTACGACA-1,stroma_fibroblastic_IC high
+TTCGCGCGCCATACGA-1,exclude
+TTCGCTATCTGACGTG-1,stroma_fibroblastic_IC med
+TTCGGGACTAATCGCG-1,stroma_fibroblastic_IC high
+TTCGGTACTGTAGAGG-1,stroma_fibroblastic_IC high
+TTCGTTCAACGAAGTT-1,stroma_fibroblastic_IC high
+TTCTAACCGAAGCTTA-1,stroma_fibroblastic_IC med
+TTCTACTTGCGAGGGC-1,epithelium&submucosa
+TTCTAGGCCAATTGTG-1,IC aggregate submucosa
+TTCTATTAAACGCAGC-1,stroma_fibroblastic_IC high
+TTCTGACCGGGCTCAA-1,stroma_fibroblastic_IC high
+TTCTGCCGCGCCTAGA-1,stroma_fibroblastic_IC high
+TTCTGCGGGTTAGCGG-1,stroma_fibroblastic_IC high
+TTCTGCTAGACTCCAA-1,stroma_fibroblastic_IC high
+TTCTTAGTGAACGGTG-1,epithelium&submucosa
+TTCTTATCCGCTGGGT-1,stroma_desmoplastic_IC low
+TTCTTGAGCCGCGCTA-1,stroma_fibroblastic_IC high
+TTCTTGCTAGCATCTC-1,stroma_desmoplastic_IC med to high
+TTCTTGGACGATCTGC-1,stroma_fibroblastic_IC high
+TTCTTGGAGTAATGAG-1,stroma_fibroblastic_IC med
+TTCTTGTAACCTAATG-1,non neo epithelium
+TTCTTTGGTCGCGACG-1,stroma_fibroblastic_IC high
+TTGAACGACGTGCTGA-1,stroma_fibroblastic_IC high
+TTGAAGAATTCCCAGG-1,stroma_fibroblastic_IC high
+TTGAATATGGACTTTC-1,tumor
+TTGAATTCACGTGAGG-1,stroma_desmoplastic_IC low
+TTGACAGGAGCTCCCG-1,stroma_desmoplastic_IC med to high
+TTGACATGAACGTGGA-1,stroma_fibroblastic_IC high
+TTGACCAGGAACAACT-1,tumor&stroma_IC med to high
+TTGACCATGTTCTCCG-1,stroma_fibroblastic_IC med
+TTGACCGTGTTAATGA-1,stroma_fibroblastic_IC high
+TTGACGCTCCATGAGC-1,stroma_desmoplastic_IC low
+TTGACTACCATATGGT-1,stroma_fibroblastic_IC high
+TTGACTATTGTCCGGC-1,stroma_desmoplastic_IC med to high
+TTGAGAAGTTTAGCAT-1,stroma_fibroblastic_IC high
+TTGAGAGTACTGCTAA-1,stroma_fibroblastic_IC high
+TTGATCTAACTTTGTC-1,tumor
+TTGATGTGTAGTCCCG-1,stroma_fibroblastic_IC high
+TTGATTAGCTGTTTCT-1,stroma_fibroblastic_IC high
+TTGATTATGCAGATGA-1,non neo epithelium
+TTGCAAGAAGACTCCT-1,stroma_fibroblastic_IC high
+TTGCACAATTCAGAAA-1,stroma_fibroblastic_IC med
+TTGCACGGAGCAGCAC-1,exclude
+TTGCATGCTGATCACG-1,stroma_fibroblastic_IC high
+TTGCCCTGATCACGGG-1,tumor
+TTGCCGCTTTCTAGTA-1,tumor&stroma_IC med to high
+TTGCGGCATCAGAAAG-1,stroma_fibroblastic_IC high
+TTGCGTCGGCCAACCG-1,stroma_fibroblastic_IC high
+TTGCGTGTGTAGGCAT-1,stroma_fibroblastic_IC high
+TTGCTCCCATACCGGA-1,stroma_fibroblastic_IC med
+TTGCTGATCATGTTCG-1,stroma_fibroblastic_IC high
+TTGGAAGAATACAGTC-1,exclude
+TTGGACATGTGGCTTA-1,stroma_fibroblastic_IC high
+TTGGACCATCTGGCAA-1,stroma_desmoplastic_IC med to high
+TTGGACCTATAACAGT-1,stroma_fibroblastic_IC high
+TTGGATATCGTCTACG-1,stroma_fibroblastic_IC med
+TTGGATTGGGTACCAC-1,exclude
+TTGGCTCGCATGAGAC-1,epithelium&submucosa
+TTGGGACACTGCCCGC-1,stroma_fibroblastic_IC high
+TTGGGACGTAAGAGTT-1,stroma_desmoplastic_IC low
+TTGGGCGGCGGTTGCC-1,tumor&stroma_IC med to high
+TTGGTCACACTCGTAA-1,stroma_fibroblastic_IC high
+TTGTAAGGACCTAAGT-1,stroma_fibroblastic_IC high
+TTGTAAGGCCAGTTGG-1,stroma_fibroblastic_IC med
+TTGTAATCCGTACTCG-1,stroma_fibroblastic_IC high
+TTGTCGTTCAGTTACC-1,exclude
+TTGTGAACCTAATCCG-1,stroma_desmoplastic_IC low
+TTGTGCAGCCACGTCA-1,tumor
+TTGTGGTAGGAGGGAT-1,exclude
+TTGTGGTGGTACTAAG-1,stroma_fibroblastic_IC high
+TTGTGTATGCCACCAA-1,stroma_fibroblastic_IC high
+TTGTGTTTCCCGAAAG-1,stroma_fibroblastic_IC high
+TTGTTAGCAAATTCGA-1,IC aggregate submucosa
+TTGTTCAGTGTGCTAC-1,tumor&stroma_IC med to high
+TTGTTGTGTGTCAAGA-1,tumor&stroma_IC med to high
+TTGTTTCACATCCAGG-1,exclude
+TTGTTTCCATACAACT-1,IC aggragate_stroma or muscularis

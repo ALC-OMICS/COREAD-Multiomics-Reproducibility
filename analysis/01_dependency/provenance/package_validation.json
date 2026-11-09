@@ -1,0 +1,27 @@
+{
+  "assembly_date": "2026-10-03",
+  "end_to_end_entrypoint": "python run_all.py --figures --output <separate-output-directory>",
+  "entrypoint_exit_code": 0,
+  "unit_tests": {
+    "run": 6,
+    "passed": 6
+  },
+  "final_gene_table_fields_recalculated_and_verified": 866880,
+  "secondary_organoid_fields_recalculated_and_verified": 27812,
+  "counts": {
+    "cell_line_candidates": 335,
+    "organoid_candidates": 324,
+    "union": 466,
+    "shared": 193,
+    "both_evaluable": 1613,
+    "higher_frequency": 23
+  },
+  "original_empirical_bayes_training_script_recovered": false,
+  "empirical_bayes_probabilities_reconstructed_from_archived_coefficients": true,
+  "original_Crispr_read_count_processing_rerun": false,
+  "github_publication_performed": false,
+  "spreadsheet_styling_regenerated": false,
+  "status": "PASS",
+  "targeted_secret_pattern_scan": "No matching token/private-key patterns in text files; not a full security audit.",
+  "no_font_or_private_key_files": true
+}

@@ -1,0 +1,14 @@
+Therapeutic module,Niche,Coverage_code,Match,Line_width,Line_style
+Biomarker-defined approved backbone,N3,1,Conditional/secondary,1.0,dashed
+Fusobacterium reduction,N3,2,Direct mechanistic,1.0,solid
+Precision Fusobacterium antimicrobial delivery,N3,2,Direct mechanistic,1.0,solid
+Biomarker-defined approved backbone,N4,1,Conditional/secondary,1.0,dashed
+CXCR1/2 myeloid remodelling + immunotherapy,N4,2,Direct mechanistic,1.0,solid
+Biomarker-defined approved backbone,N6,1,Conditional/secondary,1.0,dashed
+CXCR1/2 myeloid remodelling + immunotherapy,N6,1,Conditional/secondary,1.0,dashed
+BCL-xL degradation,N6,2,Direct mechanistic,1.0,solid
+FASN inhibition,N6,2,Direct mechanistic,1.0,solid
+WNT/β-catenin transcriptional inhibition,N6,2,Direct mechanistic,1.0,solid
+MYC-directed inhibition,N6,2,Direct mechanistic,1.0,solid
+Biomarker-defined approved backbone,N9,1,Conditional/secondary,1.0,dashed
+CXCR1/2 myeloid remodelling + immunotherapy,N9,2,Direct mechanistic,1.0,solid

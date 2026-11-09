@@ -1,0 +1,3 @@
+# Current code/data-only validation
+
+These reports were executed in a fresh Python 3.12 environment against the repaired source. The verification summary identifies the baseline, repair-payload hash, tested source fingerprint and workflow run. All seven processed-input modules, the two spatial compact-count routes and the real-data demonstration passed their checks. Generated graphics are temporary run products and are not included. No supplementary workbook or manuscript text is distributed. Optional complete H5/RDS source reconstructions and biological validity are outside these test claims.

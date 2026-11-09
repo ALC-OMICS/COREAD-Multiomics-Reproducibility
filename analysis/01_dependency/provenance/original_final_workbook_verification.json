@@ -1,0 +1,26 @@
+[
+  {
+    "file": "Supplementary_Table_COREAD_Cell_Lines_1165.xlsx",
+    "worksheet_count": 1,
+    "gene_rows": 1720,
+    "numeric_and_text_columns": 319,
+    "cells_compared": 548680,
+    "discrepancies": 0,
+    "formulas": 13763,
+    "invalid_xml": 0,
+    "error_cells": 0,
+    "sha256": "33fd80cbe6bac99a3e6eaf715586ae2d23e9c2b0d6fb7d469d36f6ac52c15808"
+  },
+  {
+    "file": "Supplementary_Table_COREAD_Cell_Lines_Organoids_Integration_1165.xlsx",
+    "worksheet_count": 1,
+    "gene_rows": 1720,
+    "numeric_and_text_columns": 99,
+    "cells_compared": 170280,
+    "discrepancies": 0,
+    "formulas": 8603,
+    "invalid_xml": 0,
+    "error_cells": 0,
+    "sha256": "da946f2744325e4528bcdd30afabd86efcf0a14e4a364c7b9812db7eb6085b7b"
+  }
+]

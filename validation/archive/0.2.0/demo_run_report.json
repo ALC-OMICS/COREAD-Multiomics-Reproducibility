@@ -1,0 +1,107 @@
+{
+  "release": "0.2.0",
+  "demo": true,
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "dependencies": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "h5py": "3.15.1",
+    "statsmodels": "0.14.6",
+    "scikit-learn": "1.8.0",
+    "pyarrow": "23.0.1",
+    "openpyxl": "3.1.5",
+    "patsy": "1.0.2"
+  },
+  "mode": "processed",
+  "modules": [
+    {
+      "module": "04_discovery_spatial",
+      "seconds": 5.146,
+      "returncode": 0,
+      "passed": true,
+      "status": {
+        "module": "04_discovery_spatial",
+        "mode": "processed",
+        "passed": true,
+        "counts": {
+          "Core47": 47,
+          "Spatial43": 43,
+          "Convergent9": 9,
+          "Extended13": 13
+        },
+        "reference_comparison": {
+          "passed": true,
+          "checked_columns": 159,
+          "rows": 466,
+          "failures": []
+        },
+        "matched_null_replay_comparison": {
+          "passed": true,
+          "checked_columns": 7,
+          "rows": 3,
+          "failures": []
+        },
+        "numerical_checks": {
+          "hierarchy_counts": true,
+          "Moran_finite_hypotheses_441": true,
+          "unique_genes_466": true,
+          "C9_members": true,
+          "Core47_Moran_positive_significant_44": true,
+          "sets_nested": true
+        },
+        "execution_scope": "Patient/section checkpoints to keyed inference, hierarchy and plots",
+        "limits": [
+          "Composition-adjusted interface summaries and spatial coexpression modules are retained source checkpoints; the raw composition model was not refitted in this run.",
+          "Discovery matched-null statistics replay archived vectors; exact historical new-draw sampling cannot be reconstructed because Python set iteration order was not saved."
+        ]
+      },
+      "log": "logs/04_discovery_spatial.log"
+    },
+    {
+      "module": "07_translational",
+      "seconds": 1.065,
+      "returncode": 0,
+      "passed": true,
+      "status": {
+        "module": "07_translational",
+        "mode": "processed",
+        "passed": true,
+        "strategy_records": 10,
+        "class_counts": {
+          "A": 3,
+          "B": 6,
+          "C": 0,
+          "D": 1,
+          "E": 0
+        },
+        "coverage_cells": 32,
+        "coverage_counts": {
+          "0": 19,
+          "1": 5,
+          "2": 8
+        },
+        "nonzero_links": 13,
+        "all_link_widths_equal": true,
+        "inference": "None: deterministic summary of human-curated frozen evidence",
+        "evidence_cutoff": "2026-10-14",
+        "targeted_checks": "2026-10-28",
+        "input_sha256": {
+          "biomarker_modules.csv": "5316d41b34069370498da2cac6d2957f04ca8b602707f4524198b1ff93168bae",
+          "coverage.csv": "57c6be9f11b2f1fc7d8177dfb283388b9a3dbef63468e062a60ac4b29f4b65f1",
+          "evidence_hierarchy.csv": "6d31adb456bf7b8ba3f4ec62d9e5ba519180f7a1273d1ca459609ae67fa44cd3",
+          "interpretive_boundaries.csv": "7e5a3776d9b27768338b447b2ddd22b1af74c6ed8e40b56df1aecb5c1c11a754",
+          "limiting_evidence.csv": "df84a334441051df25d60a26aa9cd2f066f6f24dbc8730a63d1255b4b446c4f8",
+          "niche_quantitative_anchors.csv": "14cc19c9b6c2a251ea685406a1569a7930562c6d8680ba1fe676e62178c0a520",
+          "niche_states.csv": "d51908a4a08c931e85e47269e8f8ae92578d7007f86b8d78e66dd0de9648447e",
+          "strategy_evidence.csv": "6dde59836e08bfe692e6173f08aff74536910c48c1a7605a88f2aa7f1fec0874"
+        }
+      },
+      "log": "logs/07_translational.log"
+    }
+  ],
+  "passed": true,
+  "seconds": 6.214
+}

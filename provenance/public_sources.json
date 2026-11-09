@@ -1,0 +1,87 @@
+{
+  "retrieved": "2026-10-31",
+  "files": [
+    {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178341/suppl/GSE178341_crc10x_full_c295v4_submit.h5",
+      "path": "GSE178341/GSE178341_crc10x_full_c295v4_submit.h5",
+      "sha256": "f435bb2651ff5297d0c24a99daf58850ed67ae1ed6c5ef05fad48fa3f0186670",
+      "ok": true,
+      "bytes": 1203550558,
+      "observed_sha256": "f435bb2651ff5297d0c24a99daf58850ed67ae1ed6c5ef05fad48fa3f0186670",
+      "group": "single_cell"
+    },
+    {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594567/suppl/GSM8594567_P1CRC_filtered_feature_bc_matrix.h5",
+      "path": "visium_hd/P1CRC_filtered_feature_bc_matrix.h5",
+      "sha256": "e65dfe204f001364efa84b73c243c20605ab92aabb39e482afc1b0aadcfb6c02",
+      "ok": true,
+      "bytes": 122378546,
+      "observed_sha256": "e65dfe204f001364efa84b73c243c20605ab92aabb39e482afc1b0aadcfb6c02",
+      "group": "external"
+    },
+    {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594567/suppl/GSM8594567_P1CRC_Metadata.parquet.gz",
+      "path": "visium_hd/P1CRC_Metadata.parquet.gz",
+      "sha256": "6b987961e089ff98330bd433bf2d0183cf599188e3310a2ab9b68bb91df13ebc",
+      "ok": true,
+      "bytes": 11329505,
+      "observed_sha256": "6b987961e089ff98330bd433bf2d0183cf599188e3310a2ab9b68bb91df13ebc",
+      "group": "external"
+    },
+    {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594568/suppl/GSM8594568_P2CRC_filtered_feature_bc_matrix.h5",
+      "path": "visium_hd/P2CRC_filtered_feature_bc_matrix.h5",
+      "sha256": "445f02025d60a0aaa5bb2a0d9e4f5a476741d71a73c7d99c2397169cfba11b73",
+      "ok": true,
+      "bytes": 297310187,
+      "observed_sha256": "445f02025d60a0aaa5bb2a0d9e4f5a476741d71a73c7d99c2397169cfba11b73",
+      "group": "external"
+    },
+    {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594568/suppl/GSM8594568_P2CRC_Metadata.parquet.gz",
+      "path": "visium_hd/P2CRC_Metadata.parquet.gz",
+      "sha256": "f9794fb7b075929530579c98881fc9d5d6d3dacc88969e8645f786a2a7ac5ec4",
+      "ok": true,
+      "bytes": 11580177,
+      "observed_sha256": "f9794fb7b075929530579c98881fc9d5d6d3dacc88969e8645f786a2a7ac5ec4",
+      "group": "external"
+    },
+    {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594569/suppl/GSM8594569_P5CRC_filtered_feature_bc_matrix.h5",
+      "path": "visium_hd/P5CRC_filtered_feature_bc_matrix.h5",
+      "sha256": "ee19eeeb56772ae6a83a06c8e7ca4d3ae00e3503de74680210fe6fe6e295023b",
+      "ok": true,
+      "bytes": 239822835,
+      "observed_sha256": "ee19eeeb56772ae6a83a06c8e7ca4d3ae00e3503de74680210fe6fe6e295023b",
+      "group": "external"
+    },
+    {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594569/suppl/GSM8594569_P5CRC_Metadata.parquet.gz",
+      "path": "visium_hd/P5CRC_Metadata.parquet.gz",
+      "sha256": "fc92e7441d637cec37921ffc09369657505e70206761594d1824c52c4f04bf34",
+      "ok": true,
+      "bytes": 11440381,
+      "observed_sha256": "fc92e7441d637cec37921ffc09369657505e70206761594d1824c52c4f04bf34",
+      "group": "external"
+    },
+    {
+      "group": "crc16",
+      "url": "https://raw.githubusercontent.com/ying-ge/FigureYa/main/FigureYa323STpathseq/STpathseq/Results/CRC_16/outs/ST.seu.rds",
+      "path": "CRC16/ST.seu.rds",
+      "sha256": "bb04b5f057f173f789fd9a36c2b30b17f31329b677e8812dfe19014aa43babc3",
+      "bytes": 89811313,
+      "ok": true
+    }
+  ],
+  "additional_source_routes": [
+    {
+      "module": "04_discovery_spatial",
+      "concept_record": "https://doi.org/10.5281/zenodo.7551712",
+      "pinned_record": "https://zenodo.org/records/7760264",
+      "archive": "DeconvolutionResults_ST_CRC_BelgianCohort.zip",
+      "source_h5_sha256": "5c839f4e78b4f334e0c19dd3aef173c332b147b8418e854a0ffb6600e05da79a",
+      "download_script": "analysis/04_discovery_spatial/scripts/download_source_inputs.py",
+      "scope": "Source processed H5AD, 40 Belgian-reference q05 factors, 14 pathology files; original sequencing alignment and cell2location fit reused"
+    }
+  ]
+}

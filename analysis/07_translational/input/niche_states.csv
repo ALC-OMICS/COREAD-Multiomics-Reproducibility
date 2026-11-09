@@ -1,0 +1,5 @@
+Niche,Dominant state,Quantitative anchor,Effect,Therapeutic module
+N3,Fusobacterium-enriched / immune-effector-poor,Fusobacterium occupancy,OR 2.115926; FDR 0.00225917,Microbiome-directed intervention
+N4,Epithelial antimicrobial-inflammatory / CXCL chemokine-rich,CXCL8–CXCR2/myeloid programme,+0.353961 niche−rest,Myeloid-barrier intervention
+N6,WNT–MYC–stemness / highest Convergent9 score,Convergent9 and fixed WNT / MYC-anabolism programmes,Convergent9 mean 0.463721; niche−rest +0.494785; WNT effect +0.546814; MYC-anabolism effect +0.588817,Tumour-intrinsic dependency targeting
+N9,High bacterial burden / CXCL8-PTGS2 myeloid inflammation,CXCL8–CXCR2/myeloid programme,+0.206642 niche−rest; burden β +0.332019; FDR 0.00116975,Myeloid-barrier intervention

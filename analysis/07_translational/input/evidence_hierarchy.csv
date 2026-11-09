@@ -1,0 +1,6 @@
+Evidence class,Definition,Interpretive boundary
+A,FDA-approved CRC standard,"Regulatory approval in colorectal cancer; used as biomarker-defined backbone, not inferred from the spatial niche."
+B,Human CRC interventional evidence,"Prospective CRC exposure, proof-of-concept intervention, or active CRC clinical trial; antitumour efficacy may remain unproven."
+C,Human oncology clinical evidence + CRC preclinical support,"Clinical-stage agent in humans with CRC-specific mechanistic/preclinical support, but no established CRC efficacy."
+D,CRC preclinical evidence,CRC-specific in vivo/ex vivo/preclinical support without human interventional evidence.
+E,Mechanistic hypothesis,Biologically plausible niche-targeted strategy without sufficient CRC interventional or preclinical validation.

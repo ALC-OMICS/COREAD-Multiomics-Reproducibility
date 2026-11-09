@@ -1,0 +1,10 @@
+{
+  "reconstruction_date": "2026-10-31",
+  "new_implementation_files": {
+    "run.py": "e96e08207b297779667db872218edc82de5a94bb9eca422c46c0160f580f2885",
+    "scripts/export_current_panels.py": "da8949d8f501e6ad058209684c3a77cad7a0417d6e5b21462795c47a1f78cf66"
+  },
+  "original_inference_available": true,
+  "fresh_validation": "analysis/01_dependency/provenance/rebuild_20261031_status.json",
+  "notes": "Original inference preserved; common.write_csv replaced by atomic I/O only. Exact original90Figure1Dgenes recovered."
+}

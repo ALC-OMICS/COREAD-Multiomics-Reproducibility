@@ -1,0 +1,897 @@
+{
+  "release": "0.2.0",
+  "demo": false,
+  "python": "3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]",
+  "platform": "Linux-6.18.57-x86_64-with-glibc2.39",
+  "dependencies": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "h5py": "3.15.1",
+    "statsmodels": "0.14.6",
+    "scikit-learn": "1.8.0",
+    "pyarrow": "23.0.1",
+    "openpyxl": "3.1.5",
+    "patsy": "1.0.2"
+  },
+  "mode": "processed",
+  "modules": [
+    {
+      "module": "01_dependency",
+      "seconds": 34.598,
+      "returncode": 0,
+      "passed": true,
+      "status": {
+        "passed": true,
+        "module": "01_dependency",
+        "mode": "processed",
+        "seconds": 34.56708741188049,
+        "verification": {
+          "checksums_verified": 34,
+          "cell_line_results_1165.csv": {
+            "snapshot_cells_checked": 548680,
+            "recalculated_cells_checked": 548680
+          },
+          "integration_results_1165.csv": {
+            "snapshot_cells_checked": 170280,
+            "recalculated_cells_checked": 170280
+          },
+          "organoid_results_1720.csv": {
+            "snapshot_cells_checked": 147920,
+            "recalculated_cells_checked": 147920
+          },
+          "counts": {
+            "cell_line_candidates": 335,
+            "organoid_candidates": 324,
+            "union": 466,
+            "shared": 193,
+            "both_evaluable": 1613,
+            "higher_frequency": 23
+          },
+          "spreadsheet_error_cells": 0,
+          "status": "PASS"
+        },
+        "limitations": [
+          "Original GO and cell-line release identifiers were not recovered.",
+          "Organoid probabilities use archived fitted coefficients; original fitting/training is not rerun."
+        ]
+      },
+      "log": "logs/01_dependency.log"
+    },
+    {
+      "module": "02_genomics",
+      "seconds": 20.922,
+      "returncode": 0,
+      "passed": true,
+      "status": {
+        "passed": true,
+        "module": "02_genomics",
+        "mode": "processed",
+        "seconds": 20.891480445861816,
+        "regression": {
+          "result": "PASS",
+          "rtol": 1e-11,
+          "atol": 1e-12,
+          "checks": [
+            {
+              "file": "primary_466_results.csv",
+              "rows": 466,
+              "cells_compared": 39610,
+              "discrepancies": 0
+            },
+            {
+              "file": "external_466_results_long.csv",
+              "rows": 15378,
+              "cells_compared": 538230,
+              "discrepancies": 0
+            },
+            {
+              "file": "external_466_results_wide.csv",
+              "rows": 1398,
+              "cells_compared": 135606,
+              "discrepancies": 0
+            },
+            {
+              "file": "permutation_statistics.csv",
+              "rows": 50,
+              "cells_compared": 1300,
+              "discrepancies": 0
+            },
+            {
+              "file": "colon_rectum_heterogeneity.csv",
+              "rows": 3262,
+              "cells_compared": 13048,
+              "discrepancies": 0
+            },
+            {
+              "file": "exported_events_long.csv",
+              "rows": 39741,
+              "cells_compared": 198705,
+              "discrepancies": 0
+            },
+            {
+              "file": "COAD_GDC_calls.npz",
+              "arrays_compared": 22,
+              "max_abs_float_difference": 0.0,
+              "discrepancies": 0
+            },
+            {
+              "file": "READ_GDC_calls.npz",
+              "arrays_compared": 22,
+              "max_abs_float_difference": 0.0,
+              "discrepancies": 0
+            },
+            {
+              "file": "COREAD_GDC_calls.npz",
+              "arrays_compared": 22,
+              "max_abs_float_difference": 0.0,
+              "discrepancies": 0
+            },
+            {
+              "file": "CPTAC2_calls.npz",
+              "arrays_compared": 22,
+              "max_abs_float_difference": 0.0,
+              "discrepancies": 0
+            },
+            {
+              "file": "PANCAN_P1_calls.npz",
+              "arrays_compared": 22,
+              "max_abs_float_difference": 0.0,
+              "discrepancies": 0
+            },
+            {
+              "file": "PANCAN_P2_calls.npz",
+              "arrays_compared": 19,
+              "max_abs_float_difference": 0.0,
+              "discrepancies": 0
+            },
+            {
+              "file": "PANCAN_calls.npz",
+              "arrays_compared": 21,
+              "max_abs_float_difference": 0.0,
+              "discrepancies": 0
+            },
+            {
+              "file": "primary_rank_bootstrap.npz",
+              "arrays_compared": 3,
+              "max_abs_float_difference": 0.0,
+              "discrepancies": 0
+            },
+            {
+              "file": "permutation_null_draws.npz",
+              "arrays_compared": 46,
+              "max_abs_float_difference": 0.0,
+              "discrepancies": 0
+            }
+          ],
+          "scope": "CSV values and NPZ arrays; does not verify raw sequencing or biological validity."
+        },
+        "summary": {
+          "frozen_genes": 466,
+          "cohort_patients": {
+            "COAD_GDC": 461,
+            "READ_GDC": 170,
+            "COREAD_GDC": 631,
+            "CPTAC2": 110,
+            "PANCAN": 594
+          },
+          "profile_counts": {
+            "COAD_GDC": {
+              "DNA_driver_CNA": 421,
+              "Driver_mutation": 427,
+              "Amplification": 454,
+              "Deep_deletion": 454,
+              "CNA_any": 454,
+              "Any_exported_mutation": 427,
+              "DNA_broad": 421,
+              "RNA_high": 458,
+              "RNA_low": 458,
+              "Protein_high": 0,
+              "Protein_low": 0,
+              "DNA_strict_explicit": 421,
+              "Driver_explicit": 427,
+              "Splice_driver_code": 427
+            },
+            "READ_GDC": {
+              "DNA_driver_CNA": 151,
+              "Driver_mutation": 154,
+              "Amplification": 167,
+              "Deep_deletion": 167,
+              "CNA_any": 167,
+              "Any_exported_mutation": 154,
+              "DNA_broad": 151,
+              "RNA_high": 166,
+              "RNA_low": 166,
+              "Protein_high": 0,
+              "Protein_low": 0,
+              "DNA_strict_explicit": 151,
+              "Driver_explicit": 154,
+              "Splice_driver_code": 154
+            },
+            "COREAD_GDC": {
+              "DNA_driver_CNA": 572,
+              "Driver_mutation": 581,
+              "Amplification": 621,
+              "Deep_deletion": 621,
+              "CNA_any": 621,
+              "Any_exported_mutation": 581,
+              "DNA_broad": 572,
+              "RNA_high": 624,
+              "RNA_low": 624,
+              "Protein_high": 0,
+              "Protein_low": 0,
+              "DNA_strict_explicit": 572,
+              "Driver_explicit": 581,
+              "Splice_driver_code": 581
+            },
+            "CPTAC2": {
+              "DNA_driver_CNA": 105,
+              "Driver_mutation": 106,
+              "Amplification": 105,
+              "Deep_deletion": 105,
+              "CNA_any": 105,
+              "Any_exported_mutation": 106,
+              "DNA_broad": 105,
+              "RNA_high": 106,
+              "RNA_low": 106,
+              "Protein_high": 0,
+              "Protein_low": 0,
+              "DNA_strict_explicit": 105,
+              "Driver_explicit": 106,
+              "Splice_driver_code": 106
+            },
+            "PANCAN": {
+              "DNA_driver_CNA": 532,
+              "Driver_mutation": 534,
+              "Amplification": 592,
+              "Deep_deletion": 592,
+              "CNA_any": 592,
+              "Any_exported_mutation": 534,
+              "DNA_broad": 532,
+              "RNA_high": 0,
+              "RNA_low": 0,
+              "Protein_high": 0,
+              "Protein_low": 0,
+              "DNA_strict_explicit": 532,
+              "Driver_explicit": 534,
+              "Splice_driver_code": 534
+            },
+            "AC_ICAM": {
+              "DNA_driver_CNA": 0,
+              "Driver_mutation": 0,
+              "Amplification": 281,
+              "Deep_deletion": 281,
+              "CNA_any": 281,
+              "Any_exported_mutation": 281,
+              "DNA_broad": 281,
+              "RNA_high": 348,
+              "RNA_low": 348,
+              "Protein_high": 0,
+              "Protein_low": 0
+            }
+          },
+          "AC_ICAM_exact_CNA_genes": 456,
+          "AC_ICAM_exact_RNA_genes": 451,
+          "primary_joint_DNA_patients": 572,
+          "primary_joint_DNA_strata": [
+            421,
+            151
+          ],
+          "bootstrap_replicates": 2000,
+          "permutation_replicates": 10000,
+          "tests_evaluated": 46,
+          "permutation_family_sizes": {
+            "EXTERNAL_COREAD_CONCORDANCE": 18,
+            "COLON_ONLY_EXTERNAL_SENSITIVITY": 18,
+            "TCGA_REPRESENTATION_ROBUSTNESS": 10
+          },
+          "gene_heterogeneity_family_sizes": {
+            "AC_ICAM_vs_COREAD": 2280,
+            "AC_ICAM_vs_COAD": 2280,
+            "CPTAC2_vs_COREAD": 3262,
+            "CPTAC2_vs_COAD": 3262,
+            "PANCAN_vs_COREAD": 3262
+          },
+          "primary_top30": [
+            "APC",
+            "KRAS",
+            "HNF4A",
+            "GNAS",
+            "PTPN1",
+            "CEBPB",
+            "BCL2L1",
+            "E2F1",
+            "SRC",
+            "RNF6",
+            "SLC7A1",
+            "IRS2",
+            "C1QTNF9",
+            "FOXO1",
+            "HMGB1",
+            "HSPH1",
+            "TNFSF11",
+            "FOXA2",
+            "BRAF",
+            "SMAD4",
+            "MYC",
+            "SOX9",
+            "EXT1",
+            "ST3GAL1",
+            "ARID1A",
+            "EFR3A",
+            "PRKDC",
+            "ATM",
+            "DDRGK1",
+            "PTK2"
+          ],
+          "top10_details": [
+            {
+              "Gene": "APC",
+              "DNA_driver_CNA_altered": 417,
+              "DNA_driver_CNA_n_profiled": 572,
+              "DNA_driver_CNA_frequency": 0.7290209790209791,
+              "Driver_mutation_frequency": 0.7280550774526678,
+              "Amplification_frequency": 0.001610305958132045,
+              "Deep_deletion_frequency": 0.00322061191626409
+            },
+            {
+              "Gene": "KRAS",
+              "DNA_driver_CNA_altered": 244,
+              "DNA_driver_CNA_n_profiled": 572,
+              "DNA_driver_CNA_frequency": 0.42657342657342656,
+              "Driver_mutation_frequency": 0.41824440619621345,
+              "Amplification_frequency": 0.017713365539452495,
+              "Deep_deletion_frequency": 0.0
+            },
+            {
+              "Gene": "HNF4A",
+              "DNA_driver_CNA_altered": 154,
+              "DNA_driver_CNA_n_profiled": 572,
+              "DNA_driver_CNA_frequency": 0.2692307692307692,
+              "Driver_mutation_frequency": 0.0,
+              "Amplification_frequency": 0.2689210950080515,
+              "Deep_deletion_frequency": 0.0
+            },
+            {
+              "Gene": "GNAS",
+              "DNA_driver_CNA_altered": 148,
+              "DNA_driver_CNA_n_profiled": 572,
+              "DNA_driver_CNA_frequency": 0.25874125874125875,
+              "Driver_mutation_frequency": 0.01549053356282272,
+              "Amplification_frequency": 0.23993558776167473,
+              "Deep_deletion_frequency": 0.0
+            },
+            {
+              "Gene": "PTPN1",
+              "DNA_driver_CNA_altered": 146,
+              "DNA_driver_CNA_n_profiled": 572,
+              "DNA_driver_CNA_frequency": 0.25524475524475526,
+              "Driver_mutation_frequency": 0.0051635111876075735,
+              "Amplification_frequency": 0.2463768115942029,
+              "Deep_deletion_frequency": 0.0
+            },
+            {
+              "Gene": "CEBPB",
+              "DNA_driver_CNA_altered": 143,
+              "DNA_driver_CNA_n_profiled": 572,
+              "DNA_driver_CNA_frequency": 0.25,
+              "Driver_mutation_frequency": 0.0,
+              "Amplification_frequency": 0.24798711755233493,
+              "Deep_deletion_frequency": 0.0
+            },
+            {
+              "Gene": "BCL2L1",
+              "DNA_driver_CNA_altered": 138,
+              "DNA_driver_CNA_n_profiled": 572,
+              "DNA_driver_CNA_frequency": 0.24125874125874125,
+              "Driver_mutation_frequency": 0.0,
+              "Amplification_frequency": 0.24154589371980675,
+              "Deep_deletion_frequency": 0.0
+            },
+            {
+              "Gene": "E2F1",
+              "DNA_driver_CNA_altered": 136,
+              "DNA_driver_CNA_n_profiled": 572,
+              "DNA_driver_CNA_frequency": 0.23776223776223776,
+              "Driver_mutation_frequency": 0.0,
+              "Amplification_frequency": 0.23671497584541062,
+              "Deep_deletion_frequency": 0.0
+            },
+            {
+              "Gene": "SRC",
+              "DNA_driver_CNA_altered": 133,
+              "DNA_driver_CNA_n_profiled": 572,
+              "DNA_driver_CNA_frequency": 0.23251748251748253,
+              "Driver_mutation_frequency": 0.0,
+              "Amplification_frequency": 0.23349436392914655,
+              "Deep_deletion_frequency": 0.0
+            },
+            {
+              "Gene": "RNF6",
+              "DNA_driver_CNA_altered": 93,
+              "DNA_driver_CNA_n_profiled": 572,
+              "DNA_driver_CNA_frequency": 0.16258741258741258,
+              "Driver_mutation_frequency": 0.0,
+              "Amplification_frequency": 0.1610305958132045,
+              "Deep_deletion_frequency": 0.0
+            }
+          ],
+          "limits": [
+            "Local export denominators are profile based, not gene-callability verified.",
+            "Primary TCGA exports aggregate patients including 3 patients with two samples.",
+            "AC-ICAM driver annotation missing: no driver-specific external rate or composite.",
+            "RNA references/thresholds not harmonized; source-specific calls descriptive only.",
+            "Protein coverage unavailable; no formal protein alteration frequencies.",
+            "PanCancer is paired TCGA robustness, not independent validation.",
+            "Permutation tests describe global correspondence; per-gene Fisher P tests heterogeneity, not proof of validation."
+          ]
+        },
+        "limitations": [
+          "Original patient exports and archived AC-ICAM summaries are processed inputs.",
+          "PanCancer is a paired TCGA representation check, not an independent validation cohort.",
+          "AC-ICAM broad coding/splice mutation calls do not provide driver-specific annotations."
+        ]
+      },
+      "log": "logs/02_genomics.log"
+    },
+    {
+      "module": "03_single_cell",
+      "seconds": 5.593,
+      "returncode": 0,
+      "passed": true,
+      "status": {
+        "passed": true,
+        "module": "03_single_cell",
+        "mode": "processed",
+        "seconds": 5.56133246421814,
+        "regression": {
+          "passed": true,
+          "implementation": "reconstructed 2026-10-31",
+          "rows": 466,
+          "columns_compared": 64,
+          "values_compared": 29824,
+          "columns": [
+            "SC_match_method",
+            "SC_H5_feature_name",
+            "SC_H5_feature_id",
+            "Tumor_epi_patient_prevalence_CPM_ge1",
+            "Tumor_epi_fraction_positive_cells",
+            "Normal_epi_patient_prevalence_CPM_ge1",
+            "Normal_epi_fraction_positive_cells",
+            "Tumor_epi_patient_detection_any_count",
+            "Tumor_vs_normal_epi_N_pairs",
+            "Tumor_vs_normal_epi_median_delta_log2CPM",
+            "Tumor_vs_normal_epi_mean_delta_log2CPM",
+            "Tumor_vs_normal_epi_Wilcoxon_P",
+            "Tumor_vs_normal_epi_BH_FDR",
+            "Tumor_vs_normal_epi_rank_biserial",
+            "Tumor_gt_normal_epi_pair_fraction",
+            "Sensitivity_ge100cells_N_pairs",
+            "Sensitivity_ge100cells_median_delta_log2CPM",
+            "Sensitivity_ge100cells_BH_FDR",
+            "Composition_balanced_N_pairs",
+            "Composition_balanced_median_delta_log2CPM",
+            "Composition_balanced_Wilcoxon_P",
+            "Composition_balanced_BH_FDR",
+            "Tumor_epi_vs_nonEpi_N_pairs",
+            "Tumor_epi_vs_nonEpi_median_delta_log2CPM",
+            "Tumor_epi_vs_nonEpi_Wilcoxon_P",
+            "Tumor_epi_vs_nonEpi_BH_FDR",
+            "Tumor_epi_vs_nonEpi_rank_biserial",
+            "Tumor_epi_gt_nonEpi_pair_fraction",
+            "Tumor_MMRd_N",
+            "Tumor_MMRp_N",
+            "MMRd_vs_MMRp_epi_median_delta_log2CPM",
+            "MMRd_vs_MMRp_epi_MannWhitney_P",
+            "MMRd_vs_MMRp_epi_BH_FDR",
+            "MMRd_vs_MMRp_epi_rank_biserial",
+            "Epi_tumor_mean_CPM",
+            "Epi_tumor_patient_prevalence_CPM_ge1",
+            "TNKILC_tumor_mean_CPM",
+            "TNKILC_tumor_patient_prevalence_CPM_ge1",
+            "Myeloid_tumor_mean_CPM",
+            "Myeloid_tumor_patient_prevalence_CPM_ge1",
+            "B_tumor_mean_CPM",
+            "B_tumor_patient_prevalence_CPM_ge1",
+            "Plasma_tumor_mean_CPM",
+            "Plasma_tumor_patient_prevalence_CPM_ge1",
+            "Strom_tumor_mean_CPM",
+            "Strom_tumor_patient_prevalence_CPM_ge1",
+            "Mast_tumor_mean_CPM",
+            "Mast_tumor_patient_prevalence_CPM_ge1",
+            "Tumor_lineage_dominant",
+            "Tumor_lineage_specificity_tau",
+            "Tumor_epi_subcluster_dominant",
+            "Tumor_epi_subcluster_specificity_tau",
+            "SC_tumor_enriched_vs_normal",
+            "SC_epi_enriched_vs_microenvironment",
+            "SC_tumor_epi_prevalent_ge50pct",
+            "SingleCell_priority_tier",
+            "SingleCell_evidence_count",
+            "Composition_balanced_positive_FDR05",
+            "Primary_tumor_enrichment_robust_ge100cells",
+            "Primary_tumor_enrichment_robust_composition",
+            "Spatial_followup_core_47",
+            "Spatial_followup_category",
+            "SingleCell_priority_rank",
+            "Spatial_followup_core_rank"
+          ],
+          "max_absolute_difference": 4.547473508864641e-13,
+          "failures": [],
+          "counts": {
+            "paired_primary": 36,
+            "paired_ge100cells": 35,
+            "paired_composition_balanced": 33,
+            "tumor_epi_non_epi_pairs": 62,
+            "MMRd": 34,
+            "MMRp": 28,
+            "positive_primary": 219,
+            "positive_epi_vs_non_epi": 206,
+            "positive_ge100cells": 220,
+            "positive_composition_balanced": 198,
+            "MMR_FDR05": 139,
+            "tiers": {
+              "C": 267,
+              "B": 134,
+              "A": 65
+            },
+            "core47": 47
+          },
+          "bootstrap": {
+            "new_seed": 20261007,
+            "draws": 2000,
+            "schedule": "one shared patient-index array; lexicographically sorted paired patient IDs; float64 medians; NumPy linear quantiles",
+            "historical_schedule_verified": false,
+            "comparison_informational_only": {
+              "low_max_abs_difference": 1.1994213422461542e-07,
+              "high_max_abs_difference": 1.342694261552424e-06
+            }
+          },
+          "seconds": 1.9833569526672363
+        },
+        "limitations": [
+          "Inference code was reconstructed from source counts and the documented design; it is not the recovered original script.",
+          "Historical bootstrap random-stream scheduling is not established; newly computed intervals have separate labels.",
+          "The public processed matrix and source annotations are the starting point; alignment and source-study clustering are not reproduced."
+        ]
+      },
+      "log": "logs/03_single_cell.log"
+    },
+    {
+      "module": "04_discovery_spatial",
+      "seconds": 4.957,
+      "returncode": 0,
+      "passed": true,
+      "status": {
+        "module": "04_discovery_spatial",
+        "mode": "processed",
+        "passed": true,
+        "counts": {
+          "Core47": 47,
+          "Spatial43": 43,
+          "Convergent9": 9,
+          "Extended13": 13
+        },
+        "reference_comparison": {
+          "passed": true,
+          "checked_columns": 159,
+          "rows": 466,
+          "failures": []
+        },
+        "matched_null_replay_comparison": {
+          "passed": true,
+          "checked_columns": 7,
+          "rows": 3,
+          "failures": []
+        },
+        "numerical_checks": {
+          "hierarchy_counts": true,
+          "Moran_finite_hypotheses_441": true,
+          "unique_genes_466": true,
+          "C9_members": true,
+          "Core47_Moran_positive_significant_44": true,
+          "sets_nested": true
+        },
+        "execution_scope": "Patient/section checkpoints to keyed inference, hierarchy and plots",
+        "limits": [
+          "Composition-adjusted interface summaries and spatial coexpression modules are retained source checkpoints; the raw composition model was not refitted in this run.",
+          "Discovery matched-null statistics replay archived vectors; exact historical new-draw sampling cannot be reconstructed because Python set iteration order was not saved."
+        ]
+      },
+      "log": "logs/04_discovery_spatial.log"
+    },
+    {
+      "module": "05_external_visium_hd",
+      "seconds": 5.809,
+      "returncode": 0,
+      "passed": true,
+      "status": {
+        "module": "05_external_visium_hd",
+        "mode": "processed",
+        "passed": true,
+        "reference_comparisons": {
+          "set_level": {
+            "passed": true,
+            "checked_columns": 11,
+            "rows": 12,
+            "failures": []
+          },
+          "Convergent9_three_tumours": {
+            "passed": true,
+            "checked_columns": 9,
+            "rows": 27,
+            "failures": []
+          },
+          "Convergent9_cross_sample_summary": {
+            "passed": true,
+            "checked_columns": 15,
+            "rows": 9,
+            "failures": []
+          },
+          "territory_concordance": {
+            "passed": true,
+            "checked_columns": 4,
+            "rows": 6,
+            "failures": []
+          },
+          "patient_level_tests": {
+            "passed": true,
+            "checked_columns": 10,
+            "rows": 12,
+            "failures": []
+          },
+          "Moran_P2_P5_466": {
+            "passed": true,
+            "checked_columns": 18,
+            "rows": 466,
+            "failures": []
+          },
+          "Moran_matched_permutations_P2_P5": {
+            "passed": true,
+            "checked_columns": 10,
+            "rows": 4,
+            "failures": []
+          },
+          "Moran_concordance": {
+            "passed": true,
+            "checked_columns": 4,
+            "rows": 8,
+            "failures": []
+          },
+          "sample_QC": {
+            "passed": true,
+            "checked_columns": 9,
+            "rows": 3,
+            "failures": []
+          },
+          "source_vs_legacy_P2CRC": {
+            "passed": true,
+            "checked_columns": 3,
+            "rows": 466,
+            "failures": []
+          },
+          "source_vs_legacy_P5CRC": {
+            "passed": true,
+            "checked_columns": 3,
+            "rows": 466,
+            "failures": []
+          }
+        },
+        "numerical_checks": {
+          "total_bins_1595565": true,
+          "P1_corrected_1011093_edges": true,
+          "455_evaluable_each_tumour": true,
+          "C9_24_evaluable_positive_tumour": true,
+          "C9_24_positive_Moran": true,
+          "C9_24_negative_boundary": true,
+          "HMGB1_three_unavailable": true,
+          "12_patient_tests_BH_0125": true
+        },
+        "count_checkpoint_scope": "1,595,565 source bins; 18,085-feature library denominators; 466 candidate count columns",
+        "matched_nulls": "40,000 newly recomputed draws; P2/P5 only; fixed seeds 20261011\u201320261014",
+        "limits": [
+          "No original sequencing alignment or source tissue/periphery annotation was rerun. Spatial bins are not biological replicates."
+        ]
+      },
+      "log": "logs/05_external_visium_hd.log"
+    },
+    {
+      "module": "06_crc16_niches",
+      "seconds": 4.945,
+      "returncode": 0,
+      "passed": true,
+      "status": {
+        "module": "06_crc16_niches",
+        "mode": "processed",
+        "passed": true,
+        "CRC16": {
+          "host_genes": 36601,
+          "spots": 3106,
+          "niches": 13,
+          "Spatial43": 43,
+          "Convergent9": 9,
+          "raw_taxa": 316,
+          "raw_taxonomic_UMI": 84044,
+          "retained_bacterial_taxa": 295,
+          "bacterial_UMI": 80272,
+          "occupied_spots": 720,
+          "primary_planned": 260,
+          "primary_estimable": 166,
+          "CMH_finite": 240,
+          "CMH_unavailable": 20,
+          "CMH_stratum_tables": 3120,
+          "conditional_abundance_evaluable": 119,
+          "high_complexity_spots": 1896,
+          "high_complexity_planned": 104,
+          "high_complexity_estimable": 55,
+          "robust_primary": 2,
+          "CMH_OR_status_counts": {
+            "finite positive": 166,
+            "boundary zero": 74,
+            "undefined": 20
+          },
+          "gene_effect_max_errors": {
+            "MeanLog2CPM_niche": 1.7763568394002505e-15,
+            "MeanLog2CPM_rest": 8.881784197001252e-16,
+            "Effect": 8.881784197001252e-16,
+            "Prevalence_niche": 1.1102230246251565e-16,
+            "Prevalence_rest": 9.71445146547012e-17
+          },
+          "archived_35_gene_assignment_verification_max_errors": {
+            "MeanLog2CPM_niche": 1.7763568394002505e-15,
+            "MeanLog2CPM_rest": 8.881784197001252e-16,
+            "Effect": 6.661338147750939e-16,
+            "Prevalence_niche": 1.1102230246251565e-16,
+            "Prevalence_rest": 9.71445146547012e-17
+          },
+          "immune_programme_max_errors": {
+            "Mean_niche": 9.71445146547012e-17,
+            "Mean_rest": 9.974659986866641e-17,
+            "Effect": 9.020562075079397e-17
+          },
+          "Convergent9_max_errors": {
+            "Convergent9_mean_score": 2.942091015256665e-15,
+            "Convergent9_score_effect": 2.9976021664879227e-15
+          },
+          "global_model_max_errors": {
+            "AnyBacteria_OR_adjusted": 3.709310636423879e-12,
+            "P_any": 6.256599892166814e-08,
+            "LogBacterialBurden_beta_adjusted": 1.2101430968414206e-14,
+            "P_burden": 2.070565940925917e-14,
+            "FDR_any": 1.3555966432970273e-07,
+            "FDR_burden": 2.4480417692984702e-14
+          },
+          "primary_refit_max_errors": {
+            "Logit_beta_adjusted": 6.246816397492694e-10,
+            "OR_adjusted": 2.307929403144726e-09,
+            "P_adjusted": 2.672007445081448e-06,
+            "FDR_adjusted": 4.1184663748805583e-07
+          },
+          "CMH_and_conditional_max_errors": {
+            "CMH_OR_spatial_blocks": 8.881784197001252e-16,
+            "P_spatial_CMH": 1.0547118733938987e-15,
+            "FDR_spatial_CMH": 2.7200464103316335e-15,
+            "Conditional_log2UMI_effect": 2.220446049250313e-16,
+            "P_conditional_abundance": 1.1102230246251565e-16,
+            "FDR_conditional_abundance": 2.220446049250313e-16
+          },
+          "high_complexity_max_errors": {
+            "HQ_OR_adjusted": 2.6235653649564483e-09,
+            "HQ_P": 4.3596095831710535e-06,
+            "HQ_FDR": 3.3191213102412576e-06
+          }
+        },
+        "GSE178341": {
+          "source_cells": 370115,
+          "full_feature_library_UMI": 4754318647,
+          "tumour_patients": 62,
+          "gene_count": 9,
+          "patient_profile_min_cells": 20,
+          "population_min_patients": 5,
+          "programme_count": 8,
+          "paired_tests": 6,
+          "C9_rank_max_errors": {
+            "N_patients": 0.0,
+            "Median_score": 2.220446049250313e-16,
+            "Mean_score": 2.220446049250313e-16,
+            "Median_cells": 0.0
+          },
+          "Top_summary_max_errors": {
+            "N_patients": 0.0,
+            "Median_score": 4.440892098500626e-16,
+            "Mean_score": 2.220446049250313e-16,
+            "Median_cells": 0.0
+          },
+          "lineage_test_max_errors": {
+            "N_patients": 0.0,
+            "Median_target_minus_rest": 0.0,
+            "Mean_target_minus_rest": 0.0,
+            "Wilcoxon_P": 0.0,
+            "Fraction_target_gt_rest": 0.0,
+            "BH_FDR": 0.0
+          },
+          "recomputed_from_counts": [
+            "N6_Convergent9"
+          ],
+          "checkpoint_programmes": [
+            "MHCI",
+            "N3_cGAS_STING_IFN",
+            "N3_effector_axis",
+            "N4_N9_chemokine_myeloid",
+            "N4_epithelial_antimicrobial",
+            "N6_WNT_stemness",
+            "N9_CXCL8_PTGS2_inflammatory"
+          ],
+          "checkpoint_limitation": "Original gene definitions for seven historical attribution programmes were not recovered; patient scores, summaries and paired tests remain reproducible from archived scores."
+        },
+        "figure": {
+          "Figure6B_gene_niche_cells": 559,
+          "Figure6D_displayed": 98,
+          "Figure6D_masked": 162,
+          "Figure6E_cells": 28,
+          "Figure6F_cells": 56
+        },
+        "input_sha256": {
+          "input/CRC16_extraction_provenance.json": "49f9b1ccc48e249255f732a07e462b2d964b267b48036ee6f298b76b12df6fe5",
+          "input/CRC16_frozen_niches.csv": "3fca883fad08b1f56cc6ef5b6eb602c8aa5effb686e80d8765fea47acb8db391",
+          "input/CRC16_host_counts.npz": "0958dc004799a0fdafc103e00dc09850605fd875cb5df0f9a4a8708e40ea9847",
+          "input/CRC16_host_features.csv": "2d0b325216507e64d8d26305a7db6067e5124fef08806aa7c3a98b5d35504cca",
+          "input/CRC16_metadata_raw.csv.gz": "35a4b6f3374e4fef0a1a5d0c0428bc42b8b2f4b287e606900fe8ba1d4bb0decc",
+          "input/GSE178341_C9_cell_counts.npz": "43496d2a6b5f2f2153ad83ac3a8800d8ff0ba6adf0b92fef92b66568af4e7512",
+          "input/GSE178341_C9_extraction_provenance.json": "d1d7edd04a4b0a1860b27bddd7a32ac07baa3316800bcb0647d7ffb02d5ebdf5",
+          "input/GSE178341_source_annotations.csv.gz": "d7cceb273d0ea8496e7938f031243b862319f917da90c44805a90e81ea7b693f",
+          "input/GSE_Fine_Attribution.csv": "cfeb4b0e8f88e32a35ee38b895e5043c6b1f12afe1951c716c36bb847a0892f5",
+          "input/GSE_Mid_Signatures.csv": "ab487bcfbd497364448a5dd6a0f84214c8d3bd3b84074ea93ebd906d6173a201",
+          "input/GSE_Patient_TopScores.csv": "24b9e295f0b20e55937ca413a995b29b1570a434a2c2c791a66f37347fb4e45f",
+          "input/GSE_Top_Signatures.csv": "9fc507279912045d4b557d4ffad94f1a7452494ea9dcd3ed9c65dcfb6fa8b94a",
+          "input/Spatial43_axis_annotations.csv": "0c4c41d6cb3a8fca86b9c8638870a24cdbf1e44fc3bc3c64da6bda41111021cf"
+        }
+      },
+      "log": "logs/06_crc16_niches.log"
+    },
+    {
+      "module": "07_translational",
+      "seconds": 1.072,
+      "returncode": 0,
+      "passed": true,
+      "status": {
+        "module": "07_translational",
+        "mode": "processed",
+        "passed": true,
+        "strategy_records": 10,
+        "class_counts": {
+          "A": 3,
+          "B": 6,
+          "C": 0,
+          "D": 1,
+          "E": 0
+        },
+        "coverage_cells": 32,
+        "coverage_counts": {
+          "0": 19,
+          "1": 5,
+          "2": 8
+        },
+        "nonzero_links": 13,
+        "all_link_widths_equal": true,
+        "inference": "None: deterministic summary of human-curated frozen evidence",
+        "evidence_cutoff": "2026-10-14",
+        "targeted_checks": "2026-10-28",
+        "input_sha256": {
+          "biomarker_modules.csv": "5316d41b34069370498da2cac6d2957f04ca8b602707f4524198b1ff93168bae",
+          "coverage.csv": "57c6be9f11b2f1fc7d8177dfb283388b9a3dbef63468e062a60ac4b29f4b65f1",
+          "evidence_hierarchy.csv": "6d31adb456bf7b8ba3f4ec62d9e5ba519180f7a1273d1ca459609ae67fa44cd3",
+          "interpretive_boundaries.csv": "7e5a3776d9b27768338b447b2ddd22b1af74c6ed8e40b56df1aecb5c1c11a754",
+          "limiting_evidence.csv": "df84a334441051df25d60a26aa9cd2f066f6f24dbc8730a63d1255b4b446c4f8",
+          "niche_quantitative_anchors.csv": "14cc19c9b6c2a251ea685406a1569a7930562c6d8680ba1fe676e62178c0a520",
+          "niche_states.csv": "d51908a4a08c931e85e47269e8f8ae92578d7007f86b8d78e66dd0de9648447e",
+          "strategy_evidence.csv": "6dde59836e08bfe692e6173f08aff74536910c48c1a7605a88f2aa7f1fec0874"
+        }
+      },
+      "log": "logs/07_translational.log"
+    }
+  ],
+  "passed": true,
+  "seconds": 77.91
+}

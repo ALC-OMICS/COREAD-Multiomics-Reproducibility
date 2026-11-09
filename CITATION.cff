@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: >-
+  Please cite the associated COREAD study when its final bibliographic record is
+  available. This file identifies the software release and its recorded
+  maintainer; it is not the complete manuscript author list.
+title: COREAD multiaxis dependency and spatial reproducibility package
+version: 0.2.1
+date-released: '2026-11-08'
+type: software
+authors:
+  - family-names: López-Cortés
+    given-names: Andrés
+abstract: >-
+  Analysis code, frozen processed inputs, source data, provenance and validation
+  for seven analyses of COREAD dependencies, patient alterations, single-cell
+  expression, discovery and external spatial cohorts, CRC16 microbial niches and
+  translational evidence. Active candidate sets are Core47, Spatial43,
+  Convergent9 and Extended13.
+keywords:
+  - colorectal cancer
+  - dependency
+  - spatial transcriptomics
+  - reproducibility
+repository-code: https://github.com/ALC-OMICS/COREAD-Multiomics-Reproducibility
+license: MIT

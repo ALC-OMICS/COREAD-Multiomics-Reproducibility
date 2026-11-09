@@ -1,0 +1,42 @@
+{
+  "h5_sha256": "5c839f4e78b4f334e0c19dd3aef173c332b147b8418e854a0ffb6600e05da79a",
+  "n_spots": 20654,
+  "n_genes_matrix": 36588,
+  "n_candidates": 466,
+  "n_core47": 47,
+  "n_tierA65": 65,
+  "patients": [
+    "A120838",
+    "A121573",
+    "A416371",
+    "A551763",
+    "A595688",
+    "A798015",
+    "A938797"
+  ],
+  "n_patients": 7,
+  "n_sections": 14,
+  "pathology_counts": {
+    "stroma": 8319,
+    "tumor": 4022,
+    "mixed_tumor_stroma": 3713,
+    "nonneoplastic_epithelium": 3072,
+    "exclude": 1247,
+    "immune_aggregate": 281
+  },
+  "tumor_patients": [
+    "A120838",
+    "A121573",
+    "A416371",
+    "A551763",
+    "A595688",
+    "A938797"
+  ],
+  "n_tumor_patients": 6,
+  "n_cell2location_factors": 40,
+  "cell2location_pca_components_90pct": 16,
+  "cell2location_pca_variance_explained": 0.9087258484245517,
+  "matched_permutations": 10000,
+  "seed": 20261008,
+  "representative_sample": "Count_SN124_A551763_Rep2"
+}

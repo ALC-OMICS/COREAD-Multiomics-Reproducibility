@@ -1,0 +1,5 @@
+figure,panel,source_files,description,units,missingness
+3,A,source_data/figure_3/Figure3A_mean_patient_CPM.csv;source_data/figure_3/Figure3A_log2_mean_CPM.csv;source_data/figure_3/Figure3A_display_zscores.csv;source_data/figure_3/Figure3A_lineage_patient_counts.csv,"Core47 mean patient CPM, a single log transformation, and row-standardized display across seven lineages",CPM; log2(mean CPM + 1); row z-score with ddof=1; patient count,Patient denominators vary by lineage; absent patient-lineage combinations are not assigned zero
+3,B,source_data/figure_3/Figure3B_source.csv,466-gene expression-prioritization landscape and recomputed patient statistics,Differences in log2(CPM + 1); effect size; P; BH FDR; categories,All 466 features are matched; undefined effect sizes remain blank
+3,C,source_data/figure_3/Figure3C_source.csv,"Fixed priority category counts: 47, 18, 134 and 267",Number of genes,No missing categories
+3,D,source_data/figure_3/Figure3D_source.csv,MMRd versus MMRp epithelial comparison for 466 genes,Difference of median log2(CPM + 1); P; BH FDR; rank-biserial effect; patients,All 466 genes are tested; groups contain 34 and 28 patients

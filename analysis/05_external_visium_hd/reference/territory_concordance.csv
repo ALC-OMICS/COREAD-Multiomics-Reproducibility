@@ -1,0 +1,7 @@
+Sample,Category,N_evaluable,N_concordant,Concordant_fraction,Expected_direction
+P1CRC,Interface-persistent,13,0,0,positive
+P1CRC,Tumor-interior enriched,27,27,1,negative
+P2CRC,Interface-persistent,13,0,0,positive
+P2CRC,Tumor-interior enriched,27,27,1,negative
+P5CRC,Interface-persistent,13,0,0,positive
+P5CRC,Tumor-interior enriched,27,27,1,negative

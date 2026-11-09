@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "module": "01_dependency",
+  "mode": "processed",
+  "seconds": 40.32677221298218,
+  "verification": {
+    "checksums_verified": 34,
+    "cell_line_results_1165.csv": {
+      "snapshot_cells_checked": 548680,
+      "recalculated_cells_checked": 548680
+    },
+    "integration_results_1165.csv": {
+      "snapshot_cells_checked": 170280,
+      "recalculated_cells_checked": 170280
+    },
+    "organoid_results_1720.csv": {
+      "snapshot_cells_checked": 147920,
+      "recalculated_cells_checked": 147920
+    },
+    "counts": {
+      "cell_line_candidates": 335,
+      "organoid_candidates": 324,
+      "union": 466,
+      "shared": 193,
+      "both_evaluable": 1613,
+      "higher_frequency": 23
+    },
+    "spreadsheet_error_cells": 0,
+    "status": "PASS"
+  },
+  "limitations": [
+    "Original GO and cell-line release identifiers were not recovered.",
+    "Organoid probabilities use archived fitted coefficients; original fitting/training is not rerun."
+  ]
+}

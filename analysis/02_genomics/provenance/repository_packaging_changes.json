@@ -1,0 +1,16 @@
+{
+  "source_archive_filename": "COREAD_466_Pacientes_Analisis_Completo.zip",
+  "source_archive_sha256": "d00a7e690d62ac66f16b7cc5b9bd78bfc6a455948dc47fd8d75b1d6af10be6ed",
+  "preserved": "All 94 original archive entries recovered; original statistics and workbooks retained.",
+  "code_adaptation": "parse_exports.py INPUT changed from absolute /mnt/data to repository-relative input/. Original byte-exact code archived.",
+  "new_code": "Portable runner, numerical regression verification, tests and plotting scripts for compact profile and concordance summaries.",
+  "figure_adaptation": "Compact layout and labels clarified; values, primary gene selection and endpoint definitions unchanged. Original delivered numeric SVGs retained separately.",
+  "excluded": "AI-generated quantitative illustrations and generative multipanel compositions (not data-faithful). No font files included.",
+  "tested_environment": {
+    "python": "3.13.5",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8"
+  },
+  "upstream_scope": "Input functional evidence is preserved as a CSV and frozen gene list. This repository does not recompute cell-line/organoid dependencies."
+}

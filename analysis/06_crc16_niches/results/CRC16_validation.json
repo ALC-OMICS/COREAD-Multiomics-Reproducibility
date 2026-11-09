@@ -1,0 +1,77 @@
+{
+  "host_genes": 36601,
+  "spots": 3106,
+  "niches": 13,
+  "Spatial43": 43,
+  "Convergent9": 9,
+  "raw_taxa": 316,
+  "raw_taxonomic_UMI": 84044,
+  "retained_bacterial_taxa": 295,
+  "bacterial_UMI": 80272,
+  "occupied_spots": 720,
+  "primary_planned": 260,
+  "primary_estimable": 166,
+  "CMH_finite": 240,
+  "CMH_unavailable": 20,
+  "CMH_stratum_tables": 3120,
+  "conditional_abundance_evaluable": 119,
+  "high_complexity_spots": 1896,
+  "high_complexity_planned": 104,
+  "high_complexity_estimable": 55,
+  "robust_primary": 2,
+  "CMH_OR_status_counts": {
+    "finite positive": 166,
+    "boundary zero": 74,
+    "undefined": 20
+  },
+  "gene_effect_max_errors": {
+    "MeanLog2CPM_niche": 1.7763568394002505e-15,
+    "MeanLog2CPM_rest": 8.881784197001252e-16,
+    "Effect": 8.881784197001252e-16,
+    "Prevalence_niche": 1.1102230246251565e-16,
+    "Prevalence_rest": 9.71445146547012e-17
+  },
+  "archived_35_gene_assignment_verification_max_errors": {
+    "MeanLog2CPM_niche": 1.7763568394002505e-15,
+    "MeanLog2CPM_rest": 8.881784197001252e-16,
+    "Effect": 6.661338147750939e-16,
+    "Prevalence_niche": 1.1102230246251565e-16,
+    "Prevalence_rest": 9.71445146547012e-17
+  },
+  "immune_programme_max_errors": {
+    "Mean_niche": 9.71445146547012e-17,
+    "Mean_rest": 9.974659986866641e-17,
+    "Effect": 9.020562075079397e-17
+  },
+  "Convergent9_max_errors": {
+    "Convergent9_mean_score": 2.942091015256665e-15,
+    "Convergent9_score_effect": 2.9976021664879227e-15
+  },
+  "global_model_max_errors": {
+    "AnyBacteria_OR_adjusted": 3.709310636423879e-12,
+    "P_any": 6.256599892166814e-08,
+    "LogBacterialBurden_beta_adjusted": 1.2101430968414206e-14,
+    "P_burden": 2.070565940925917e-14,
+    "FDR_any": 1.3555966432970273e-07,
+    "FDR_burden": 2.4480417692984702e-14
+  },
+  "primary_refit_max_errors": {
+    "Logit_beta_adjusted": 6.246816397492694e-10,
+    "OR_adjusted": 2.307929403144726e-09,
+    "P_adjusted": 2.672007445081448e-06,
+    "FDR_adjusted": 4.1184663748805583e-07
+  },
+  "CMH_and_conditional_max_errors": {
+    "CMH_OR_spatial_blocks": 8.881784197001252e-16,
+    "P_spatial_CMH": 1.0547118733938987e-15,
+    "FDR_spatial_CMH": 2.7200464103316335e-15,
+    "Conditional_log2UMI_effect": 2.220446049250313e-16,
+    "P_conditional_abundance": 1.1102230246251565e-16,
+    "FDR_conditional_abundance": 2.220446049250313e-16
+  },
+  "high_complexity_max_errors": {
+    "HQ_OR_adjusted": 2.6235653649564483e-09,
+    "HQ_P": 4.3596095831710535e-06,
+    "HQ_FDR": 3.3191213102412576e-06
+  }
+}

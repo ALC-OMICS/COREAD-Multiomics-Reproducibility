@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "implementation": "reconstructed 2026-10-31",
+  "source_sha256": "f435bb2651ff5297d0c24a99daf58850ed67ae1ed6c5ef05fad48fa3f0186670",
+  "features": 43113,
+  "cells": 370115,
+  "top_groups": 671,
+  "epithelial_fine_groups": 969,
+  "complete_feature_library_total": 4754318647,
+  "candidate_genes": 466,
+  "seconds": 80.92518067359924
+}

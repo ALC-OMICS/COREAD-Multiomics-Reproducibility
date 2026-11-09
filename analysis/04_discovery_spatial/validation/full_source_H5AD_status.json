@@ -1,0 +1,23 @@
+{
+  "module": "04_discovery_spatial",
+  "mode": "full_source_h5ad",
+  "passed": true,
+  "reference_comparison": {
+    "passed": true,
+    "checked_columns": 159,
+    "rows": 466,
+    "failures": []
+  },
+  "source_h5_sha256": "5c839f4e78b4f334e0c19dd3aef173c332b147b8418e854a0ffb6600e05da79a",
+  "n_spots": 20654,
+  "composition_factors": 40,
+  "PCA_components": 16,
+  "PCA_variance_explained": 0.9087258484245517,
+  "fresh_null_draws": 10000,
+  "fresh_null_order": "sorted; intentionally different from unrecoverable historical Python-set order",
+  "scope": "Source counts, full-library normalization, pathology graph, regional effects, composition refit, Moran, hierarchy and exploratory coexpression modules",
+  "limits": [
+    "Source cell2location factors and source pathology annotations are reused; cell2location and original sequencing alignment are not refitted.",
+    "Historical matched-null vectors remain separate; this route generates new canonical-order draws."
+  ]
+}

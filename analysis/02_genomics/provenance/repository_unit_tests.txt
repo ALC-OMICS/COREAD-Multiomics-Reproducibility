@@ -1,0 +1,14 @@
+test_BH_families (test_archived_analysis.ArchivedAnalysisTests.test_BH_families) ... ok
+test_bootstrap_ranks (test_archived_analysis.ArchivedAnalysisTests.test_bootstrap_ranks) ... ok
+test_compact_source_values (test_archived_analysis.ArchivedAnalysisTests.test_compact_source_values) ... ok
+test_empirical_probabilities_and_null_summaries (test_archived_analysis.ArchivedAnalysisTests.test_empirical_probabilities_and_null_summaries) ... ok
+test_frozen_top30_and_ACICAM_patient_extract (test_archived_analysis.ArchivedAnalysisTests.test_frozen_top30_and_ACICAM_patient_extract) ... ok
+test_frozen_universe_and_cohorts (test_archived_analysis.ArchivedAnalysisTests.test_frozen_universe_and_cohorts) ... ok
+test_modality_frequencies_and_missingness (test_archived_analysis.ArchivedAnalysisTests.test_modality_frequencies_and_missingness) ... ok
+test_primary_unique_patient_union (test_archived_analysis.ArchivedAnalysisTests.test_primary_unique_patient_union) ... ok
+test_statistical_figures_have_vectors_and_text (test_archived_analysis.ArchivedAnalysisTests.test_statistical_figures_have_vectors_and_text) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.209s
+
+OK

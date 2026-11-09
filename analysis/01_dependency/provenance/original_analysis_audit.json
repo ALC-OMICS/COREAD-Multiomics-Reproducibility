@@ -1,0 +1,112 @@
+{
+  "timestamp_analysis": "2026-10-03",
+  "input_models": 1165,
+  "distinct_ids": 1165,
+  "coread": 63,
+  "nonCORE_total": 1102,
+  "comparator_source_not_noncancer": 1099,
+  "explicit_noncancer_excluded": [
+    {
+      "id": "ACH-001310",
+      "name": "HA1E"
+    },
+    {
+      "id": "ACH-002210",
+      "name": "ARH-77"
+    },
+    {
+      "id": "ACH-002247",
+      "name": "IM-9"
+    }
+  ],
+  "auxiliary_nonmodel_columns_1based": [
+    4,
+    5
+  ],
+  "all_input_rows_have_1170_fields": true,
+  "input_gene_rows": 1620,
+  "exact_query_matches": 1620,
+  "query_total": 1720,
+  "query_missing": 100,
+  "numeric_entries": 1887300,
+  "numeric_missing": 8748,
+  "shared_with_old_genes": 1619,
+  "shared_with_old_models": 250,
+  "shared_values_checked": 404750,
+  "shared_value_discrepancies": 0,
+  "source_total_average_all1165_within_rounding": true,
+  "candidate": 335,
+  "higher_FDR05": 23,
+  "lower_FDR05": 10,
+  "main_test_family": 1620,
+  "lineage_test_family": 38755,
+  "tested_comparator_lineages": 24,
+  "balanced_genes": 1569,
+  "balanced_boot_draws": 10000,
+  "known_pairs_robust_candidates": 323,
+  "higher_and_balanced_CI_positive": 20,
+  "old_significant_lost": [
+    "BRAF"
+  ],
+  "new_significant_added": [
+    "ASCL2",
+    "AXIN2",
+    "HES1",
+    "ID2",
+    "IQGAP1",
+    "IRS2",
+    "MAP2K5",
+    "STX4",
+    "STXBP3",
+    "TAX1BP1"
+  ],
+  "integration": {
+    "both_evaluable": 1613,
+    "union": 466,
+    "candidate_line": 335,
+    "candidate_org": 324,
+    "candidate_both": 193,
+    "patterns": {
+      "BOTH_CANDIDATES": 193,
+      "NEITHER_BOTH_EVALUABLE": 1151,
+      "CL_ONLY_BOTH_EVALUABLE": 139,
+      "ORG_ONLY_BOTH_EVALUABLE": 130,
+      "ORG_NONCANDIDATE_CL_UNAVAILABLE": 22,
+      "NEITHER_EVALUABLE": 77,
+      "CL_CANDIDATE_ORG_UNAVAILABLE": 3,
+      "ORG_CANDIDATE_CL_UNAVAILABLE": 1,
+      "CL_NONCANDIDATE_ORG_UNAVAILABLE": 4
+    },
+    "jaccard_joint": 0.41774891774891776,
+    "dice_joint": 0.5893129770992367,
+    "rho": 0.4759855533648729,
+    "rho_ci": [
+      0.44562034306724496,
+      0.5295843743952623
+    ],
+    "nonbroad_n": 1570,
+    "rho_nonbroad": 0.41223112114596117,
+    "rho_nonbroad_ci": [
+      0.37095399492043907,
+      0.4581003412542956
+    ],
+    "aligned_both": 148,
+    "both_knownpairs": 189,
+    "both_ge25": 110,
+    "both_ge50": 85,
+    "both_ge80": 43
+  },
+  "hashes": {
+    "Texto pegado(1).txt": "5e267fc321ee99f1b98cf541e8b73e44373701d211fd5fbcb7c9affc5031ac52",
+    "Texto pegado.txt": "0da99f823bf82f4235830cbe675f44e2218425c16df61f004a15d868577219d0",
+    "Supplementary_Table_COREAD_1720_Dependency_Candidates.xlsx": "5df79a22343ec65ae8aadbf04d5dc3ac9fab03d25719db0e2e8c8a893cecb197",
+    "Markdown pegado(20261001-223143).md": "d9251d7caf7079351b7a48801212087893d171c2225f64a5b7c7691741d6f9a0"
+  },
+  "software": {
+    "python": "3.13.5",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "statsmodels": "0.14.6"
+  },
+  "statistical_validation": "BH checked against statsmodels; selected Wilson and Newcombe CIs checked; shared raw values and all primary organoid counts checked."
+}

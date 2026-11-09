@@ -1,0 +1,21 @@
+{
+  "study": "coad_silu_2022",
+  "name": "Colon Cancer (Sidra-LUMC AC-ICAM, Nat Med 2023)",
+  "source_commit": "86690e1ed9752b1dcd50b5657f5f05eafa4b6b78",
+  "retrieval": "Public raw LFS content read through Wolfram Language because local network access was unavailable. Summaries transferred with gzip/base64 and CRC verification; raw CNA/mutation counts independently recomputed and all 1,864 count values matched.",
+  "original_LFS_objects": {
+    "data_cna.txt": {
+      "sha256": "705f2799ac5beec56aea5846b2c4e9d620cedb4e8eba0779fbe23c0402118c55",
+      "bytes": 15659496
+    },
+    "data_mutations.txt": {
+      "sha256": "a306b60722a3bbd945a35d5949fba1e806531516911e34fb813f3971743e3f29",
+      "bytes": 169237802
+    },
+    "data_mrna_seq_expression_zscores_ref_all_samples.txt": {
+      "sha256": "095a73c94a256fe58be08bebb1a3801dffb3b62b5d0b640c930d485fd3856d14",
+      "bytes": 47177130
+    }
+  },
+  "notes": "Source LFS hashes identify original files; they do not identify reconstructed local summaries."
+}

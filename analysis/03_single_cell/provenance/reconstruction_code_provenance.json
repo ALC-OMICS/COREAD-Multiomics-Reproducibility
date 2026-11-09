@@ -1,0 +1,12 @@
+{
+  "reconstruction_date": "2026-10-31",
+  "new_implementation_files": {
+    "run.py": "53eb7f566c975f636731c2fee3aefefa37ff9a8103c13ed119e2624d3de408b3",
+    "code/prepare_pseudobulk.py": "6d3a46b5885af2f0106576168ff61e0bec291080a22cb77a914245520c7655e8",
+    "code/recompute_statistics.py": "cd33b0e707a3bb871219633a5851607831255ec2181b16f359d640d565844111",
+    "code/render_current_figure3.py": "cbe747eb59a18cb3848228e80ee8194f6a0200d5640a25152d6397a8b800526d"
+  },
+  "original_inference_available": false,
+  "fresh_validation": "analysis/03_single_cell/provenance/rebuild_20261031_status.json",
+  "notes": "Inference reconstructed from public processed UMI counts. Fixed-reference regression passes64derivedfields; original bootstrap random-stream schedule is not established."
+}

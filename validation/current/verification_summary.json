@@ -1,0 +1,17 @@
+{
+  "base_commit": "4dc914f0b22a101a7186a21d732b9f30a523e0d7",
+  "payload_sha256": "f97ea3ab20495b96d756e707b6fe20416490ff8101ab0f72a663359b0b4bb1b7",
+  "numeric_files_unchanged": 354,
+  "edited_files": 43,
+  "new_files": 5,
+  "byte_identical_moves": 18,
+  "editorial_files_removed": 8,
+  "source_files_unchanged_during_tests": true,
+  "tested_source_fingerprint_sha256": "6d547db8b9d7e9e5380b8ce4646c02f189d7f5df59a2edbe3cc21b4000134dd9",
+  "workflow_run_id": "42560184740",
+  "processed_modules_passed": 7,
+  "spatial_counts_modules_passed": 2,
+  "demo_modules_passed": 2,
+  "unit_suites_passed": 7,
+  "scope": "Processed-input numerical regression and compact-count spatial refits; not raw alignment or biological validation."
+}

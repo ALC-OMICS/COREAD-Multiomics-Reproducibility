@@ -1,0 +1,35 @@
+{
+  "workbooks": [
+    {
+      "file": "Supplementary_Table_7_TCGA_466.xlsx",
+      "sheets": 1,
+      "gene_or_test_rows": 466,
+      "columns": 85,
+      "nonblank_values_compared": 35875,
+      "discrepancies": 0,
+      "formula_errors": 0
+    },
+    {
+      "file": "Supplementary_Table_8_External_466.xlsx",
+      "sheets": 1,
+      "gene_or_test_rows": 1398,
+      "columns": 97,
+      "nonblank_values_compared": 109922,
+      "discrepancies": 0,
+      "formula_errors": 0
+    },
+    {
+      "file": "Supplementary_Table_9_Permutations.xlsx",
+      "sheets": 1,
+      "gene_or_test_rows": 50,
+      "columns": 26,
+      "nonblank_values_compared": 1260,
+      "discrepancies": 0,
+      "formula_errors": 0
+    }
+  ],
+  "permutation_tests_verified": 46,
+  "null_draws_each": 10000,
+  "BH_independent_check": "scipy.stats.false_discovery_control",
+  "svg_figures_verified": 7
+}

@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+run_outputs/
+_runs/
+data/raw/
+*.part
+*.tmp
+.ipynb_checkpoints/
+# Compact processed inputs in analysis/*/data and analysis/*/input are intentional.
+# Do not ignore all NPZ/CSV files; these are necessary to reproduce the study.
+
+# Code/data-only publication scope (0.2.1)
+.DS_Store
+**/.DS_Store
+run_outputs/
+build/
+**/build/
+**/figures/
+/figures/
+/manuscript/
+/supplementary_tables/
+/submission/
+*.png
+*.svg
+*.jpg
+*.jpeg
+*.pdf
+*.docx
+*.xlsx
+
+# Retain the already tracked original measurement exports (not publication supplements).
+!analysis/02_genomics/input/PATIENT_DATA_oncoprint*.xlsx

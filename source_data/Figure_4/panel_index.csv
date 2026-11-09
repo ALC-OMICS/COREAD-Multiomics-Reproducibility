@@ -1,0 +1,5 @@
+figure,panel,source_files,description,units,missingness
+Figure 4,A,source_data/Figure_4/Figure_4A.csv,Complete integrated candidate landscape; 466 source rows and 462 finite coordinates,dependency frequency; delta log2(CPM+1); DNA alteration frequency,4 unavailable cross-system frequencies retained as blank
+Figure 4,B,source_data/Figure_4/Figure_4B.csv,Core47 spatial architecture; 47 gene observations,delta log2(CPM+1); Moran I; dependency frequency,No imputation; unavailable measures remain blank
+Figure 4,C,source_data/Figure_4/Figure_4C.csv,Top 24 descriptive visual ranks; 7 continuous evidence columns and 5 binary axes,within-top24 z score; binary membership,Blank means unavailable; binary false means absence of assigned axis
+Figure 4,D,source_data/Figure_4/Figure_4D.csv,Top 25 descriptive visual scores with frozen evidence classes,mean of available full-catalogue z scores,"Missing score components are omitted from each mean, not assigned zero"

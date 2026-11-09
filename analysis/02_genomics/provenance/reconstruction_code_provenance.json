@@ -1,0 +1,10 @@
+{
+  "reconstruction_date": "2026-10-31",
+  "new_implementation_files": {
+    "run.py": "4d2b692b64a386e8ec24d03a50a921c76bf31680baf83b0a5e3f369eeb3f7520",
+    "code/export_current_panels.py": "bc43a0ffee2a802a608a5dfb39d320cedfb4be5d3cef8f7d591c203da499a0a4"
+  },
+  "original_inference_available": true,
+  "fresh_validation": "analysis/02_genomics/provenance/rebuild_20261031_status.json",
+  "notes": "Original numerical inference preserved; current wrapper and SVG composition are newly written."
+}

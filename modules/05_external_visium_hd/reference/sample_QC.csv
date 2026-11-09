@@ -1,0 +1,4 @@
+Sample,Features,Bins,Tissue_bins,Tumor_interior_bins,Periphery_50um_bins,Rook_edges,Evaluable_candidates,Evaluable_Core47,Source_SHA256,Source_reconstruction_note
+P1CRC,18085,507684,348117,126732,32835,1011093,455,43,e65dfe204f001364efa84b73c243c20605ab92aabb39e482afc1b0aadcfb6c02,Raw-source reconstruction corrects archived graph count 997062 to 1011093; original H5 checksum and region counts match
+P2CRC,18085,545913,267524,213815,64574,1088678,455,43,445f02025d60a0aaa5bb2a0d9e4f5a476741d71a73c7d99c2397169cfba11b73,Raw source reproduced; recorded H5 checksum and all region counts match
+P5CRC,18085,541968,406617,81834,53517,1080961,455,43,ee19eeeb56772ae6a83a06c8e7ca4d3ae00e3503de74680210fe6fe6e295023b,Raw source reproduced; recorded H5 checksum and all region counts match

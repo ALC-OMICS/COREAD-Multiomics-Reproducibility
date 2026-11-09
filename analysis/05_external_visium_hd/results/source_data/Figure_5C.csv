@@ -1,0 +1,28 @@
+Sample,Gene,External_tumor_minus_tissue,Status
+P1CRC,MYC,1.7168106052046164,Complete gene-level external metrics
+P1CRC,BCL2L1,0.9166747692839304,Complete gene-level external metrics
+P1CRC,SOX9,0.4279296406523604,Complete gene-level external metrics
+P1CRC,IRS2,0.3486576712267259,Complete gene-level external metrics
+P1CRC,FASN,0.7356504618651714,Complete gene-level external metrics
+P1CRC,HMGB1,,Not evaluable on source panel; not a zero or negative result
+P1CRC,YAP1,0.6076632654995653,Complete gene-level external metrics
+P1CRC,RNF6,0.6944106989456235,Complete gene-level external metrics
+P1CRC,CTNNB1,0.2259173716307573,Complete gene-level external metrics
+P2CRC,MYC,4.307242751584679,Complete gene-level external metrics
+P2CRC,BCL2L1,1.082119465577139,Complete gene-level external metrics
+P2CRC,SOX9,0.8225696158568434,Complete gene-level external metrics
+P2CRC,IRS2,0.7314674913433244,Complete gene-level external metrics
+P2CRC,FASN,2.3674718515858575,Complete gene-level external metrics
+P2CRC,HMGB1,,Not evaluable on source panel; not a zero or negative result
+P2CRC,YAP1,1.5653661750194556,Complete gene-level external metrics
+P2CRC,RNF6,0.3909057228876269,Complete gene-level external metrics
+P2CRC,CTNNB1,0.6178973290789158,Complete gene-level external metrics
+P5CRC,MYC,2.0373121485999315,Complete gene-level external metrics
+P5CRC,BCL2L1,1.1594118668406939,Complete gene-level external metrics
+P5CRC,SOX9,0.8852523471864827,Complete gene-level external metrics
+P5CRC,IRS2,0.6499852901167571,Complete gene-level external metrics
+P5CRC,FASN,1.1437419234655548,Complete gene-level external metrics
+P5CRC,HMGB1,,Not evaluable on source panel; not a zero or negative result
+P5CRC,YAP1,1.292876175499618,Complete gene-level external metrics
+P5CRC,RNF6,0.4650696721913977,Complete gene-level external metrics
+P5CRC,CTNNB1,0.5011196975905735,Complete gene-level external metrics

@@ -1,0 +1,79 @@
+{
+  "analysis": "COREAD single-cell transcriptomic prioritization",
+  "source_study": {
+    "accession": "GSE178341",
+    "citation": "Pelka et al., Cell 2021",
+    "processed_h5": "GSE178341_crc10x_full_c295v4_submit.h5",
+    "processed_h5_sha256": "f435bb2651ff5297d0c24a99daf58850ed67ae1ed6c5ef05fad48fa3f0186670",
+    "h5_features": 43113,
+    "annotated_cells": 370115,
+    "tumor_cells": 257251,
+    "adjacent_normal_cells": 112864,
+    "tumor_patients": 62,
+    "MMRd_patients": 34,
+    "MMRp_patients": 28,
+    "patients_with_adjacent_normal": 36
+  },
+  "candidate_universe": {
+    "genes": 466,
+    "exact_symbol_matches": 455,
+    "stable_ensembl_recoveries": 11
+  },
+  "primary_tumor_vs_normal": {
+    "unit": "patient-level epithelial pseudobulk",
+    "paired_patients": 36,
+    "transform": "log2(CPM + 1)",
+    "test": "two-sided Wilcoxon signed-rank",
+    "multiple_testing": "Benjamini-Hochberg across 466 genes",
+    "bootstrap_draws": 2000,
+    "bootstrap_seed": 20261007
+  },
+  "cell_count_sensitivity": {
+    "minimum_epithelial_cells_per_specimen": 100,
+    "paired_patients": 35,
+    "test": "two-sided Wilcoxon signed-rank",
+    "multiple_testing": "Benjamini-Hochberg across 466 genes"
+  },
+  "composition_balanced_sensitivity": {
+    "minimum_cells_per_shared_fine_epithelial_cluster": 20,
+    "minimum_shared_clusters_per_patient": 2,
+    "paired_patients": 33,
+    "aggregation": "equal-weight mean of shared fine epithelial-cluster log2(CPM + 1) values",
+    "median_shared_clusters": 5,
+    "test": "two-sided Wilcoxon signed-rank",
+    "multiple_testing": "Benjamini-Hochberg across 466 genes"
+  },
+  "tumor_epithelium_vs_microenvironment": {
+    "matched_patients": 62,
+    "comparison": "tumor epithelial pseudobulk vs aggregate non-epithelial tumor pseudobulk",
+    "test": "two-sided Wilcoxon signed-rank",
+    "multiple_testing": "Benjamini-Hochberg across 466 genes"
+  },
+  "MMR_analysis": {
+    "MMRd": 34,
+    "MMRp": 28,
+    "test": "two-sided Mann-Whitney U",
+    "multiple_testing": "Benjamini-Hochberg across 466 genes",
+    "priority_role": "secondary annotation only"
+  },
+  "prevalence": {
+    "tumor_epithelial_expression_threshold_CPM": 1.0,
+    "Tier_A_min_patient_prevalence": 0.5
+  },
+  "priority_rules": {
+    "Tier_A": [
+      "candidate in both cell-line and organoid dependency analyses",
+      "positive tumor-vs-adjacent-normal epithelial median effect with BH FDR < 0.05",
+      "positive tumor-epithelium-vs-non-epithelial-tumor median effect with BH FDR < 0.05",
+      "tumor epithelial CPM >= 1 in at least 50% of patients"
+    ],
+    "Tier_B": [
+      "positive tumor-vs-adjacent-normal epithelial median effect with BH FDR < 0.05",
+      "tumor epithelial CPM >= 1 in at least 50% of patients",
+      "does not satisfy all Tier A requirements"
+    ],
+    "Tier_C": "all remaining genes",
+    "CORE_47": "Tier A plus positive composition-balanced tumor-vs-normal epithelial effect with BH FDR < 0.05"
+  },
+  "top_level_lineages": ["Epi", "TNKILC", "Myeloid", "B", "Plasma", "Strom", "Mast"]
+}

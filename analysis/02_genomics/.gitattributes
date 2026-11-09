@@ -1,0 +1,3 @@
+# Preserve the exact archived bytes on every platform.
+# Integrity manifests and numerical checkpoints are byte-specific.
+* -text

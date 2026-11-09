@@ -1,0 +1,44 @@
+{
+  "mode": "offline_numerical_reanalysis",
+  "steps": [
+    {
+      "script": "parse_exports.py",
+      "returncode": 0,
+      "seconds": 1.427
+    },
+    {
+      "script": "analyze_patients.py",
+      "returncode": 0,
+      "seconds": 11.634
+    },
+    {
+      "script": "pivot_external_table.py",
+      "returncode": 0,
+      "seconds": 0.722
+    },
+    {
+      "script": "make_patient_figures.py",
+      "returncode": 0,
+      "seconds": 3.827
+    },
+    {
+      "script": "make_compact_profiles.py",
+      "returncode": 0,
+      "seconds": 2.159
+    },
+    {
+      "script": "make_permutation_panels.py",
+      "returncode": 0,
+      "seconds": 1.192
+    },
+    {
+      "script": "verify_deliverables.py",
+      "returncode": 0,
+      "seconds": 1.82
+    }
+  ],
+  "source": "/mnt/data/coread-patient-alterations",
+  "output": "/mnt/data/coread-patient-reproduction-check",
+  "excel": "Original single-sheet XLSX files copied and checked against CSV; no internal workbook engine required.",
+  "AC_ICAM": "Archived all-gene summaries and top-30 calls; raw network acquisition not rerun."
+}

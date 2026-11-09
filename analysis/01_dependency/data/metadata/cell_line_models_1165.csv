@@ -1,0 +1,1166 @@
+ModelID,Cell_line_name,Source_primary_disease,Source_lineage,Analysis_group,Source_column_1based
+ACH-001401,SW-13,Adrenocortical Carcinoma,Adrenal Gland,PRIMARY_COMPARATOR,6
+ACH-000182,SNU-869,Ampullary Carcinoma,Ampulla of Vater,PRIMARY_COMPARATOR,7
+ACH-000377,SNU-478,Ampullary Carcinoma,Ampulla of Vater,PRIMARY_COMPARATOR,8
+ACH-001862,TGBC52TKB,Ampullary Carcinoma,Ampulla of Vater,PRIMARY_COMPARATOR,9
+ACH-002023,TGBC18TKB,Ampullary Carcinoma,Ampulla of Vater,PRIMARY_COMPARATOR,10
+ACH-000141,SNU-308,Intracholecystic Papillary Neoplasm,Biliary Tract,PRIMARY_COMPARATOR,11
+ACH-000209,SNU-1079,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,12
+ACH-000268,SNU-245,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,13
+ACH-000461,SNU-1196,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,14
+ACH-000976,HuCCT1,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,15
+ACH-001494,EGI-1,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,16
+ACH-001536,KKU-100,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,17
+ACH-001538,KKU-213,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,18
+ACH-001607,NOZ,Intracholecystic Papillary Neoplasm,Biliary Tract,PRIMARY_COMPARATOR,19
+ACH-001619,OCUG-1,Intracholecystic Papillary Neoplasm,Biliary Tract,PRIMARY_COMPARATOR,20
+ACH-001673,TFK-1,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,21
+ACH-001834,ICC10,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,22
+ACH-001835,ICC10-6,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,23
+ACH-001836,ICC10-8,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,24
+ACH-001838,ICC12,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,25
+ACH-001839,ICC13-7,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,26
+ACH-001841,ICC15,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,27
+ACH-001842,ICC2,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,28
+ACH-001843,ICC3,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,29
+ACH-001844,ICC4,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,30
+ACH-001848,ICC8,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,31
+ACH-001849,ICC9,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,32
+ACH-001850,G415,Intracholecystic Papillary Neoplasm,Biliary Tract,PRIMARY_COMPARATOR,33
+ACH-001852,HKGZ-CC,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,34
+ACH-001856,RBE,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,35
+ACH-001857,SG231,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,36
+ACH-001858,SSP-25,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,37
+ACH-001861,TGBC1TKB,Intracholecystic Papillary Neoplasm,Biliary Tract,PRIMARY_COMPARATOR,38
+ACH-001863,TKKK,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,39
+ACH-001864,YSCCC,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,40
+ACH-001959,CC-LP-1,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,41
+ACH-001960,CC-SW-1,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,42
+ACH-001961,GB2,Intracholecystic Papillary Neoplasm,Biliary Tract,PRIMARY_COMPARATOR,43
+ACH-001997,ECC2,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,44
+ACH-002647,CCC-5,Intraductal Papillary Neoplasm of the Bile Duct,Biliary Tract,PRIMARY_COMPARATOR,45
+ACH-000011,253J,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,46
+ACH-000018,T24,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,47
+ACH-000026,253J-BV,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,48
+ACH-000127,SLR 20,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,49
+ACH-000142,CAL-29,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,50
+ACH-000242,RT4,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,51
+ACH-000396,J82,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,52
+ACH-000473,RT-112,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,53
+ACH-000486,KU-19-19,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,54
+ACH-000522,UM-UC-3,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,55
+ACH-000545,VM-CUB1,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,56
+ACH-000547,HT-1197,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,57
+ACH-000593,BC-3C,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,58
+ACH-000720,TCCSUP,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,59
+ACH-000724,HT-1376,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,60
+ACH-000741,U-BLC1,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,61
+ACH-000753,JMSU-1,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,62
+ACH-000802,BFTC-905,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,63
+ACH-000834,UM-UC-1,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,64
+ACH-000839,SCaBER,Bladder Squamous Cell Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,65
+ACH-000862,KMBC-2,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,66
+ACH-000896,647-V,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,67
+ACH-000905,5637,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,68
+ACH-000973,639-V,Urethral Cancer,Bladder/Urinary Tract,PRIMARY_COMPARATOR,69
+ACH-001183,RT112/84,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,70
+ACH-001407,UM-UC-13,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,71
+ACH-001408,UM-UC-14,Urethral Cancer,Bladder/Urinary Tract,PRIMARY_COMPARATOR,72
+ACH-001409,UM-UC-16,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,73
+ACH-001411,UM-UC-5,Bladder Squamous Cell Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,74
+ACH-001412,UM-UC-10,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,75
+ACH-001413,UM-UC-11,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,76
+ACH-001414,UM-UC-6,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,77
+ACH-001415,UM-UC7,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,78
+ACH-001416,UM-UC9,Bladder Urothelial Carcinoma,Bladder/Urinary Tract,PRIMARY_COMPARATOR,79
+ACH-000039,SK-N-MC,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,80
+ACH-000041,RD-ES,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,81
+ACH-000052,A-673,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,82
+ACH-000082,"G-292, clone A141B1",Osteosarcoma,Bone,PRIMARY_COMPARATOR,83
+ACH-000087,SK-ES-1,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,84
+ACH-000210,CADO-ES1,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,85
+ACH-000279,EWS502,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,86
+ACH-000359,MG-63,Osteosarcoma,Bone,PRIMARY_COMPARATOR,87
+ACH-000364,U-2 OS,Osteosarcoma,Bone,PRIMARY_COMPARATOR,88
+ACH-000391,MHH-ES-1,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,89
+ACH-000410,Saos-2,Osteosarcoma,Bone,PRIMARY_COMPARATOR,90
+ACH-000424,TC-71,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,91
+ACH-000499,EW8,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,92
+ACH-000516,CAL-78,Chondrosarcoma,Bone,PRIMARY_COMPARATOR,93
+ACH-000748,SJSA-1,Osteosarcoma,Bone,PRIMARY_COMPARATOR,94
+ACH-001001,143B,Osteosarcoma,Bone,PRIMARY_COMPARATOR,95
+ACH-001029,CHLA-10,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,96
+ACH-001038,COG-E-352,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,97
+ACH-001192,SK-NEP-1,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,98
+ACH-001193,SK-PN-DW,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,99
+ACH-001205,TC-32,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,100
+ACH-001275,OSA 1777,Osteosarcoma,Bone,PRIMARY_COMPARATOR,101
+ACH-001283,TC-106,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,102
+ACH-001430,TC-138,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,103
+ACH-001431,TC-205,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,104
+ACH-001526,HuO9,Osteosarcoma,Bone,PRIMARY_COMPARATOR,105
+ACH-001643,SCCH-196,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,106
+ACH-001715,CAL-72,Osteosarcoma,Bone,PRIMARY_COMPARATOR,107
+ACH-001814,OS252,Osteosarcoma,Bone,PRIMARY_COMPARATOR,108
+ACH-002067,NOS-1,Osteosarcoma,Bone,PRIMARY_COMPARATOR,109
+ACH-002069,HS-Os-1,Osteosarcoma,Bone,PRIMARY_COMPARATOR,110
+ACH-002105,ES4,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,111
+ACH-002106,ES5,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,112
+ACH-002109,ES8,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,113
+ACH-002110,EW-1,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,114
+ACH-002114,EW-16,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,115
+ACH-002116,EW-22,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,116
+ACH-002119,EW-7,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,117
+ACH-002160,MC-IXC,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,118
+ACH-002204,U-CH2,Chordoma,Bone,PRIMARY_COMPARATOR,119
+ACH-002470,OS186,Osteosarcoma,Bone,PRIMARY_COMPARATOR,120
+ACH-002471,OS052,Osteosarcoma,Bone,PRIMARY_COMPARATOR,121
+ACH-002690,OS526,Osteosarcoma,Bone,PRIMARY_COMPARATOR,122
+ACH-002778,NCC-OS1-X2-C1,Osteosarcoma,Bone,PRIMARY_COMPARATOR,123
+ACH-002780,NCC-ES1-C1,Ewing Sarcoma,Bone,PRIMARY_COMPARATOR,124
+ACH-002834,OS384,Osteosarcoma,Bone,PRIMARY_COMPARATOR,125
+ACH-000007,LS513,Colorectal Adenocarcinoma,Bowel,COREAD,126
+ACH-000009,C2BBe1,Colorectal Adenocarcinoma,Bowel,COREAD,127
+ACH-000202,COLO-320,Colorectal Adenocarcinoma,Bowel,COREAD,128
+ACH-000249,CL-11,Colorectal Adenocarcinoma,Bowel,COREAD,129
+ACH-000252,LS1034,Colorectal Adenocarcinoma,Bowel,COREAD,130
+ACH-000253,COLO 201,Colorectal Adenocarcinoma,Bowel,COREAD,131
+ACH-000286,SNU-1033,Colorectal Adenocarcinoma,Bowel,COREAD,132
+ACH-000296,OUMS-23,Colorectal Adenocarcinoma,Bowel,COREAD,133
+ACH-000350,COLO-678,Colorectal Adenocarcinoma,Bowel,COREAD,134
+ACH-000381,T84,Colorectal Adenocarcinoma,Bowel,COREAD,135
+ACH-000403,NCI-H747,Colorectal Adenocarcinoma,Bowel,COREAD,136
+ACH-000421,SW837,Colorectal Adenocarcinoma,Bowel,COREAD,137
+ACH-000467,HCC-56,Colorectal Adenocarcinoma,Bowel,COREAD,138
+ACH-000470,SW1463,Colorectal Adenocarcinoma,Bowel,COREAD,139
+ACH-000489,SW1116,Colorectal Adenocarcinoma,Bowel,COREAD,140
+ACH-000491,NCI-H716,Colorectal Adenocarcinoma,Bowel,COREAD,141
+ACH-000501,LS123,Colorectal Adenocarcinoma,Bowel,COREAD,142
+ACH-000532,SNU-61,Colorectal Adenocarcinoma,Bowel,COREAD,143
+ACH-000552,HT-29,Colorectal Adenocarcinoma,Bowel,COREAD,144
+ACH-000565,RCM-1,Colorectal Adenocarcinoma,Bowel,COREAD,145
+ACH-000651,SW 620,Colorectal Adenocarcinoma,Bowel,COREAD,146
+ACH-000683,SNU-503,Colorectal Adenocarcinoma,Bowel,COREAD,147
+ACH-000722,SNU-C1,Colorectal Adenocarcinoma,Bowel,COREAD,148
+ACH-000798,CL-40,Colorectal Adenocarcinoma,Bowel,COREAD,149
+ACH-000820,SW403,Colorectal Adenocarcinoma,Bowel,COREAD,150
+ACH-000926,HT-55,Colorectal Adenocarcinoma,Bowel,COREAD,151
+ACH-000935,MDST8,Colorectal Adenocarcinoma,Bowel,COREAD,152
+ACH-000943,RKO,Colorectal Adenocarcinoma,Bowel,COREAD,153
+ACH-000950,LoVo,Colorectal Adenocarcinoma,Bowel,COREAD,154
+ACH-000957,LS 180,Colorectal Adenocarcinoma,Bowel,COREAD,155
+ACH-000958,SW48,Colorectal Adenocarcinoma,Bowel,COREAD,156
+ACH-000959,SNU-C4,Colorectal Adenocarcinoma,Bowel,COREAD,157
+ACH-000963,CCK-81,Colorectal Adenocarcinoma,Bowel,COREAD,158
+ACH-000969,KM12,Colorectal Adenocarcinoma,Bowel,COREAD,159
+ACH-000970,SNU-C5,Colorectal Adenocarcinoma,Bowel,COREAD,160
+ACH-000971,HCT 116,Colorectal Adenocarcinoma,Bowel,COREAD,161
+ACH-000985,LS411N,Colorectal Adenocarcinoma,Bowel,COREAD,162
+ACH-000986,HT115,Colorectal Adenocarcinoma,Bowel,COREAD,163
+ACH-000991,SNU-81,Colorectal Adenocarcinoma,Bowel,COREAD,164
+ACH-000997,HCT-15,Colorectal Adenocarcinoma,Bowel,COREAD,165
+ACH-001039,COLO 205,Colorectal Adenocarcinoma,Bowel,COREAD,166
+ACH-001061,DLD-1,Colorectal Adenocarcinoma,Bowel,COREAD,167
+ACH-001081,HCC2998,Colorectal Adenocarcinoma,Bowel,COREAD,168
+ACH-001345,GP5d,Colorectal Adenocarcinoma,Bowel,COREAD,169
+ACH-001399,SW 626,Colorectal Adenocarcinoma,Bowel,COREAD,170
+ACH-001454,C10,Colorectal Adenocarcinoma,Bowel,COREAD,171
+ACH-001458,C75,Colorectal Adenocarcinoma,Bowel,COREAD,172
+ACH-001459,C80,Colorectal Adenocarcinoma,Bowel,COREAD,173
+ACH-001460,C84,Colorectal Adenocarcinoma,Bowel,COREAD,174
+ACH-001461,C99,Colorectal Adenocarcinoma,Bowel,COREAD,175
+ACH-001786,SNU-1544,Colorectal Adenocarcinoma,Bowel,COREAD,176
+ACH-002024,ECC4,Colorectal Adenocarcinoma,Bowel,COREAD,177
+ACH-002025,TT1TKB,Colorectal Adenocarcinoma,Bowel,COREAD,178
+ACH-002233,DIFI,Colorectal Adenocarcinoma,Bowel,COREAD,179
+ACH-002530,SNU-977,Colorectal Adenocarcinoma,Bowel,COREAD,180
+ACH-002535,SNU-254,Colorectal Adenocarcinoma,Bowel,COREAD,181
+ACH-002538,SNU-1235,Colorectal Adenocarcinoma,Bowel,COREAD,182
+ACH-002654,JVE-015,Colorectal Adenocarcinoma,Bowel,COREAD,183
+ACH-002659,JVE-127,Colorectal Adenocarcinoma,Bowel,COREAD,184
+ACH-002660,JVE-187,Colorectal Adenocarcinoma,Bowel,COREAD,185
+ACH-002662,JVE-207,Colorectal Adenocarcinoma,Bowel,COREAD,186
+ACH-002664,JVE-253,Colorectal Adenocarcinoma,Bowel,COREAD,187
+ACH-002669,KP-363T,Colorectal Adenocarcinoma,Bowel,COREAD,188
+ACH-000017,SK-BR-3,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,189
+ACH-000019,MCF7,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,190
+ACH-000028,KPL-1,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,191
+ACH-000097,ZR-75-1,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,192
+ACH-000111,HCC1187,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,193
+ACH-000147,T-47D,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,194
+ACH-000148,Hs 578T,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,195
+ACH-000212,CAL-120,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,196
+ACH-000223,HCC1937,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,197
+ACH-000248,AU565,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,198
+ACH-000258,Du4475,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,199
+ACH-000276,HCC38,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,200
+ACH-000277,HCC1419,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,201
+ACH-000288,BT-549,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,202
+ACH-000330,EFM-19,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,203
+ACH-000352,HCC1428,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,204
+ACH-000374,HCC1143,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,205
+ACH-000554,UACC-893,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,206
+ACH-000573,MDA-MB-436,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,207
+ACH-000621,MDA-MB-157,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,208
+ACH-000624,HCC1806,Breast Ductal Carcinoma In Situ,Breast,PRIMARY_COMPARATOR,209
+ACH-000668,HCC70,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,210
+ACH-000699,HCC1395,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,211
+ACH-000711,JIMT-1,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,212
+ACH-000721,HMC-1-8,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,213
+ACH-000725,HCC202,Breast Ductal Carcinoma In Situ,Breast,PRIMARY_COMPARATOR,214
+ACH-000768,MDA-MB-231,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,215
+ACH-000783,CAMA-1,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,216
+ACH-000849,MDA-MB-468,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,217
+ACH-000856,CAL-51,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,218
+ACH-000859,HCC1954,Breast Ductal Carcinoma In Situ,Breast,PRIMARY_COMPARATOR,219
+ACH-000876,MDA-MB-415,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,220
+ACH-000910,MDA-MB-453,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,221
+ACH-000934,MDA-MB-361,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,222
+ACH-001065,Evsa-T,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,223
+ACH-001388,SUM-102PT,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,224
+ACH-001389,SUM-1315MO2,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,225
+ACH-001390,SUM-149PT,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,226
+ACH-001391,SUM-159PT,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,227
+ACH-001392,SUM-185PE,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,228
+ACH-001393,SUM-190PT,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,229
+ACH-001394,SUM-229PE,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,230
+ACH-001396,SUM-52PE,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,231
+ACH-001419,VP229,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,232
+ACH-001662,SNU-2372,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,233
+ACH-001683,UACC-3133,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,234
+ACH-001819,MFM-223,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,235
+ACH-001820,COLO 824,"Breast Neoplasm, NOS",Breast,PRIMARY_COMPARATOR,236
+ACH-002179,OCUB-M,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,237
+ACH-002399,21NT,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,238
+ACH-002400,21MT1,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,239
+ACH-002401,21MT2,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,240
+ACH-002499,UACC-3199,Invasive Breast Carcinoma,Breast,PRIMARY_COMPARATOR,241
+ACH-000490,SF767,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,242
+ACH-000556,SIHA,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,243
+ACH-001333,C-33 A,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,244
+ACH-001334,C-4 I,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,245
+ACH-001335,C-4 II,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,246
+ACH-001336,Ca Ski,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,247
+ACH-001341,DoTc2 4510,Mixed Cervical Carcinoma,Cervix,PRIMARY_COMPARATOR,248
+ACH-001360,MS751,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,249
+ACH-001402,SW756,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,250
+ACH-001451,BOKU,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,251
+ACH-001513,HCA-1,Cervical Adenocarcinoma,Cervix,PRIMARY_COMPARATOR,252
+ACH-001515,HCS-2,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,253
+ACH-001525,HT-3,Cervical Adenocarcinoma,Cervix,PRIMARY_COMPARATOR,254
+ACH-001650,SISO,Cervical Adenocarcinoma,Cervix,PRIMARY_COMPARATOR,255
+ACH-001651,SKG-I,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,256
+ACH-001652,SKG-II,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,257
+ACH-002019,HOKUG,Glassy Cell Carcinoma of the Cervix,Cervix,PRIMARY_COMPARATOR,258
+ACH-002020,SKG-IIIa,Cervical Squamous Cell Carcinoma,Cervix,PRIMARY_COMPARATOR,259
+ACH-000025,CH-157MN,Meningothelial Tumor,CNS/Brain,PRIMARY_COMPARATOR,260
+ACH-000036,U343,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,261
+ACH-000040,U-118 MG,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,262
+ACH-000055,D283 Med,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,263
+ACH-000067,Hs 683,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,264
+ACH-000075,U-87 MG,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,265
+ACH-000095,D341 Med,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,266
+ACH-000098,GAMG,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,267
+ACH-000128,LN-319,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,268
+ACH-000137,8-MG-BA,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,269
+ACH-000152,M059K,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,270
+ACH-000160,BT-12,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,271
+ACH-000200,NMC-G1,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,272
+ACH-000208,U-178,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,273
+ACH-000211,Daoy,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,274
+ACH-000215,LN382,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,275
+ACH-000231,KALS-1,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,276
+ACH-000232,U-251 MG,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,277
+ACH-000244,DK-MG,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,278
+ACH-000269,AM-38,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,279
+ACH-000273,SF539,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,280
+ACH-000323,42-MG-BA,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,281
+ACH-000329,CCF-STTG1,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,282
+ACH-000368,SNU-1105,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,283
+ACH-000370,SNU-626,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,284
+ACH-000376,SF-295,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,285
+ACH-000389,H4,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,286
+ACH-000437,SW 1088,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,287
+ACH-000445,KNS-60,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,288
+ACH-000455,LN-428,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,289
+ACH-000464,CAS-1,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,290
+ACH-000469,YH-13,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,291
+ACH-000479,KNS-81,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,292
+ACH-000504,SNB75,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,293
+ACH-000558,A-172,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,294
+ACH-000570,YKG1,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,295
+ACH-000571,T98G,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,296
+ACH-000591,LN-235,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,297
+ACH-000592,TM-31,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,298
+ACH-000595,LN-229,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,299
+ACH-000609,SF126,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,300
+ACH-000622,KNS-42,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,301
+ACH-000623,SNU-201,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,302
+ACH-000631,KS-1,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,303
+ACH-000634,LN-340,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,304
+ACH-000655,SF268,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,305
+ACH-000673,LN-443,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,306
+ACH-000676,LN-464,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,307
+ACH-000738,GB-1,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,308
+ACH-000756,GI-1,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,309
+ACH-000760,LNZ308,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,310
+ACH-000776,ONS-76,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,311
+ACH-000807,SNU-738,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,312
+ACH-000819,LN-18,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,313
+ACH-000863,DBTRG-05MG,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,314
+ACH-000887,SF-172,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,315
+ACH-001016,Becker,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,316
+ACH-001020,BT-16,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,317
+ACH-001028,CHLA-06,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,318
+ACH-001031,CHLA-266,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,319
+ACH-001033,CHLA-57,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,320
+ACH-001053,D425,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,321
+ACH-001054,D458,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,322
+ACH-001067,F5,Meningothelial Tumor,CNS/Brain,PRIMARY_COMPARATOR,323
+ACH-001126,MOG-G-UVW,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,324
+ACH-001172,U-251 MG DM,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,325
+ACH-001232,UW228,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,326
+ACH-001289,COG-AR-359,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,327
+ACH-001329,ANGM-CSS,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,328
+ACH-001605,"no,10",Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,329
+ACH-001606,"no,11",Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,330
+ACH-001608,NP 2,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,331
+ACH-001609,NP 3,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,332
+ACH-001610,NP 5,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,333
+ACH-001611,NP 8,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,334
+ACH-001622,Onda 7,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,335
+ACH-001623,Onda 8,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,336
+ACH-001624,Onda 9,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,337
+ACH-001670,TASK1,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,338
+ACH-001711,PFSK-1,Embryonal Tumor,CNS/Brain,PRIMARY_COMPARATOR,339
+ACH-002070,HKBMM,Meningothelial Tumor,CNS/Brain,PRIMARY_COMPARATOR,340
+ACH-002228,D-423MG,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,341
+ACH-002229,D-502MG,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,342
+ACH-002230,D-542MG,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,343
+ACH-002257,KINGS-1,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,344
+ACH-002269,LNZTA3WT4,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,345
+ACH-002304,SK-MG-1,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,346
+ACH-002680,170-MG-BA,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,347
+ACH-002681,538-MG-BA,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,348
+ACH-002806,TB096,Diffuse Glioma,CNS/Brain,PRIMARY_COMPARATOR,349
+ACH-000047,GCIY,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,350
+ACH-000144,RERF-GC-1B,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,351
+ACH-000216,JH-EsoAd1,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,352
+ACH-000239,HuG1-N,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,353
+ACH-000247,OCUM-1,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,354
+ACH-000255,LMSU,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,355
+ACH-000303,SNU-5,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,356
+ACH-000305,EC-GI-10,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,357
+ACH-000318,TE-10,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,358
+ACH-000325,SNU-620,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,359
+ACH-000344,SNU-668,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,360
+ACH-000356,MKN-45,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,361
+ACH-000383,OE33,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,362
+ACH-000408,TE-5,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,363
+ACH-000427,NCI-N87,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,364
+ACH-000452,TE-8,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,365
+ACH-000466,SNU-216,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,366
+ACH-000485,GSU,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,367
+ACH-000488,TE-11,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,368
+ACH-000507,KE-39,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,369
+ACH-000544,OE21,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,370
+ACH-000561,"T,T",Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,371
+ACH-000581,SNU-16,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,372
+ACH-000605,TE-6,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,373
+ACH-000616,Hs 746T,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,374
+ACH-000633,FU97,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,375
+ACH-000637,KYSE-520,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,376
+ACH-000647,TE-1,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,377
+ACH-000693,KYSE-180,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,378
+ACH-000694,TE-9,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,379
+ACH-000717,COLO-680N,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,380
+ACH-000736,SNU-601,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,381
+ACH-000746,GSS,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,382
+ACH-000758,MKN74,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,383
+ACH-000764,SH-10-TC,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,384
+ACH-000777,KYSE-30,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,385
+ACH-000784,KYSE-70,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,386
+ACH-000793,KATO III,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,387
+ACH-000809,KYSE-410,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,388
+ACH-000823,KYSE-140,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,389
+ACH-000824,KYSE-510,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,390
+ACH-000847,HGC-27,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,391
+ACH-000855,KYSE-150,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,392
+ACH-000865,KYSE-450,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,393
+ACH-000873,KYSE-270,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,394
+ACH-000880,AGS,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,395
+ACH-000898,SNU-719,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,396
+ACH-000911,NUGC-3,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,397
+ACH-000917,TE-4,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,398
+ACH-000919,IM95,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,399
+ACH-000932,SNU-1,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,400
+ACH-000948,23132/87,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,401
+ACH-001368,"OAC-M5,1",Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,402
+ACH-001496,ESO26,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,403
+ACH-001497,ESO51,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,404
+ACH-001500,FLO-1,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,405
+ACH-001544,KYAE-1,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,406
+ACH-001653,SK-GT-2,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,407
+ACH-001654,SK-GT-4,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,408
+ACH-001664,SNU-638,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,409
+ACH-002141,HSC-39,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,410
+ACH-002161,MKN28,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,411
+ACH-002202,TMK-1,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,412
+ACH-002243,HCE-4,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,413
+ACH-002263,KYSE-220,Esophageal Squamous Cell Carcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,414
+ACH-002446,CCLF_UPGI_0005_T,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,415
+ACH-002544,SNU-1750,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,416
+ACH-002705,IS076P,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,417
+ACH-002706,IS076A,Esophagogastric Adenocarcinoma,Esophagus/Stomach,PRIMARY_COMPARATOR,418
+ACH-001295,Y-79,Retinoblastoma,Eye,PRIMARY_COMPARATOR,419
+ACH-001421,WERI-Rb-1,Retinoblastoma,Eye,PRIMARY_COMPARATOR,420
+ACH-001554,mel-202,Ocular Melanoma,Eye,PRIMARY_COMPARATOR,421
+ACH-002014,Mel270,Ocular Melanoma,Eye,PRIMARY_COMPARATOR,422
+ACH-002015,Mel285,Ocular Melanoma,Eye,PRIMARY_COMPARATOR,423
+ACH-002016,Mel290,Ocular Melanoma,Eye,PRIMARY_COMPARATOR,424
+ACH-002018,"Omm2,5",Ocular Melanoma,Eye,PRIMARY_COMPARATOR,425
+ACH-002687,WM3772F,Ocular Melanoma,Eye,PRIMARY_COMPARATOR,426
+ACH-002925,UPMM3,Ocular Melanoma,Eye,PRIMARY_COMPARATOR,427
+ACH-002926,UPMD1,Ocular Melanoma,Eye,PRIMARY_COMPARATOR,428
+ACH-000163,SW579,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,429
+ACH-000181,SCC-9,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,430
+ACH-000188,SCC-25,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,431
+ACH-000207,Detroit 562,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,432
+ACH-000228,BICR 31,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,433
+ACH-000238,SCC-4,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,434
+ACH-000415,BICR 6,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,435
+ACH-000472,HSC-2,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,436
+ACH-000500,SNU-46,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,437
+ACH-000503,BICR 16,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,438
+ACH-000518,CAL-33,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,439
+ACH-000546,HSC-4,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,440
+ACH-000548,BHY,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,441
+ACH-000549,SNU-1076,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,442
+ACH-000606,PE/CA-PJ34 (clone C12),Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,443
+ACH-000618,SNU-1041,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,444
+ACH-000619,PE/CA-PJ15,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,445
+ACH-000630,YD-8,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,446
+ACH-000682,SNU-1066,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,447
+ACH-000732,PE/CA-PJ41 (clone D2),Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,448
+ACH-000735,PE/CA-PJ49,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,449
+ACH-000740,A-253,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,450
+ACH-000762,YD-38,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,451
+ACH-000771,BICR 56,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,452
+ACH-000778,HSC-3,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,453
+ACH-000794,BICR 22,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,454
+ACH-000832,CAL 27,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,455
+ACH-000836,YD-15,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,456
+ACH-000846,FaDu,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,457
+ACH-001227,UPCI-SCC-090,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,458
+ACH-001228,UPCI-SCC-152,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,459
+ACH-001229,UPCI-SCC-154,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,460
+ACH-001331,BICR 10,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,461
+ACH-001332,BICR 78,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,462
+ACH-001346,H103,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,463
+ACH-001347,H157,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,464
+ACH-001385,RPMI 2650,"Head and Neck Carcinoma, Other",Head and Neck,PRIMARY_COMPARATOR,465
+ACH-001508,H314,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,466
+ACH-001509,H357,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,467
+ACH-001510,H376,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,468
+ACH-001511,H413,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,469
+ACH-001542,KON,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,470
+ACH-001543,KOSC-2,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,471
+ACH-001625,OSC-19,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,472
+ACH-001626,OSC-20,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,473
+ACH-001641,SAT,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,474
+ACH-001675,TR146,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,475
+ACH-001676,Ty-82,"Head and Neck Carcinoma, Other",Head and Neck,PRIMARY_COMPARATOR,476
+ACH-001690,UPCI-SCC-026,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,477
+ACH-001691,UPCI-SCC-029A,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,478
+ACH-001692,UPCI-SCC-040,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,479
+ACH-001694,UPCI-SCC-074,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,480
+ACH-001695,UPCI-SCC-099,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,481
+ACH-001696,UPCI-SCC-111,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,482
+ACH-001698,UPCI-SCC-116,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,483
+ACH-001699,UPCI-SCC-131,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,484
+ACH-001701,UPCI-SCC-200,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,485
+ACH-002029,SAS,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,486
+ACH-002030,Sa3,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,487
+ACH-002042,T3M-5,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,488
+ACH-002043,Ca9-22,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,489
+ACH-002044,HSQ-89,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,490
+ACH-002045,HO-1-u-1,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,491
+ACH-002212,BB30-HNC,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,492
+ACH-002234,DOK,"Head and Neck Carcinoma, Other",Head and Neck,PRIMARY_COMPARATOR,493
+ACH-002239,H3118,Salivary Carcinoma,Head and Neck,PRIMARY_COMPARATOR,494
+ACH-002249,JHU-011,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,495
+ACH-002250,JHU-022,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,496
+ACH-002251,JHU-029,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,497
+ACH-002265,LB771-HNC,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,498
+ACH-002294,PCI-15A,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,499
+ACH-002295,PCI-30,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,500
+ACH-002296,PCI-38,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,501
+ACH-002297,PCI-4B,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,502
+ACH-002298,PCI-6A,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,503
+ACH-002305,SKN-3,Head and Neck Squamous Cell Carcinoma,Head and Neck,PRIMARY_COMPARATOR,504
+ACH-002711,UM-HACC-2A,Salivary Carcinoma,Head and Neck,PRIMARY_COMPARATOR,505
+ACH-000096,G-401,Rhabdoid Cancer,Kidney,PRIMARY_COMPARATOR,506
+ACH-000159,OS-RC-2,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,507
+ACH-000189,RCC10RGB,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,508
+ACH-000234,Caki-2,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,509
+ACH-000246,SLR 23,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,510
+ACH-000250,KMRC-20,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,511
+ACH-000262,UOK101,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,512
+ACH-000272,SLR 24,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,513
+ACH-000313,KMRC-3,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,514
+ACH-000317,TUHR14TKB,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,515
+ACH-000375,G-402,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,516
+ACH-000385,SK-RC-52,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,517
+ACH-000411,769-P,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,518
+ACH-000433,Caki-1,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,519
+ACH-000459,TUHR10TKB,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,520
+ACH-000484,VMRC-RCW,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,521
+ACH-000495,TUHR4TKB,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,522
+ACH-000533,NCI-H2004 RT,Rhabdoid Cancer,Kidney,PRIMARY_COMPARATOR,523
+ACH-000649,786-O,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,524
+ACH-000684,KMRC-1,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,525
+ACH-000709,KMRC-2,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,526
+ACH-000792,BFTC-909,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,527
+ACH-000907,SNU-349,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,528
+ACH-001163,CCLF_PEDS_0001_T,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,529
+ACH-001194,SK-RC-31,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,530
+ACH-001310,HA1E,Non-Cancerous,Kidney,EXCLUDED_NON_CANCEROUS,531
+ACH-001398,SW 156,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,532
+ACH-001532,JMU-RTK-2,Rhabdoid Cancer,Kidney,PRIMARY_COMPARATOR,533
+ACH-001687,UM-RC-3,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,534
+ACH-001688,UM-RC-7,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,535
+ACH-002150,LB1047-RCC,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,536
+ACH-002189,RCC-FG2,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,537
+ACH-002528,SNU-267,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,538
+ACH-002533,SNU-482,Renal Cell Carcinoma,Kidney,PRIMARY_COMPARATOR,539
+ACH-000217,JHH-6,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,540
+ACH-000221,SNU-398,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,541
+ACH-000316,SNU-886,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,542
+ACH-000361,SK-HEP-1,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,543
+ACH-000393,HLF,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,544
+ACH-000420,SNU-449,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,545
+ACH-000422,SNU-475,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,546
+ACH-000471,Li-7,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,547
+ACH-000475,huH-1,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,548
+ACH-000476,JHH-4,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,549
+ACH-000478,SNU-387,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,550
+ACH-000480,HuH-7,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,551
+ACH-000483,SNU-182,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,552
+ACH-000493,SNU-423,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,553
+ACH-000537,SNU-761,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,554
+ACH-000577,JHH-2,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,555
+ACH-000620,JHH-1,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,556
+ACH-000671,HuH-6,Hepatoblastoma,Liver,PRIMARY_COMPARATOR,557
+ACH-000734,JHH-5,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,558
+ACH-000739,Hep G2,Hepatoblastoma,Liver,PRIMARY_COMPARATOR,559
+ACH-000848,JHH-7,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,560
+ACH-001318,PLC/PRF/5,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,561
+ACH-001853,KMCH-1,Hepatocellular Carcinoma plus Intrahepatic Cholangiocarcinoma,Liver,PRIMARY_COMPARATOR,562
+ACH-002523,SNU-739,Hepatocellular Carcinoma,Liver,PRIMARY_COMPARATOR,563
+ACH-000012,HCC-827,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,564
+ACH-000015,NCI-H1581,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,565
+ACH-000021,NCI-H1693,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,566
+ACH-000029,HCC-827-GR5,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,567
+ACH-000030,PC-14,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,568
+ACH-000035,NCI-H1650,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,569
+ACH-000143,HCC2429,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,570
+ACH-000161,COR-L105,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,571
+ACH-000176,LOU-NH91,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,572
+ACH-000187,COR-L311,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,573
+ACH-000251,NCI-H2887,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,574
+ACH-000257,COR-L279,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,575
+ACH-000261,RERF-LC-AI,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,576
+ACH-000264,Calu-6,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,577
+ACH-000290,NCI-H209,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,578
+ACH-000292,NCI-H841,SMARCA4-deficient undifferentiated tumor,Lung,PRIMARY_COMPARATOR,579
+ACH-000311,NCI-H2122,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,580
+ACH-000337,NCI-H3122,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,581
+ACH-000339,HCC-461,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,582
+ACH-000343,NCI-H522,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,583
+ACH-000355,NCI-H82,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,584
+ACH-000378,NCI-H647,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,585
+ACH-000390,LUDLU-1,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,586
+ACH-000395,NCI-H520,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,587
+ACH-000414,NCI-H1944,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,588
+ACH-000416,NCI-H838,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,589
+ACH-000431,NCI-H1694,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,590
+ACH-000434,NCI-H1915,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,591
+ACH-000438,Lu-65,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,592
+ACH-000442,RERF-LC-Sq1,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,593
+ACH-000444,LU99,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,594
+ACH-000448,NCI-H1666,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,595
+ACH-000454,HCC-95,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,596
+ACH-000463,NCI-H460,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,597
+ACH-000481,NCI-H2170,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,598
+ACH-000496,NCI-H1792,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,599
+ACH-000510,NCI-H1299,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,600
+ACH-000511,Calu-1,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,601
+ACH-000514,NCI-H1092,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,602
+ACH-000515,HCC-33,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,603
+ACH-000521,NCI-H2030,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,604
+ACH-000525,NCI-H2171,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,605
+ACH-000528,ABC-1,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,606
+ACH-000559,NCI-H1836,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,607
+ACH-000562,HCC-78,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,608
+ACH-000563,EBC-1,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,609
+ACH-000585,EPLC-272H,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,610
+ACH-000587,NCI-H1975,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,611
+ACH-000589,NCI-H1437,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,612
+ACH-000596,LCLC-97TM1,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,613
+ACH-000627,LCLC-103H,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,614
+ACH-000638,NCI-H441,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,615
+ACH-000639,NCI-H211,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,616
+ACH-000662,COR-L23,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,617
+ACH-000665,SK-MES-1,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,618
+ACH-000666,NCI-H1355,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,619
+ACH-000667,HCC-44,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,620
+ACH-000672,IA-LM,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,621
+ACH-000677,SW 1573,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,622
+ACH-000681,A549,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,623
+ACH-000695,COR-L47,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,624
+ACH-000698,DMS 53,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,625
+ACH-000700,NCI-H2882,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,626
+ACH-000706,EKVX,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,627
+ACH-000718,NCI-H2291,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,628
+ACH-000747,NCI-H1703,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,629
+ACH-000749,DMS 273,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,630
+ACH-000757,A427,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,631
+ACH-000766,NCI-H1648,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,632
+ACH-000767,NCI-H526,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,633
+ACH-000769,LK-2,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,634
+ACH-000774,RERF-LC-Ad2,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,635
+ACH-000775,NCI-H727,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,636
+ACH-000781,NCI-H2023,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,637
+ACH-000785,NCI-H2126,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,638
+ACH-000787,LXF-289,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,639
+ACH-000790,SHP-77,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,640
+ACH-000791,RERF-LC-Ad1,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,641
+ACH-000800,NCI-H446,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,642
+ACH-000826,CAL-12T,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,643
+ACH-000837,NCI-H322,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,644
+ACH-000840,HCC-366,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,645
+ACH-000841,NCI-H2087,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,646
+ACH-000843,HARA,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,647
+ACH-000845,NCI-H1373,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,648
+ACH-000851,MOR/CPR,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,649
+ACH-000853,NCI-H661,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,650
+ACH-000858,KNS-62,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,651
+ACH-000860,NCI-H358,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,652
+ACH-000861,HOP-62,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,653
+ACH-000866,NCI-H1048,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,654
+ACH-000867,ChaGo-K-1,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,655
+ACH-000869,NCI-H1568,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,656
+ACH-000871,NCI-H510,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,657
+ACH-000872,HCC515,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,658
+ACH-000878,HCC-15,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,659
+ACH-000886,NCI-H2009,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,660
+ACH-000888,NCI-H1793,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,661
+ACH-000890,SW 1271,SMARCA4-deficient undifferentiated tumor,Lung,PRIMARY_COMPARATOR,662
+ACH-000894,NCI-H1869,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,663
+ACH-000900,NCI-H23,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,664
+ACH-000901,HCC-1359,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,665
+ACH-000912,NCI-H2286,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,666
+ACH-000916,NCI-H1573,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,667
+ACH-000921,NCI-H157-DM,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,668
+ACH-000924,NCI-H2172,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,669
+ACH-000929,NCI-H2110,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,670
+ACH-000945,NCI-H650,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,671
+ACH-000975,HCC2450,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,672
+ACH-000980,NCI-H1155,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,673
+ACH-001075,NCI-H292,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,674
+ACH-001137,NCI-H1993,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,675
+ACH-001233,VMRC-LCD,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,676
+ACH-001386,SCLC-22H,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,677
+ACH-001549,Lu-135,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,678
+ACH-002035,LCAM1,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,679
+ACH-002051,Lu-134-A,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,680
+ACH-002052,Lu-139,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,681
+ACH-002077,Lu-165,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,682
+ACH-002156,LC-1-sq,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,683
+ACH-002490,NCI-H1882,Lung Neuroendocrine Tumor,Lung,PRIMARY_COMPARATOR,684
+ACH-002522,SNU-2292,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,685
+ACH-002526,SNU-1327,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,686
+ACH-002531,SNU-2535,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,687
+ACH-002650,ETCC-016,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,688
+ACH-003012,A549_CRAF_KD,Non-Small Cell Lung Cancer,Lung,PRIMARY_COMPARATOR,689
+ACH-000024,OPM-2,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,690
+ACH-000053,KARPAS-299,Mature T and NK Neoplasms,Lymphoid,PRIMARY_COMPARATOR,691
+ACH-000070,697,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,692
+ACH-000077,MJ,Non-Hodgkin Lymphoma,Lymphoid,PRIMARY_COMPARATOR,693
+ACH-000101,KE-37,Mature T and NK Neoplasms,Lymphoid,PRIMARY_COMPARATOR,694
+ACH-000106,JVM-2,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,695
+ACH-000124,OCI-LY-19,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,696
+ACH-000151,JM1,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,697
+ACH-000167,KE-97,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,698
+ACH-000183,L-363,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,699
+ACH-000204,LP-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,700
+ACH-000206,C8166,T-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,701
+ACH-000226,SUP-M2,Mature T and NK Neoplasms,Lymphoid,PRIMARY_COMPARATOR,702
+ACH-000233,DEL,Mature T and NK Neoplasms,Lymphoid,PRIMARY_COMPARATOR,703
+ACH-000271,SU-DHL-10,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,704
+ACH-000315,KARPAS-422,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,705
+ACH-000334,DB,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,706
+ACH-000338,SR-786,Mature T and NK Neoplasms,Lymphoid,PRIMARY_COMPARATOR,707
+ACH-000346,JVM-3,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,708
+ACH-000363,SK-MM-2,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,709
+ACH-000365,SU-DHL-4,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,710
+ACH-000371,RL,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,711
+ACH-000398,RI-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,712
+ACH-000402,BL-70,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,713
+ACH-000405,MEC-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,714
+ACH-000426,KMS-20,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,715
+ACH-000436,OCI-My7,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,716
+ACH-000512,INA6,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,717
+ACH-000519,PEER,T-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,718
+ACH-000541,KMS-34,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,719
+ACH-000567,ST486,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,720
+ACH-000576,KMS-27,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,721
+ACH-000583,MC116,Non-Hodgkin Lymphoma,Lymphoid,PRIMARY_COMPARATOR,722
+ACH-000588,KMS-26,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,723
+ACH-000653,JJN-3,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,724
+ACH-000654,Raji,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,725
+ACH-000656,SU-DHL-8,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,726
+ACH-000660,SU-DHL-5,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,727
+ACH-000664,SU-DHL-1,Mature T and NK Neoplasms,Lymphoid,PRIMARY_COMPARATOR,728
+ACH-000697,A3/KAW,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,729
+ACH-000702,L-1236,Hodgkin Lymphoma,Lymphoid,PRIMARY_COMPARATOR,730
+ACH-000714,KMS-11,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,731
+ACH-000754,L-428,Hodgkin Lymphoma,Lymphoid,PRIMARY_COMPARATOR,732
+ACH-000763,MM1-S,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,733
+ACH-000773,Ki-JK,Mature T and NK Neoplasms,Lymphoid,PRIMARY_COMPARATOR,734
+ACH-000782,SEM,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,735
+ACH-000817,RPMI 8226,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,736
+ACH-000821,EJM,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,737
+ACH-000829,HuNS1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,738
+ACH-000838,AMO-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,739
+ACH-000889,KMM-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,740
+ACH-000914,HT,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,741
+ACH-000922,RCH-ACV,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,742
+ACH-000937,PF-382,T-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,743
+ACH-000938,NALM-6,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,744
+ACH-000944,NAMALWA,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,745
+ACH-000953,SUP-T1,T-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,746
+ACH-000960,Reh,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,747
+ACH-000995,JURKAT,T-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,748
+ACH-001111,L82,Mature T and NK Neoplasms,Lymphoid,PRIMARY_COMPARATOR,749
+ACH-001119,Mac-2A,Mature T and NK Neoplasms,Lymphoid,PRIMARY_COMPARATOR,750
+ACH-001134,MYLA,T-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,751
+ACH-001197,SMZ-1,Non-Hodgkin Lymphoma,Lymphoid,PRIMARY_COMPARATOR,752
+ACH-001450,BLUE-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,753
+ACH-001484,CI,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,754
+ACH-001498,Farage,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,755
+ACH-001520,HG-3,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,756
+ACH-001533,KARPAS 1718,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,757
+ACH-001539,KML-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,758
+ACH-001616,OCI-LY18,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,759
+ACH-001634,PGA-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,760
+ACH-001639,ROS-50,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,761
+ACH-001642,SCC-3,Non-Hodgkin Lymphoma,Lymphoid,PRIMARY_COMPARATOR,762
+ACH-001669,TANOUE,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,763
+ACH-001677,U-2904,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,764
+ACH-001685,U-HO1,Hodgkin Lymphoma,Lymphoid,PRIMARY_COMPARATOR,765
+ACH-001707,WA-OSEL,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,766
+ACH-001709,WSU-NHL,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,767
+ACH-001735,SEMK2,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,768
+ACH-001736,HB1119,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,769
+ACH-001737,CTV-1-DM,Mature T and NK Neoplasms,Lymphoid,PRIMARY_COMPARATOR,770
+ACH-001993,NALM-16,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,771
+ACH-002055,TL-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,772
+ACH-002059,P30/OHK,B-Lymphoblastic Leukemia/Lymphoma,Lymphoid,PRIMARY_COMPARATOR,773
+ACH-002062,SLVL,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,774
+ACH-002214,BC-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,775
+ACH-002215,BC-3,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,776
+ACH-002478,BC-2,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,777
+ACH-002485,MAVER-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,778
+ACH-002500,Z-138,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,779
+ACH-002677,U-2946,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,780
+ACH-002678,WILL-1,Mature B-Cell Neoplasms,Lymphoid,PRIMARY_COMPARATOR,781
+ACH-000004,HEL,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,782
+ACH-000005,"HEL 92,1,7",Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,783
+ACH-000045,MV4-11,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,784
+ACH-000074,KU812,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,785
+ACH-000076,NCO2,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,786
+ACH-000113,OCI-AML2,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,787
+ACH-000146,THP-1,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,788
+ACH-000168,NOMO-1,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,789
+ACH-000190,HD-MY-Z,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,790
+ACH-000195,Set-2,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,791
+ACH-000198,EOL-1,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,792
+ACH-000263,KASUMI-1,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,793
+ACH-000294,NB-4,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,794
+ACH-000295,EM-2,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,795
+ACH-000326,JURL-MK1,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,796
+ACH-000336,OCI-AML3,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,797
+ACH-000362,MOLM-13,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,798
+ACH-000373,SKM-1,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,799
+ACH-000387,TF-1,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,800
+ACH-000406,U-937,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,801
+ACH-000487,F-36P,Myelodysplastic Syndromes,Myeloid,PRIMARY_COMPARATOR,802
+ACH-000498,KO52,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,803
+ACH-000551,K-562,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,804
+ACH-000557,AML-193,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,805
+ACH-000602,M-07e,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,806
+ACH-000604,KYO-1,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,807
+ACH-000770,P31/FUJ,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,808
+ACH-000920,CML-T1,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,809
+ACH-000983,KCL-22,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,810
+ACH-001036,CMK-11-5,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,811
+ACH-001129,MONO-MAC-1,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,812
+ACH-001574,MOLM-14,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,813
+ACH-001577,MUTZ-8,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,814
+ACH-001613,OCI-AML4,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,815
+ACH-001618,OCI-M2,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,816
+ACH-001647,SHI-1,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,817
+ACH-001656,SKNO-1,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,818
+ACH-002061,P2UR/K-562,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,819
+ACH-002210,ARH-77,Non-Cancerous,Myeloid,EXCLUDED_NON_CANCEROUS,820
+ACH-002247,IM-9,Non-Cancerous,Myeloid,EXCLUDED_NON_CANCEROUS,821
+ACH-002475,HAP1,Myeloproliferative Neoplasms,Myeloid,PRIMARY_COMPARATOR,822
+ACH-002709,CMS,Acute Myeloid Leukemia,Myeloid,PRIMARY_COMPARATOR,823
+ACH-000001,NIH:OVCAR-3,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,824
+ACH-000013,ONCO-DG-1,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,825
+ACH-000048,TOV-112D,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,826
+ACH-000103,Caov-4,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,827
+ACH-000116,OAW28,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,828
+ACH-000123,COV434,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,829
+ACH-000132,JHOS-2,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,830
+ACH-000237,JHOM-1,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,831
+ACH-000256,COV318,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,832
+ACH-000278,COV362,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,833
+ACH-000280,SNU-840,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,834
+ACH-000291,OV-90,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,835
+ACH-000308,EFO-21,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,836
+ACH-000324,JHOC-5,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,837
+ACH-000430,TYK-nu,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,838
+ACH-000460,SNU-8,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,839
+ACH-000520,59M,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,840
+ACH-000524,KURAMOCHI,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,841
+ACH-000527,OVISE,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,842
+ACH-000542,Hey-A8,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,843
+ACH-000584,JHOS-4,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,844
+ACH-000608,COV644,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,845
+ACH-000646,OVMANA,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,846
+ACH-000657,A2780,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,847
+ACH-000663,OVTOKO,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,848
+ACH-000688,OV7,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,849
+ACH-000696,OVCAR-8,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,850
+ACH-000701,RMUG-S,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,851
+ACH-000704,OAW42,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,852
+ACH-000713,Caov-3,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,853
+ACH-000719,RMG-I,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,854
+ACH-000796,MCAS,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,855
+ACH-000811,SK-OV-3,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,856
+ACH-000885,TOV-21G,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,857
+ACH-000906,ES-2,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,858
+ACH-000936,EFO-27,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,859
+ACH-000947,OVK18,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,860
+ACH-000962,OC 314,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,861
+ACH-000966,IGROV1,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,862
+ACH-001048,COV504,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,863
+ACH-001145,OC 316,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,864
+ACH-001151,OVCAR-5,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,865
+ACH-001278,BIN-67,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,866
+ACH-001279,SCCOHT-1,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,867
+ACH-001340,COV413A,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,868
+ACH-001370,OCI-P5x,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,869
+ACH-001374,PA-1 [PA1],Ovarian Germ Cell Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,870
+ACH-001403,TO14,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,871
+ACH-001418,"UWB1,289",Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,872
+ACH-001628,PEA1,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,873
+ACH-001630,PEO1,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,874
+ACH-001632,PEO4,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,875
+ACH-001719,OCI-C4P,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,876
+ACH-001991,NZOV9,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,877
+ACH-002140,Hey,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,878
+ACH-002181,OVCA420,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,879
+ACH-002183,OVMIU,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,880
+ACH-002486,MES-OV,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,881
+ACH-002524,SNU-251,Ovarian Epithelial Tumor,Ovary/Fallopian Tube,PRIMARY_COMPARATOR,882
+ACH-000022,PA-TU-8988S,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,883
+ACH-000023,PA-TU-8988T,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,884
+ACH-000042,"Panc 02,03",Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,885
+ACH-000060,"Panc 10,05",Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,886
+ACH-000085,T3M-4,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,887
+ACH-000093,"Panc 05,04",Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,888
+ACH-000094,HPAF-II,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,889
+ACH-000108,KP-3,Adenosquamous Carcinoma of the Pancreas,Pancreas,PRIMARY_COMPARATOR,890
+ACH-000114,"SU,86,86",Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,891
+ACH-000118,HUP-T3,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,892
+ACH-000138,CFPAC-1,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,893
+ACH-000139,"Panc 03,27",Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,894
+ACH-000155,SW 1990,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,895
+ACH-000164,PANC-1,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,896
+ACH-000178,Hs 766T,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,897
+ACH-000213,HUP-T4,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,898
+ACH-000222,AsPC-1,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,899
+ACH-000235,"Panc 04,03",Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,900
+ACH-000243,DAN-G,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,901
+ACH-000265,KP-4,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,902
+ACH-000266,SNU-213,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,903
+ACH-000281,KP-2,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,904
+ACH-000307,PK-1,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,905
+ACH-000320,PSN1,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,906
+ACH-000332,YAPC,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,907
+ACH-000354,Capan-1,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,908
+ACH-000417,"Panc 08,13",Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,909
+ACH-000468,PK-45H,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,910
+ACH-000502,TCC-PAN2,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,911
+ACH-000517,SNU-410,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,912
+ACH-000535,BxPC-3,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,913
+ACH-000599,PA-TU-8902,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,914
+ACH-000601,MIA PaCa-2,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,915
+ACH-000652,SUIT-2,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,916
+ACH-000685,"L3,3",Adenosquamous Carcinoma of the Pancreas,Pancreas,PRIMARY_COMPARATOR,917
+ACH-001098,KCI-MOH1,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,918
+ACH-001107,KP-1N,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,919
+ACH-001353,JOPACA-1,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,920
+ACH-001375,PACADD-119,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,921
+ACH-001377,PACADD-137,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,922
+ACH-001379,PACADD-161,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,923
+ACH-001380,PACADD-165,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,924
+ACH-001382,PACADD-188,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,925
+ACH-001999,950-5-BIK,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,926
+ACH-002039,PK-8,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,927
+ACH-002186,PL4,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,928
+ACH-002672,MAPAC-HS-77,Pancreatic Adenocarcinoma,Pancreas,PRIMARY_COMPARATOR,929
+ACH-000078,MHH-NB-11,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,930
+ACH-000099,SIMA,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,931
+ACH-000120,CHP-212,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,932
+ACH-000149,SK-N-SH,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,933
+ACH-000203,NH-6,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,934
+ACH-000227,KP-N-YN,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,935
+ACH-000259,KELLY,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,936
+ACH-000260,SK-N-AS,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,937
+ACH-000310,IMR-32,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,938
+ACH-000312,SK-N-BE(2),Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,939
+ACH-000341,SK-N-FI,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,940
+ACH-000345,KP-N-RT-BM-1,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,941
+ACH-000366,SK-N-DZ,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,942
+ACH-000446,KP-N-SI9s,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,943
+ACH-000804,NB-1,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,944
+ACH-001188,SH-SY5Y,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,945
+ACH-001300,CHLA-15,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,946
+ACH-001301,COG-N-278,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,947
+ACH-001302,COG-N-305,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,948
+ACH-001303,NB-1643,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,949
+ACH-001338,CHP-134,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,950
+ACH-001344,GI-ME-N,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,951
+ACH-001354,LAN-2,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,952
+ACH-001366,NGP,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,953
+ACH-001367,NMB,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,954
+ACH-001481,CHLA-90,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,955
+ACH-001548,LS,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,956
+ACH-001603,NH-12,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,957
+ACH-001674,TGW,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,958
+ACH-002066,HS-Sch-2,Nerve Sheath Tumor,Peripheral Nervous System,PRIMARY_COMPARATOR,959
+ACH-002080,TN-2,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,960
+ACH-002083,NB69,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,961
+ACH-002261,KP-N-YS,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,962
+ACH-002278,NB10,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,963
+ACH-002280,NB13,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,964
+ACH-002282,NB17,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,965
+ACH-002283,NB5,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,966
+ACH-002284,NB6,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,967
+ACH-002285,NB7,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,968
+ACH-002693,S462,Nerve Sheath Tumor,Peripheral Nervous System,PRIMARY_COMPARATOR,969
+ACH-002710,MPNST-724,Nerve Sheath Tumor,Peripheral Nervous System,PRIMARY_COMPARATOR,970
+ACH-002799,NCC-MPNST1-C1,Nerve Sheath Tumor,Peripheral Nervous System,PRIMARY_COMPARATOR,971
+ACH-002800,NCC-MPNST2-C1,Nerve Sheath Tumor,Peripheral Nervous System,PRIMARY_COMPARATOR,972
+ACH-002922,SK-N-MM,Neuroblastoma,Peripheral Nervous System,PRIMARY_COMPARATOR,973
+ACH-000086,ACC-MESO-1,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,974
+ACH-000092,NCI-H2452,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,975
+ACH-000153,NCI-H2052,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,976
+ACH-000319,MPP 89,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,977
+ACH-000331,IST-MES2,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,978
+ACH-000335,MSTO-211H,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,979
+ACH-000367,NCI-H226,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,980
+ACH-000569,IST-MES1,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,981
+ACH-000645,JL-1,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,982
+ACH-000648,NCI-H28,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,983
+ACH-001547,LO68,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,984
+ACH-001555,Mero-14,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,985
+ACH-001556,Mero-25,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,986
+ACH-001557,Mero-41,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,987
+ACH-001558,Mero-48a,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,988
+ACH-001559,Mero-82,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,989
+ACH-001560,Mero-83,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,990
+ACH-001562,Mero-95,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,991
+ACH-001977,NO36,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,992
+ACH-001992,ONE58,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,993
+ACH-002033,HMMME,Pleural Mesothelioma,Pleura,PRIMARY_COMPARATOR,994
+ACH-000090,PC-3,Prostate Adenocarcinoma,Prostate,PRIMARY_COMPARATOR,995
+ACH-000115,VCaP,Prostate Adenocarcinoma,Prostate,PRIMARY_COMPARATOR,996
+ACH-000956,22Rv1,Prostate Adenocarcinoma,Prostate,PRIMARY_COMPARATOR,997
+ACH-000977,LNCaP clone FGC,Prostate Adenocarcinoma,Prostate,PRIMARY_COMPARATOR,998
+ACH-000979,DU 145,Prostate Adenocarcinoma,Prostate,PRIMARY_COMPARATOR,999
+ACH-000014,Hs 294T,Melanoma,Skin,PRIMARY_COMPARATOR,1000
+ACH-000219,A-375,Melanoma,Skin,PRIMARY_COMPARATOR,1001
+ACH-000274,"Hs 852,T",Melanoma,Skin,PRIMARY_COMPARATOR,1002
+ACH-000304,WM-115,Melanoma,Skin,PRIMARY_COMPARATOR,1003
+ACH-000322,HT-144,Melanoma,Skin,PRIMARY_COMPARATOR,1004
+ACH-000348,RPMI-7951,Melanoma,Skin,PRIMARY_COMPARATOR,1005
+ACH-000401,COLO-800,Melanoma,Skin,PRIMARY_COMPARATOR,1006
+ACH-000404,K029AX,Melanoma,Skin,PRIMARY_COMPARATOR,1007
+ACH-000425,UACC-62,Melanoma,Skin,PRIMARY_COMPARATOR,1008
+ACH-000441,SH-4,Melanoma,Skin,PRIMARY_COMPARATOR,1009
+ACH-000450,MEL-HO,Melanoma,Skin,PRIMARY_COMPARATOR,1010
+ACH-000458,CJM,Melanoma,Skin,PRIMARY_COMPARATOR,1011
+ACH-000477,Malme-3M,Melanoma,Skin,PRIMARY_COMPARATOR,1012
+ACH-000550,IGR-39,Melanoma,Skin,PRIMARY_COMPARATOR,1013
+ACH-000579,UACC-257,Melanoma,Skin,PRIMARY_COMPARATOR,1014
+ACH-000580,C32,Melanoma,Skin,PRIMARY_COMPARATOR,1015
+ACH-000614,RVH-421,Melanoma,Skin,PRIMARY_COMPARATOR,1016
+ACH-000632,"Hs 944,T",Melanoma,Skin,PRIMARY_COMPARATOR,1017
+ACH-000661,WM1799,Melanoma,Skin,PRIMARY_COMPARATOR,1018
+ACH-000765,WM983B,Melanoma,Skin,PRIMARY_COMPARATOR,1019
+ACH-000788,A2058,Melanoma,Skin,PRIMARY_COMPARATOR,1020
+ACH-000799,Hs 695T,Melanoma,Skin,PRIMARY_COMPARATOR,1021
+ACH-000801,"Hs 936,T",Melanoma,Skin,PRIMARY_COMPARATOR,1022
+ACH-000805,COLO-679,Melanoma,Skin,PRIMARY_COMPARATOR,1023
+ACH-000810,SK-MEL-30,Melanoma,Skin,PRIMARY_COMPARATOR,1024
+ACH-000822,SK-MEL-24,Melanoma,Skin,PRIMARY_COMPARATOR,1025
+ACH-000827,WM793,Melanoma,Skin,PRIMARY_COMPARATOR,1026
+ACH-000881,MEL-JUSO,Melanoma,Skin,PRIMARY_COMPARATOR,1027
+ACH-000882,IGR-1,Melanoma,Skin,PRIMARY_COMPARATOR,1028
+ACH-000884,MDA-MB-435S,Melanoma,Skin,PRIMARY_COMPARATOR,1029
+ACH-000899,WM88,Melanoma,Skin,PRIMARY_COMPARATOR,1030
+ACH-000915,IPC-298,Melanoma,Skin,PRIMARY_COMPARATOR,1031
+ACH-000968,COLO 792,Melanoma,Skin,PRIMARY_COMPARATOR,1032
+ACH-001041,CHL-1-DM,Melanoma,Skin,PRIMARY_COMPARATOR,1033
+ACH-001190,SK-MEL-2,Melanoma,Skin,PRIMARY_COMPARATOR,1034
+ACH-001239,WM-266-4,Melanoma,Skin,PRIMARY_COMPARATOR,1035
+ACH-001328,A-431,Cutaneous Squamous Cell Carcinoma,Skin,PRIMARY_COMPARATOR,1036
+ACH-001442,A388,Cutaneous Squamous Cell Carcinoma,Skin,PRIMARY_COMPARATOR,1037
+ACH-001521,HKA-1,Cutaneous Squamous Cell Carcinoma,Skin,PRIMARY_COMPARATOR,1038
+ACH-001522,HMY-1,Melanoma,Skin,PRIMARY_COMPARATOR,1039
+ACH-001523,HSC-1,Cutaneous Squamous Cell Carcinoma,Skin,PRIMARY_COMPARATOR,1040
+ACH-001524,HSC-5,Cutaneous Squamous Cell Carcinoma,Skin,PRIMARY_COMPARATOR,1041
+ACH-001550,MCC13,Merkel Cell Carcinoma,Skin,PRIMARY_COMPARATOR,1042
+ACH-001551,MCC14/2,Merkel Cell Carcinoma,Skin,PRIMARY_COMPARATOR,1043
+ACH-001552,MCC26,Merkel Cell Carcinoma,Skin,PRIMARY_COMPARATOR,1044
+ACH-001563,MM127,Melanoma,Skin,PRIMARY_COMPARATOR,1045
+ACH-001566,MM370,Melanoma,Skin,PRIMARY_COMPARATOR,1046
+ACH-001567,MM383,Melanoma,Skin,PRIMARY_COMPARATOR,1047
+ACH-001568,MM386,Melanoma,Skin,PRIMARY_COMPARATOR,1048
+ACH-001570,MM426,Melanoma,Skin,PRIMARY_COMPARATOR,1049
+ACH-001645,SEKI,Melanoma,Skin,PRIMARY_COMPARATOR,1050
+ACH-001970,MM253,Melanoma,Skin,PRIMARY_COMPARATOR,1051
+ACH-001972,MM473,Melanoma,Skin,PRIMARY_COMPARATOR,1052
+ACH-001973,MM485,Melanoma,Skin,PRIMARY_COMPARATOR,1053
+ACH-001975,MM576,Melanoma,Skin,PRIMARY_COMPARATOR,1054
+ACH-001982,NZM3,Melanoma,Skin,PRIMARY_COMPARATOR,1055
+ACH-001986,NZM42,Melanoma,Skin,PRIMARY_COMPARATOR,1056
+ACH-001990,NZM7,Melanoma,Skin,PRIMARY_COMPARATOR,1057
+ACH-002001,A375 SKIN CJ1,Melanoma,Skin,PRIMARY_COMPARATOR,1058
+ACH-002002,A375 SKIN CJ2,Melanoma,Skin,PRIMARY_COMPARATOR,1059
+ACH-002003,A375 SKIN CJ3,Melanoma,Skin,PRIMARY_COMPARATOR,1060
+ACH-002004,UACC62 SKIN CJ1,Melanoma,Skin,PRIMARY_COMPARATOR,1061
+ACH-002005,SK-MEL-19,Melanoma,Skin,PRIMARY_COMPARATOR,1062
+ACH-002084,MMAc,Melanoma,Skin,PRIMARY_COMPARATOR,1063
+ACH-002143,IST-MEL1,Melanoma,Skin,PRIMARY_COMPARATOR,1064
+ACH-002458,HT144 SKIN FV1,Melanoma,Skin,PRIMARY_COMPARATOR,1065
+ACH-002460,HT144 SKIN FV2,Melanoma,Skin,PRIMARY_COMPARATOR,1066
+ACH-002461,RVH421 SKIN FV1,Melanoma,Skin,PRIMARY_COMPARATOR,1067
+ACH-002508,WM3211,Melanoma,Skin,PRIMARY_COMPARATOR,1068
+ACH-002510,M040416,Melanoma,Skin,PRIMARY_COMPARATOR,1069
+ACH-002511,M140325,Melanoma,Skin,PRIMARY_COMPARATOR,1070
+ACH-002512,MM160113,Melanoma,Skin,PRIMARY_COMPARATOR,1071
+ACH-002847,YUHOIN,Melanoma,Skin,PRIMARY_COMPARATOR,1072
+ACH-002928,MM100511,Melanoma,Skin,PRIMARY_COMPARATOR,1073
+ACH-000037,S-117,"Sarcoma, NOS",Soft Tissue,PRIMARY_COMPARATOR,1074
+ACH-000054,HT-1080,Fibrosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1075
+ACH-000100,RH-41,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1076
+ACH-000145,SK-LMS-1,Leiomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1077
+ACH-000169,RD,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1078
+ACH-000172,TM-87,Rhabdoid Cancer,Soft Tissue,PRIMARY_COMPARATOR,1079
+ACH-000505,RKN,Leiomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1080
+ACH-000597,TTC-709,Rhabdoid Cancer,Soft Tissue,PRIMARY_COMPARATOR,1081
+ACH-000607,KYM-1,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1082
+ACH-000833,RH-30,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1083
+ACH-000835,GCT,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1084
+ACH-001050,CW9019,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1085
+ACH-001096,JR,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1086
+ACH-001099,KD,Rhabdoid Cancer,Soft Tissue,PRIMARY_COMPARATOR,1087
+ACH-001128,MON,Rhabdoid Cancer,Soft Tissue,PRIMARY_COMPARATOR,1088
+ACH-001164,CCLF_PEDS_0003_T,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1089
+ACH-001184,SCMC-RM2,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1090
+ACH-001196,SMS-CTR,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1091
+ACH-001211,TTC-549,Rhabdoid Cancer,Soft Tissue,PRIMARY_COMPARATOR,1092
+ACH-001270,1273/99,Synovial Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1093
+ACH-001274,SW982,Synovial Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1094
+ACH-001277,Yamato,Synovial Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1095
+ACH-001280,SCS-214,Synovial Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1096
+ACH-001322,CME-1,Synovial Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1097
+ACH-001433,CCLF_PEDS_0008_T,Epithelioid Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1098
+ACH-001702,VA-ES-BJ,Epithelioid Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1099
+ACH-001740,RH28,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1100
+ACH-001745,RhJT,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1101
+ACH-001750,TTC442,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1102
+ACH-001765,Rh4,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1103
+ACH-001791,LPS6,Liposarcoma,Soft Tissue,PRIMARY_COMPARATOR,1104
+ACH-001793,LPS27,Liposarcoma,Soft Tissue,PRIMARY_COMPARATOR,1105
+ACH-001794,93T449,Liposarcoma,Soft Tissue,PRIMARY_COMPARATOR,1106
+ACH-001795,94T778,Liposarcoma,Soft Tissue,PRIMARY_COMPARATOR,1107
+ACH-001796,95T1000,Liposarcoma,Soft Tissue,PRIMARY_COMPARATOR,1108
+ACH-001799,LPS141,Liposarcoma,Soft Tissue,PRIMARY_COMPARATOR,1109
+ACH-001802,LPS853,Liposarcoma,Soft Tissue,PRIMARY_COMPARATOR,1110
+ACH-001804,LPS510,Liposarcoma,Soft Tissue,PRIMARY_COMPARATOR,1111
+ACH-002048,RMS-YM,Rhabdomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1112
+ACH-002782,NCC-UPS1-C1,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1113
+ACH-002784,NCC-UPS2-C1,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1114
+ACH-002785,NCC-LMS1-C1,Leiomyosarcoma,Soft Tissue,PRIMARY_COMPARATOR,1115
+ACH-002792,NCC-CCS1B-C1,Clear Cell Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1116
+ACH-003177,NRH-UPS1,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1117
+ACH-003180,NRH-UPS2,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Soft Tissue,PRIMARY_COMPARATOR,1118
+ACH-001436,1411H,Non-Seminomatous Germ Cell Tumor,Testis,PRIMARY_COMPARATOR,1119
+ACH-001502,GCT-27,Non-Seminomatous Germ Cell Tumor,Testis,PRIMARY_COMPARATOR,1120
+ACH-001578,NCCIT,Non-Seminomatous Germ Cell Tumor,Testis,PRIMARY_COMPARATOR,1121
+ACH-001668,SUSA,Non-Seminomatous Germ Cell Tumor,Testis,PRIMARY_COMPARATOR,1122
+ACH-002291,"NTERA-2 cl,D1",Non-Seminomatous Germ Cell Tumor,Testis,PRIMARY_COMPARATOR,1123
+ACH-000174,CAL-62,Anaplastic Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1124
+ACH-000191,BHT-101,Anaplastic Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1125
+ACH-000456,B-CPAP,Poorly Differentiated Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1126
+ACH-000716,TT2609-C02,Well-Differentiated Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1127
+ACH-000903,FTC-133,Well-Differentiated Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1128
+ACH-001306,8305C,Anaplastic Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1129
+ACH-001307,8505C,Anaplastic Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1130
+ACH-001356,MB-1,Anaplastic Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1131
+ACH-001443,ASH-3,Anaplastic Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1132
+ACH-001528,IHH-4,Well-Differentiated Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1133
+ACH-002041,HOTHC,Anaplastic Thyroid Cancer,Thyroid,PRIMARY_COMPARATOR,1134
+ACH-000192,MFE-280,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1135
+ACH-000293,KLE,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1136
+ACH-000302,SNU-1077,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1137
+ACH-000397,TEN,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1138
+ACH-000407,SNU-685,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1139
+ACH-000435,EFE-184,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1140
+ACH-000831,HEC-50B,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1141
+ACH-000864,COLO 684,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1142
+ACH-000879,MFE-296,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1143
+ACH-000913,ESS-1,Uterine Sarcoma/Mesenchymal,Uterus,PRIMARY_COMPARATOR,1144
+ACH-000928,JHUEM-1,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1145
+ACH-000939,SK-UT-1,Uterine Sarcoma/Mesenchymal,Uterus,PRIMARY_COMPARATOR,1146
+ACH-000941,HEC-1-B,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1147
+ACH-000946,HEC-265,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1148
+ACH-000961,Ishikawa (Heraklio) 02 ER-,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1149
+ACH-000965,RL95-2,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1150
+ACH-000972,HEC-151,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1151
+ACH-000974,SNG-M,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1152
+ACH-000978,EN,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1153
+ACH-000984,HEC-6,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1154
+ACH-000988,MFE-319,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1155
+ACH-000993,JHUEM-7,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1156
+ACH-000994,HEC-59,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1157
+ACH-000996,HEC-251,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1158
+ACH-001495,EMTOKA,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1159
+ACH-001517,HEC-1,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1160
+ACH-001518,HEC-116,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1161
+ACH-001529,JAR,Gestational Trophoblastic Disease,Uterus,PRIMARY_COMPARATOR,1162
+ACH-001530,JEG-3,Gestational Trophoblastic Disease,Uterus,PRIMARY_COMPARATOR,1163
+ACH-001655,SKN,Uterine Sarcoma/Mesenchymal,Uterus,PRIMARY_COMPARATOR,1164
+ACH-002021,T3M-3,Gestational Trophoblastic Disease,Uterus,PRIMARY_COMPARATOR,1165
+ACH-002026,HHUA,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1166
+ACH-002027,HOUA-I,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1167
+ACH-002046,HTMMT,Endometrial Carcinoma,Uterus,PRIMARY_COMPARATOR,1168
+ACH-001400,SW 954,Squamous Cell Carcinoma of the Vulva/Vagina,Vulva/Vagina,PRIMARY_COMPARATOR,1169
+ACH-002040,HMV-II,Mucosal Melanoma of the Vulva/Vagina,Vulva/Vagina,PRIMARY_COMPARATOR,1170

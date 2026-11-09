@@ -1,0 +1,16 @@
+{
+  "probabilities_within_0_1": true,
+  "rectangular_1620_by_1165": true,
+  "unique_model_ids": 1165,
+  "ignored_auxiliary_columns": [
+    4,
+    5
+  ],
+  "main_comparator_excludes_only_explicit_Non_Cancerous": true,
+  "raw_shared_entries_exact": 404750,
+  "bh_independent_check": "PASS",
+  "Wilson_Newcombe_independent_checks": "PASS",
+  "organoid_counts_all_1720_checked": "PASS",
+  "full_input_gene_order_preserved": true,
+  "version_inferred": false
+}

@@ -1,0 +1,18 @@
+COREAD reanalysis — 2026-10-03
+Source: Texto pegado(1).txt
+Models: 1165 total; 63 COREAD; 1099 other source-labelled cancer models; 3 explicitly Non-Cancerous.
+Gene universe: 1720. Exact matrix matches: 1620. Absent source rows: 100.
+Primary candidate rule: supplied dependency probability >0.5 in at least 2 distinct COREAD ModelIDs.
+Cell-line candidates: 335; high-probability (>0.9) candidates: 153.
+Related-model sensitivity: 323 survive all four representative choices of the two documented COREAD pairs.
+Primary Fisher/BH family: 1620 genes; 23 higher-frequency and 10 lower-frequency results at q<0.05.
+Per-lineage joint BH family: 38755 eligible tests over 24 comparator lineages.
+Balanced sensitivity: 1569 eligible genes; 10000 within-stratum column-resampling draws; 20 higher-FDR genes also have balanced lower CI>0.
+All-nonCOREAD sensitivity includes 1102 models. Higher-frequency q<0.05: 23.
+Integration: 1613 jointly evaluable genes; 193 candidate in both; 466 in observed union.
+Jointly measured categories: 193 both, 139 line-only, 130 organoid-only, 1151 neither.
+Candidates with unavailable data in other system: 3 line candidates, 1 organoid candidate.
+Cross-criterion Spearman rho: 0.475985553365; model-bootstrap 95% CI [0.44562034306724496, 0.5295843743952623].
+No cell-line Chronos values or a DepMap release were supplied; no source version or paired effects were inferred.
+FDR applies to group-frequency contrasts, not to the descriptive candidate sets.
+This output supersedes comparisons based on the earlier 250-model source.

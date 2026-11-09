@@ -1,0 +1,105 @@
+Taxon,Niche,HQ_niche_spots,HQ_positive_niche,HQ_positive_rest,HQ_OR_adjusted,HQ_P,Occupancy_model_status,HQ_FDR
+Fusobacterium,N1,496,0,128,,,Non-estimable: separation by niche indicator,
+Fusobacterium,N2,163,7,121,0.4648586828325224,0.1100681241634647,Estimable,0.8805449933077176
+Fusobacterium,N3,184,52,76,3.179834205620588,7.920625493743351e-05,Estimable,0.0041187252567465
+Fusobacterium,N4,318,13,115,0.1173958572000883,7.407531189142283e-05,Estimable,0.0041187252567465
+Fusobacterium,N5,200,28,100,1.132377244974929,0.7344092455658138,Estimable,1.0
+Fusobacterium,N6,190,0,128,,,Non-estimable: separation by niche indicator,
+Fusobacterium,N7,116,1,127,0.3783126916563514,0.3568113343250237,Estimable,1.0
+Fusobacterium,N8,37,10,118,1.4907205084283013,0.3747149433391341,Estimable,1.0
+Fusobacterium,N9,30,10,118,3.088608361343784,0.0279929990507277,Estimable,0.4158959858965258
+Fusobacterium,N10,20,3,125,1.036934397808458,0.9565410004099176,Estimable,1.0
+Fusobacterium,N11,99,0,128,,,Non-estimable: separation by niche indicator,
+Fusobacterium,N12,10,1,127,0.267645805874582,0.3118891390092719,Estimable,1.0
+Fusobacterium,N13,33,3,125,2.257114455610146,0.2392935625998058,Estimable,1.0
+Bacteroides,N1,496,0,55,,,Non-estimable: separation by niche indicator,
+Bacteroides,N2,163,3,52,0.6702543992608208,0.5998598772932666,Estimable,1.0
+Bacteroides,N3,184,25,30,2.9953639393654554,0.017500768604363,Estimable,0.3610779868871951
+Bacteroides,N4,318,12,43,1.122012940874793,0.8477748724649661,Estimable,1.0
+Bacteroides,N5,200,5,50,0.5165126695380642,0.3017672981310138,Estimable,1.0
+Bacteroides,N6,190,1,54,2.4561207926169457,0.466466590202383,Estimable,1.0
+Bacteroides,N7,116,0,55,,,Non-estimable: separation by niche indicator,
+Bacteroides,N8,37,4,51,1.5242990348352965,0.504319692375051,Estimable,1.0
+Bacteroides,N9,30,4,51,0.518132686739688,0.4099541435221211,Estimable,1.0
+Bacteroides,N10,20,0,55,,,Non-estimable: separation by niche indicator,
+Bacteroides,N11,99,0,55,,,Non-estimable: separation by niche indicator,
+Bacteroides,N12,10,1,54,0.7694969135010086,0.8678389618193552,Estimable,1.0
+Bacteroides,N13,33,0,55,,,Non-estimable: separation by niche indicator,
+Leptotrichia,N1,496,0,15,,,Non-estimable: separation by niche indicator,
+Leptotrichia,N2,163,3,12,11.84431423969516,0.0208314223204151,Estimable,0.3610779868871951
+Leptotrichia,N3,184,10,5,1.85257557465708,0.4554140382291948,Estimable,1.0
+Leptotrichia,N4,318,1,14,0.2049023134602942,0.4422522263192905,Estimable,1.0
+Leptotrichia,N5,200,0,15,,,Non-estimable: separation by niche indicator,
+Leptotrichia,N6,190,0,15,,,Non-estimable: separation by niche indicator,
+Leptotrichia,N7,116,0,15,,,Non-estimable: separation by niche indicator,
+Leptotrichia,N8,37,0,15,,,Non-estimable: separation by niche indicator,
+Leptotrichia,N9,30,1,14,0.4581517089387276,0.596430445072996,Estimable,1.0
+Leptotrichia,N10,20,0,15,,,Non-estimable: separation by niche indicator,
+Leptotrichia,N11,99,0,15,,,Non-estimable: separation by niche indicator,
+Leptotrichia,N12,10,0,15,,,Non-estimable: separation by niche indicator,
+Leptotrichia,N13,33,0,15,,,Non-estimable: separation by niche indicator,
+Gemella,N1,496,0,37,,,Non-estimable: separation by niche indicator,
+Gemella,N2,163,1,36,0.2464043361716585,0.2027909791081501,Estimable,1.0
+Gemella,N3,184,14,23,1.198540492779662,0.7144280352361749,Estimable,1.0
+Gemella,N4,318,11,26,3.623286604388117,0.0630689157176027,Estimable,0.818112758517199
+Gemella,N5,200,5,32,1.0439595062717584,0.950952015481516,Estimable,1.0
+Gemella,N6,190,0,37,,,Non-estimable: separation by niche indicator,
+Gemella,N7,116,0,37,,,Non-estimable: separation by niche indicator,
+Gemella,N8,37,3,34,1.610599747329792,0.4969231714489727,Estimable,1.0
+Gemella,N9,30,3,34,1.4125657576941957,0.6675631699750568,Estimable,1.0
+Gemella,N10,20,0,37,,,Non-estimable: separation by niche indicator,
+Gemella,N11,99,0,37,,,Non-estimable: separation by niche indicator,
+Gemella,N12,10,0,37,,,Non-estimable: separation by niche indicator,
+Gemella,N13,33,0,37,,,Non-estimable: separation by niche indicator,
+Campylobacter,N1,496,0,47,,,Non-estimable: separation by niche indicator,
+Campylobacter,N2,163,1,46,0.3278537629254998,0.3138332039129504,Estimable,1.0
+Campylobacter,N3,184,27,20,3.719244689255921,0.014589965959269,Estimable,0.3610779868871951
+Campylobacter,N4,318,5,42,0.2371997258943309,0.1718223144516953,Estimable,1.0
+Campylobacter,N5,200,10,37,2.2756471905865925,0.2423214311959577,Estimable,1.0
+Campylobacter,N6,190,0,47,,,Non-estimable: separation by niche indicator,
+Campylobacter,N7,116,0,47,,,Non-estimable: separation by niche indicator,
+Campylobacter,N8,37,2,45,0.373823975437997,0.3525795843236583,Estimable,1.0
+Campylobacter,N9,30,1,46,0.1445087424876506,0.1834541419524628,Estimable,1.0
+Campylobacter,N10,20,0,47,,,Non-estimable: separation by niche indicator,
+Campylobacter,N11,99,0,47,,,Non-estimable: separation by niche indicator,
+Campylobacter,N12,10,1,46,6.873040379203767,0.3103575779447064,Estimable,1.0
+Campylobacter,N13,33,0,47,,,Non-estimable: separation by niche indicator,
+Solobacterium,N1,496,0,10,,,Non-estimable: separation by niche indicator,
+Solobacterium,N2,163,1,9,4.520555746883424,0.2674081455372351,Estimable,1.0
+Solobacterium,N3,184,4,6,0.5466463534852799,0.5448569604045728,Estimable,1.0
+Solobacterium,N4,318,3,7,1.2634835728351212,0.8525892692168313,Estimable,1.0
+Solobacterium,N5,200,0,10,,,Non-estimable: separation by niche indicator,
+Solobacterium,N6,190,1,9,114.19823719021709,0.1255823645645304,Estimable,0.9328975653365116
+Solobacterium,N7,116,0,10,,,Non-estimable: separation by niche indicator,
+Solobacterium,N8,37,0,10,,,Non-estimable: separation by niche indicator,
+Solobacterium,N9,30,1,9,2.2427430505963,0.5713485315314619,Estimable,1.0
+Solobacterium,N10,20,0,10,,,Non-estimable: separation by niche indicator,
+Solobacterium,N11,99,0,10,,,Non-estimable: separation by niche indicator,
+Solobacterium,N12,10,0,10,,,Non-estimable: separation by niche indicator,
+Solobacterium,N13,33,0,10,,,Non-estimable: separation by niche indicator,
+Escherichia,N1,496,2,25,0.3651850285584445,0.2504403654943695,Estimable,1.0
+Escherichia,N2,163,2,25,0.7571056661661197,0.717563440146193,Estimable,1.0
+Escherichia,N3,184,14,13,5.90345316892143,0.0003544223056086,Estimable,0.0122866399277648
+Escherichia,N4,318,3,24,0.8922024968367206,0.8935934581092413,Estimable,1.0
+Escherichia,N5,200,2,25,0.2222766587540016,0.0707982194870653,Estimable,0.818112758517199
+Escherichia,N6,190,0,27,,,Non-estimable: separation by niche indicator,
+Escherichia,N7,116,1,26,0.8057826216398751,0.8409354642610747,Estimable,1.0
+Escherichia,N8,37,0,27,,,Non-estimable: separation by niche indicator,
+Escherichia,N9,30,1,26,1.18351835513138,0.8801027458340658,Estimable,1.0
+Escherichia,N10,20,2,25,4.129484338121715,0.0951279506483325,Estimable,0.8805449933077176
+Escherichia,N11,99,0,27,,,Non-estimable: separation by niche indicator,
+Escherichia,N12,10,0,27,,,Non-estimable: separation by niche indicator,
+Escherichia,N13,33,0,27,,,Non-estimable: separation by niche indicator,
+Shigella,N1,496,2,10,2.196115663887464,0.4516659779675779,Estimable,1.0
+Shigella,N2,163,0,12,,,Non-estimable: separation by niche indicator,
+Shigella,N3,184,5,7,1.0849426665218955,0.9153535564075064,Estimable,1.0
+Shigella,N4,318,0,12,,,Non-estimable: separation by niche indicator,
+Shigella,N5,200,1,11,0.3394349805730104,0.3835496303288009,Estimable,1.0
+Shigella,N6,190,0,12,,,Non-estimable: separation by niche indicator,
+Shigella,N7,116,0,12,,,Non-estimable: separation by niche indicator,
+Shigella,N8,37,1,11,1.6255039065689911,0.6770302362024635,Estimable,1.0
+Shigella,N9,30,1,11,1.6951820474886374,0.6655242306980047,Estimable,1.0
+Shigella,N10,20,0,12,,,Non-estimable: separation by niche indicator,
+Shigella,N11,99,0,12,,,Non-estimable: separation by niche indicator,
+Shigella,N12,10,1,11,8.314329199164124,0.0918176451773788,Estimable,0.8805449933077176
+Shigella,N13,33,1,11,6.532509073110486,0.1061516485601364,Estimable,0.8805449933077176

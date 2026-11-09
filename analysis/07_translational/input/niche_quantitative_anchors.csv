@@ -1,0 +1,13 @@
+Niche,Metric,Value,Source,Units
+N3,Fusobacterium_OR_adjusted,2.1159256366596835,ST13 E,odds ratio
+N3,Fusobacterium_FDR_adjusted,0.0022591728755313,ST13 E,BH adjusted probability
+N3,Fusobacterium_CMH_OR_spatial_blocks,2.488933487958402,ST13 E,odds ratio
+N3,Fusobacterium_FDR_spatial_CMH,4.849563335062704e-10,ST13 E,BH adjusted probability
+N4,CXCL8_CXCR2_myeloid_effect,0.3539613054435197,ST13 G,difference in standardized programme score
+N9,CXCL8_CXCR2_myeloid_effect,0.2066424180498766,ST13 G,difference in standardized programme score
+N6,Convergent9_mean_score,0.4637213967256163,ST13 B,standardized programme score or niche minus rest
+N6,Convergent9_score_effect,0.4947848362177137,ST13 B,standardized programme score or niche minus rest
+N6,WNT_beta_catenin,0.5468144608194296,ST13 B,standardized programme score or niche minus rest
+N6,MYC_anabolism,0.5888167177446733,ST13 B,standardized programme score or niche minus rest
+N9,LogBacterialBurden_beta_adjusted,0.3320186211784812,ST13 D,log1p burden coefficient
+N9,FDR_burden,0.0011697528364756,ST13 D,BH adjusted probability

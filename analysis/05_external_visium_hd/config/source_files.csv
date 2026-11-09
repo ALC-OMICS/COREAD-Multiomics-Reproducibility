@@ -1,0 +1,7 @@
+sample,local_filename,source_url,bytes,sha256
+P1CRC,P1CRC_filtered_feature_bc_matrix.h5,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594567/suppl/GSM8594567_P1CRC_filtered_feature_bc_matrix.h5,122378546,e65dfe204f001364efa84b73c243c20605ab92aabb39e482afc1b0aadcfb6c02
+P1CRC,P1CRC_Metadata.parquet.gz,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594567/suppl/GSM8594567_P1CRC_Metadata.parquet.gz,11329505,6b987961e089ff98330bd433bf2d0183cf599188e3310a2ab9b68bb91df13ebc
+P2CRC,P2CRC_filtered_feature_bc_matrix.h5,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594568/suppl/GSM8594568_P2CRC_filtered_feature_bc_matrix.h5,297310187,445f02025d60a0aaa5bb2a0d9e4f5a476741d71a73c7d99c2397169cfba11b73
+P2CRC,P2CRC_Metadata.parquet.gz,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594568/suppl/GSM8594568_P2CRC_Metadata.parquet.gz,11580177,f9794fb7b075929530579c98881fc9d5d6d3dacc88969e8645f786a2a7ac5ec4
+P5CRC,P5CRC_filtered_feature_bc_matrix.h5,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594569/suppl/GSM8594569_P5CRC_filtered_feature_bc_matrix.h5,239822835,ee19eeeb56772ae6a83a06c8e7ca4d3ae00e3503de74680210fe6fe6e295023b
+P5CRC,P5CRC_Metadata.parquet.gz,https://ftp.ncbi.nlm.nih.gov/geo/samples/GSM8594nnn/GSM8594569/suppl/GSM8594569_P5CRC_Metadata.parquet.gz,11440381,fc92e7441d637cec37921ffc09369657505e70206761594d1824c52c4f04bf34

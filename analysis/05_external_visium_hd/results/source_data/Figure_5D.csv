@@ -1,0 +1,28 @@
+Sample,Gene,Discovery_spatial_category,External_periphery_minus_interior,Status
+P1CRC,MYC,Interface-persistent,-1.8535878538121968,Complete gene-level external metrics
+P1CRC,BCL2L1,Tumor-interior enriched,-0.7377851354502021,Complete gene-level external metrics
+P1CRC,SOX9,Tumor-interior enriched,-0.4748001932587822,Complete gene-level external metrics
+P1CRC,IRS2,Tumor-interior enriched,-0.340320438532754,Complete gene-level external metrics
+P1CRC,FASN,Tumor-interior enriched,-0.7030481564694637,Complete gene-level external metrics
+P1CRC,HMGB1,Tumor-interior enriched,,Not evaluable on source panel; not a zero or negative result
+P1CRC,YAP1,Interface-persistent,-0.48850658251725315,Complete gene-level external metrics
+P1CRC,RNF6,Tumor-interior enriched,-0.6790157513415789,Complete gene-level external metrics
+P1CRC,CTNNB1,Interface-persistent,-0.1634076994288221,Complete gene-level external metrics
+P2CRC,MYC,Interface-persistent,-4.999387564857681,Complete gene-level external metrics
+P2CRC,BCL2L1,Tumor-interior enriched,-0.8840347862608872,Complete gene-level external metrics
+P2CRC,SOX9,Tumor-interior enriched,-1.048909108750923,Complete gene-level external metrics
+P2CRC,IRS2,Tumor-interior enriched,-0.9758876696544381,Complete gene-level external metrics
+P2CRC,FASN,Tumor-interior enriched,-2.691893005890098,Complete gene-level external metrics
+P2CRC,HMGB1,Tumor-interior enriched,,Not evaluable on source panel; not a zero or negative result
+P2CRC,YAP1,Interface-persistent,-1.5942599038477074,Complete gene-level external metrics
+P2CRC,RNF6,Tumor-interior enriched,-0.3630098097243903,Complete gene-level external metrics
+P2CRC,CTNNB1,Interface-persistent,-0.6375972684563938,Complete gene-level external metrics
+P5CRC,MYC,Interface-persistent,-1.242573219792067,Complete gene-level external metrics
+P5CRC,BCL2L1,Tumor-interior enriched,-0.6313703042683214,Complete gene-level external metrics
+P5CRC,SOX9,Tumor-interior enriched,-0.6643969383015534,Complete gene-level external metrics
+P5CRC,IRS2,Tumor-interior enriched,-0.4449768358427708,Complete gene-level external metrics
+P5CRC,FASN,Tumor-interior enriched,-0.7685147730427633,Complete gene-level external metrics
+P5CRC,HMGB1,Tumor-interior enriched,,Not evaluable on source panel; not a zero or negative result
+P5CRC,YAP1,Interface-persistent,-0.7979290935564392,Complete gene-level external metrics
+P5CRC,RNF6,Tumor-interior enriched,-0.2895838200517866,Complete gene-level external metrics
+P5CRC,CTNNB1,Interface-persistent,-0.31973209848798295,Complete gene-level external metrics

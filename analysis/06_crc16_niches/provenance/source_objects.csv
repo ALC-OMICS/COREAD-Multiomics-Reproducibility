@@ -1,0 +1,3 @@
+dataset,file,url,sha256,bytes,role
+CRC_16 processed STpathseq object,ST.seu.rds,https://raw.githubusercontent.com/ying-ge/FigureYa/main/FigureYa323STpathseq/STpathseq/Results/CRC_16/outs/ST.seu.rds,bb04b5f057f173f789fd9a36c2b30b17f31329b677e8812dfe19014aa43babc3,89811313,36601 host features;3106spots;316taxonomic features
+GSE178341,GSE178341_crc10x_full_c295v4_submit.h5,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE178nnn/GSE178341/suppl/GSE178341_crc10x_full_c295v4_submit.h5,f435bb2651ff5297d0c24a99daf58850ed67ae1ed6c5ef05fad48fa3f0186670,1203550558,43113features;370115cells;extract9C9geneswithall-featurelibraries

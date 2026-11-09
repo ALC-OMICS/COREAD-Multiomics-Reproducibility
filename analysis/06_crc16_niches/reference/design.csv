@@ -1,0 +1,20 @@
+Metric,Value,Definition / analytical role,Dataset,Family / scope,Source
+CRC_16 tissue spots,3106.0,Tissue-associated Visium spots in the processed ST.seu.rds object,CRC_16,Host spatial discovery,Galeano Niño et al.
+Primary host-defined niches,13.0,SCT host transcriptome; 20 PCs; k=20 SNN; Louvain resolution 0.8,CRC_16,Host spatial discovery,This analysis
+Clustering stability,Mean ARI 0.87,Across three Louvain initializations at resolution 0.8,CRC_16,Stability analysis,This analysis
+Spatial43 genes,43.0,Moran-alignment-corrected spatially supported Core47 genes; niche assignments retained unchanged,CRC_16,Host characterization,Preceding spatial analysis
+Convergent9 genes,BCL2L1; CTNNB1; FASN; HMGB1; IRS2; MYC; RNF6; SOX9; YAP1,Corrected nine-gene focal subset; characterized after retaining frozen host niches,CRC_16,Host characterization,Preceding multimodal analysis
+Raw PathSeq taxonomic features,316.0,Taxonomic UMI columns embedded in ST.seu.rds metadata,CRC_16,Microbiome,Galeano Niño et al./FigureYa processed object
+Raw taxonomic UMIs,84044.0,Before singleton suppression and contaminant exclusion,CRC_16,Microbiome QC,This analysis
+Singleton UMIs removed,3509.0,Taxon–spot values equal to one were set to zero,CRC_16,Microbiome QC,This analysis
+Likely-contaminant UMIs removed,235.0,Prespecified contaminant list,CRC_16,Microbiome QC,This analysis
+Non-bacterial eligible feature removed,Plasmodium (28 post-QC UMIs),Excluded because primary inference targets bacterial taxonomic features,CRC_16,Microbiome QC,This analysis
+Post-QC bacterial UMIs,80272.0,Used for bacterial burden analysis,CRC_16,Microbiome,This analysis
+Retained post-QC bacterial features,295.0,All retained features contribute to total and non-focal bacterial burden,CRC_16,Microbiome QC,Original retained-feature QC table
+Eligible bacterial taxa,20.0,≥20 post-QC UMIs and detected in ≥10 spots,CRC_16,Primary taxon-specific family,This analysis
+Primary bacterial taxon × niche tests,260.0,20 bacterial taxa × 13 host-defined niches,CRC_16,Primary inferential family,This analysis
+GSE178341 cells,370115.0,Processed colorectal cancer single-cell atlas; source annotations retained,GSE178341,Independent cellular attribution,Pelka et al.
+GSE178341 tumour patients,62.0,Tumour specimens used for patient-balanced pseudobulk attribution,GSE178341,Independent cellular attribution,This analysis
+Estimable primary taxon–niche models,166.0,260 planned contrasts; separated fits retained as explicit unavailable rows,CRC_16,Primary occupancy inference,Verified model reconstruction
+Non-estimable primary taxon–niche models,94.0,No finite unpenalized niche coefficient; unavailable estimates are not zero effects,CRC_16,Primary occupancy inference,Verified separation diagnosis
+High-complexity sensitivity models,104.0,8 eligible taxa across 13 frozen niches; 55 estimable and 49 non-estimable fits,CRC_16,Sensitivity inference,Verified model reconstruction

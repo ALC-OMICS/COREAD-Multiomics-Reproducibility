@@ -1,0 +1,109 @@
+ScreenID,ModelConditionID,ModelID,Library,ScreenType,PassesQC,OncotreeLineage,OncotreePrimaryDisease,OncotreeSubtype,OncotreeCode,GrowthPattern,PlateCoating,IsNextGen,IsTraditional2D,IsAdherent2D,HasExprData,HasCNData,Analysis_group
+SC-002730.CD02,MC-002730-d4si,ACH-002730,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002731.CD02,MC-002731-54nU,ACH-002731,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002736.CD01,MC-002736-MKf0,ACH-002736,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Diffuse Type Stomach Adenocarcinoma,DSTAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002742.CD01,MC-002742-d8Wq,ACH-002742,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002743.CD01,MC-002743-11qD,ACH-002743,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002744.CD01,MC-002744-xWdB,ACH-002744,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002745.CD02,MC-002745-Nzrl,ACH-002745,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002836.CD01,MC-002836-4hhP,ACH-002836,Humagne-CD,2DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002837.CD01,MC-002837-cYmS,ACH-002837,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002839.CD01,MC-002839-iQWp,ACH-002839,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,Dome,None,1,0,0,1,1,COREAD
+SC-002841.CD02,MC-002841-6uhX,ACH-002841,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-002877.CD02,MC-002877-gg88,ACH-002877,Humagne-CD,2DO,1,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002878.CD02,MC-002878-ruio,ACH-002878,Humagne-CD,3DO,1,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002879.CD01,MC-002879-2o6f,ACH-002879,Humagne-CD,3DO,1,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002883.CD01,MC-002883-DJY4,ACH-002883,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,ILC,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002884.CD01,MC-002884-rU72,ACH-002884,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,ILC,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002885.CD01,MC-002885-ZLxT,ACH-002885,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002947.CD01,MC-002947-yu5B,ACH-002947,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002948.CD01,MC-002948-KDPs,ACH-002948,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002950.CD01,MC-002950-TDrF,ACH-002950,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002951.CD01,MC-002951-IP0r,ACH-002951,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002954.CD01,MC-002954-yG88,ACH-002954,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002958.CD01,MC-002958-Fuyj,ACH-002958,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002959.CD02,MC-002959-xOr6,ACH-002959,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002964.CD01,MC-002964-0orR,ACH-002964,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002965.CD01,MC-002965-JGeV,ACH-002965,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002966.CD01,MC-002966-eFgz,ACH-002966,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002968.CD01,MC-002968-WZFJ,ACH-002968,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002975.CD01,MC-002975-d94n,ACH-002975,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002978.CD01,MC-002978-WhRW,ACH-002978,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002979.CD01,MC-002979-40TZ,ACH-002979,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Diffuse Type Stomach Adenocarcinoma,DSTAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002982.CD01,MC-002982-cfx5,ACH-002982,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002983.CD01,MC-002983-Oo67,ACH-002983,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002989.CD01,MC-002989-7yYt,ACH-002989,Humagne-CD,2DO,1,Prostate,Prostate Neuroendocrine Carcinoma,Prostate Neuroendocrine Carcinoma,PRNE,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002991.CD02,MC-002991-L346,ACH-002991,Humagne-CD,3DO,1,Prostate,Prostate Neuroendocrine Carcinoma,Prostate Neuroendocrine Carcinoma,PRNE,Dome,None,1,0,0,1,1,COMPARATOR
+SC-002999.CD01,MC-002999-hU68,ACH-002999,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003000.CD01,MC-003000-PRjx,ACH-003000,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003005.CD01,MC-003005-QT7X,ACH-003005,Humagne-CD,3DO,1,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003013.CD01,MC-003013-TIiG,ACH-003013,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003014.CD01,MC-003014-nJ52,ACH-003014,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003015.CD01,MC-003015-wqoP,ACH-003015,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003030.CD01,MC-003030-jPPk,ACH-003030,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003035.CD01,MC-003035-KgoN,ACH-003035,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003036.CD01,MC-003036-wt4c,ACH-003036,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003039.CD01,MC-003039-6shB,ACH-003039,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003040.CD01,MC-003040-QrJc,ACH-003040,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003041.CD01,MC-003041-7ddT,ACH-003041,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003045.CD01,MC-003045-FTS6,ACH-003045,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003047.CD01,MC-003047-mwE5,ACH-003047,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003126.CD01,MC-003126-6Fpt,ACH-003126,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003130.CD01,MC-003130-fxrY,ACH-003130,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003193.CD01,MC-003193-bnde,ACH-003193,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003216.CD01,MC-003216-0lf7,ACH-003216,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003233.CD01,MC-003233-pq78,ACH-003233,Humagne-CD,3DO,1,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003235.CD01,MC-003235-ww88,ACH-003235,Humagne-CD,3DO,1,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003236.CD01,MC-003236-kso9,ACH-003236,Humagne-CD,3DO,1,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003237.CD01,MC-003237-45op,ACH-003237,Humagne-CD,3DO,1,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003238.CD01,MC-003238-eepl,ACH-003238,Humagne-CD,3DO,1,Uterus,Endometrial Carcinoma,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,UCS,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003330.CD01,MC-003427-1d53,ACH-003330,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003331.CD01,MC-003331-g556,ACH-003331,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003332.CD01,MC-003332-PH24,ACH-003332,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003334.CD02,MC-003334-3g7u,ACH-003334,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003337.CD01,MC-003337-rEeE,ACH-003337,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003338.CD01,MC-003338-maq2,ACH-003338,Humagne-CD,3DO,1,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003339.CD01,MC-003339-7yt5,ACH-003339,Humagne-CD,2DO,1,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003340.CD02,MC-003340-0aQ3,ACH-003340,Humagne-CD,3DO,1,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003341.CD01,MC-003341-kj34,ACH-003341,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003342.CD02,MC-003342-9w26,ACH-003342,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003345.CD01,MC-003345-Igul,ACH-003345,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003346.CD01,MC-003346-QE5g,ACH-003346,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003348.CD01,MC-003348-ro2E,ACH-003348,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003350.CD01,MC-003350-n5kz,ACH-003350,Humagne-CD,3DO,1,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003355.CD01,MC-003355-etyx,ACH-003355,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003356.CD01,MC-003356-oHvi,ACH-003356,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003357.CD01,MC-003357-n8av,ACH-003357,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003358.CD01,MC-003358-675J,ACH-003358,Humagne-CD,2DO,1,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003359.CD01,MC-003359-lUz6,ACH-003359,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003360.CD01,MC-003360-pj2L,ACH-003360,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003364.CD01,MC-003364-0izB,ACH-003364,Humagne-CD,2DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003368.CD01,MC-003368-z0Bi,ACH-003368,Humagne-CD,3DO,1,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003369.CD01,MC-003369-4AnN,ACH-003369,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003372.CD01,MC-003372-udmm,ACH-003372,Humagne-CD,3DO,1,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Extrahepatic Cholangiocarcinoma,EHCH,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003374.CD01,MC-003374-2tjj,ACH-003374,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003377.CD01,MC-003377-fI3b,ACH-003377,Humagne-CD,3DO,1,Bowel,Tubular Adenoma of the Colon,Tubular Adenoma of the Colon,TAC,Dome,None,1,0,0,1,1,EXCLUDED
+SC-003380.CD01,MC-003380-9Hvy,ACH-003380,Humagne-CD,3DO,1,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003383.CD01,MC-003383-6rX8,ACH-003383,Humagne-CD,2DO,1,Bowel,Sessile Serrated Adenoma,Sessile Serrated Adenoma,,Dome,None,1,0,0,1,1,EXCLUDED
+SC-003386.CD01,MC-003386-GrRG,ACH-003386,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003387.CD01,MC-003387-UZbR,ACH-003387,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003388.CD01,MC-003388-yjEd,ACH-003388,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003390.CD01,MC-003390-j7nt,ACH-003390,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003391.CD01,MC-003391-3ABh,ACH-003391,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003394.CD01,MC-003394-Sw9L,ACH-003394,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003395.CD01,MC-003395-UT7W,ACH-003395,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003397.CD01,MC-003397-7cn4,ACH-003397,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003398.CD01,MC-003398-fGN3,ACH-003398,Humagne-CD,3DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003399.CD01,MC-003399-ySbB,ACH-003399,Humagne-CD,2DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003400.CD01,MC-003400-b0uj,ACH-003400,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003401.CD01,MC-003401-qmrj,ACH-003401,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003402.CD01,MC-003402-r8LA,ACH-003402,Humagne-CD,3DO,1,Bowel,Colorectal Adenocarcinoma,Colorectal Adenocarcinoma,COADREAD,Dome,None,1,0,0,1,1,COREAD
+SC-003704.CD01,MC-003704-Andr,ACH-003704,Humagne-CD,3DO,1,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003709.CD01,MC-003709-EBJH,ACH-003709,Humagne-CD,2DO,1,Uterus,Endometrial Carcinoma,Uterine Mixed Endometrial Carcinoma,UMEC,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003710.CD01,MC-003710-w7GH,ACH-003710,Humagne-CD,3DO,1,Uterus,Endometrial Carcinoma,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,USC,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003711.CD01,MC-003711-r2Vd,ACH-003711,Humagne-CD,2DO,1,Uterus,Endometrial Carcinoma,Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma,USC,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003713.CD01,MC-003713-sDsC,ACH-003713,Humagne-CD,2DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003716.CD01,MC-003716-n7Gd,ACH-003716,Humagne-CD,2DO,1,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003722.CD01,MC-003722-9OKb,ACH-003722,Humagne-CD,3DO,1,Bowel,Non-Cancerous,Tubulovillous adenoma,,Dome,None,1,0,0,1,1,EXCLUDED
+SC-003723.CD01,MC-003723-gHbF,ACH-003723,Humagne-CD,2DO,1,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,Dome,None,1,0,0,1,1,COMPARATOR
+SC-003724.CD01,MC-003724-Opye,ACH-003724,Humagne-CD,2DO,1,Bowel,Small Bowel Cancer,Small Bowel Cancer,SBC,Dome,None,1,0,0,1,1,COMPARATOR

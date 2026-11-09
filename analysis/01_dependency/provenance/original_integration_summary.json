@@ -1,0 +1,36 @@
+{
+  "both_evaluable": 1613,
+  "union": 466,
+  "candidate_line": 335,
+  "candidate_org": 324,
+  "candidate_both": 193,
+  "patterns": {
+    "BOTH_CANDIDATES": 193,
+    "NEITHER_BOTH_EVALUABLE": 1151,
+    "CL_ONLY_BOTH_EVALUABLE": 139,
+    "ORG_ONLY_BOTH_EVALUABLE": 130,
+    "ORG_NONCANDIDATE_CL_UNAVAILABLE": 22,
+    "NEITHER_EVALUABLE": 77,
+    "CL_CANDIDATE_ORG_UNAVAILABLE": 3,
+    "ORG_CANDIDATE_CL_UNAVAILABLE": 1,
+    "CL_NONCANDIDATE_ORG_UNAVAILABLE": 4
+  },
+  "jaccard_joint": 0.41774891774891776,
+  "dice_joint": 0.5893129770992367,
+  "rho": 0.4759855533648729,
+  "rho_ci": [
+    0.44562034306724496,
+    0.5295843743952623
+  ],
+  "nonbroad_n": 1570,
+  "rho_nonbroad": 0.41223112114596117,
+  "rho_nonbroad_ci": [
+    0.37095399492043907,
+    0.4581003412542956
+  ],
+  "aligned_both": 148,
+  "both_knownpairs": 189,
+  "both_ge25": 110,
+  "both_ge50": 85,
+  "both_ge80": 43
+}

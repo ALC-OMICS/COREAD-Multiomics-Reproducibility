@@ -1,0 +1,13 @@
+# Tested with CPython 3.12.14. See environment/tested_environment.json.
+numpy==2.3.5
+scipy==1.17.0
+pandas==2.2.3
+matplotlib==3.10.8
+scikit-learn==1.8.0
+h5py==3.15.1
+statsmodels==0.14.6
+patsy==1.0.2
+openpyxl==3.1.5
+pyarrow==23.0.1
+networkx==3.6.1
+seaborn==0.13.2

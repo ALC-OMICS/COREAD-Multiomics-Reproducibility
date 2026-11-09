@@ -1,0 +1,189 @@
+FORMAT	COREAD_SOURCE_DATA	1
+FIGURE	7
+PANEL	A	Eight direct and five conditional equal-width links between frozen states and eight modules	categorical relationship;fixed line width	Zero coverage omitted from graph but retained in panel C
+TABLE	source_data/Figure_7/Figure7A_niche_module_edges.csv	5975fc0faf6c2679feac2626c8706b4bf8323e76f173ef5efb9d8de76702c88b	14
+HEADER	Therapeutic module	Niche	Coverage_code	Match	Line_width	Line_style
+DATA	Biomarker-defined approved backbone	N3	1	Conditional/secondary	1.0	dashed
+DATA	Fusobacterium reduction	N3	2	Direct mechanistic	1.0	solid
+DATA	Precision Fusobacterium antimicrobial delivery	N3	2	Direct mechanistic	1.0	solid
+DATA	Biomarker-defined approved backbone	N4	1	Conditional/secondary	1.0	dashed
+DATA	CXCR1/2 myeloid remodelling + immunotherapy	N4	2	Direct mechanistic	1.0	solid
+DATA	Biomarker-defined approved backbone	N6	1	Conditional/secondary	1.0	dashed
+DATA	CXCR1/2 myeloid remodelling + immunotherapy	N6	1	Conditional/secondary	1.0	dashed
+DATA	BCL-xL degradation	N6	2	Direct mechanistic	1.0	solid
+DATA	FASN inhibition	N6	2	Direct mechanistic	1.0	solid
+DATA	WNT/β-catenin transcriptional inhibition	N6	2	Direct mechanistic	1.0	solid
+DATA	MYC-directed inhibition	N6	2	Direct mechanistic	1.0	solid
+DATA	Biomarker-defined approved backbone	N9	1	Conditional/secondary	1.0	dashed
+DATA	CXCR1/2 myeloid remodelling + immunotherapy	N9	2	Direct mechanistic	1.0	solid
+END_TABLE
+TABLE	source_data/Figure_7/Figure7_niche_states.csv	5595116299a1cd0178f20c1abe46010d49eb74cb22a3c179f0517c5169a0c2c0	5
+HEADER	Niche	Dominant state	Quantitative anchor	Effect	Therapeutic module
+DATA	N3	Fusobacterium-enriched / immune-effector-poor	Fusobacterium occupancy	OR 2.115926; FDR 0.00225917	Microbiome-directed intervention
+DATA	N4	Epithelial antimicrobial-inflammatory / CXCL chemokine-rich	CXCL8–CXCR2/myeloid programme	+0.353961 niche−rest	Myeloid-barrier intervention
+DATA	N6	WNT–MYC–stemness / highest Convergent9 score	Convergent9 and fixed WNT / MYC-anabolism programmes	Convergent9 mean 0.463721; niche−rest +0.494785; WNT effect +0.546814; MYC-anabolism effect +0.588817	Tumour-intrinsic dependency targeting
+DATA	N9	High bacterial burden / CXCL8-PTGS2 myeloid inflammation	CXCL8–CXCR2/myeloid programme	+0.206642 niche−rest; burden β +0.332019; FDR 0.00116975	Myeloid-barrier intervention
+END_TABLE
+TABLE	source_data/Figure_7/Figure7_niche_quantitative_anchors.csv	14cc19c9b6c2a251ea685406a1569a7930562c6d8680ba1fe676e62178c0a520	13
+HEADER	Niche	Metric	Value	Source	Units
+DATA	N3	Fusobacterium_OR_adjusted	2.1159256366596835	ST13 E	odds ratio
+DATA	N3	Fusobacterium_FDR_adjusted	0.0022591728755313	ST13 E	BH adjusted probability
+DATA	N3	Fusobacterium_CMH_OR_spatial_blocks	2.488933487958402	ST13 E	odds ratio
+DATA	N3	Fusobacterium_FDR_spatial_CMH	4.849563335062704e-10	ST13 E	BH adjusted probability
+DATA	N4	CXCL8_CXCR2_myeloid_effect	0.3539613054435197	ST13 G	difference in standardized programme score
+DATA	N9	CXCL8_CXCR2_myeloid_effect	0.2066424180498766	ST13 G	difference in standardized programme score
+DATA	N6	Convergent9_mean_score	0.4637213967256163	ST13 B	standardized programme score or niche minus rest
+DATA	N6	Convergent9_score_effect	0.4947848362177137	ST13 B	standardized programme score or niche minus rest
+DATA	N6	WNT_beta_catenin	0.5468144608194296	ST13 B	standardized programme score or niche minus rest
+DATA	N6	MYC_anabolism	0.5888167177446733	ST13 B	standardized programme score or niche minus rest
+DATA	N9	LogBacterialBurden_beta_adjusted	0.3320186211784812	ST13 D	log1p burden coefficient
+DATA	N9	FDR_burden	0.0011697528364756	ST13 D	BH adjusted probability
+END_TABLE
+END_PANEL
+PANEL	B	Ten frozen strategy records with evidence class and primary reference URLs	evidence category;strategy record count	Class C/E counts are zero;not missing
+TABLE	source_data/Figure_7/Figure7B_strategy_evidence.csv	c415b8e8b62fcf8aaa13e0116f1bda4cb61977d9a2554fe3ff22b7bbe7570548	11
+HEADER	Strategy	Target / axis	Niche module	Best spatial match	Evidence class	Clinical maturity	CRC human evidence	Current status	Key limitation	Spatial match	Source 1	Source 2
+DATA	Nivolumab + ipilimumab	PD-1 + CTLA-4	Biomarker backbone	All niches, conditional on MSI-H/dMMR	A	FDA-approved CRC	CheckMate 8HW; FDA approval for unresectable/metastatic MSI-H/dMMR CRC (2025)	Approved	MMR/MSI-defined; does not validate a niche-specific ICI response prediction	Conditional	https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-nivolumab-ipilimumab-unresectable-or-metastatic-msi-h-or-dmmr-colorectal-cancer	https://pubmed.ncbi.nlm.nih.gov/39602630/
+DATA	Encorafenib + cetuximab + fluorouracil-based chemotherapy	BRAF V600E + EGFR	Biomarker backbone	Tumour-intrinsic niche when BRAF V600E-positive	A	FDA-approved CRC	Traditional FDA approval in BRAF V600E metastatic CRC (2026)	Approved	Genotype-defined; spatial programme alone does not identify BRAF V600E	Conditional	https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-traditional-approval-encorafenib-metastatic-colorectal-cancer-braf-v600e-mutation	
+DATA	Sotorasib + panitumumab	KRAS G12C + EGFR	Biomarker backbone	Tumour-intrinsic niche when KRAS G12C-positive	A	FDA-approved CRC	FDA approval for previously treated KRAS G12C metastatic CRC (2025)	Approved	Genotype-defined; applies only to KRAS G12C tumours	Conditional	https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-sotorasib-panitumumab-kras-g12c-mutated-colorectal-cancer	
+DATA	Metronidazole-based Fusobacterium reduction	Intratumoral Fusobacterium	N3 microbiome-directed	N3	B	Human CRC proof-of-concept	FusoMetro-001; human CRC proof-of-concept targeting tumour-associated Fusobacterium	Clinical proof-of-concept; no demonstrated antitumour efficacy	Microbial depletion is not equivalent to tumour response; broad antibiotic effects and resistance remain concerns	Direct	https://clinicaltrials.gov/study/NCT05748145	https://pubmed.ncbi.nlm.nih.gov/29170280/
+DATA	SX-682 + PD-1-directed immunotherapy	CXCR1/2–MDSC/myeloid barrier	N4/N9 myeloid-remodelling	N4; N9	B	Phase I/II mCRC	STOPTRAFFIC-1 and STAR15 evaluate CXCR1/2 inhibition with immunotherapy in metastatic CRC	Investigational; active mCRC clinical development	No mature efficacy signal; prior navarixin + pembrolizumab had insufficient activity in MSS CRC	Direct	https://clinicaltrials.gov/study/NCT04599140	https://clinicaltrials.gov/study/NCT06149481
+DATA	DT2216	BCL-xL targeted protein degradation	N6 tumour-intrinsic	N6	B	Phase I solid tumours with CRC exposure	Phase I enrolled 20 patients, including 5 with CRC; human BCL-xL degradation and a recommended phase II dose were established. CRC-specific efficacy remains unproven.	Clinical-stage	CRC benefit unproven; thrombocytopenia remains a monitored on-target safety issue	Direct	https://pubmed.ncbi.nlm.nih.gov/41225624/	https://pubmed.ncbi.nlm.nih.gov/35260176/
+DATA	Denifanstat / TVB-2640	FASN	N6 tumour-intrinsic	N6	B	Human CRC window trial / clinical-stage	Prospective colon-cancer exposure; subsequent CRC patient-sample/model work supports combination hypotheses	Colon window trial terminated for low accrual; target remains clinically druggable	No demonstrated CRC efficacy; combination rationale remains mainly preclinical	Direct	https://clinicaltrials.gov/study/NCT02980029	https://pubmed.ncbi.nlm.nih.gov/41661672/
+DATA	E7386	CBP–β-catenin interaction / WNT transcription	N6 tumour-intrinsic	N6	B	Phase I solid tumours with CRC exposure	Phase I cohorts included substantial CRC representation; safety characterized but no established CRC response signal	Investigational	WNT topology is genotype/context dependent; human CRC efficacy not established	Direct	https://clinicaltrials.gov/study/NCT03833700	https://pubmed.ncbi.nlm.nih.gov/41385966/
+DATA	OMO-103 / Omomyc	MYC	N6 tumour-intrinsic	N6	B	Phase I solid tumours with CRC exposure	Phase I enrolled 22 patients, including 7 with CRC; 3 CRC patients were among those with stable disease. No objective RECIST responses or established CRC efficacy.	Early clinical-stage / programme-limited	Exploratory phase I CRC exposure; disease stabilization does not establish comparative clinical benefit or a validated niche-selected indication	Direct	https://pubmed.ncbi.nlm.nih.gov/38321218/	https://clinicaltrials.gov/study/NCT04808362
+DATA	Fusobacterium-targeted precision antimicrobial / nanomedicine	Intratumoral Fusobacterium	N3 microbiome-directed	N3	D	Preclinical CRC	No established human antitumour efficacy	Experimental	Delivery, ecological effects, specificity and clinical benefit remain unresolved	Direct	https://pubmed.ncbi.nlm.nih.gov/37722134/	
+END_TABLE
+TABLE	source_data/Figure_7/Figure7B_strategy_plot_data.csv	ed74f2ca15dd9a2f1e758b7fb22df9769c52e88a1873ab7a82041f1dc9216ef9	11
+HEADER	Strategy	Target / axis	Niche module	Best spatial match	Evidence class	Clinical maturity	CRC human evidence	Current status	Key limitation	Spatial match	Source 1	Source 2	Plot_order	Marker
+DATA	Nivolumab + ipilimumab	PD-1 + CTLA-4	Biomarker backbone	All niches, conditional on MSI-H/dMMR	A	FDA-approved CRC	CheckMate 8HW; FDA approval for unresectable/metastatic MSI-H/dMMR CRC (2025)	Approved	MMR/MSI-defined; does not validate a niche-specific ICI response prediction	Conditional	https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-nivolumab-ipilimumab-unresectable-or-metastatic-msi-h-or-dmmr-colorectal-cancer	https://pubmed.ncbi.nlm.nih.gov/39602630/	1	square
+DATA	Encorafenib + cetuximab + fluorouracil-based chemotherapy	BRAF V600E + EGFR	Biomarker backbone	Tumour-intrinsic niche when BRAF V600E-positive	A	FDA-approved CRC	Traditional FDA approval in BRAF V600E metastatic CRC (2026)	Approved	Genotype-defined; spatial programme alone does not identify BRAF V600E	Conditional	https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-traditional-approval-encorafenib-metastatic-colorectal-cancer-braf-v600e-mutation		2	square
+DATA	Sotorasib + panitumumab	KRAS G12C + EGFR	Biomarker backbone	Tumour-intrinsic niche when KRAS G12C-positive	A	FDA-approved CRC	FDA approval for previously treated KRAS G12C metastatic CRC (2025)	Approved	Genotype-defined; applies only to KRAS G12C tumours	Conditional	https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-sotorasib-panitumumab-kras-g12c-mutated-colorectal-cancer		3	square
+DATA	Metronidazole-based Fusobacterium reduction	Intratumoral Fusobacterium	N3 microbiome-directed	N3	B	Human CRC proof-of-concept	FusoMetro-001; human CRC proof-of-concept targeting tumour-associated Fusobacterium	Clinical proof-of-concept; no demonstrated antitumour efficacy	Microbial depletion is not equivalent to tumour response; broad antibiotic effects and resistance remain concerns	Direct	https://clinicaltrials.gov/study/NCT05748145	https://pubmed.ncbi.nlm.nih.gov/29170280/	4	circle
+DATA	SX-682 + PD-1-directed immunotherapy	CXCR1/2–MDSC/myeloid barrier	N4/N9 myeloid-remodelling	N4; N9	B	Phase I/II mCRC	STOPTRAFFIC-1 and STAR15 evaluate CXCR1/2 inhibition with immunotherapy in metastatic CRC	Investigational; active mCRC clinical development	No mature efficacy signal; prior navarixin + pembrolizumab had insufficient activity in MSS CRC	Direct	https://clinicaltrials.gov/study/NCT04599140	https://clinicaltrials.gov/study/NCT06149481	5	circle
+DATA	DT2216	BCL-xL targeted protein degradation	N6 tumour-intrinsic	N6	B	Phase I solid tumours with CRC exposure	Phase I enrolled 20 patients, including 5 with CRC; human BCL-xL degradation and a recommended phase II dose were established. CRC-specific efficacy remains unproven.	Clinical-stage	CRC benefit unproven; thrombocytopenia remains a monitored on-target safety issue	Direct	https://pubmed.ncbi.nlm.nih.gov/41225624/	https://pubmed.ncbi.nlm.nih.gov/35260176/	6	circle
+DATA	Denifanstat / TVB-2640	FASN	N6 tumour-intrinsic	N6	B	Human CRC window trial / clinical-stage	Prospective colon-cancer exposure; subsequent CRC patient-sample/model work supports combination hypotheses	Colon window trial terminated for low accrual; target remains clinically druggable	No demonstrated CRC efficacy; combination rationale remains mainly preclinical	Direct	https://clinicaltrials.gov/study/NCT02980029	https://pubmed.ncbi.nlm.nih.gov/41661672/	7	circle
+DATA	E7386	CBP–β-catenin interaction / WNT transcription	N6 tumour-intrinsic	N6	B	Phase I solid tumours with CRC exposure	Phase I cohorts included substantial CRC representation; safety characterized but no established CRC response signal	Investigational	WNT topology is genotype/context dependent; human CRC efficacy not established	Direct	https://clinicaltrials.gov/study/NCT03833700	https://pubmed.ncbi.nlm.nih.gov/41385966/	8	circle
+DATA	OMO-103 / Omomyc	MYC	N6 tumour-intrinsic	N6	B	Phase I solid tumours with CRC exposure	Phase I enrolled 22 patients, including 7 with CRC; 3 CRC patients were among those with stable disease. No objective RECIST responses or established CRC efficacy.	Early clinical-stage / programme-limited	Exploratory phase I CRC exposure; disease stabilization does not establish comparative clinical benefit or a validated niche-selected indication	Direct	https://pubmed.ncbi.nlm.nih.gov/38321218/	https://clinicaltrials.gov/study/NCT04808362	9	circle
+DATA	Fusobacterium-targeted precision antimicrobial / nanomedicine	Intratumoral Fusobacterium	N3 microbiome-directed	N3	D	Preclinical CRC	No established human antitumour efficacy	Experimental	Delivery, ecological effects, specificity and clinical benefit remain unresolved	Direct	https://pubmed.ncbi.nlm.nih.gov/37722134/		10	diamond
+END_TABLE
+TABLE	source_data/Figure_7/Figure7B_evidence_class_counts.csv	69885daf35809720b80809613d8897d892a14d68661f0e8fe720b5bb7c5b9883	6
+HEADER	Evidence_class	N_strategy_records
+DATA	A	3
+DATA	B	6
+DATA	C	0
+DATA	D	1
+DATA	E	0
+END_TABLE
+TABLE	source_data/Figure_7/Figure7_evidence_hierarchy.csv	7b41d8d6165db59f1f61d61dabdf8527f1ebd5b328ae91037558aa88ed8c36cd	6
+HEADER	Evidence class	Definition	Interpretive boundary
+DATA	A	FDA-approved CRC standard	Regulatory approval in colorectal cancer; used as biomarker-defined backbone, not inferred from the spatial niche.
+DATA	B	Human CRC interventional evidence	Prospective CRC exposure, proof-of-concept intervention, or active CRC clinical trial; antitumour efficacy may remain unproven.
+DATA	C	Human oncology clinical evidence + CRC preclinical support	Clinical-stage agent in humans with CRC-specific mechanistic/preclinical support, but no established CRC efficacy.
+DATA	D	CRC preclinical evidence	CRC-specific in vivo/ex vivo/preclinical support without human interventional evidence.
+DATA	E	Mechanistic hypothesis	Biologically plausible niche-targeted strategy without sufficient CRC interventional or preclinical validation.
+END_TABLE
+TABLE	source_data/Figure_7/Figure7_reference_links.csv	139a50575905ae1be86f44e89b0d233d5b6e145ad1100bf309698832ef8320a3	21
+HEADER	Record_type	Record	Source_field	URL
+DATA	Strategy	Nivolumab + ipilimumab	Source 1	https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-nivolumab-ipilimumab-unresectable-or-metastatic-msi-h-or-dmmr-colorectal-cancer
+DATA	Strategy	Nivolumab + ipilimumab	Source 2	https://pubmed.ncbi.nlm.nih.gov/39602630/
+DATA	Strategy	Encorafenib + cetuximab + fluorouracil-based chemotherapy	Source 1	https://www.fda.gov/drugs/resources-information-approved-drugs/fda-grants-traditional-approval-encorafenib-metastatic-colorectal-cancer-braf-v600e-mutation
+DATA	Strategy	Sotorasib + panitumumab	Source 1	https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-sotorasib-panitumumab-kras-g12c-mutated-colorectal-cancer
+DATA	Strategy	Metronidazole-based Fusobacterium reduction	Source 1	https://clinicaltrials.gov/study/NCT05748145
+DATA	Strategy	Metronidazole-based Fusobacterium reduction	Source 2	https://pubmed.ncbi.nlm.nih.gov/29170280/
+DATA	Strategy	SX-682 + PD-1-directed immunotherapy	Source 1	https://clinicaltrials.gov/study/NCT04599140
+DATA	Strategy	SX-682 + PD-1-directed immunotherapy	Source 2	https://clinicaltrials.gov/study/NCT06149481
+DATA	Strategy	DT2216	Source 1	https://pubmed.ncbi.nlm.nih.gov/41225624/
+DATA	Strategy	DT2216	Source 2	https://pubmed.ncbi.nlm.nih.gov/35260176/
+DATA	Strategy	Denifanstat / TVB-2640	Source 1	https://clinicaltrials.gov/study/NCT02980029
+DATA	Strategy	Denifanstat / TVB-2640	Source 2	https://pubmed.ncbi.nlm.nih.gov/41661672/
+DATA	Strategy	E7386	Source 1	https://clinicaltrials.gov/study/NCT03833700
+DATA	Strategy	E7386	Source 2	https://pubmed.ncbi.nlm.nih.gov/41385966/
+DATA	Strategy	OMO-103 / Omomyc	Source 1	https://pubmed.ncbi.nlm.nih.gov/38321218/
+DATA	Strategy	OMO-103 / Omomyc	Source 2	https://clinicaltrials.gov/study/NCT04808362
+DATA	Strategy	Fusobacterium-targeted precision antimicrobial / nanomedicine	Source 1	https://pubmed.ncbi.nlm.nih.gov/37722134/
+DATA	Limiting evidence	Navarixin + pembrolizumab	Source	https://pubmed.ncbi.nlm.nih.gov/38324085/
+DATA	Limiting evidence	SHP2 + ERK inhibition	Source	https://pubmed.ncbi.nlm.nih.gov/42114409/
+DATA	Limiting evidence	OMO-103 programme status	Source	https://clinicaltrials.gov/study/NCT04808362
+END_TABLE
+END_PANEL
+PANEL	C	Deterministic 8 by 4 coverage grid	0 no direct rationale; 1 conditional; 2 direct match	All 32 cells available;zeros arenot missing
+TABLE	source_data/Figure_7/Figure7C_spatial_coverage.csv	287c602e9ac9ad0c1d23d4bba6132566039c08fb5d280ffc7efe9be21241ae17	9
+HEADER	Therapeutic module	N3	N4	N6	N9	Interpretation	Direct-niche count
+DATA	Biomarker-defined approved backbone	1.0	1.0	1.0	1.0	Conditional on MSI-H/dMMR, BRAF V600E or KRAS G12C; not niche-predicted	0.0
+DATA	Fusobacterium reduction	2.0	0.0	0.0	0.0	Direct match to the taxon-enriched N3 state	1.0
+DATA	CXCR1/2 myeloid remodelling + immunotherapy	0.0	2.0	1.0	2.0	Direct in N4/N9; secondary in N6 because myeloid activity is present but not dominant	2.0
+DATA	BCL-xL degradation	0.0	0.0	2.0	0.0	Direct match to N6 survival programme	1.0
+DATA	FASN inhibition	0.0	0.0	2.0	0.0	Direct match to N6 lipogenic programme	1.0
+DATA	WNT/β-catenin transcriptional inhibition	0.0	0.0	2.0	0.0	Direct match to N6 WNT-high state	1.0
+DATA	MYC-directed inhibition	0.0	0.0	2.0	0.0	Direct match to N6 MYC-high state	1.0
+DATA	Precision Fusobacterium antimicrobial delivery	2.0	0.0	0.0	0.0	Preclinical direct match to N3	1.0
+END_TABLE
+TABLE	source_data/Figure_7/Figure7C_coverage_long.csv	79be356cb867f27b17af9a04135442dae0abf1b4e2d52a8d5b7917c77073ca5a	33
+HEADER	Therapeutic module	Niche	Coverage_code
+DATA	Biomarker-defined approved backbone	N3	1
+DATA	Fusobacterium reduction	N3	2
+DATA	CXCR1/2 myeloid remodelling + immunotherapy	N3	0
+DATA	BCL-xL degradation	N3	0
+DATA	FASN inhibition	N3	0
+DATA	WNT/β-catenin transcriptional inhibition	N3	0
+DATA	MYC-directed inhibition	N3	0
+DATA	Precision Fusobacterium antimicrobial delivery	N3	2
+DATA	Biomarker-defined approved backbone	N4	1
+DATA	Fusobacterium reduction	N4	0
+DATA	CXCR1/2 myeloid remodelling + immunotherapy	N4	2
+DATA	BCL-xL degradation	N4	0
+DATA	FASN inhibition	N4	0
+DATA	WNT/β-catenin transcriptional inhibition	N4	0
+DATA	MYC-directed inhibition	N4	0
+DATA	Precision Fusobacterium antimicrobial delivery	N4	0
+DATA	Biomarker-defined approved backbone	N6	1
+DATA	Fusobacterium reduction	N6	0
+DATA	CXCR1/2 myeloid remodelling + immunotherapy	N6	1
+DATA	BCL-xL degradation	N6	2
+DATA	FASN inhibition	N6	2
+DATA	WNT/β-catenin transcriptional inhibition	N6	2
+DATA	MYC-directed inhibition	N6	2
+DATA	Precision Fusobacterium antimicrobial delivery	N6	0
+DATA	Biomarker-defined approved backbone	N9	1
+DATA	Fusobacterium reduction	N9	0
+DATA	CXCR1/2 myeloid remodelling + immunotherapy	N9	2
+DATA	BCL-xL degradation	N9	0
+DATA	FASN inhibition	N9	0
+DATA	WNT/β-catenin transcriptional inhibition	N9	0
+DATA	MYC-directed inhibition	N9	0
+DATA	Precision Fusobacterium antimicrobial delivery	N9	0
+END_TABLE
+TABLE	source_data/Figure_7/Figure7C_coverage_counts.csv	93156c844df17012aa74aabd96a56d6f485c43bfb4efbf677836c3082bbd217c	4
+HEADER	Coverage_code	N_cells
+DATA	0	19
+DATA	1	5
+DATA	2	8
+END_TABLE
+END_PANEL
+PANEL	D	Frozen biomarker eligibility framework with investigational limits	categorical qualitative evidence	No outcomes/efficacy estimates generated
+TABLE	source_data/Figure_7/Figure7D_biomarker_modules.csv	adbd7c8b7e977501a85d43371042ff88c4b2ad50d401fa18ec1331dac246ca86	8
+HEADER	Decision layer	Condition	Clinical backbone / module	Spatial interpretation	Evidence status
+DATA	MMR/MSI gate	MSI-H/dMMR	Approved nivolumab + ipilimumab backbone	Add a niche-directed module only as an investigational hypothesis if residual spatial barriers are present	Clinical backbone + experimental modifier
+DATA	BRAF gate	BRAF V600E	Approved encorafenib + cetuximab + fluorouracil-based chemotherapy	N6-high biology supports evaluation of tumour-intrinsic modifiers; FASN/BRAF combinations remain preclinical	Clinical backbone + genotype/niche modifier
+DATA	KRAS G12C gate	KRAS G12C	Approved sotorasib + panitumumab	BCL-xL degradation has CRC preclinical synergy with KRAS G12C inhibition but is not clinically validated	Clinical backbone + preclinical add-on
+DATA	N3 module	Fusobacterium-enriched spatial territory	Microbiome-directed reduction	Human proof-of-concept supports microbial depletion, not antitumour efficacy	Experimental niche modifier
+DATA	N4/N9 module	CXCL chemokine/myeloid-high spatial territory	CXCR1/2 blockade with immunotherapy	Ongoing mCRC trials support testing; negative navarixin data prevent class-level efficacy claims	Investigational immune-remodelling module
+DATA	N6 module	WNT–MYC–stemness / Convergent9-high tumour territory	BCL-xL, FASN, WNT/β-catenin or MYC-directed intervention	Choice should be biomarker- and trial-informed; none is an approved niche-selected CRC therapy	Investigational tumour-intrinsic module
+DATA	Composite model	Multiple coexisting niches	Approved biomarker backbone + one or more non-redundant niche modules	Spatial coverage is a hypothesis-generation framework, not a recommendation for simultaneous multi-drug therapy	Precision-oncology design principle
+END_TABLE
+TABLE	source_data/Figure_7/Figure7_interpretive_boundaries.csv	8f711f7b478ddd8b958ab15cfc29aeb73b0f442c12c151d5692fc7f229d521d3	6
+HEADER	Principle	Interpretation
+DATA	Clinical biomarker precedence	MMR/MSI and actionable driver alterations remain established treatment-selection variables; spatial niches do not replace them.
+DATA	No causal inference	Niche–target concordance does not establish that the target creates the niche or that drugging the target will eliminate it.
+DATA	No simulated efficacy	No response rate, survival benefit or synergy was inferred from spatial expression alone.
+DATA	Negative evidence retained	Failed or weak clinical approaches were kept to prevent mechanistic plausibility from being mistaken for class-level efficacy.
+DATA	Combination framework	Spatial coverage identifies non-redundant intervention modules for trial design; it is not a recommendation to administer all modules simultaneously.
+END_TABLE
+TABLE	source_data/Figure_7/Figure7_limiting_evidence.csv	79f7b549ef4dfe6c39614c185970e28db4fd04a74b8723941066b1c7d45556fd	4
+HEADER	Approach	Reason retained	CRC/clinical result	Implication	Source
+DATA	Navarixin + pembrolizumab	Negative/limiting evidence for the CXCR2 class	Phase II included 40 MSS CRC patients; one partial response (ORR 2.5%); cohort closed for insufficient activity	CXCR1/2 blockade remains investigational and agent/regimen specific	https://pubmed.ncbi.nlm.nih.gov/38324085/
+DATA	SHP2 + ERK inhibition	Negative clinical-stage evidence relevant to SHP2–ERK targeting	Early-phase KRAS-mutant solid-tumour study including CRC reported toxicity constraints and no radiological responses	PTPN11/SHP2 was not prioritized as a lead spatial strategy	https://pubmed.ncbi.nlm.nih.gov/42114409/
+DATA	OMO-103 programme status	Clinical-development caution	Phase I established human target engagement but no CRC-specific efficacy	MYC remains mechanistically aligned but lower-maturity	https://clinicaltrials.gov/study/NCT04808362
+END_TABLE
+END_PANEL

@@ -1,0 +1,19 @@
+{
+  "evaluable": 1636,
+  "primary_candidates": 324,
+  "concordant_candidates": 188,
+  "expanded_candidates": 344,
+  "gene_table_values_checked": 147920,
+  "secondary_values_checked": 27812,
+  "EB_reconstruction_max_absolute_error": 2.0816681711721685e-17,
+  "EB_refit_performed": false,
+  "original_EB_training_script_recovered": false,
+  "genome_query_values_match": true,
+  "primary_preference": 0,
+  "HC3_preferential_genes": [
+    "PTK2",
+    "EZH2",
+    "HNF4A"
+  ],
+  "numerical_reconstruction_not_independent_biological_validation": true
+}

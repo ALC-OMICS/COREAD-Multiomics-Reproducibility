@@ -1,0 +1,18 @@
+{
+  "n_clusters": 12,
+  "random_state": 42,
+  "n_init": 20,
+  "max_iter": 300,
+  "tol": 0.0001,
+  "algorithm": "lloyd",
+  "initialization": "k-means++",
+  "threads": 1,
+  "coordinates": [
+    "imagecol",
+    "imagerow"
+  ],
+  "coordinate_scaling": false,
+  "provenance": "Documented revised sensitivity partition; not a recovered historical CMH assignment",
+  "continuity_correction": false,
+  "zero_cell_pseudocount": false
+}

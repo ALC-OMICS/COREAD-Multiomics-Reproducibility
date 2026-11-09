@@ -1,0 +1,21 @@
+PASS	frozen_universe	466 unique genes
+PASS	gene_matching	{'Exact_symbol': 455, 'Ensembl_stable_ID_rescue': 11}
+PASS	primary_pairs	36 paired patients
+PASS	primary_direction_counts	sig=334 pos=219 neg=112 zero=3
+PASS	ge100_pairs	35 paired patients
+PASS	ge100_positive	220 positive FDR<0.05
+PASS	composition_pairs	33 paired patients
+PASS	composition_positive	198 positive FDR<0.05
+PASS	epithelium_vs_non_epi	sig=394 pos=206 neg=179 zero=9
+PASS	tumor_epi_vs_non_pairs	62 matched tumor patients
+PASS	dominant_lineages	{'Epi': 113, 'TNKILC': 76, 'Strom': 140, 'Mast': 41, 'B': 19, 'Plasma': 12, 'Myeloid': 65}
+PASS	MMR_group_sizes	34 MMRd / 28 MMRp
+PASS	MMR_counts	sig=139 pos=96 neg=40 zero=3
+PASS	priority_tiers	{'A': 65, 'B': 134, 'C': 267}
+PASS	core_47	47 genes
+PASS	core_is_tierA	all Core 47 are Tier A
+PASS	core_composition	all Core 47 pass composition-balanced criterion
+PASS	figure_source_Figure_3A_source.csv	466 rows
+PASS	figure_source_Figure_3B_source.csv	47 rows
+PASS	figure_source_Figure_3C_source.csv	466 rows
+PASS	figure_source_Figure_3D_source.csv	4 rows

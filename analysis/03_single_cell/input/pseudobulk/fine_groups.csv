@@ -1,0 +1,970 @@
+group_id,PID,SPECIMEN_TYPE,MMRStatus,epiFine,n_cells,library_size
+0,C103,T,MMRp,cE01 (Stem/TA-like),1791,18763270
+1,C103,T,MMRp,cE03 (Stem/TA-like prolif),2423,53066295
+2,C103,T,MMRp,cE05 (Enterocyte 2),78,626458
+3,C103,T,MMRp,cE04 (Enterocyte 1),278,1097077
+4,C103,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),5,104517
+5,C103,T,MMRp,cE08 (Goblet),13,39992
+6,C103,T,MMRp,cE09 (Best4),1,12336
+7,C103,T,MMRp,cE11 (Enteroendocrine),4,12083
+8,C103,T,MMRp,cE06 (Immature Goblet),8,37743
+9,C103,T,MMRp,cE10 (Tuft),6,21344
+10,C103,T,MMRp,cE07 (Goblet/Enterocyte),1,2221
+11,C104,T,MMRp,cE10 (Tuft),17,37068
+12,C104,T,MMRp,cE03 (Stem/TA-like prolif),321,4101443
+13,C104,T,MMRp,cE04 (Enterocyte 1),121,695685
+14,C104,T,MMRp,cE01 (Stem/TA-like),929,5408686
+15,C104,T,MMRp,cE08 (Goblet),43,198394
+16,C104,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),73,1268432
+17,C104,T,MMRp,cE06 (Immature Goblet),236,1003126
+18,C104,T,MMRp,cE05 (Enterocyte 2),120,653957
+19,C104,T,MMRp,cE09 (Best4),17,76496
+20,C104,T,MMRp,cE11 (Enteroendocrine),3,25447
+21,C104,T,MMRp,cE07 (Goblet/Enterocyte),3,41056
+22,C105,T,MMRp,cE01 (Stem/TA-like),783,7517312
+23,C105,T,MMRp,cE03 (Stem/TA-like prolif),353,5450138
+24,C105,T,MMRp,cE10 (Tuft),7,43718
+25,C105,T,MMRp,cE06 (Immature Goblet),71,502129
+26,C105,T,MMRp,cE04 (Enterocyte 1),21,165281
+27,C105,T,MMRp,cE09 (Best4),9,50715
+28,C105,T,MMRp,cE05 (Enterocyte 2),32,162449
+29,C105,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),134,3001204
+30,C105,T,MMRp,cE07 (Goblet/Enterocyte),1,13301
+31,C105,T,MMRp,cE08 (Goblet),1,1256
+32,C106,N,,cE01 (Stem/TA-like),186,1835049
+33,C106,N,,cE04 (Enterocyte 1),162,1277963
+34,C106,N,,cE05 (Enterocyte 2),290,3502786
+35,C106,N,,cE08 (Goblet),144,852937
+36,C106,N,,cE09 (Best4),34,316089
+37,C106,N,,cE02 (Stem/TA-like/Immature Goblet),56,1453863
+38,C106,N,,cE03 (Stem/TA-like prolif),97,1482553
+39,C106,N,,cE10 (Tuft),36,89809
+40,C106,N,,cE06 (Immature Goblet),43,210774
+41,C106,N,,cE07 (Goblet/Enterocyte),9,121583
+42,C106,N,,cE11 (Enteroendocrine),5,21691
+43,C106,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),305,3623035
+44,C106,T,MMRd,cE06 (Immature Goblet),167,795019
+45,C106,T,MMRd,cE01 (Stem/TA-like),397,1840344
+46,C106,T,MMRd,cE03 (Stem/TA-like prolif),155,1426770
+47,C106,T,MMRd,cE08 (Goblet),52,171477
+48,C106,T,MMRd,cE04 (Enterocyte 1),17,90558
+49,C106,T,MMRd,cE05 (Enterocyte 2),22,42815
+50,C106,T,MMRd,cE09 (Best4),2,5997
+51,C106,T,MMRd,cE11 (Enteroendocrine),2,14134
+52,C106,T,MMRd,cE10 (Tuft),4,11951
+53,C107,N,,cE06 (Immature Goblet),84,421210
+54,C107,N,,cE04 (Enterocyte 1),61,377253
+55,C107,N,,cE01 (Stem/TA-like),394,4512690
+56,C107,N,,cE10 (Tuft),30,64557
+57,C107,N,,cE02 (Stem/TA-like/Immature Goblet),139,2864963
+58,C107,N,,cE03 (Stem/TA-like prolif),199,3288736
+59,C107,N,,cE05 (Enterocyte 2),120,1536487
+60,C107,N,,cE09 (Best4),56,486757
+61,C107,N,,cE08 (Goblet),67,247514
+62,C107,N,,cE07 (Goblet/Enterocyte),6,76824
+63,C107,T,MMRp,cE03 (Stem/TA-like prolif),1063,54873686
+64,C107,T,MMRp,cE06 (Immature Goblet),58,1504767
+65,C107,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),128,7805027
+66,C107,T,MMRp,cE01 (Stem/TA-like),778,23532518
+67,C107,T,MMRp,cE10 (Tuft),60,281604
+68,C107,T,MMRp,cE05 (Enterocyte 2),68,228386
+69,C107,T,MMRp,cE04 (Enterocyte 1),68,566515
+70,C107,T,MMRp,cE08 (Goblet),28,116679
+71,C107,T,MMRp,cE07 (Goblet/Enterocyte),4,31064
+72,C107,T,MMRp,cE11 (Enteroendocrine),2,18165
+73,C107,T,MMRp,cE09 (Best4),2,1831
+74,C109,N,,cE04 (Enterocyte 1),208,1572208
+75,C109,N,,cE10 (Tuft),31,74547
+76,C109,N,,cE01 (Stem/TA-like),336,5086608
+77,C109,N,,cE05 (Enterocyte 2),496,7025210
+78,C109,N,,cE03 (Stem/TA-like prolif),90,1870697
+79,C109,N,,cE09 (Best4),251,2289011
+80,C109,N,,cE02 (Stem/TA-like/Immature Goblet),30,1018326
+81,C109,N,,cE08 (Goblet),57,224781
+82,C109,N,,cE06 (Immature Goblet),41,253146
+83,C109,N,,cE11 (Enteroendocrine),6,21085
+84,C109,N,,cE07 (Goblet/Enterocyte),9,146950
+85,C109,T,MMRd,cE03 (Stem/TA-like prolif),393,10399873
+86,C109,T,MMRd,cE01 (Stem/TA-like),1041,19495816
+87,C109,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),13,790943
+88,C109,T,MMRd,cE04 (Enterocyte 1),33,462499
+89,C109,T,MMRd,cE06 (Immature Goblet),13,93699
+90,C109,T,MMRd,cE05 (Enterocyte 2),24,385168
+91,C109,T,MMRd,cE08 (Goblet),2,7544
+92,C109,T,MMRd,cE11 (Enteroendocrine),2,30617
+93,C110,N,,cE01 (Stem/TA-like),202,2386132
+94,C110,N,,cE05 (Enterocyte 2),159,1458979
+95,C110,N,,cE09 (Best4),55,398087
+96,C110,N,,cE04 (Enterocyte 1),59,442170
+97,C110,N,,cE10 (Tuft),50,74524
+98,C110,N,,cE06 (Immature Goblet),24,117553
+99,C110,N,,cE03 (Stem/TA-like prolif),48,787433
+100,C110,N,,cE08 (Goblet),14,46127
+101,C110,N,,cE02 (Stem/TA-like/Immature Goblet),17,332394
+102,C110,N,,cE11 (Enteroendocrine),2,10526
+103,C110,N,,cE07 (Goblet/Enterocyte),1,12197
+104,C110,T,MMRd,cE03 (Stem/TA-like prolif),342,8494506
+105,C110,T,MMRd,cE01 (Stem/TA-like),147,2066219
+106,C110,T,MMRd,cE05 (Enterocyte 2),4,6002
+107,C110,T,MMRd,cE08 (Goblet),106,790327
+108,C110,T,MMRd,cE06 (Immature Goblet),72,929556
+109,C110,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),78,2283299
+110,C110,T,MMRd,cE09 (Best4),9,70674
+111,C110,T,MMRd,cE04 (Enterocyte 1),4,30820
+112,C110,T,MMRd,cE10 (Tuft),24,39379
+113,C110,T,MMRd,cE11 (Enteroendocrine),5,20323
+114,C111,N,,cE02 (Stem/TA-like/Immature Goblet),78,2211296
+115,C111,N,,cE04 (Enterocyte 1),143,1184360
+116,C111,N,,cE09 (Best4),22,254412
+117,C111,N,,cE08 (Goblet),102,829670
+118,C111,N,,cE03 (Stem/TA-like prolif),69,1493158
+119,C111,N,,cE07 (Goblet/Enterocyte),48,773616
+120,C111,N,,cE05 (Enterocyte 2),89,1459368
+121,C111,N,,cE01 (Stem/TA-like),115,1694990
+122,C111,N,,cE10 (Tuft),16,31726
+123,C111,N,,cE06 (Immature Goblet),64,651041
+124,C111,T,MMRd,cE01 (Stem/TA-like),413,8454563
+125,C111,T,MMRd,cE05 (Enterocyte 2),26,30485
+126,C111,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),35,1492719
+127,C111,T,MMRd,cE03 (Stem/TA-like prolif),114,3075316
+128,C111,T,MMRd,cE08 (Goblet),41,361115
+129,C111,T,MMRd,cE06 (Immature Goblet),17,103782
+130,C111,T,MMRd,cE11 (Enteroendocrine),2,22162
+131,C111,T,MMRd,cE04 (Enterocyte 1),3,36697
+132,C111,T,MMRd,cE10 (Tuft),1,5671
+133,C111,T,MMRd,cE09 (Best4),1,7918
+134,C112,N,,cE01 (Stem/TA-like),183,2423323
+135,C112,N,,cE06 (Immature Goblet),60,299221
+136,C112,N,,cE05 (Enterocyte 2),119,1712869
+137,C112,N,,cE07 (Goblet/Enterocyte),29,583247
+138,C112,N,,cE02 (Stem/TA-like/Immature Goblet),66,1668764
+139,C112,N,,cE09 (Best4),88,1059325
+140,C112,N,,cE04 (Enterocyte 1),82,1038260
+141,C112,N,,cE10 (Tuft),16,29719
+142,C112,N,,cE03 (Stem/TA-like prolif),27,510361
+143,C112,N,,cE08 (Goblet),72,449844
+144,C112,N,,cE11 (Enteroendocrine),1,7739
+145,C112,T,MMRp,cE03 (Stem/TA-like prolif),380,8440831
+146,C112,T,MMRp,cE01 (Stem/TA-like),1348,25155906
+147,C112,T,MMRp,cE04 (Enterocyte 1),19,183327
+148,C112,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),3,57787
+149,C112,T,MMRp,cE05 (Enterocyte 2),13,91601
+150,C112,T,MMRp,cE10 (Tuft),10,15991
+151,C112,T,MMRp,cE08 (Goblet),1,1775
+152,C112,T,MMRp,cE09 (Best4),1,17398
+153,C112,T,MMRp,cE07 (Goblet/Enterocyte),1,36330
+154,C113,N,,cE05 (Enterocyte 2),81,480551
+155,C113,N,,cE08 (Goblet),26,137024
+156,C113,N,,cE06 (Immature Goblet),37,105698
+157,C113,N,,cE03 (Stem/TA-like prolif),12,166807
+158,C113,N,,cE09 (Best4),35,315290
+159,C113,N,,cE01 (Stem/TA-like),86,867586
+160,C113,N,,cE10 (Tuft),42,70144
+161,C113,N,,cE11 (Enteroendocrine),1,3166
+162,C113,N,,cE02 (Stem/TA-like/Immature Goblet),7,179067
+163,C113,N,,cE04 (Enterocyte 1),42,166266
+164,C113,N,,cE07 (Goblet/Enterocyte),2,19842
+165,C113,T,MMRp,cE03 (Stem/TA-like prolif),561,23884898
+166,C113,T,MMRp,cE05 (Enterocyte 2),218,891117
+167,C113,T,MMRp,cE01 (Stem/TA-like),1535,33119966
+168,C113,T,MMRp,cE04 (Enterocyte 1),75,736376
+169,C113,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),318,11470002
+170,C113,T,MMRp,cE06 (Immature Goblet),133,937360
+171,C113,T,MMRp,cE08 (Goblet),34,182187
+172,C113,T,MMRp,cE07 (Goblet/Enterocyte),7,125750
+173,C113,T,MMRp,cE09 (Best4),16,121222
+174,C113,T,MMRp,cE10 (Tuft),14,90391
+175,C113,T,MMRp,cE11 (Enteroendocrine),15,93681
+176,C114,N,,cE05 (Enterocyte 2),118,1618382
+177,C114,N,,cE02 (Stem/TA-like/Immature Goblet),56,2052470
+178,C114,N,,cE09 (Best4),36,468359
+179,C114,N,,cE04 (Enterocyte 1),57,553910
+180,C114,N,,cE06 (Immature Goblet),29,188888
+181,C114,N,,cE08 (Goblet),17,112591
+182,C114,N,,cE01 (Stem/TA-like),90,1284105
+183,C114,N,,cE10 (Tuft),25,31027
+184,C114,N,,cE03 (Stem/TA-like prolif),64,1593583
+185,C114,N,,cE07 (Goblet/Enterocyte),5,135661
+186,C114,T,MMRd,cE03 (Stem/TA-like prolif),418,11347982
+187,C114,T,MMRd,cE08 (Goblet),12,79890
+188,C114,T,MMRd,cE05 (Enterocyte 2),95,626383
+189,C114,T,MMRd,cE06 (Immature Goblet),125,1126860
+190,C114,T,MMRd,cE10 (Tuft),16,24470
+191,C114,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),458,24096693
+192,C114,T,MMRd,cE01 (Stem/TA-like),348,4873210
+193,C114,T,MMRd,cE07 (Goblet/Enterocyte),5,74108
+194,C114,T,MMRd,cE04 (Enterocyte 1),35,315902
+195,C114,T,MMRd,cE09 (Best4),10,97497
+196,C114,T,MMRd,cE11 (Enteroendocrine),1,1814
+197,C115,N,,cE01 (Stem/TA-like),81,992924
+198,C115,N,,cE04 (Enterocyte 1),49,462566
+199,C115,N,,cE02 (Stem/TA-like/Immature Goblet),8,308120
+200,C115,N,,cE09 (Best4),78,766295
+201,C115,N,,cE06 (Immature Goblet),7,15105
+202,C115,N,,cE10 (Tuft),6,13927
+203,C115,N,,cE03 (Stem/TA-like prolif),18,291151
+204,C115,N,,cE05 (Enterocyte 2),53,701045
+205,C115,N,,cE08 (Goblet),8,32842
+206,C115,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),114,4495422
+207,C115,T,MMRd,cE06 (Immature Goblet),70,706572
+208,C115,T,MMRd,cE01 (Stem/TA-like),185,1494500
+209,C115,T,MMRd,cE03 (Stem/TA-like prolif),178,3412128
+210,C115,T,MMRd,cE05 (Enterocyte 2),13,23182
+211,C115,T,MMRd,cE08 (Goblet),1,1188
+212,C115,T,MMRd,cE10 (Tuft),1,5535
+213,C116,N,,cE04 (Enterocyte 1),151,2079247
+214,C116,N,,cE07 (Goblet/Enterocyte),52,770846
+215,C116,N,,cE03 (Stem/TA-like prolif),271,4023963
+216,C116,N,,cE10 (Tuft),21,42606
+217,C116,N,,cE05 (Enterocyte 2),204,2818308
+218,C116,N,,cE01 (Stem/TA-like),229,2026013
+219,C116,N,,cE11 (Enteroendocrine),4,15983
+220,C116,N,,cE08 (Goblet),69,425405
+221,C116,N,,cE02 (Stem/TA-like/Immature Goblet),99,2615482
+222,C116,N,,cE09 (Best4),67,1143109
+223,C116,N,,cE06 (Immature Goblet),58,349587
+224,C116,T,MMRd,cE03 (Stem/TA-like prolif),304,7609579
+225,C116,T,MMRd,cE01 (Stem/TA-like),349,4427254
+226,C116,T,MMRd,cE05 (Enterocyte 2),74,396423
+227,C116,T,MMRd,cE04 (Enterocyte 1),24,192593
+228,C116,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),114,3341560
+229,C116,T,MMRd,cE06 (Immature Goblet),45,386043
+230,C116,T,MMRd,cE10 (Tuft),2,2915
+231,C116,T,MMRd,cE08 (Goblet),7,28028
+232,C116,T,MMRd,cE09 (Best4),2,58071
+233,C118,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),142,4886814
+234,C118,T,MMRd,cE08 (Goblet),138,1162855
+235,C118,T,MMRd,cE03 (Stem/TA-like prolif),282,7873707
+236,C118,T,MMRd,cE01 (Stem/TA-like),515,8934050
+237,C118,T,MMRd,cE06 (Immature Goblet),64,676409
+238,C118,T,MMRd,cE04 (Enterocyte 1),24,138636
+239,C118,T,MMRd,cE10 (Tuft),6,27740
+240,C118,T,MMRd,cE05 (Enterocyte 2),21,40140
+241,C118,T,MMRd,cE09 (Best4),6,54143
+242,C118,T,MMRd,cE11 (Enteroendocrine),2,3655
+243,C119,N,,cE05 (Enterocyte 2),8,42135
+244,C119,N,,cE08 (Goblet),2,7019
+245,C119,N,,cE04 (Enterocyte 1),11,58662
+246,C119,N,,cE09 (Best4),1,1075
+247,C119,T,MMRd,cE01 (Stem/TA-like),468,4503434
+248,C119,T,MMRd,cE03 (Stem/TA-like prolif),421,9762709
+249,C119,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),109,3704124
+250,C119,T,MMRd,cE06 (Immature Goblet),14,80551
+251,C119,T,MMRd,cE05 (Enterocyte 2),11,20668
+252,C119,T,MMRd,cE10 (Tuft),8,15415
+253,C119,T,MMRd,cE04 (Enterocyte 1),1,21243
+254,C119,T,MMRd,cE11 (Enteroendocrine),1,1632
+255,C119,T,MMRd,cE09 (Best4),1,1274
+256,C122,N,,cE05 (Enterocyte 2),516,6045735
+257,C122,N,,cE01 (Stem/TA-like),527,5273972
+258,C122,N,,cE02 (Stem/TA-like/Immature Goblet),405,9640034
+259,C122,N,,cE08 (Goblet),207,939566
+260,C122,N,,cE10 (Tuft),68,147771
+261,C122,N,,cE09 (Best4),96,1034950
+262,C122,N,,cE04 (Enterocyte 1),224,1488122
+263,C122,N,,cE03 (Stem/TA-like prolif),132,1981174
+264,C122,N,,cE06 (Immature Goblet),303,1593295
+265,C122,N,,cE07 (Goblet/Enterocyte),77,959842
+266,C122,N,,cE11 (Enteroendocrine),6,31119
+267,C122,T,MMRd,cE04 (Enterocyte 1),96,987135
+268,C122,T,MMRd,cE03 (Stem/TA-like prolif),585,16010992
+269,C122,T,MMRd,cE05 (Enterocyte 2),152,1970964
+270,C122,T,MMRd,cE01 (Stem/TA-like),1109,17209384
+271,C122,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),59,2737629
+272,C122,T,MMRd,cE06 (Immature Goblet),62,432784
+273,C122,T,MMRd,cE08 (Goblet),17,73319
+274,C122,T,MMRd,cE11 (Enteroendocrine),1,7345
+275,C122,T,MMRd,cE10 (Tuft),18,47700
+276,C122,T,MMRd,cE09 (Best4),6,93122
+277,C122,T,MMRd,cE07 (Goblet/Enterocyte),14,138209
+278,C123,N,,cE01 (Stem/TA-like),793,6270332
+279,C123,N,,cE06 (Immature Goblet),184,692566
+280,C123,N,,cE08 (Goblet),98,416804
+281,C123,N,,cE05 (Enterocyte 2),345,3232868
+282,C123,N,,cE02 (Stem/TA-like/Immature Goblet),261,4234876
+283,C123,N,,cE03 (Stem/TA-like prolif),308,2885683
+284,C123,N,,cE04 (Enterocyte 1),179,1309413
+285,C123,N,,cE10 (Tuft),43,108826
+286,C123,N,,cE07 (Goblet/Enterocyte),31,413955
+287,C123,N,,cE09 (Best4),91,810990
+288,C123,N,,cE11 (Enteroendocrine),4,14197
+289,C123,T,MMRd,cE01 (Stem/TA-like),1507,17673792
+290,C123,T,MMRd,cE03 (Stem/TA-like prolif),2155,42094747
+291,C123,T,MMRd,cE08 (Goblet),28,130311
+292,C123,T,MMRd,cE04 (Enterocyte 1),158,1240292
+293,C123,T,MMRd,cE05 (Enterocyte 2),96,430376
+294,C123,T,MMRd,cE10 (Tuft),68,256272
+295,C123,T,MMRd,cE11 (Enteroendocrine),29,138874
+296,C123,T,MMRd,cE09 (Best4),39,399211
+297,C123,T,MMRd,cE06 (Immature Goblet),12,85239
+298,C123,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),24,497786
+299,C123,T,MMRd,cE07 (Goblet/Enterocyte),3,37024
+300,C124,N,,cE09 (Best4),2960,35941995
+301,C124,N,,cE02 (Stem/TA-like/Immature Goblet),530,17900398
+302,C124,N,,cE01 (Stem/TA-like),916,11859049
+303,C124,N,,cE10 (Tuft),153,277568
+304,C124,N,,cE04 (Enterocyte 1),1104,9444687
+305,C124,N,,cE05 (Enterocyte 2),668,7461949
+306,C124,N,,cE08 (Goblet),212,1314755
+307,C124,N,,cE03 (Stem/TA-like prolif),662,11638281
+308,C124,N,,cE06 (Immature Goblet),490,3359368
+309,C124,N,,cE07 (Goblet/Enterocyte),102,1642427
+310,C124,N,,cE11 (Enteroendocrine),15,78000
+311,C124,T,MMRp,cE04 (Enterocyte 1),85,469512
+312,C124,T,MMRp,cE01 (Stem/TA-like),292,3717497
+313,C124,T,MMRp,cE06 (Immature Goblet),122,1276024
+314,C124,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),275,9806912
+315,C124,T,MMRp,cE03 (Stem/TA-like prolif),48,1032417
+316,C124,T,MMRp,cE05 (Enterocyte 2),142,907169
+317,C124,T,MMRp,cE09 (Best4),18,139351
+318,C124,T,MMRp,cE08 (Goblet),23,121161
+319,C124,T,MMRp,cE11 (Enteroendocrine),1,4075
+320,C124,T,MMRp,cE10 (Tuft),8,16886
+321,C124,T,MMRp,cE07 (Goblet/Enterocyte),8,114078
+322,C125,N,,cE08 (Goblet),231,864764
+323,C125,N,,cE03 (Stem/TA-like prolif),190,2704298
+324,C125,N,,cE01 (Stem/TA-like),1193,13521751
+325,C125,N,,cE06 (Immature Goblet),219,1070721
+326,C125,N,,cE04 (Enterocyte 1),599,3350401
+327,C125,N,,cE05 (Enterocyte 2),616,6339578
+328,C125,N,,cE09 (Best4),523,4033217
+329,C125,N,,cE02 (Stem/TA-like/Immature Goblet),239,5317244
+330,C125,N,,cE07 (Goblet/Enterocyte),83,777716
+331,C125,N,,cE10 (Tuft),62,207326
+332,C125,N,,cE11 (Enteroendocrine),2,16975
+333,C125,T,MMRp,cE03 (Stem/TA-like prolif),709,23602266
+334,C125,T,MMRp,cE01 (Stem/TA-like),1163,23728264
+335,C125,T,MMRp,cE05 (Enterocyte 2),72,817961
+336,C125,T,MMRp,cE11 (Enteroendocrine),6,71773
+337,C125,T,MMRp,cE10 (Tuft),7,26931
+338,C125,T,MMRp,cE06 (Immature Goblet),33,326083
+339,C125,T,MMRp,cE04 (Enterocyte 1),66,489713
+340,C125,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),22,701294
+341,C125,T,MMRp,cE07 (Goblet/Enterocyte),7,50519
+342,C125,T,MMRp,cE08 (Goblet),27,149247
+343,C125,T,MMRp,cE09 (Best4),2,32320
+344,C126,N,,cE03 (Stem/TA-like prolif),232,3712497
+345,C126,N,,cE06 (Immature Goblet),241,991208
+346,C126,N,,cE01 (Stem/TA-like),1350,16159579
+347,C126,N,,cE04 (Enterocyte 1),360,2940380
+348,C126,N,,cE08 (Goblet),229,909629
+349,C126,N,,cE05 (Enterocyte 2),901,11234841
+350,C126,N,,cE02 (Stem/TA-like/Immature Goblet),454,9304139
+351,C126,N,,cE07 (Goblet/Enterocyte),91,1376670
+352,C126,N,,cE09 (Best4),140,1438953
+353,C126,N,,cE10 (Tuft),55,121443
+354,C126,N,,cE11 (Enteroendocrine),1,12801
+355,C126,T,MMRp,cE01 (Stem/TA-like),542,10176890
+356,C126,T,MMRp,cE03 (Stem/TA-like prolif),195,4729442
+357,C126,T,MMRp,cE06 (Immature Goblet),50,452607
+358,C126,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),99,4190262
+359,C126,T,MMRp,cE08 (Goblet),11,88863
+360,C126,T,MMRp,cE04 (Enterocyte 1),10,65309
+361,C126,T,MMRp,cE09 (Best4),6,25778
+362,C126,T,MMRp,cE05 (Enterocyte 2),38,254676
+363,C126,T,MMRp,cE10 (Tuft),5,27907
+364,C129,N,,cE10 (Tuft),26,34313
+365,C129,N,,cE06 (Immature Goblet),240,624512
+366,C129,N,,cE08 (Goblet),201,675585
+367,C129,N,,cE03 (Stem/TA-like prolif),57,434067
+368,C129,N,,cE01 (Stem/TA-like),210,1058757
+369,C129,N,,cE05 (Enterocyte 2),104,473444
+370,C129,N,,cE02 (Stem/TA-like/Immature Goblet),33,495829
+371,C129,N,,cE09 (Best4),56,286092
+372,C129,N,,cE04 (Enterocyte 1),70,322672
+373,C129,N,,cE07 (Goblet/Enterocyte),5,44863
+374,C129,N,,cE11 (Enteroendocrine),4,8788
+375,C129,T,MMRp,cE01 (Stem/TA-like),1202,21098679
+376,C129,T,MMRp,cE03 (Stem/TA-like prolif),1252,50571069
+377,C129,T,MMRp,cE06 (Immature Goblet),111,605718
+378,C129,T,MMRp,cE05 (Enterocyte 2),142,1019446
+379,C129,T,MMRp,cE04 (Enterocyte 1),170,963540
+380,C129,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),116,2837676
+381,C129,T,MMRp,cE09 (Best4),34,315182
+382,C129,T,MMRp,cE08 (Goblet),44,166605
+383,C129,T,MMRp,cE10 (Tuft),29,44819
+384,C129,T,MMRp,cE11 (Enteroendocrine),5,51217
+385,C129,T,MMRp,cE07 (Goblet/Enterocyte),20,221517
+386,C130,N,,cE04 (Enterocyte 1),79,508391
+387,C130,N,,cE06 (Immature Goblet),342,1649910
+388,C130,N,,cE09 (Best4),217,2309722
+389,C130,N,,cE01 (Stem/TA-like),601,7341180
+390,C130,N,,cE05 (Enterocyte 2),280,3465948
+391,C130,N,,cE08 (Goblet),45,160962
+392,C130,N,,cE10 (Tuft),32,59003
+393,C130,N,,cE03 (Stem/TA-like prolif),189,2988573
+394,C130,N,,cE02 (Stem/TA-like/Immature Goblet),269,6246199
+395,C130,N,,cE11 (Enteroendocrine),3,8412
+396,C130,N,,cE07 (Goblet/Enterocyte),8,138038
+397,C130,T,MMRd,cE03 (Stem/TA-like prolif),2122,51793616
+398,C130,T,MMRd,cE06 (Immature Goblet),63,412832
+399,C130,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),307,9333606
+400,C130,T,MMRd,cE10 (Tuft),21,21837
+401,C130,T,MMRd,cE05 (Enterocyte 2),50,167225
+402,C130,T,MMRd,cE01 (Stem/TA-like),567,5102822
+403,C130,T,MMRd,cE08 (Goblet),49,276743
+404,C130,T,MMRd,cE09 (Best4),14,40887
+405,C130,T,MMRd,cE04 (Enterocyte 1),32,168410
+406,C130,T,MMRd,cE11 (Enteroendocrine),4,10182
+407,C132,N,,cE01 (Stem/TA-like),470,790339
+408,C132,N,,cE05 (Enterocyte 2),191,345968
+409,C132,N,,cE03 (Stem/TA-like prolif),49,176546
+410,C132,N,,cE04 (Enterocyte 1),33,37068
+411,C132,N,,cE10 (Tuft),153,215145
+412,C132,N,,cE06 (Immature Goblet),64,166981
+413,C132,N,,cE02 (Stem/TA-like/Immature Goblet),1,5433
+414,C132,N,,cE09 (Best4),12,78118
+415,C132,N,,cE11 (Enteroendocrine),1,5005
+416,C132,N,,cE08 (Goblet),1,3111
+417,C132,T,MMRd,cE03 (Stem/TA-like prolif),555,21253423
+418,C132,T,MMRd,cE01 (Stem/TA-like),792,15660028
+419,C132,T,MMRd,cE04 (Enterocyte 1),6,68217
+420,C132,T,MMRd,cE05 (Enterocyte 2),11,171366
+421,C132,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),1,12871
+422,C132,T,MMRd,cE06 (Immature Goblet),2,26694
+423,C133,N,,cE04 (Enterocyte 1),164,1023108
+424,C133,N,,cE08 (Goblet),146,657170
+425,C133,N,,cE05 (Enterocyte 2),92,593011
+426,C133,N,,cE09 (Best4),50,224479
+427,C133,N,,cE03 (Stem/TA-like prolif),23,257889
+428,C133,N,,cE11 (Enteroendocrine),2,5259
+429,C133,N,,cE10 (Tuft),12,16681
+430,C133,N,,cE01 (Stem/TA-like),43,263346
+431,C133,N,,cE06 (Immature Goblet),30,78058
+432,C133,N,,cE07 (Goblet/Enterocyte),38,436990
+433,C133,N,,cE02 (Stem/TA-like/Immature Goblet),8,115620
+434,C133,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),347,8151337
+435,C133,T,MMRp,cE06 (Immature Goblet),193,2810075
+436,C133,T,MMRp,cE11 (Enteroendocrine),6,38750
+437,C133,T,MMRp,cE01 (Stem/TA-like),134,1475913
+438,C133,T,MMRp,cE03 (Stem/TA-like prolif),216,4015262
+439,C133,T,MMRp,cE10 (Tuft),51,314365
+440,C133,T,MMRp,cE09 (Best4),20,150700
+441,C133,T,MMRp,cE08 (Goblet),18,99080
+442,C133,T,MMRp,cE04 (Enterocyte 1),8,63419
+443,C133,T,MMRp,cE05 (Enterocyte 2),11,35417
+444,C133,T,MMRp,cE07 (Goblet/Enterocyte),1,12683
+445,C134,N,,cE04 (Enterocyte 1),334,2301020
+446,C134,N,,cE03 (Stem/TA-like prolif),107,2290985
+447,C134,N,,cE05 (Enterocyte 2),457,6751235
+448,C134,N,,cE01 (Stem/TA-like),380,6165784
+449,C134,N,,cE08 (Goblet),62,238848
+450,C134,N,,cE02 (Stem/TA-like/Immature Goblet),94,2366908
+451,C134,N,,cE06 (Immature Goblet),83,712475
+452,C134,N,,cE09 (Best4),40,503971
+453,C134,N,,cE10 (Tuft),16,42265
+454,C134,N,,cE07 (Goblet/Enterocyte),25,222360
+455,C134,N,,cE11 (Enteroendocrine),3,8401
+456,C134,T,MMRp,cE01 (Stem/TA-like),1108,16282670
+457,C134,T,MMRp,cE03 (Stem/TA-like prolif),99,2468380
+458,C134,T,MMRp,cE06 (Immature Goblet),11,64151
+459,C134,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),7,151148
+460,C134,T,MMRp,cE10 (Tuft),4,22947
+461,C134,T,MMRp,cE05 (Enterocyte 2),2,4301
+462,C134,T,MMRp,cE09 (Best4),1,3622
+463,C135,N,,cE01 (Stem/TA-like),179,1946672
+464,C135,N,,cE06 (Immature Goblet),76,318080
+465,C135,N,,cE02 (Stem/TA-like/Immature Goblet),85,2172936
+466,C135,N,,cE05 (Enterocyte 2),109,1253452
+467,C135,N,,cE08 (Goblet),31,119660
+468,C135,N,,cE04 (Enterocyte 1),56,478622
+469,C135,N,,cE09 (Best4),43,448751
+470,C135,N,,cE03 (Stem/TA-like prolif),63,979114
+471,C135,N,,cE07 (Goblet/Enterocyte),5,59099
+472,C135,N,,cE10 (Tuft),25,53174
+473,C135,T,MMRp,cE01 (Stem/TA-like),815,9228282
+474,C135,T,MMRp,cE03 (Stem/TA-like prolif),204,4472318
+475,C135,T,MMRp,cE05 (Enterocyte 2),23,25942
+476,C135,T,MMRp,cE06 (Immature Goblet),5,4034
+477,C135,T,MMRp,cE11 (Enteroendocrine),8,28299
+478,C135,T,MMRp,cE09 (Best4),8,18411
+479,C135,T,MMRp,cE10 (Tuft),4,11445
+480,C135,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),1,4592
+481,C135,T,MMRp,cE08 (Goblet),1,7299
+482,C136,N,,cE03 (Stem/TA-like prolif),382,4771823
+483,C136,N,,cE04 (Enterocyte 1),459,1407211
+484,C136,N,,cE05 (Enterocyte 2),684,3713105
+485,C136,N,,cE01 (Stem/TA-like),412,2914008
+486,C136,N,,cE11 (Enteroendocrine),5,15569
+487,C136,N,,cE06 (Immature Goblet),111,413163
+488,C136,N,,cE08 (Goblet),30,110397
+489,C136,N,,cE02 (Stem/TA-like/Immature Goblet),128,2357596
+490,C136,N,,cE09 (Best4),165,1095548
+491,C136,N,,cE07 (Goblet/Enterocyte),14,76646
+492,C136,N,,cE10 (Tuft),3,6925
+493,C136,T,MMRp,cE01 (Stem/TA-like),982,23054331
+494,C136,T,MMRp,cE03 (Stem/TA-like prolif),423,13489594
+495,C136,T,MMRp,cE05 (Enterocyte 2),9,39419
+496,C136,T,MMRp,cE06 (Immature Goblet),3,48629
+497,C136,T,MMRp,cE04 (Enterocyte 1),4,39992
+498,C136,T,MMRp,cE11 (Enteroendocrine),4,60623
+499,C136,T,MMRp,cE10 (Tuft),3,17079
+500,C136,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),3,121461
+501,C137,N,,cE09 (Best4),29,155092
+502,C137,N,,cE08 (Goblet),25,67905
+503,C137,N,,cE01 (Stem/TA-like),307,2358763
+504,C137,N,,cE06 (Immature Goblet),64,167984
+505,C137,N,,cE02 (Stem/TA-like/Immature Goblet),58,618084
+506,C137,N,,cE05 (Enterocyte 2),158,1192128
+507,C137,N,,cE03 (Stem/TA-like prolif),91,970699
+508,C137,N,,cE04 (Enterocyte 1),86,364640
+509,C137,N,,cE10 (Tuft),9,14930
+510,C137,N,,cE11 (Enteroendocrine),1,1228
+511,C137,N,,cE07 (Goblet/Enterocyte),1,15541
+512,C137,T,MMRd,cE03 (Stem/TA-like prolif),272,7018211
+513,C137,T,MMRd,cE01 (Stem/TA-like),434,7710826
+514,C137,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),10,199099
+515,C137,T,MMRd,cE06 (Immature Goblet),8,41340
+516,C137,T,MMRd,cE11 (Enteroendocrine),1,893
+517,C137,T,MMRd,cE09 (Best4),1,11626
+518,C137,T,MMRd,cE05 (Enterocyte 2),3,5147
+519,C137,T,MMRd,cE10 (Tuft),2,4367
+520,C137,T,MMRd,cE08 (Goblet),1,2273
+521,C138,N,,cE01 (Stem/TA-like),57,345064
+522,C138,N,,cE04 (Enterocyte 1),218,833880
+523,C138,N,,cE08 (Goblet),145,353869
+524,C138,N,,cE07 (Goblet/Enterocyte),59,461370
+525,C138,N,,cE05 (Enterocyte 2),76,405637
+526,C138,N,,cE03 (Stem/TA-like prolif),26,206683
+527,C138,N,,cE06 (Immature Goblet),27,58929
+528,C138,N,,cE02 (Stem/TA-like/Immature Goblet),8,136797
+529,C138,N,,cE09 (Best4),5,32475
+530,C138,N,,cE10 (Tuft),3,7531
+531,C138,T,MMRd,cE03 (Stem/TA-like prolif),61,583935
+532,C138,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),83,1757435
+533,C138,T,MMRd,cE01 (Stem/TA-like),242,2230019
+534,C138,T,MMRd,cE06 (Immature Goblet),63,432794
+535,C138,T,MMRd,cE04 (Enterocyte 1),3,12538
+536,C138,T,MMRd,cE10 (Tuft),8,45833
+537,C138,T,MMRd,cE05 (Enterocyte 2),6,7367
+538,C138,T,MMRd,cE11 (Enteroendocrine),2,3091
+539,C139,N,,cE02 (Stem/TA-like/Immature Goblet),132,2294152
+540,C139,N,,cE01 (Stem/TA-like),492,5396799
+541,C139,N,,cE09 (Best4),141,1320252
+542,C139,N,,cE05 (Enterocyte 2),336,3962737
+543,C139,N,,cE03 (Stem/TA-like prolif),194,2937079
+544,C139,N,,cE04 (Enterocyte 1),62,396985
+545,C139,N,,cE06 (Immature Goblet),82,334922
+546,C139,N,,cE07 (Goblet/Enterocyte),2,15094
+547,C139,N,,cE08 (Goblet),11,40913
+548,C139,N,,cE10 (Tuft),2,7824
+549,C139,T,MMRd,cE01 (Stem/TA-like),1334,15623601
+550,C139,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),150,3016233
+551,C139,T,MMRd,cE03 (Stem/TA-like prolif),995,17925481
+552,C139,T,MMRd,cE10 (Tuft),13,33134
+553,C139,T,MMRd,cE05 (Enterocyte 2),284,2755794
+554,C139,T,MMRd,cE04 (Enterocyte 1),172,1272768
+555,C139,T,MMRd,cE06 (Immature Goblet),143,672307
+556,C139,T,MMRd,cE09 (Best4),7,49623
+557,C139,T,MMRd,cE08 (Goblet),21,55945
+558,C139,T,MMRd,cE07 (Goblet/Enterocyte),2,28812
+559,C139,T,MMRd,cE11 (Enteroendocrine),4,18206
+560,C140,N,,cE08 (Goblet),360,1460055
+561,C140,N,,cE05 (Enterocyte 2),109,596062
+562,C140,N,,cE09 (Best4),73,407839
+563,C140,N,,cE01 (Stem/TA-like),253,1361532
+564,C140,N,,cE06 (Immature Goblet),210,875378
+565,C140,N,,cE07 (Goblet/Enterocyte),17,257341
+566,C140,N,,cE03 (Stem/TA-like prolif),31,219502
+567,C140,N,,cE04 (Enterocyte 1),55,348436
+568,C140,N,,cE10 (Tuft),18,30635
+569,C140,N,,cE02 (Stem/TA-like/Immature Goblet),30,411141
+570,C140,N,,cE11 (Enteroendocrine),6,12882
+571,C140,T,MMRp,cE01 (Stem/TA-like),1427,24837123
+572,C140,T,MMRp,cE03 (Stem/TA-like prolif),808,24944289
+573,C140,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),41,1606059
+574,C140,T,MMRp,cE05 (Enterocyte 2),44,450763
+575,C140,T,MMRp,cE04 (Enterocyte 1),39,402872
+576,C140,T,MMRp,cE06 (Immature Goblet),26,218975
+577,C140,T,MMRp,cE09 (Best4),1,5767
+578,C140,T,MMRp,cE11 (Enteroendocrine),5,41497
+579,C140,T,MMRp,cE08 (Goblet),5,42865
+580,C140,T,MMRp,cE10 (Tuft),1,12553
+581,C142,N,,cE03 (Stem/TA-like prolif),277,3995226
+582,C142,N,,cE01 (Stem/TA-like),370,3617410
+583,C142,N,,cE10 (Tuft),23,52404
+584,C142,N,,cE04 (Enterocyte 1),144,899573
+585,C142,N,,cE05 (Enterocyte 2),329,3662255
+586,C142,N,,cE02 (Stem/TA-like/Immature Goblet),66,943274
+587,C142,N,,cE09 (Best4),98,946917
+588,C142,N,,cE06 (Immature Goblet),66,165750
+589,C142,N,,cE08 (Goblet),13,49019
+590,C142,N,,cE07 (Goblet/Enterocyte),5,70789
+591,C142,N,,cE11 (Enteroendocrine),2,3397
+592,C142,T,MMRd,cE01 (Stem/TA-like),340,3969376
+593,C142,T,MMRd,cE03 (Stem/TA-like prolif),482,8533201
+594,C142,T,MMRd,cE05 (Enterocyte 2),265,1367805
+595,C142,T,MMRd,cE06 (Immature Goblet),73,820183
+596,C142,T,MMRd,cE04 (Enterocyte 1),105,1185323
+597,C142,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),61,1989333
+598,C142,T,MMRd,cE08 (Goblet),22,172100
+599,C142,T,MMRd,cE10 (Tuft),13,13217
+600,C142,T,MMRd,cE11 (Enteroendocrine),2,2207
+601,C142,T,MMRd,cE09 (Best4),16,195838
+602,C142,T,MMRd,cE07 (Goblet/Enterocyte),4,71333
+603,C143,N,,cE07 (Goblet/Enterocyte),66,940052
+604,C143,N,,cE10 (Tuft),101,204167
+605,C143,N,,cE03 (Stem/TA-like prolif),174,2566319
+606,C143,N,,cE05 (Enterocyte 2),289,2376569
+607,C143,N,,cE09 (Best4),266,2261898
+608,C143,N,,cE01 (Stem/TA-like),433,3487463
+609,C143,N,,cE02 (Stem/TA-like/Immature Goblet),197,3775956
+610,C143,N,,cE06 (Immature Goblet),316,1473140
+611,C143,N,,cE08 (Goblet),122,620609
+612,C143,N,,cE04 (Enterocyte 1),139,1060270
+613,C143,N,,cE11 (Enteroendocrine),1,7313
+614,C143,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),93,2750276
+615,C143,T,MMRd,cE01 (Stem/TA-like),499,5734810
+616,C143,T,MMRd,cE03 (Stem/TA-like prolif),594,13573679
+617,C143,T,MMRd,cE06 (Immature Goblet),49,257233
+618,C143,T,MMRd,cE04 (Enterocyte 1),22,183363
+619,C143,T,MMRd,cE07 (Goblet/Enterocyte),1,17063
+620,C143,T,MMRd,cE05 (Enterocyte 2),12,34706
+621,C143,T,MMRd,cE09 (Best4),5,30703
+622,C143,T,MMRd,cE10 (Tuft),1,2011
+623,C143,T,MMRd,cE08 (Goblet),2,15829
+624,C144,T,MMRd,cE01 (Stem/TA-like),262,2455819
+625,C144,T,MMRd,cE05 (Enterocyte 2),80,1077244
+626,C144,T,MMRd,cE06 (Immature Goblet),199,1342046
+627,C144,T,MMRd,cE03 (Stem/TA-like prolif),153,2480773
+628,C144,T,MMRd,cE08 (Goblet),39,199077
+629,C144,T,MMRd,cE09 (Best4),9,54705
+630,C144,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),136,3017133
+631,C144,T,MMRd,cE10 (Tuft),13,24717
+632,C144,T,MMRd,cE04 (Enterocyte 1),25,281385
+633,C144,T,MMRd,cE11 (Enteroendocrine),6,44599
+634,C145,T,MMRp,cE01 (Stem/TA-like),1196,22794667
+635,C145,T,MMRp,cE03 (Stem/TA-like prolif),227,4742586
+636,C145,T,MMRp,cE10 (Tuft),392,5293747
+637,C145,T,MMRp,cE05 (Enterocyte 2),8,13526
+638,C145,T,MMRp,cE06 (Immature Goblet),128,2277587
+639,C145,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),106,7592562
+640,C145,T,MMRp,cE11 (Enteroendocrine),82,639091
+641,C145,T,MMRp,cE08 (Goblet),3,9421
+642,C146,T,MMRd,cE01 (Stem/TA-like),726,7945399
+643,C146,T,MMRd,cE03 (Stem/TA-like prolif),669,13161759
+644,C146,T,MMRd,cE09 (Best4),9,44262
+645,C146,T,MMRd,cE05 (Enterocyte 2),20,149099
+646,C146,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),114,3730935
+647,C146,T,MMRd,cE06 (Immature Goblet),268,2911789
+648,C146,T,MMRd,cE10 (Tuft),12,35876
+649,C146,T,MMRd,cE08 (Goblet),47,306159
+650,C146,T,MMRd,cE11 (Enteroendocrine),13,84895
+651,C146,T,MMRd,cE04 (Enterocyte 1),11,62722
+652,C147,T,MMRd,cE01 (Stem/TA-like),763,10577904
+653,C147,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),689,19925693
+654,C147,T,MMRd,cE03 (Stem/TA-like prolif),426,9395374
+655,C147,T,MMRd,cE06 (Immature Goblet),150,966175
+656,C147,T,MMRd,cE09 (Best4),10,100938
+657,C147,T,MMRd,cE11 (Enteroendocrine),15,98912
+658,C147,T,MMRd,cE04 (Enterocyte 1),13,140335
+659,C147,T,MMRd,cE08 (Goblet),14,60202
+660,C147,T,MMRd,cE05 (Enterocyte 2),13,84363
+661,C147,T,MMRd,cE10 (Tuft),1,1593
+662,C147,T,MMRd,cE07 (Goblet/Enterocyte),2,44008
+663,C149,T,MMRp,cE01 (Stem/TA-like),650,11449262
+664,C149,T,MMRp,cE03 (Stem/TA-like prolif),289,6479061
+665,C149,T,MMRp,cE05 (Enterocyte 2),112,1617720
+666,C149,T,MMRp,cE06 (Immature Goblet),55,408331
+667,C149,T,MMRp,cE04 (Enterocyte 1),106,891271
+668,C149,T,MMRp,cE08 (Goblet),17,87552
+669,C149,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),60,1914454
+670,C149,T,MMRp,cE07 (Goblet/Enterocyte),6,78477
+671,C149,T,MMRp,cE10 (Tuft),6,4053
+672,C149,T,MMRp,cE11 (Enteroendocrine),1,985
+673,C150,T,MMRp,cE03 (Stem/TA-like prolif),536,15775518
+674,C150,T,MMRp,cE01 (Stem/TA-like),1209,30138694
+675,C150,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),15,734379
+676,C150,T,MMRp,cE06 (Immature Goblet),5,37105
+677,C150,T,MMRp,cE05 (Enterocyte 2),5,36235
+678,C150,T,MMRp,cE04 (Enterocyte 1),2,8349
+679,C150,T,MMRp,cE11 (Enteroendocrine),1,10480
+680,C150,T,MMRp,cE10 (Tuft),2,7202
+681,C151,N,,cE08 (Goblet),318,1970313
+682,C151,N,,cE04 (Enterocyte 1),305,2781048
+683,C151,N,,cE06 (Immature Goblet),497,3156598
+684,C151,N,,cE05 (Enterocyte 2),358,3802680
+685,C151,N,,cE09 (Best4),248,2071683
+686,C151,N,,cE02 (Stem/TA-like/Immature Goblet),221,4163933
+687,C151,N,,cE01 (Stem/TA-like),301,2231009
+688,C151,N,,cE03 (Stem/TA-like prolif),144,1689838
+689,C151,N,,cE07 (Goblet/Enterocyte),112,1731945
+690,C151,N,,cE10 (Tuft),107,211379
+691,C151,N,,cE11 (Enteroendocrine),5,14241
+692,C151,T,MMRd,cE01 (Stem/TA-like),150,3641030
+693,C151,T,MMRd,cE03 (Stem/TA-like prolif),173,7239928
+694,C151,T,MMRd,cE10 (Tuft),2,6273
+695,C151,T,MMRd,cE05 (Enterocyte 2),2,3931
+696,C151,T,MMRd,cE09 (Best4),2,18325
+697,C152,N,,cE01 (Stem/TA-like),169,847682
+698,C152,N,,cE04 (Enterocyte 1),230,774566
+699,C152,N,,cE03 (Stem/TA-like prolif),73,505945
+700,C152,N,,cE05 (Enterocyte 2),243,1052745
+701,C152,N,,cE09 (Best4),57,306890
+702,C152,N,,cE08 (Goblet),125,329846
+703,C152,N,,cE02 (Stem/TA-like/Immature Goblet),161,1062635
+704,C152,N,,cE07 (Goblet/Enterocyte),46,199977
+705,C152,N,,cE06 (Immature Goblet),117,306491
+706,C152,N,,cE10 (Tuft),3,5660
+707,C152,N,,cE11 (Enteroendocrine),2,3957
+708,C152,T,MMRd,cE05 (Enterocyte 2),36,224351
+709,C152,T,MMRd,cE03 (Stem/TA-like prolif),328,4631274
+710,C152,T,MMRd,cE11 (Enteroendocrine),2,12476
+711,C152,T,MMRd,cE01 (Stem/TA-like),394,3456832
+712,C152,T,MMRd,cE04 (Enterocyte 1),116,436290
+713,C152,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),66,1300940
+714,C152,T,MMRd,cE06 (Immature Goblet),83,398876
+715,C152,T,MMRd,cE09 (Best4),19,130845
+716,C152,T,MMRd,cE08 (Goblet),24,87292
+717,C152,T,MMRd,cE07 (Goblet/Enterocyte),7,40515
+718,C152,T,MMRd,cE10 (Tuft),2,3266
+719,C153,T,MMRp,cE03 (Stem/TA-like prolif),951,17272181
+720,C153,T,MMRp,cE01 (Stem/TA-like),1537,14356112
+721,C153,T,MMRp,cE05 (Enterocyte 2),23,145220
+722,C153,T,MMRp,cE04 (Enterocyte 1),68,246416
+723,C153,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),4,73650
+724,C153,T,MMRp,cE11 (Enteroendocrine),4,24449
+725,C153,T,MMRp,cE06 (Immature Goblet),9,42069
+726,C153,T,MMRp,cE08 (Goblet),2,15083
+727,C153,T,MMRp,cE10 (Tuft),15,36799
+728,C153,T,MMRp,cE09 (Best4),1,1025
+729,C154,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),874,44920585
+730,C154,T,MMRd,cE05 (Enterocyte 2),16,382409
+731,C154,T,MMRd,cE06 (Immature Goblet),484,9160173
+732,C154,T,MMRd,cE01 (Stem/TA-like),205,3522551
+733,C154,T,MMRd,cE03 (Stem/TA-like prolif),286,7601784
+734,C154,T,MMRd,cE08 (Goblet),15,139231
+735,C154,T,MMRd,cE09 (Best4),7,96173
+736,C154,T,MMRd,cE04 (Enterocyte 1),16,150076
+737,C154,T,MMRd,cE10 (Tuft),4,13606
+738,C154,T,MMRd,cE11 (Enteroendocrine),3,21179
+739,C154,T,MMRd,cE07 (Goblet/Enterocyte),1,6302
+740,C155,N,,cE06 (Immature Goblet),105,500787
+741,C155,N,,cE09 (Best4),222,1075465
+742,C155,N,,cE05 (Enterocyte 2),340,2267888
+743,C155,N,,cE01 (Stem/TA-like),188,1124638
+744,C155,N,,cE04 (Enterocyte 1),336,1612150
+745,C155,N,,cE03 (Stem/TA-like prolif),119,806316
+746,C155,N,,cE02 (Stem/TA-like/Immature Goblet),168,1906148
+747,C155,N,,cE08 (Goblet),158,920735
+748,C155,N,,cE07 (Goblet/Enterocyte),60,216671
+749,C155,N,,cE11 (Enteroendocrine),12,55371
+750,C155,N,,cE10 (Tuft),11,19200
+751,C155,T,MMRp,cE01 (Stem/TA-like),584,22457792
+752,C155,T,MMRp,cE03 (Stem/TA-like prolif),523,27272734
+753,C155,T,MMRp,cE08 (Goblet),8,174247
+754,C155,T,MMRp,cE04 (Enterocyte 1),18,378527
+755,C155,T,MMRp,cE05 (Enterocyte 2),90,2315361
+756,C155,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),96,10156939
+757,C155,T,MMRp,cE07 (Goblet/Enterocyte),1,125809
+758,C155,T,MMRp,cE09 (Best4),5,142554
+759,C155,T,MMRp,cE06 (Immature Goblet),101,3128829
+760,C155,T,MMRp,cE10 (Tuft),24,200693
+761,C155,T,MMRp,cE11 (Enteroendocrine),4,191427
+762,C156,T,MMRd,cE03 (Stem/TA-like prolif),281,15255241
+763,C156,T,MMRd,cE01 (Stem/TA-like),131,4467610
+764,C156,T,MMRd,cE06 (Immature Goblet),21,292633
+765,C156,T,MMRd,cE05 (Enterocyte 2),67,2320967
+766,C156,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),51,2821422
+767,C156,T,MMRd,cE04 (Enterocyte 1),47,1599309
+768,C156,T,MMRd,cE09 (Best4),3,186564
+769,C156,T,MMRd,cE11 (Enteroendocrine),17,336686
+770,C156,T,MMRd,cE10 (Tuft),16,109155
+771,C156,T,MMRd,cE08 (Goblet),6,163027
+772,C157,N,,cE06 (Immature Goblet),445,2686323
+773,C157,N,,cE11 (Enteroendocrine),26,114142
+774,C157,N,,cE08 (Goblet),770,7392544
+775,C157,N,,cE02 (Stem/TA-like/Immature Goblet),117,2821141
+776,C157,N,,cE09 (Best4),131,1514915
+777,C157,N,,cE01 (Stem/TA-like),103,1054197
+778,C157,N,,cE05 (Enterocyte 2),133,1605098
+779,C157,N,,cE03 (Stem/TA-like prolif),48,673304
+780,C157,N,,cE07 (Goblet/Enterocyte),102,1998007
+781,C157,N,,cE04 (Enterocyte 1),139,1489585
+782,C157,N,,cE10 (Tuft),10,20948
+783,C157,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),161,9887844
+784,C157,T,MMRp,cE03 (Stem/TA-like prolif),586,33585593
+785,C157,T,MMRp,cE01 (Stem/TA-like),1225,47965680
+786,C157,T,MMRp,cE11 (Enteroendocrine),13,303566
+787,C157,T,MMRp,cE08 (Goblet),100,2356436
+788,C157,T,MMRp,cE05 (Enterocyte 2),161,2950526
+789,C157,T,MMRp,cE06 (Immature Goblet),169,3837420
+790,C157,T,MMRp,cE09 (Best4),28,690094
+791,C157,T,MMRp,cE07 (Goblet/Enterocyte),6,267602
+792,C157,T,MMRp,cE10 (Tuft),12,139611
+793,C157,T,MMRp,cE04 (Enterocyte 1),69,1244987
+794,C158,T,MMRd,cE03 (Stem/TA-like prolif),254,15315752
+795,C158,T,MMRd,cE10 (Tuft),14,77292
+796,C158,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),304,18315190
+797,C158,T,MMRd,cE06 (Immature Goblet),117,3425512
+798,C158,T,MMRd,cE01 (Stem/TA-like),103,1840915
+799,C158,T,MMRd,cE05 (Enterocyte 2),3,8709
+800,C158,T,MMRd,cE08 (Goblet),13,318989
+801,C158,T,MMRd,cE11 (Enteroendocrine),6,92611
+802,C158,T,MMRd,cE09 (Best4),1,11380
+803,C159,T,MMRp,cE03 (Stem/TA-like prolif),448,37256132
+804,C159,T,MMRp,cE01 (Stem/TA-like),351,18422888
+805,C159,T,MMRp,cE05 (Enterocyte 2),17,356211
+806,C159,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),130,14292143
+807,C159,T,MMRp,cE08 (Goblet),1,29992
+808,C159,T,MMRp,cE11 (Enteroendocrine),21,714600
+809,C159,T,MMRp,cE06 (Immature Goblet),5,97135
+810,C159,T,MMRp,cE04 (Enterocyte 1),11,487562
+811,C160,T,MMRp,cE01 (Stem/TA-like),708,26323201
+812,C160,T,MMRp,cE03 (Stem/TA-like prolif),1386,78567958
+813,C160,T,MMRp,cE05 (Enterocyte 2),70,1854696
+814,C160,T,MMRp,cE11 (Enteroendocrine),21,423421
+815,C160,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),26,1599220
+816,C160,T,MMRp,cE06 (Immature Goblet),27,508804
+817,C160,T,MMRp,cE04 (Enterocyte 1),15,245534
+818,C160,T,MMRp,cE07 (Goblet/Enterocyte),3,187324
+819,C160,T,MMRp,cE08 (Goblet),9,123406
+820,C160,T,MMRp,cE09 (Best4),5,107872
+821,C160,T,MMRp,cE10 (Tuft),3,58785
+822,C161,T,MMRp,cE09 (Best4),2,32985
+823,C161,T,MMRp,cE01 (Stem/TA-like),1398,58006266
+824,C161,T,MMRp,cE03 (Stem/TA-like prolif),871,46529012
+825,C161,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),41,1566292
+826,C161,T,MMRp,cE11 (Enteroendocrine),3,75812
+827,C161,T,MMRp,cE04 (Enterocyte 1),23,623619
+828,C161,T,MMRp,cE06 (Immature Goblet),20,420345
+829,C161,T,MMRp,cE05 (Enterocyte 2),56,1817674
+830,C161,T,MMRp,cE08 (Goblet),4,66878
+831,C161,T,MMRp,cE10 (Tuft),5,76053
+832,C161,T,MMRp,cE07 (Goblet/Enterocyte),1,71981
+833,C162,N,,cE03 (Stem/TA-like prolif),54,922392
+834,C162,N,,cE08 (Goblet),423,2623110
+835,C162,N,,cE06 (Immature Goblet),138,1180864
+836,C162,N,,cE05 (Enterocyte 2),59,637516
+837,C162,N,,cE04 (Enterocyte 1),73,750262
+838,C162,N,,cE09 (Best4),66,731439
+839,C162,N,,cE01 (Stem/TA-like),52,553692
+840,C162,N,,cE02 (Stem/TA-like/Immature Goblet),54,1641070
+841,C162,N,,cE11 (Enteroendocrine),6,43168
+842,C162,N,,cE07 (Goblet/Enterocyte),24,418922
+843,C162,N,,cE10 (Tuft),24,31218
+844,C162,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),368,16851729
+845,C162,T,MMRp,cE01 (Stem/TA-like),4296,124900618
+846,C162,T,MMRp,cE03 (Stem/TA-like prolif),2107,101708515
+847,C162,T,MMRp,cE11 (Enteroendocrine),34,421917
+848,C162,T,MMRp,cE08 (Goblet),269,1613049
+849,C162,T,MMRp,cE10 (Tuft),540,5763596
+850,C162,T,MMRp,cE06 (Immature Goblet),525,4696854
+851,C162,T,MMRp,cE05 (Enterocyte 2),146,1793698
+852,C162,T,MMRp,cE04 (Enterocyte 1),98,1259268
+853,C162,T,MMRp,cE07 (Goblet/Enterocyte),21,343088
+854,C162,T,MMRp,cE09 (Best4),2,30173
+855,C163,T,MMRd,cE03 (Stem/TA-like prolif),690,14289072
+856,C163,T,MMRd,cE01 (Stem/TA-like),899,11926460
+857,C163,T,MMRd,cE05 (Enterocyte 2),153,1985059
+858,C163,T,MMRd,cE04 (Enterocyte 1),137,1233679
+859,C163,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),162,3161354
+860,C163,T,MMRd,cE06 (Immature Goblet),101,1021376
+861,C163,T,MMRd,cE08 (Goblet),29,148955
+862,C163,T,MMRd,cE10 (Tuft),21,43262
+863,C163,T,MMRd,cE09 (Best4),16,183435
+864,C163,T,MMRd,cE07 (Goblet/Enterocyte),7,93458
+865,C163,T,MMRd,cE11 (Enteroendocrine),1,4844
+866,C164,T,MMRd,cE01 (Stem/TA-like),537,12278232
+867,C164,T,MMRd,cE03 (Stem/TA-like prolif),858,29701497
+868,C164,T,MMRd,cE04 (Enterocyte 1),58,541523
+869,C164,T,MMRd,cE08 (Goblet),1,20814
+870,C164,T,MMRd,cE05 (Enterocyte 2),83,1660714
+871,C164,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),13,621138
+872,C164,T,MMRd,cE09 (Best4),1,1137
+873,C164,T,MMRd,cE06 (Immature Goblet),14,163209
+874,C164,T,MMRd,cE10 (Tuft),7,36174
+875,C164,T,MMRd,cE07 (Goblet/Enterocyte),1,44746
+876,C165,N,,cE03 (Stem/TA-like prolif),30,529805
+877,C165,N,,cE05 (Enterocyte 2),144,609305
+878,C165,N,,cE06 (Immature Goblet),22,252600
+879,C165,N,,cE01 (Stem/TA-like),28,586417
+880,C165,N,,cE10 (Tuft),7,33956
+881,C165,N,,cE04 (Enterocyte 1),40,554795
+882,C165,N,,cE11 (Enteroendocrine),7,74402
+883,C165,N,,cE09 (Best4),11,267217
+884,C165,N,,cE08 (Goblet),87,965104
+885,C165,N,,cE07 (Goblet/Enterocyte),5,104189
+886,C165,N,,cE02 (Stem/TA-like/Immature Goblet),9,319199
+887,C165,T,MMRd,cE06 (Immature Goblet),301,15632360
+888,C165,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),725,61181886
+889,C165,T,MMRd,cE03 (Stem/TA-like prolif),35,2780386
+890,C165,T,MMRd,cE01 (Stem/TA-like),28,1778411
+891,C165,T,MMRd,cE08 (Goblet),8,168245
+892,C165,T,MMRd,cE10 (Tuft),1,31055
+893,C165,T,MMRd,cE05 (Enterocyte 2),1,60448
+894,C165,T,MMRd,cE11 (Enteroendocrine),1,10360
+895,C166,T,MMRp,cE01 (Stem/TA-like),1669,44942646
+896,C166,T,MMRp,cE03 (Stem/TA-like prolif),2292,76674254
+897,C166,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),539,15201283
+898,C166,T,MMRp,cE06 (Immature Goblet),119,2159968
+899,C166,T,MMRp,cE05 (Enterocyte 2),62,286723
+900,C166,T,MMRp,cE11 (Enteroendocrine),28,370868
+901,C166,T,MMRp,cE10 (Tuft),14,91782
+902,C166,T,MMRp,cE08 (Goblet),7,76391
+903,C167,T,MMRd,cE03 (Stem/TA-like prolif),161,4795643
+904,C167,T,MMRd,cE01 (Stem/TA-like),81,2210721
+905,C167,T,MMRd,cE05 (Enterocyte 2),11,35961
+906,C167,T,MMRd,cE10 (Tuft),15,100507
+907,C167,T,MMRd,cE08 (Goblet),14,76642
+908,C167,T,MMRd,cE11 (Enteroendocrine),1,65098
+909,C167,T,MMRd,cE04 (Enterocyte 1),2,12798
+910,C167,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),1,80737
+911,C168,T,MMRd,cE01 (Stem/TA-like),248,13073850
+912,C168,T,MMRd,cE03 (Stem/TA-like prolif),453,33549592
+913,C168,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),36,2400700
+914,C168,T,MMRd,cE08 (Goblet),8,158282
+915,C168,T,MMRd,cE05 (Enterocyte 2),6,22778
+916,C168,T,MMRd,cE09 (Best4),2,29398
+917,C168,T,MMRd,cE06 (Immature Goblet),9,225852
+918,C168,T,MMRd,cE04 (Enterocyte 1),4,92169
+919,C169,T,MMRd,cE03 (Stem/TA-like prolif),407,24573531
+920,C169,T,MMRd,cE01 (Stem/TA-like),216,8336703
+921,C169,T,MMRd,cE09 (Best4),3,49231
+922,C169,T,MMRd,cE10 (Tuft),6,9760
+923,C169,T,MMRd,cE05 (Enterocyte 2),2,4164
+924,C169,T,MMRd,cE04 (Enterocyte 1),1,40258
+925,C169,T,MMRd,cE11 (Enteroendocrine),2,48509
+926,C170,N,,cE01 (Stem/TA-like),57,732273
+927,C170,N,,cE06 (Immature Goblet),33,259573
+928,C170,N,,cE08 (Goblet),26,157793
+929,C170,N,,cE09 (Best4),23,272843
+930,C170,N,,cE05 (Enterocyte 2),21,281871
+931,C170,N,,cE02 (Stem/TA-like/Immature Goblet),14,401492
+932,C170,N,,cE03 (Stem/TA-like prolif),16,324887
+933,C170,N,,cE10 (Tuft),9,24485
+934,C170,N,,cE04 (Enterocyte 1),8,74485
+935,C170,N,,cE11 (Enteroendocrine),1,5812
+936,C170,T,MMRd,cE03 (Stem/TA-like prolif),1846,88269774
+937,C170,T,MMRd,cE01 (Stem/TA-like),1807,40488506
+938,C170,T,MMRd,cE10 (Tuft),14,67513
+939,C170,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),34,2400801
+940,C170,T,MMRd,cE05 (Enterocyte 2),12,18654
+941,C170,T,MMRd,cE04 (Enterocyte 1),2,26978
+942,C170,T,MMRd,cE11 (Enteroendocrine),6,38686
+943,C170,T,MMRd,cE09 (Best4),2,14793
+944,C170,T,MMRd,cE08 (Goblet),1,10526
+945,C171,T,MMRp,cE01 (Stem/TA-like),2719,86088706
+946,C171,T,MMRp,cE06 (Immature Goblet),90,1632189
+947,C171,T,MMRp,cE05 (Enterocyte 2),124,1975697
+948,C171,T,MMRp,cE03 (Stem/TA-like prolif),1053,41749547
+949,C171,T,MMRp,cE10 (Tuft),19,369967
+950,C171,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),808,42802766
+951,C171,T,MMRp,cE08 (Goblet),17,225827
+952,C171,T,MMRp,cE04 (Enterocyte 1),29,818002
+953,C171,T,MMRp,cE11 (Enteroendocrine),5,43541
+954,C171,T,MMRp,cE09 (Best4),1,50993
+955,C172,T,MMRp,cE03 (Stem/TA-like prolif),198,14450938
+956,C172,T,MMRp,cE01 (Stem/TA-like),144,5781818
+957,C172,T,MMRp,cE05 (Enterocyte 2),11,155311
+958,C172,T,MMRp,cE11 (Enteroendocrine),4,65585
+959,C172,T,MMRp,cE06 (Immature Goblet),1,3102
+960,C172,T,MMRp,cE02 (Stem/TA-like/Immature Goblet),15,1002547
+961,C172,T,MMRp,cE04 (Enterocyte 1),1,614
+962,C173,T,MMRd,cE03 (Stem/TA-like prolif),314,7235174
+963,C173,T,MMRd,cE01 (Stem/TA-like),415,6425721
+964,C173,T,MMRd,cE05 (Enterocyte 2),107,135586
+965,C173,T,MMRd,cE02 (Stem/TA-like/Immature Goblet),147,4862771
+966,C173,T,MMRd,cE06 (Immature Goblet),9,54689
+967,C173,T,MMRd,cE10 (Tuft),5,28617
+968,C173,T,MMRd,cE11 (Enteroendocrine),2,7230

@@ -1,0 +1,8 @@
+Decision layer,Condition,Clinical backbone / module,Spatial interpretation,Evidence status
+MMR/MSI gate,MSI-H/dMMR,Approved nivolumab + ipilimumab backbone,Add a niche-directed module only as an investigational hypothesis if residual spatial barriers are present,Clinical backbone + experimental modifier
+BRAF gate,BRAF V600E,Approved encorafenib + cetuximab + fluorouracil-based chemotherapy,N6-high biology supports evaluation of tumour-intrinsic modifiers; FASN/BRAF combinations remain preclinical,Clinical backbone + genotype/niche modifier
+KRAS G12C gate,KRAS G12C,Approved sotorasib + panitumumab,BCL-xL degradation has CRC preclinical synergy with KRAS G12C inhibition but is not clinically validated,Clinical backbone + preclinical add-on
+N3 module,Fusobacterium-enriched spatial territory,Microbiome-directed reduction,"Human proof-of-concept supports microbial depletion, not antitumour efficacy",Experimental niche modifier
+N4/N9 module,CXCL chemokine/myeloid-high spatial territory,CXCR1/2 blockade with immunotherapy,Ongoing mCRC trials support testing; negative navarixin data prevent class-level efficacy claims,Investigational immune-remodelling module
+N6 module,WNT–MYC–stemness / Convergent9-high tumour territory,"BCL-xL, FASN, WNT/β-catenin or MYC-directed intervention",Choice should be biomarker- and trial-informed; none is an approved niche-selected CRC therapy,Investigational tumour-intrinsic module
+Composite model,Multiple coexisting niches,Approved biomarker backbone + one or more non-redundant niche modules,"Spatial coverage is a hypothesis-generation framework, not a recommendation for simultaneous multi-drug therapy",Precision-oncology design principle

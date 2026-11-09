@@ -1,0 +1,6 @@
+H5 SHA-256 f435bb2651ff5297d0c24a99daf58850ed67ae1ed6c5ef05fad48fa3f0186670
+H5 shape genes x cells: (43113, 370115)
+barcodes: 370115
+patients 62 tumor 62 normal 36
+MMR tumor patients {'MMRd': 34, 'MMRp': 28}
+feature mapping: PASS (466/466)

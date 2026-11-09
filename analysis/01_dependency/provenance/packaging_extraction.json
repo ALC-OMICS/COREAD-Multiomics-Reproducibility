@@ -1,0 +1,10 @@
+{
+  "genome_rows": 18435,
+  "genome_screens": 18,
+  "query_rows_in_recovered_108": 1645,
+  "query_screens": 108,
+  "controls": 648,
+  "query_genes": 1720,
+  "organoid_model_rows": 18,
+  "working_book_sha256": "d9100676cfed55d7dddb7df15d8792cad31a8f846a104c73e9646e9d820c4cf9"
+}

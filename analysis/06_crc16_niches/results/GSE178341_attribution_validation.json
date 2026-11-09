@@ -1,0 +1,43 @@
+{
+  "source_cells": 370115,
+  "full_feature_library_UMI": 4754318647,
+  "tumour_patients": 62,
+  "gene_count": 9,
+  "patient_profile_min_cells": 20,
+  "population_min_patients": 5,
+  "programme_count": 8,
+  "paired_tests": 6,
+  "C9_rank_max_errors": {
+    "N_patients": 0.0,
+    "Median_score": 2.220446049250313e-16,
+    "Mean_score": 2.220446049250313e-16,
+    "Median_cells": 0.0
+  },
+  "Top_summary_max_errors": {
+    "N_patients": 0.0,
+    "Median_score": 4.440892098500626e-16,
+    "Mean_score": 2.220446049250313e-16,
+    "Median_cells": 0.0
+  },
+  "lineage_test_max_errors": {
+    "N_patients": 0.0,
+    "Median_target_minus_rest": 0.0,
+    "Mean_target_minus_rest": 0.0,
+    "Wilcoxon_P": 0.0,
+    "Fraction_target_gt_rest": 0.0,
+    "BH_FDR": 0.0
+  },
+  "recomputed_from_counts": [
+    "N6_Convergent9"
+  ],
+  "checkpoint_programmes": [
+    "MHCI",
+    "N3_cGAS_STING_IFN",
+    "N3_effector_axis",
+    "N4_N9_chemokine_myeloid",
+    "N4_epithelial_antimicrobial",
+    "N6_WNT_stemness",
+    "N9_CXCL8_PTGS2_inflammatory"
+  ],
+  "checkpoint_limitation": "Original gene definitions for seven historical attribution programmes were not recovered; patient scores, summaries and paired tests remain reproducible from archived scores."
+}

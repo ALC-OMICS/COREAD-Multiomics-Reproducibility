@@ -1,0 +1,8 @@
+Python	3.13.5
+Platform	Linux-6.18.44-x86_64-with-glibc2.41
+numpy	2.3.5
+scipy	1.17.0
+pandas	2.2.3
+h5py	3.15.1
+matplotlib	3.10.8
+statsmodels	0.14.6

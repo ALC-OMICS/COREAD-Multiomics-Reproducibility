@@ -1,0 +1,33 @@
+Therapeutic module,Niche,Coverage_code
+Biomarker-defined approved backbone,N3,1
+Fusobacterium reduction,N3,2
+CXCR1/2 myeloid remodelling + immunotherapy,N3,0
+BCL-xL degradation,N3,0
+FASN inhibition,N3,0
+WNT/β-catenin transcriptional inhibition,N3,0
+MYC-directed inhibition,N3,0
+Precision Fusobacterium antimicrobial delivery,N3,2
+Biomarker-defined approved backbone,N4,1
+Fusobacterium reduction,N4,0
+CXCR1/2 myeloid remodelling + immunotherapy,N4,2
+BCL-xL degradation,N4,0
+FASN inhibition,N4,0
+WNT/β-catenin transcriptional inhibition,N4,0
+MYC-directed inhibition,N4,0
+Precision Fusobacterium antimicrobial delivery,N4,0
+Biomarker-defined approved backbone,N6,1
+Fusobacterium reduction,N6,0
+CXCR1/2 myeloid remodelling + immunotherapy,N6,1
+BCL-xL degradation,N6,2
+FASN inhibition,N6,2
+WNT/β-catenin transcriptional inhibition,N6,2
+MYC-directed inhibition,N6,2
+Precision Fusobacterium antimicrobial delivery,N6,0
+Biomarker-defined approved backbone,N9,1
+Fusobacterium reduction,N9,0
+CXCR1/2 myeloid remodelling + immunotherapy,N9,2
+BCL-xL degradation,N9,0
+FASN inhibition,N9,0
+WNT/β-catenin transcriptional inhibition,N9,0
+MYC-directed inhibition,N9,0
+Precision Fusobacterium antimicrobial delivery,N9,0

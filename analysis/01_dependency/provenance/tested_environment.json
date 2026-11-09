@@ -1,0 +1,18 @@
+{
+  "python": "3.13.5",
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "statsmodels": "0.14.6",
+    "matplotlib": "3.10.8",
+    "threadpoolctl": "3.6.0"
+  },
+  "dependencies_not_required": [
+    "pandas",
+    "openpyxl",
+    "artifact_tool",
+    "Wolfram",
+    "Google Sheets"
+  ],
+  "scope": "Replay of recovered numeric inputs, not original CRISPR read-count processing."
+}

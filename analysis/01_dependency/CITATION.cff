@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this repository and the upstream resources in docs/REFERENCES.md. Add the repository DOI after archiving a release."
+type: software
+title: "COREAD dependency atlas: cell-line and organoid reanalysis"
+version: 1.0.0
+date-released: 2026-10-03
+authors:
+  - family-names: "López-Cortés"
+    given-names: "Andrés"
+abstract: "Reproducibility package for exploratory COREAD dependency prioritisation using a 1,165-model cell-line probability matrix and recovered NextGen organoid gene-fitness estimates."
+keywords:
+  - COREAD
+  - DepMap
+  - organoids
+  - CRISPR dependencies
+  - reproducibility

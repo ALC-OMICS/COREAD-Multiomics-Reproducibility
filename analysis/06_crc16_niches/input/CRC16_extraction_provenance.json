@@ -1,0 +1,10 @@
+{
+  "source_url": "https://raw.githubusercontent.com/ying-ge/FigureYa/main/FigureYa323STpathseq/STpathseq/Results/CRC_16/outs/ST.seu.rds",
+  "source_sha256": "bb04b5f057f173f789fd9a36c2b30b17f31329b677e8812dfe19014aa43babc3",
+  "source_features": 36601,
+  "source_spots": 3106,
+  "source_metadata_columns": 322,
+  "frozen_niches": 13,
+  "maximum_svg_coordinate_error_pixels": 1.3912016662916566e-05,
+  "assignment_provenance": "Recovered from archived SVG, bijectively aligned to source coordinates; no reclustering"
+}

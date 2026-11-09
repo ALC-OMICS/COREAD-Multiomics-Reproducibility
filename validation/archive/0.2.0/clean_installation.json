@@ -1,0 +1,8 @@
+{
+  "command": "python -m pip install -r requirements.txt",
+  "python_environment": "fresh venv without system-site-packages",
+  "returncode": 0,
+  "seconds": 23.351,
+  "passed": true,
+  "date": "2026-10-31"
+}

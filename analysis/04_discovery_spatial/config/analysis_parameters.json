@@ -1,0 +1,20 @@
+{
+  "version": "current-Spatial43-Convergent9-Extended13",
+  "candidate_count": 466,
+  "unit_of_replication": "patient; mean across serial sections",
+  "Moran_test": "two-sided scipy.stats.wilcoxon; NaN propagation retained",
+  "Moran_BH_family": "all 441 finite keyed P values",
+  "regional_test": "two-sided signed-rank on finite patient effects",
+  "Core47": "Tier A and composition-balanced effect >0 and BH<0.05",
+  "Spatial43": "Core47 and Moran median>0 and Moran BH<0.05 and positive tumour/stroma fraction>=5/6",
+  "Convergent9": "Spatial43 and (COREAD-preferential dependency or DNA top30 bootstrap frequency>=0.8)",
+  "Extended13": "Spatial43 and (COREAD-preferential dependency or DNA driver/CNA frequency>=0.05)",
+  "zscore_ddof": 1,
+  "visual_score_missing_components": "mean of available z scores; no imputation",
+  "historical_null_n": 10000,
+  "historical_null_seed": 20261008,
+  "historical_null_reproduction": "retained vectors; original set iteration order unavailable",
+  "raw_new_null_order": "sorted target/background genes; fresh deterministic draws",
+  "reference_rtol": 1e-09,
+  "reference_atol": 1e-11
+}

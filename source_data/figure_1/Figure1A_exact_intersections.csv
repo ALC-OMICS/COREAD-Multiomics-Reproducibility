@@ -1,0 +1,32 @@
+pattern,intersection,genes,immune,metabolic,endocrine,neural,stromal-matrix
+8,neural,1551,0,0,0,1,0
+1,immune,853,1,0,0,0,0
+16,stromal-matrix,751,0,0,0,0,1
+2,metabolic,613,0,1,0,0,0
+4,endocrine,392,0,0,1,0,0
+17,immune & stromal-matrix,310,1,0,0,0,1
+24,neural & stromal-matrix,258,0,0,0,1,1
+9,immune & neural,208,1,0,0,1,0
+5,immune & endocrine,132,1,0,1,0,0
+12,endocrine & neural,129,0,0,1,1,0
+25,immune & neural & stromal-matrix,114,1,0,0,1,1
+6,metabolic & endocrine,111,0,1,1,0,0
+10,metabolic & neural,65,0,1,0,1,0
+21,immune & endocrine & stromal-matrix,48,1,0,1,0,1
+3,immune & metabolic,47,1,1,0,0,0
+13,immune & endocrine & neural,47,1,0,1,1,0
+29,immune & endocrine & neural & stromal-matrix,35,1,0,1,1,1
+7,immune & metabolic & endocrine,27,1,1,1,0,0
+28,endocrine & neural & stromal-matrix,27,0,0,1,1,1
+20,endocrine & stromal-matrix,21,0,0,1,0,1
+18,metabolic & stromal-matrix,20,0,1,0,0,1
+14,metabolic & endocrine & neural,19,0,1,1,1,0
+15,immune & metabolic & endocrine & neural,17,1,1,1,1,0
+23,immune & metabolic & endocrine & stromal-matrix,17,1,1,1,0,1
+11,immune & metabolic & neural,16,1,1,0,1,0
+19,immune & metabolic & stromal-matrix,16,1,1,0,0,1
+31,immune & metabolic & endocrine & neural & stromal-matrix,15,1,1,1,1,1
+22,metabolic & endocrine & stromal-matrix,6,0,1,1,0,1
+26,metabolic & neural & stromal-matrix,6,0,1,0,1,1
+27,immune & metabolic & neural & stromal-matrix,6,1,1,0,1,1
+30,metabolic & endocrine & neural & stromal-matrix,3,0,1,1,1,1

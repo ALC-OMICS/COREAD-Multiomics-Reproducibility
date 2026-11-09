@@ -1,0 +1,329 @@
+Barcode,Pathologist Annotations
+AAACGAGACGGTTGAT-1,stroma_fibroblastic_IC high
+AAACTGCTGGCTCCAA-1,tumor&stroma_IC med to high
+AAATACCTATAAGCAT-1,exclude
+AAATCGTGTACCACAA-1,exclude
+AAATTAACGGGTAGCT-1,stroma_fibroblastic_IC high
+AACGATATGTCAACTG-1,exclude
+AACGTGCGAAAGTCTC-1,stroma_fibroblastic_IC high
+AAGACTGCAAGCTACT-1,tumor&stroma_IC med to high
+AAGAGCTCTTTATCGG-1,stroma_fibroblastic_IC high
+AAGAGGCATGGATCGC-1,stroma_fibroblastic_IC high
+AAGCTCGTGCCAAGTC-1,stroma_fibroblastic_IC high
+AATCGCCTCAGCGCCA-1,stroma_fibroblastic_IC med
+AATGACGTAGGATGTC-1,tumor&stroma_IC med to high
+ACAACAGCATGAGCTA-1,tumor&stroma_IC med to high
+ACAAGGGCAGGCTCTG-1,stroma_fibroblastic_IC high
+ACAATTTGAGCAGTGG-1,stroma_fibroblastic_IC high
+ACACGAGACTCCTTCT-1,tumor&stroma_IC med to high
+ACACGGGAACTTAGGG-1,exclude
+ACATCGATCGTTTACC-1,stroma_fibroblastic_IC low
+ACCATATCCGCAATAA-1,exclude
+ACGCATTCGTGAGTAC-1,stroma_fibroblastic_IC high
+ACGCCGCTAGACGACC-1,tumor
+ACGCGAAGTCAGACGA-1,exclude
+ACGCGGGCCAAGGACA-1,stroma_fibroblastic_IC high
+ACGGCACTTGCTTGGG-1,tumor
+ACGGCCAACATGGACT-1,tumor
+ACGTAGATTGCTGATG-1,stroma_fibroblastic_IC high
+ACGTTAATGTCGAAGA-1,stroma_fibroblastic_IC low
+ACTCGTCAGTAATCCC-1,stroma_fibroblastic_IC high
+ACTCTCTGACTTAGGT-1,stroma_fibroblastic_IC high
+ACTCTTGTATAGTAAC-1,tumor&stroma_IC med to high
+ACTGTACGATACACAT-1,tumor
+ACTGTCCAGGATTATA-1,exclude
+ACTGTCTTCTTTAGAA-1,stroma_fibroblastic_IC low
+ACTTATTAGGATCGGT-1,exclude
+ACTTCGCCATACGCAC-1,tumor
+ACTTGACTCCCTCTTT-1,tumor&stroma_IC med to high
+AGAACGTGGTACATTC-1,exclude
+AGATCTCAGGTGTGAT-1,tumor&stroma_IC med to high
+AGATTATAGGACGTTT-1,exclude
+AGCGTGGTATTCTACT-1,tumor&stroma_IC med to high
+AGCTCTAGACGTTCCA-1,stroma_fibroblastic_IC high
+AGGGCTGCAGTTACAG-1,stroma_fibroblastic_IC high
+AGGGTTTAGTTCGGGA-1,stroma_fibroblastic_IC high
+AGGTTTCACACACCTT-1,stroma_fibroblastic_IC low
+AGTACGGGCACCTGGC-1,exclude
+AGTTCCTATTTATGTT-1,stroma_fibroblastic_IC low
+ATAAACGGACCCGTAA-1,exclude
+ATAACGCCGGAGGGTC-1,stroma_fibroblastic_IC high
+ATAACGGAGTCCAACG-1,exclude
+ATAATAGCTGTTGAAT-1,exclude
+ATACGCCGGCGAAACC-1,stroma_fibroblastic_IC med
+ATAGTGAAGCGTTCTC-1,exclude
+ATATCTTAGGGCCTTC-1,stroma_fibroblastic_IC high
+ATATTTAACCCTCAAG-1,exclude
+ATCAATCTGGGCTGCA-1,stroma_fibroblastic_IC high
+ATCATCCAATATTTGT-1,stroma_fibroblastic_IC high
+ATCGACCCAATACAGA-1,stroma_fibroblastic_IC low
+ATCTGGTTAAGACTGT-1,exclude
+ATGCCGGTCTTGCATA-1,tumor
+ATGCGACAGTCCCATT-1,stroma_fibroblastic_IC high
+ATGGAGCAGGCCGTGA-1,tumor&stroma_IC med to high
+ATGTGGACATCTTGAT-1,exclude
+ATTAAACATGCGGACC-1,stroma_fibroblastic_IC low
+ATTAGGCGATGCTTTC-1,stroma_fibroblastic_IC high
+ATTCATATACTGTCCA-1,exclude
+CAAGAGGGCGGAGTAC-1,stroma_fibroblastic_IC high
+CAAGGATCGCATGTTC-1,tumor&stroma_IC low
+CAATAAACCTTGGCCC-1,exclude
+CAATTTCGTATAAGGG-1,stroma_fibroblastic_IC high
+CACAGCACCCACGGCA-1,stroma_fibroblastic_IC high
+CACATATTAGCAGGAT-1,exclude
+CACATGATTCAGCAAC-1,stroma_fibroblastic_IC low
+CACGTTCGTGCTCTAG-1,tumor&stroma_IC med to high
+CACTAAAGTTGCCTAT-1,exclude
+CACTCAAGAGCTATGG-1,exclude
+CAGAGACGGTCACCCA-1,tumor
+CAGAGCATGAGCTTGC-1,exclude
+CAGCAGCCCGTTCCTT-1,tumor&stroma_IC med to high
+CAGCTCACTGAGACAT-1,stroma_fibroblastic_IC high
+CAGGATATATCGTTGT-1,stroma_fibroblastic_IC low
+CAGTCTGTATACTGGG-1,stroma_fibroblastic_IC low
+CATACGGCGTCTGGGC-1,stroma_fibroblastic_IC low
+CATATAGGTACAGTCA-1,exclude
+CATCGGACGGGTTAAT-1,stroma_fibroblastic_IC high
+CATGGTAAGTAGCGTT-1,exclude
+CCAAGAAAGTGGGCGA-1,exclude
+CCAAGCGTAACTCGTA-1,stroma_fibroblastic_IC low
+CCACCCAAGGAAAGTG-1,stroma_fibroblastic_IC high
+CCAGCCTGGACCAATA-1,tumor&stroma_IC med to high
+CCCAGTTAAGGCGCCG-1,stroma_fibroblastic_IC med
+CCGCACAAAGACCAAC-1,stroma_fibroblastic_IC high
+CCGCTATCAGCACCAG-1,exclude
+CCGGGCGGTCTCGTCA-1,tumor&stroma_IC med to high
+CCGTAAGTTGGTCCCA-1,stroma_fibroblastic_IC high
+CCTAAATTAACGGTTC-1,stroma_fibroblastic_IC high
+CCTATGGGTTACCGTC-1,tumor
+CCTGACCACCGATGGT-1,exclude
+CCTGTCACCCGGGCTC-1,tumor
+CCTGTCGCCCGTAAAT-1,stroma_fibroblastic_IC high
+CGAGACCCTAGAGTGT-1,stroma_fibroblastic_IC low
+CGAGAGATGTGAACCT-1,tumor
+CGAGGCTAAATATGGC-1,tumor
+CGAGGGACTGCGGTCG-1,stroma_fibroblastic_IC high
+CGCATGGTGCGATGCT-1,tumor
+CGCCTCCCTCCTCTAT-1,tumor
+CGCGGGAATTAGGCAG-1,tumor
+CGCTATTCTTAGGCTC-1,stroma_fibroblastic_IC high
+CGCTTTCTTGCATTCG-1,stroma_fibroblastic_IC med
+CGGAGCATGGCGATCC-1,tumor
+CGGCCACGCACAAAGT-1,stroma_fibroblastic_IC high
+CGGGAATTTATGTAAA-1,tumor&stroma_IC med to high
+CGGGCAGCTAAACCGC-1,exclude
+CGGGCCTTCTTTGTAA-1,exclude
+CGGTCAAGTGGGAACC-1,tumor
+CGTATTAAGAGATCTA-1,exclude
+CGTGAAGTTAATTCAC-1,exclude
+CGTGCAGACTGGGACA-1,stroma_fibroblastic_IC med
+CGTGCCCTCCCGAAGA-1,stroma_fibroblastic_IC high
+CGTTGAGCGACCGTCG-1,stroma_fibroblastic_IC high
+CTAAAGGGAAATAGGA-1,stroma_fibroblastic_IC low
+CTAAGGGAATGATTGG-1,tumor
+CTACGCACGGAGTACC-1,stroma_fibroblastic_IC high
+CTAGATTTACGACGGC-1,tumor&stroma_IC med to high
+CTAGCATAGTATAATG-1,stroma_fibroblastic_IC high
+CTAGTCACGTCTTAAG-1,tumor&stroma_IC med to high
+CTATCGGGTCTCAACA-1,stroma_fibroblastic_IC high
+CTATGTCACTAGCCCA-1,stroma_fibroblastic_IC low
+CTATTCATGTGTCCCA-1,exclude
+CTATTTGGTTACGGAT-1,stroma_fibroblastic_IC high
+CTCGGTACCACTGCTC-1,stroma_fibroblastic_IC med
+CTCTCACAATCGATGA-1,stroma_fibroblastic_IC low
+CTCTGGACGCCTGGTG-1,stroma_fibroblastic_IC high
+CTGAATCCGAGACCTC-1,exclude
+CTGCCATGCATCACAT-1,tumor&stroma_IC low
+CTGGCTGGTTGTCAGT-1,exclude
+CTGGGTAGGCAGTTAA-1,stroma_fibroblastic_IC high
+CTGTGCAGGGTAGGTC-1,tumor&stroma_IC med to high
+CTGTTACCCAATCTAG-1,exclude
+CTTCATTGTCAGTGGA-1,stroma_fibroblastic_IC high
+CTTGCCCAGGCTCTAC-1,exclude
+CTTGTTGCTGAGTCAA-1,tumor&stroma_IC med to high
+CTTTAGTGCTATTATT-1,tumor&stroma_IC med to high
+GAAATTGTCTCTATAA-1,exclude
+GAAGCGTGAGGAATTT-1,stroma_fibroblastic_IC high
+GAAGTCAGTTGCACTA-1,tumor
+GAATCTGAACATTCTC-1,stroma_fibroblastic_IC low
+GAATGTGGTCCGGATT-1,stroma_fibroblastic_IC high
+GAATTATAGTGAAAGG-1,stroma_fibroblastic_IC high
+GAATTCACCCGGGTGT-1,exclude
+GACAACGACCATTGAA-1,exclude
+GACACAAGGGAAGAAA-1,tumor
+GACCGTGCTGACGGTG-1,exclude
+GAGACTTCGCGACCGA-1,tumor
+GAGATCTGTCACTCCG-1,tumor
+GAGATCTTCCATGACA-1,stroma_fibroblastic_IC high
+GAGCTAAGGGCATATC-1,tumor&stroma_IC med to high
+GAGTCCGCTTACCGGA-1,exclude
+GATAGGTAACGTTGAC-1,exclude
+GATATGAGACACTAAC-1,tumor&stroma_IC med to high
+GATCATTCCAAACATT-1,exclude
+GATCCGGGAATTAACA-1,stroma_fibroblastic_IC high
+GATCGCGGGCTCTCCA-1,exclude
+GATCGGTGGCCATAAC-1,tumor
+GATCGTGACTGATATC-1,stroma_fibroblastic_IC high
+GATCTTGGAGGGCATA-1,tumor
+GATGCGTCCTGCATTC-1,stroma_fibroblastic_IC high
+GATGCTGTATTTCATC-1,stroma_fibroblastic_IC high
+GATTCGACGGTTCACG-1,stroma_fibroblastic_IC high
+GCAGATTAGGGATATC-1,stroma_fibroblastic_IC high
+GCATAGAGCACTCAGG-1,stroma_fibroblastic_IC high
+GCCCGTAATACCTTCT-1,tumor
+GCCGATTGGCCAAGCT-1,stroma_fibroblastic_IC low
+GCCGGGTTAGGGTCGC-1,stroma_fibroblastic_IC high
+GCGAAGCCATACCCGT-1,stroma_fibroblastic_IC low
+GCGACGATAGTTGTAC-1,exclude
+GCGAGTTCTGCAAAGA-1,stroma_fibroblastic_IC high
+GCGATTGTTAACGTTA-1,stroma_fibroblastic_IC high
+GCGCCGTTCCACGATA-1,stroma_fibroblastic_IC low
+GCGCTAATTGAATAGA-1,stroma_fibroblastic_IC high
+GCTAAGTAGTTTCTCT-1,stroma_fibroblastic_IC high
+GCTACGACTTATTGGG-1,tumor
+GCTAGTAGAGCTTGTA-1,tumor&stroma_IC med to high
+GCTGAGGCGTGAGTAT-1,tumor
+GCTGCACGGTTTCTTA-1,stroma_fibroblastic_IC med
+GCTGCTCTCCGGACAC-1,stroma_fibroblastic_IC low
+GCTTCCGTCCCTAGAC-1,stroma_fibroblastic_IC high
+GGAATGCGCTAGCGTG-1,stroma_fibroblastic_IC high
+GGAGACGACACCTTTG-1,tumor&stroma_IC med to high
+GGAGGGCTTGGTTGGC-1,stroma_fibroblastic_IC high
+GGATCCGGAATATACT-1,stroma_fibroblastic_IC med
+GGATTTCACTTCTATA-1,stroma_fibroblastic_IC high
+GGCAAATTACTTTACT-1,exclude
+GGCAAGGCGAAATAGC-1,tumor&stroma_IC med to high
+GGCAATAGTCAATGAG-1,tumor
+GGCGCATGAATTGATG-1,exclude
+GGCGCGTTCGAGTTTA-1,exclude
+GGCGGTAGGATCATTG-1,stroma_fibroblastic_IC low
+GGCTCTGCTCCAACGC-1,exclude
+GGGACTGCATAGATAG-1,stroma_fibroblastic_IC high
+GGGAGAACTCACAGTA-1,stroma_fibroblastic_IC high
+GGGAGGATGCCCGAAA-1,exclude
+GGGAGTTAATGAGGCG-1,stroma_fibroblastic_IC low
+GGGCCCGTCTTAAACA-1,exclude
+GGGCTGCCTAGGGCGA-1,stroma_fibroblastic_IC high
+GGGTGACACCTTAACT-1,exclude
+GGTACAAACATGCTAT-1,exclude
+GGTAGTGCTCGCACCA-1,stroma_fibroblastic_IC high
+GGTATTGCCGAGTTTA-1,exclude
+GGTCAGTGGGTCCCAC-1,exclude
+GGTCGGCCAGGAGCTT-1,stroma_fibroblastic_IC med
+GGTCTGAGAATCTGGA-1,tumor
+GGTGATAAGGAGCAGT-1,tumor&stroma_IC med to high
+GGTTTACAATCTCAAT-1,exclude
+GTAAGTAACAGTCTGG-1,stroma_fibroblastic_IC high
+GTACACTTACCTGAAG-1,stroma_fibroblastic_IC high
+GTACAGAGGCAAGGGT-1,tumor&stroma_IC med to high
+GTACGCTTCATTGCAC-1,exclude
+GTACGTTTGCCCGTCA-1,tumor
+GTACTGGAGTTAGACC-1,stroma_fibroblastic_IC high
+GTAGCGGCTATACACT-1,tumor&stroma_IC low
+GTATCTTTCATAACCA-1,exclude
+GTCAAGCGGACTCGGG-1,stroma_fibroblastic_IC high
+GTCATTAGAGCGAACG-1,tumor
+GTCCCAACGTAAAGTA-1,stroma_fibroblastic_IC low
+GTCGCGTAACCCGTTG-1,stroma_fibroblastic_IC high
+GTCGTACCATCTCGGG-1,exclude
+GTCGTTATTCGCTTAT-1,stroma_fibroblastic_IC high
+GTGAGGACACTTAAGG-1,stroma_fibroblastic_IC med
+GTGAGTGGTACAACGC-1,tumor
+GTGATCATAGATCTGC-1,exclude
+GTGCTCAAGTACTGTC-1,exclude
+GTGTACCTTGGCTACG-1,exclude
+GTGTGAATAACTTAGG-1,stroma_fibroblastic_IC med
+GTGTTACTATGCGTCC-1,stroma_fibroblastic_IC med
+GTTACCTACAACTTGC-1,exclude
+GTTATATTATCTCCCT-1,exclude
+GTTCGCCATAAGTGCC-1,exclude
+GTTTCTGCAGTCTCCC-1,stroma_fibroblastic_IC med
+GTTTGACCAAATCCTA-1,exclude
+GTTTGGCCCAAGTTAT-1,stroma_fibroblastic_IC med
+GTTTGGTAGGGTCAAC-1,tumor
+TAACATACAATGTGGG-1,stroma_fibroblastic_IC high
+TACATAGGCATACACC-1,stroma_fibroblastic_IC high
+TACATTTCTAACGTGC-1,exclude
+TACCGGCTCACTGCCC-1,exclude
+TACGACGCTTGCTGCG-1,exclude
+TACGACTGCCTCTTAG-1,tumor
+TACGCCATATTCTAAT-1,stroma_fibroblastic_IC high
+TAGAAAGGTGGCGCTA-1,tumor&stroma_IC med to high
+TAGCGTTGGGTCTTAC-1,tumor&stroma_IC low
+TAGCTAGAAGGCATGA-1,stroma_fibroblastic_IC med
+TAGGTTCGAGTTCGTC-1,stroma_fibroblastic_IC high
+TAGTCCGCAGAGAATG-1,exclude
+TATCTACCACAGCGGG-1,stroma_fibroblastic_IC low
+TATGGGACCGAGCAGG-1,stroma_fibroblastic_IC high
+TATGGGTACGTATCGT-1,stroma_fibroblastic_IC high
+TATGGTCTGAGTAACA-1,stroma_fibroblastic_IC high
+TATGTCTCATTGTGCC-1,tumor
+TATTCAATTCTAATCC-1,stroma_fibroblastic_IC high
+TATTCGTGCCAGAATA-1,stroma_fibroblastic_IC high
+TCAAACTTAGATTGTT-1,stroma_fibroblastic_IC low
+TCAACGAGGAGACAAA-1,exclude
+TCACAGCAAACTCGAA-1,exclude
+TCACCCTCTTAAGATT-1,exclude
+TCACGTGCCCGATTCA-1,stroma_fibroblastic_IC high
+TCAGCAAATGCATCTC-1,tumor
+TCAGGGTGTAACGTAA-1,tumor
+TCCACTTTATCTAGGT-1,tumor&stroma_IC med to high
+TCCAGAGCACCGGTTC-1,stroma_fibroblastic_IC low
+TCCAGGCGAGTACGGT-1,exclude
+TCCCAGCTTTAGTCTG-1,stroma_fibroblastic_IC high
+TCCCGCGTACTCCTGG-1,exclude
+TCCCGTGTGCAATTTG-1,stroma_fibroblastic_IC high
+TCCGCGGCAGCATCTG-1,stroma_fibroblastic_IC med
+TCCGGTTCGTCCGGTC-1,tumor&stroma_IC med to high
+TCCTCGGGCTGGGCTT-1,stroma_fibroblastic_IC med
+TCCTTTCTTACGCTTA-1,stroma_fibroblastic_IC low
+TCGAGACCAACACCGT-1,exclude
+TCGGACGCCCAGCCCA-1,stroma_fibroblastic_IC high
+TCGGAGTACATGAGTA-1,tumor
+TCGTAAGACGACATTG-1,tumor&stroma_IC med to high
+TCGTTAGGAGTCCCTA-1,tumor
+TCTAGTTATCAGAAGA-1,exclude
+TCTGCCAGAAACTGCA-1,stroma_fibroblastic_IC med
+TCTGTGCCATCATAGT-1,stroma_fibroblastic_IC high
+TCTTCGAATAGACGTT-1,stroma_fibroblastic_IC low
+TCTTCGATACCAATAA-1,stroma_fibroblastic_IC high
+TCTTGATGCGTAGCGA-1,stroma_fibroblastic_IC low
+TGAAAGGACCTGACTC-1,stroma_fibroblastic_IC med
+TGACTATAATCCTTTC-1,exclude
+TGAGTAAATTAGCGTA-1,exclude
+TGAGTGGTCCGTGACG-1,tumor&stroma_IC med to high
+TGCATGTGGTAATCTA-1,tumor&stroma_IC med to high
+TGCCCGTACCGTTAAA-1,stroma_fibroblastic_IC high
+TGCGCAAAGCATTTGG-1,stroma_fibroblastic_IC low
+TGCGTTTGTTGACACT-1,stroma_fibroblastic_IC high
+TGCTGTTGAAGAACTC-1,stroma_fibroblastic_IC low
+TGGACTGTTCGCTCAA-1,stroma_fibroblastic_IC high
+TGGCAGATTACGATCA-1,stroma_fibroblastic_IC high
+TGGCAGCAGTAATAGT-1,stroma_fibroblastic_IC high
+TGGCCAAACTGAAGTA-1,tumor
+TGGCGATCAAGTTATG-1,tumor
+TGTACGAACAAATCCG-1,stroma_fibroblastic_IC high
+TGTATAACAGATCCTG-1,tumor
+TGTTCGTATTGCGGTG-1,exclude
+TTAATGTAGACCAGGT-1,tumor&stroma_IC med to high
+TTACTCCGGCCGGGAA-1,stroma_fibroblastic_IC high
+TTATATACGCTGTCAC-1,stroma_fibroblastic_IC high
+TTATGAATGAAAGGGA-1,stroma_fibroblastic_IC low
+TTATGATCTTAACGAA-1,tumor&stroma_IC med to high
+TTATTAGAGCGTGTTC-1,exclude
+TTCAAAGTCTCTAGCC-1,stroma_fibroblastic_IC high
+TTCACGAAAGGATCAC-1,exclude
+TTCCGCGTGAGGCGAT-1,exclude
+TTCGGGACTAATCGCG-1,stroma_fibroblastic_IC high
+TTCTGCGGGTTAGCGG-1,stroma_fibroblastic_IC med
+TTGAATATGGACTTTC-1,stroma_fibroblastic_IC high
+TTGACCATGTTCTCCG-1,exclude
+TTGCACAATTCAGAAA-1,stroma_fibroblastic_IC high
+TTGCTGATCATGTTCG-1,stroma_fibroblastic_IC high
+TTGGATATCGTCTACG-1,exclude
+TTGGGACACTGCCCGC-1,tumor
+TTGGGCGGCGGTTGCC-1,tumor
+TTGTAAGGCCAGTTGG-1,tumor&stroma_IC med to high
+TTGTAATCCGTACTCG-1,stroma_fibroblastic_IC high
+TTGTGTTTCCCGAAAG-1,exclude
+TTGTTGTGTGTCAAGA-1,tumor&stroma_IC med to high

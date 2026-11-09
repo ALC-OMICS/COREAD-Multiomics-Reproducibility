@@ -1,0 +1,47 @@
+COREAD single-cell prioritization — release summary
+
+Frozen candidate universe: 466 genes
+GSE178341 processed cells used: 370,115
+Tumor patients: 62 (34 MMRd, 28 MMRp)
+Patients with adjacent-normal tissue: 36
+Gene matching: 455 exact symbols + 11 stable-Ensembl recoveries = 466/466
+
+Primary paired tumor-vs-normal epithelium:
+- 334 BH FDR <0.05
+- 219 positive median effects
+- 112 negative median effects
+- 3 significant with zero median
+
+Sensitivity analyses:
+- >=100 epithelial cells/specimen: 35 pairs; 220 positive FDR-significant genes
+- Composition-balanced epithelial states: 33 pairs; 198 positive FDR-significant genes
+
+Tumor epithelium vs aggregate non-epithelial tumor:
+- 62 matched patients
+- 394 BH FDR <0.05
+- 206 positive / 179 negative / 9 zero median
+
+Dominant tumor lineage across 466 genes:
+- Strom 140
+- Epi 113
+- TNKILC 76
+- Myeloid 65
+- Mast 41
+- B 19
+- Plasma 12
+
+MMRd vs MMRp tumor epithelium:
+- 139 BH FDR <0.05
+- 96 positive / 40 negative / 3 zero median
+
+Priority categories:
+- Tier A: 65
+- Tier B: 134
+- Tier C: 267
+- Composition-robust spatial-follow-up core: 47
+
+Raw H5 SHA-256:
+f435bb2651ff5297d0c24a99daf58850ed67ae1ed6c5ef05fad48fa3f0186670
+
+Interpretation:
+The Core 47 is a spatial follow-up priority set, not a validated therapeutic-target list.

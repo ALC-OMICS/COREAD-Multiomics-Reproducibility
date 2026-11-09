@@ -1,0 +1,4 @@
+# Optional source-object extraction only. Main processed-run dependencies are
+# provided in the repository-level environment specification.
+rdata==1.0.0
+xarray==2025.10.1

@@ -1,0 +1,4 @@
+# Additional dependencies for optional CRC16 RDS extraction; processed runs do not need these.
+-r requirements.txt
+rdata==1.0.0
+xarray==2025.10.1
